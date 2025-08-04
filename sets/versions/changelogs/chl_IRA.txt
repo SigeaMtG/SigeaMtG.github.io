@@ -1,4 +1,389 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Unfortunate Shipmender added.
+Valeyan Gateguard added.
+Merchant of the Underpass added.
+Valeyan Battleraptor added.
+Fogbound Elemental added.
+Mistborn Unicorn added.
+Drowned Harpy added.
+Desiccated Mothling added.
+Yarkasing Champion added.
+Lost in the Fog added.
+Shatter the Spoils added.
+Clear Up added.
+Quickdraw added.
+Ethereal Burdener added.
+Valeyan Battalion Captain added.
+Quickdraw Thug added.
+Valeyan Martial Guard added.
+Mountainborn Angel added.
+Scout of the Great Plains added.
+All-Seeing Guardian added.
+Curious Treasure Diver added.
+Savacide Etherealist added.
+Resurface the Meek added.
+Destination Unveiled added.
+Struggle to Subdue added.
+Dredge Diver added.
+Gemchannel Golem added.
+Merchant of the North added.
+Desiccated Aven added.
+Opaelian Generator added.
+Fogscry Sphinx added.
+Wash Ashore added.
+Disenchanting Fog added.
+Charge Burst added.
+Wave Stall added.
+Gemspark Prison added.
+Drowned Memories added.
+Envelop added.
+Observant Gemslinger added.
+Glimmertide Inventor added.
+Sea-Mad Pirate added.
+Wisp of Glimmers added.
+Undead Tentacle added.
+Dismembered Leviathan added.
+Brilliant Mechfly added.
+Twice Drowned added.
+Unveil the Mists added.
+Shadow Atlas added.
+Spellslinger Gem added.
+Arcane Battery added.
+Returned Ranksman added.
+Generator Ritualist added.
+Merchant of the Isles added.
+Vampiric Eagle added.
+Chargesap Martialist added.
+Savacide Unearther added.
+Brier Slopes Brute added.
+Drag to the Depths added.
+Necromantic Charge added.
+Harvest Intelligence added.
+Dragged Under added.
+Gempoint Beam added.
+Rotting Current added.
+Battlefield Soulstealer added.
+Cleric of the Five added.
+Deepwater Lamia added.
+Ravenous Drowned added.
+Clockwork Lich added.
+Miser of the Drowned added.
+Harvester of Sin added.
+Forbidden Siphoner added.
+Disease in the Ranks added.
+Strategic Hitjob added.
+Emerge from Death added.
+Siphoning Onyx added.
+Vlisting Shiftshield added.
+Gemfire Golem added.
+Merchant of the Capital added.
+Leader of the Phalanx added.
+Deceptive Chargemage added.
+Sharean Banneret added.
+Ancient Maskbearer added.
+Prism Beam added.
+Improvised Armament added.
+Glimpse the Red Horizon added.
+Scorch and Scour added.
+Accelerant Tactics added.
+Shrouded Fireblast added.
+Sanguine Looter added.
+Captain of Possibility added.
+Armament Liege added.
+Blooddrinker Champion added.
+Blazeblade Adept added.
+Flameharvest Warmage added.
+Dragonpoise Apprentice added.
+Split Focus added.
+Brave the Mountaintops added.
+Dragonfire Ritual added.
+Study the Martial Code added.
+Army-Fueled Firestorm added.
+Oqtari Shiftsword added.
+Misthide Explorer added.
+Merchant of the Great Plains added.
+Mist-Possessed Grizzly added.
+Oqtari Enforcer added.
+Rallying Commander added.
+Tallest of the Ranks added.
+Miststalker Behemoth added.
+Rage Pheromone added.
+Underwater Scavenging added.
+Ironbark Invigoration added.
+Prod the Mist added.
+Commune with the Mist added.
+Woodland Recruiter added.
+Mist Tamer added.
+Ester Woods Protector added.
+Oqtari Champion added.
+Yarkasing Pathlighter added.
+Survival Adept added.
+Mistborn Rejuvenator added.
+Mentoring Shiftsword added.
+Armament Supplier added.
+Pragmatic Weaponry added.
+Clash with the Army added.
+Eerie Propagation added.
+Stuff the Unworthy added.
+Supercharge Ritualist added.
+Avenger Bloodknight added.
+Regiment Recruiter added.
+Jungleborn Scout added.
+Treasure Sifter added.
+Peninsula Marauder added.
+Gemflinging added.
+Beacon Over the Oceans added.
+Guide to War's End added.
+Chrome Drake added.
+Orb of Pained Knowledge added.
+Jungle Mission Specialist added.
+Wrathful Champion added.
+Jungleborn Mentor added.
+Warfallen Angel added.
+Regiment Pathmaker added.
+Spelldrinker Pendant added.
+Sylran, Many-Horned added.
+Resolute Deathmarcher added.
+Phantasmal Eagle added.
+Radiance Collector added.
+Pervasive Militocrat added.
+Army of Two added.
+Stalwart Scout added.
+Soul-Siphon Warlock added.
+Regiment Scout added.
+Glimmermage Adept added.
+Great Plains Guide added.
+Exploiter of Undergrowth added.
+Crest of Radiance added.
+Crest of Magma added.
+Crest of Waves added.
+Crest of Ruby added.
+Crest of Ironbark added.
+Gemcraft Filigree added.
+Statue of Golden Victory added.
+Unstable Silumgite added.
+Brilliant Crest added.
+Explorer's Scope added.
+Yarkasing Landmark added.
+Opaelian Landmark added.
+Savacide Landmark added.
+Sharean Landmark added.
+Avendwell Landmark added.
+Frosted Plain added.
+Cerulean Fogbank added.
+Ashy Badlands added.
+Foggy Peak added.
+Morningdew Vale added.
+Overcast Marsh added.
+Sandstorm Steppe added.
+Limestone Steam Pool added.
+Misty Taiga added.
+Shaded Woods added.
+Remote Barracks added.
+Murky Vista added.
+Zombie added.
+
+CW02 — Valey Gateguard removed.
+CW05 — Fogbound Elemental removed.
+CW01 — Unfortunate Shipmender removed.
+CU09 — Charge Burst removed.
+CB05 — Chargesap Martialist removed.
+CB01 — Returned Ranksman removed.
+CR01 — Valey Shiftshield removed.
+CR02 — Gemfire Golem removed.
+CR11 — Scorch and Scour removed.
+CR06 — Sharean Banneret removed.
+CG05 — Oqtari Enforcer removed.
+CG04 — Mist-Possessed Grizzly removed.
+CG06 — Rallying Commander removed.
+CG02 — Misthide Explorer removed.
+UR01 — Sanguine Looter removed.
+UB01 — Battlefield Soulstealer removed.
+CR10 — Glimpse the Red Horizon removed.
+UG01 — Woodland Recruiter removed.
+CW04 — Vanilla removed.
+CW07 — Drowned Harpy removed.
+CW06 — Mist removed.
+CW08 — Desiccated Mothling removed.
+UH01 — Crest of Radiance removed.
+UH05 — Crest of Ironbark removed.
+UH03 — Crest of Waves removed.
+UH02 — Crest of Magma removed.
+UH04 — Crest of Steel removed.
+CB03 — Merchant of the Isles removed.
+CG03 — Merchant of the Great Plains removed.
+CU03 — Merchant of the North removed.
+CW03 — Merchant of the Underpass removed.
+CR03 — Merchant of the Capital removed.
+CX04 — Army of Two removed.
+CX02 — Radiance Collector removed.
+CX01 — Phantasmal Gull removed.
+CX05 — GW C signpost removed.
+UU08 — Twice Drowned removed.
+RL02 — Savacide Council removed.
+UM06 — WB enabler removed.
+UU02 — Glimmertide Inventor removed.
+CW10 — Lost in the Fog removed.
+CA05 — land fixing removed.
+CU02 — Gemchannel Golem removed.
+CW12 — Clear Up removed.
+CU06 — Fogscry Sphinx removed.
+RG01 — Convert 1 removed.
+CW09 — Yarkasing Champion removed.
+CU07 — Wash Ashore removed.
+CW11 — Shatter the Spoils removed.
+CU10 — Wave Stall removed.
+CX08 — UR C signpost removed.
+CB04 — Vampiric Eagle removed.
+CX06 — WB C signpost removed.
+CB06 — Savacide Unearther removed.
+CW13 — Quickdraw removed.
+UX07 — WR payoff removed.
+UM04 — RG enabler removed.
+CU01 — Dredge Diver removed.
+UX02 — UB payoff removed.
+UM05 — GW enabler removed.
+UX10 — BG payoff removed.
+UM01 — Stuff the Unworthy removed.
+CU04 — Cannon Bird removed.
+CX09 — UG C signpost removed.
+CU05 — Opaelian Generator removed.
+CX07 — WR C signpost removed.
+UM03 — Avenger Bloodknight removed.
+UM09 — UG enabler removed.
+CB09 — Necromantic Charge removed.
+UM08 — UR enabler removed.
+UX01 — WU payoff removed.
+UM02 — Supercharge Ritualist removed.
+UX03 — BR payoff removed.
+UX04 — RG payoff removed.
+UX05 — GW payoff removed.
+UX06 — WB payoff removed.
+UM07 — WR enabler removed.
+UX08 — UR payoff removed.
+UX09 — UG payoff removed.
+UM10 — BG enabler removed.
+UU01 — Observant Gemslinger removed.
+CB02 — Generator Ritualist removed.
+CG01 — Oqtari Shiftsword removed.
+CU12 — Drowned Memories removed.
+CX03 — BR C signpost removed.
+CX10 — BG C signpost removed.
+CU08 — Disenchanting Fog removed.
+CR09 — Improvised Armament removed.
+CU13 — Envelop removed.
+CR08 — Prism Beam removed.
+CR04 — Leader of the Phalanx removed.
+CB08 — Drag to the Depths removed.
+CB13 — Rotting Current removed.
+CR07 — Ancient Maskbearer removed.
+CU11 — Gemspark Prison removed.
+CG09 — Rage Pheromone removed.
+CB12 — Gempoint Beam removed.
+CB10 — Harvest Intelligence removed.
+CB07 — Brier Slopes Brute removed.
+CB11 — Whelming Vortex removed.
+CR13 — Shrouded Fireblast removed.
+CR12 — Accelerant Tactics removed.
+CG11 — Ironbark Invigoration removed.
+CR05 — Deceptive Chargemage removed.
+CG07 — Tallest of the Ranks removed.
+CG08 — Miststalker Behemoth removed.
+CG12 — Prod the Mist removed.
+CA04 — Brilliant Crest removed.
+CA03 — Gemblast Array removed.
+CA01 — Charge flier removed.
+CG13 — Commune with the Mist removed.
+CA02 — Soldier pump removed.
+UB06 — Treasure removed.
+UR05 — Blazeblade Adept removed.
+UG07 — Mistborn Rejuvenator removed.
+UW01 — Ethereal Burdener removed.
+UB09 — Disease in the Ranks removed.
+UG10 — Pragmatic Weaponry removed.
+UR10 — Dragonfire Ritual removed.
+UG08 — Mentoring Shiftsword removed.
+UR09 — Brave the Mountaintops removed.
+UB04 — Chupacabra lite removed.
+UB03 — Selfmill removed.
+UG11 — Clash with the Army removed.
+UU04 — Artifact tutor removed.
+UB07 — Onboard Trick removed.
+UG12 — Eerie Propagation removed.
+UG04 — Oqtari Champion removed.
+UU05 — Undead Tentacle removed.
+UU06 — Dismembered Leviathan removed.
+UW03 — Quickdraw Thug removed.
+UW02 — Valey Battalion Captain removed.
+UG09 — Armament Supplier removed.
+UU03 — Sea-Mad Pirate removed.
+UR04 — aggro imp removed.
+UG03 — Ester Woods Protector removed.
+UG02 — Mist Tamer removed.
+UW12 — Struggle to Subdue removed.
+UR12 — Army-Fueled Firestorm removed.
+UU07 — Stealthy 1drop removed.
+UG06 — Survival Adept removed.
+UW11 — Destination Unveiled removed.
+UB12 — drain gem removed.
+UW05 — Vigilant Angel removed.
+UW10 — Resurface the Meek removed.
+UW08 — Curious Treasure Diver removed.
+UW09 — Savacide Etherealist removed.
+UG05 — Yarkasing Pathlighter removed.
+UW06 — Scout of the Great Plains removed.
+UB11 — surveil regrowth removed.
+UW04 — Valey Martial Guard removed.
+UU11 — Spellslinger Gem removed.
+UW07 — All-Seeing Guardian removed.
+UR03 — Armament Liege removed.
+UR08 — Split Focus removed.
+UR06 — Flameharvest Warmage removed.
+UB10 — Prime removal removed.
+UR11 — imp draw removed.
+UR02 — Captain of Possibility removed.
+UR07 — Spellslinger payoff removed.
+UU10 — Shadow Atlas removed.
+UB08 — better ritualist removed.
+UC04 — Sharean Landmark removed.
+UC02 — Opaelian Landmark removed.
+UC03 — Savacide Landmark removed.
+UC05 — Avendwell Landmark removed.
+UC01 — Yarkasing Landmark removed.
+RL01 — The Kaleidoscope Hollow removed.
+RL03 — Ailen'Or, Ruined City removed.
+RL04 — Thov Da'Rul removed.
+RL05 — Woods of Ester removed.
+Mist removed.
+UB05 — Vile Manifestation removed.
+UB02 — Cleric of the Five removed.
+CG10 — Underwater Scavenging removed.
+UU09 — Unveil the Mists removed.
+UL01 — Frosted Plain removed.
+UL02 — Cerulean Fogbank removed.
+UL03 — Ashy Badlands removed.
+UL04 — Foggy Peak removed.
+UL05 — Morningdew Vale removed.
+UL06 — Overcast Marsh removed.
+UL07 — Sandstorm Steppe removed.
+UL08 — Limestone Steam Pool removed.
+UL09 — Misty Taiga removed.
+UL10 — Shaded Woods removed.
+UL11 — Remote Barracks removed.
+CL01 — Murky Vista removed.
+UU12 — Arcane Battery removed.
+
+Copy
+rules_text:  => [i]This token can be used to represent a token that's a copy of a permanent.[/i]
+
+Treasure
+
+Elemental
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

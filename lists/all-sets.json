@@ -1,1 +1,9 @@
-﻿{"sets": [{"set_code": "IRA", "set_name": "IRA Design File", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "IRA",
+            "set_name": "Irandian Mists",
+            "formats": ""
+        }
+    ]
+}
