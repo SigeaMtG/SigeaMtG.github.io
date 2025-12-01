@@ -1,4 +1,421 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Valey Gateguard added.
+Valey Battalion Captain added.
+Allwatch Angel added.
+Allwatch Guardian added.
+Whiteclam Etherealist added.
+Resurfacing the Meek added.
+Cannon Bird added.
+Reflective Prison added.
+Envelop in Mist added.
+Spellcharge Gem added.
+Revolutionary Murder added.
+Valey Shiftshield added.
+Oqtari Pathlighter added.
+Valiant Recruiter added.
+UH01 — Crest of Radiance added.
+UH02 — Crest of Magma added.
+UH03 — Crest of Waves added.
+UH04 — Crest of Ruby added.
+UH05 — Crest of Ironbark added.
+
+Valeyan Gateguard removed.
+Valeyan Battalion Captain removed.
+Mountainborn Angel removed.
+All-Seeing Guardian removed.
+Savacide Etherealist removed.
+Resurface the Meek removed.
+Desiccated Aven removed.
+Gemspark Prison removed.
+Envelop removed.
+Spellslinger Gem removed.
+Strategic Hitjob removed.
+Vlisting Shiftshield removed.
+Yarkasing Pathlighter removed.
+Regiment Recruiter removed.
+Crest of Radiance removed.
+Crest of Magma removed.
+Crest of Waves removed.
+Crest of Ruby removed.
+Crest of Ironbark removed.
+
+Unfortunate Shipmender
+rules_text: {2}{W}: Unfortunate Shipmender gets +2/+0 until end of turn.
+[i]Evaporate[/i] — {5}{W}{W}, Exile Unfortunate Shipmender from your graveyard: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery. => {3}{W}: Unfortunate Shipmender gets +2/+0 until end of turn.
+[i]Evaporate[/i] — {5}{W}{W}, Exile Unfortunate Shipmender from your graveyard: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery.
+
+Merchant of the Underpass
+type: Creature — Orc Citizen => Creature — Bird Citizen
+
+Valeyan Battleraptor
+
+Fogbound Elemental
+
+Mistborn Unicorn
+
+Drowned Harpy
+rules_text: [i]Evaporate[/i] — {3}{W}, Exile Drowned Harpy from your graveyard: Target creature gets +3/+0 until end of turn. Activate only as a sorcery. => [i]Evaporate[/i] — {3}{W}, Exile Drowned Harpy from your graveyard: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.
+pt: 5/3 => 4/3
+
+Desiccated Mothling
+
+Yarkasing Champion
+
+Lost in the Fog
+
+Shatter the Spoils
+rules_text: Choose one — 
+• Destroy target artifact or enchantment.
+• Scry X, where X is the power of target creature you control, then draw a card. => Choose one — 
+• Destroy target artifact, enchantment or battle.
+• Scry X, where X is the power of target creature you control, then draw a card.
+
+Clear Up
+
+Quickdraw
+cost: {1}{W} => {W}
+
+Ethereal Burdener
+
+Quickdraw Thug
+
+Valeyan Martial Guard
+
+Scout of the Great Plains
+
+Curious Treasure Diver
+
+Destination Unveiled
+
+Struggle to Subdue
+
+Dredge Diver
+
+Gemchannel Golem
+
+Merchant of the North
+
+Opaelian Generator
+
+Fogscry Sphinx
+
+Wash Ashore
+
+Disenchanting Fog
+
+Charge Burst
+
+Wave Stall
+
+Drowned Memories
+
+Observant Gemslinger
+rules_text: Vigilance
+Whenever you draw a card, you may put a charge counter on target artifact you control.
+{2}{U}{U}, {T}: Draw a card. => Vigilance
+Whenever you draw a card, you may put a charge counter on target artifact you control.
+{1}{U}, {T}: Draw a card, then discard a card.
+
+Glimmertide Inventor
+
+Sea-Mad Pirate
+
+Wisp of Glimmers
+
+Undead Tentacle
+
+Dismembered Leviathan
+
+Brilliant Mechfly
+
+Twice Drowned
+
+Unveil the Mists
+
+Shadow Atlas
+
+Arcane Battery
+
+Returned Ranksman
+
+Generator Ritualist
+
+Merchant of the Isles
+
+Vampiric Eagle
+
+Chargesap Martialist
+
+Savacide Unearther
+
+Brier Slopes Brute
+
+Drag to the Depths
+rules_text: Destroy target face-down or modified creature. [i](Equipment, Auras that player controls, and counters are modifications.)[/i]
+[i]Evaporate[/i] — {1}{B}, Exile Drag to the Depths from your graveyard: Target creature gains deathtouch until end of turn. => Exile up to two target creature cards from an opponent's graveyard.
+[i]Evaporate[/i] — {1}{B}, Exile Drag to the Depths from your graveyard: Target creature gains deathtouch until end of turn.
+
+Necromantic Charge
+
+Harvest Intelligence
+
+Dragged Under
+cost: {1}{B} => {2}{B}
+
+Gempoint Beam
+
+Rotting Current
+
+Battlefield Soulstealer
+
+Cleric of the Five
+
+Deepwater Lamia
+
+Ravenous Drowned
+
+Clockwork Lich
+
+Miser of the Drowned
+
+Harvester of Sin
+
+Forbidden Siphoner
+
+Disease in the Ranks
+
+Emerge from Death
+
+Siphoning Onyx
+
+Gemfire Golem
+
+Merchant of the Capital
+
+Leader of the Phalanx
+
+Deceptive Chargemage
+
+Sharean Banneret
+
+Ancient Maskbearer
+
+Prism Beam
+
+Improvised Armament
+
+Glimpse the Red Horizon
+rules_text: If this is the first spell you cast this turn, exile the top two cards of your library. You may play them until end of turn. Otherwise, Glimpse the Red Horizon deals 4 damage to any target. => If this is the first spell you cast this turn, exile the top two cards of your library. You may play them until the end of your next turn. Otherwise, Glimpse the Red Horizon deals 4 damage to any target.
+
+Scorch and Scour
+
+Accelerant Tactics
+
+Shrouded Fireblast
+
+Sanguine Looter
+
+Captain of Possibility
+
+Armament Liege
+
+Blooddrinker Champion
+
+Blazeblade Adept
+
+Flameharvest Warmage
+rules_text: Menace
+When Flameharvest Warmage deals combat damage to a player, add an amount of {R} equal to its power. Until end of turn, you don't lose this mana as steps and phases end. => Menace
+When Flameharvest Warmage deals combat damage to a player, add that much {R}. Until end of turn, you don't lose this mana as steps and phases end.
+
+Dragonpoise Apprentice
+
+Split Focus
+
+Brave the Mountaintops
+
+Dragonfire Ritual
+
+Study the Martial Code
+
+Army-Fueled Firestorm
+
+Oqtari Shiftsword
+
+Misthide Explorer
+
+Merchant of the Great Plains
+
+Mist-Possessed Grizzly
+
+Oqtari Enforcer
+
+Rallying Commander
+
+Tallest of the Ranks
+
+Miststalker Behemoth
+
+Rage Pheromone
+
+Underwater Scavenging
+
+Ironbark Invigoration
+
+Prod the Mist
+
+Commune with the Mist
+
+Woodland Recruiter
+
+Mist Tamer
+
+Ester Woods Protector
+
+Oqtari Champion
+
+Survival Adept
+
+Mistborn Rejuvenator
+
+Mentoring Shiftsword
+
+Armament Supplier
+
+Pragmatic Weaponry
+
+Clash with the Army
+
+Eerie Propagation
+
+Stuff the Unworthy
+
+Supercharge Ritualist
+
+Avenger Bloodknight
+type: Creature — Orc Soldier => Creature — Soldier
+
+Jungleborn Scout
+
+Treasure Sifter
+
+Peninsula Marauder
+
+Gemflinging
+
+Beacon Over the Oceans
+
+Guide to War's End
+
+Chrome Drake
+
+Orb of Pained Knowledge
+
+Jungle Mission Specialist
+type: Creature — Human Soldier => Creature — Soldier
+
+Wrathful Champion
+type: Creature — Elemental Warrior => Creature — Warrior
+
+Jungleborn Mentor
+type: Creature — Human Warrior => Creature — Warrior
+rules_text: When Jungleborn Mentor deals combat damage to a player, put a +1/+1 counter on up to X target creatures, where X is its power. => When Jungleborn Mentor deals combat damage to a player, put a +1/+1 counters on up to X target creatures, where X is its power.
+
+Warfallen Angel
+
+Regiment Pathmaker
+
+Spelldrinker Pendant
+type: Artifact — Gem => Artifact Creature — Gem
+pt:  => 2/2
+
+Sylran, Many-Horned
+
+Resolute Deathmarcher
+
+Phantasmal Eagle
+
+Radiance Collector
+
+Pervasive Militocrat
+
+Army of Two
+
+Stalwart Scout
+
+Soul-Siphon Warlock
+
+Regiment Scout
+
+Glimmermage Adept
+
+Great Plains Guide
+
+Exploiter of Undergrowth
+type: Creature — Zombie Scout => Creature
+
+Gemcraft Filigree
+
+Statue of Golden Victory
+
+Unstable Silumgite
+
+Brilliant Crest
+
+Explorer's Scope
+
+Yarkasing Landmark
+
+Opaelian Landmark
+
+Savacide Landmark
+
+Sharean Landmark
+
+Avendwell Landmark
+
+Frosted Plain
+
+Cerulean Fogbank
+
+Ashy Badlands
+
+Foggy Peak
+
+Morningdew Vale
+
+Overcast Marsh
+
+Sandstorm Steppe
+
+Limestone Steam Pool
+
+Misty Taiga
+
+Shaded Woods
+
+Remote Barracks
+
+Murky Vista
+
+Copy
+
+Treasure
+
+Elemental
+
+Zombie
+
+Soldier
+
+Warrior
+
+Spectral Wolf
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Unfortunate Shipmender added.

@@ -10,10 +10,10 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Zombie Pirate",
-            "number": 20,
+            "number": 19,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "{2}{W}: Unfortunate Shipmender gets +2/+0 until end of turn.\n[i]Evaporate[/i] \u2014 {5}{W}{W}, Exile Unfortunate Shipmender from your graveyard: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery.",
+            "rules_text": "{3}{W}: Unfortunate Shipmender gets +2/+0 until end of turn.\n[i]Evaporate[/i] \u2014 {5}{W}{W}, Exile Unfortunate Shipmender from your graveyard: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -21,17 +21,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jose Brand",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Valeyan Gateguard",
+            "card_name": "Valey Gateguard",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Human Warrior",
-            "number": 23,
+            "number": 21,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "As long as it's your turn, Valeyan Gateguard has first strike.\nConvert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]",
+            "rules_text": "As long as it's your turn, Valey Gateguard has first strike.\nConvert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]",
             "flavor_text": "[i]\u201cHalt!\u201d[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -39,25 +39,25 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Erikas Perl",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Merchant of the Underpass",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Orc Citizen",
-            "number": 10,
+            "type": "Creature \u2014 Bird Citizen",
+            "number": 11,
             "color_identity": "WRG",
             "cost": "{1}{W}",
             "rules_text": "When Merchant of the Underpass enters, put a +1/+1 counter on target tapped creature.\n{1}, {T}: Add {R} or {G}.",
-            "flavor_text": "[i]FT\nFT[/i]",
+            "flavor_text": "[i]\u201cCheap gems and filigree! The best deals in all of Valey!\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
-            "artist": "Helge Balzer",
-            "notes": ""
+            "artist": "Brian Valeza",
+            "notes": "v"
         },
         {
             "card_name": "Valeyan Battleraptor",
@@ -75,14 +75,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Raph Herrera",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Fogbound Elemental",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Elemental Bird",
-            "number": 8,
+            "number": 9,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "As long as you control five or more lands, Fogbound Elemental has flying.",
@@ -93,14 +93,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Billy Christian",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Mistborn Unicorn",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Unicorn Elemental",
-            "number": 11,
+            "number": 12,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Mistborn Unicorn gets +0/+1 for each land you control.",
@@ -111,32 +111,32 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Katerina Vitkovska",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Drowned Harpy",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Zombie Harpy",
-            "number": 6,
+            "number": 7,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "[i]Evaporate[/i] \u2014 {3}{W}, Exile Drowned Harpy from your graveyard: Target creature gets +3/+0 until end of turn. Activate only as a sorcery.",
+            "rules_text": "[i]Evaporate[/i] \u2014 {3}{W}, Exile Drowned Harpy from your graveyard: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.",
             "flavor_text": "[i]FT\nFT\nFT[/i]",
-            "pt": "5/3",
+            "pt": "4/3",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Anato Finnstark",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Desiccated Mothling",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Insect Zombie",
-            "number": 4,
+            "number": 5,
             "color_identity": "W",
             "cost": "{4}{W}",
             "rules_text": "Flying\n[i]Evaporate[/i] \u2014 {3}{W}{W}, Exile Desiccated Mothling from your graveyard: Destroy target creature. Its controller gains life equal to its mana value. Activate only as a sorcery.",
@@ -147,7 +147,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Yarkasing Champion",
@@ -165,14 +165,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aleksandra Petruk",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Lost in the Fog",
             "color": "W",
             "rarity": "common",
             "type": "Enchantment",
-            "number": 9,
+            "number": 10,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "When Lost in the Fog enters, exile target nonland permanent an opponent controls until Lost in the Fog leaves.\nWhenever a permanent you control transforms, you may exile Lost in the Fog. If you do, return it to the battlefield.",
@@ -183,17 +183,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Katerina Vitkovska",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Shatter the Spoils",
             "color": "W",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 18,
+            "number": 17,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Choose one \u2014 \n\u2022 Destroy target artifact or enchantment.\n\u2022 Scry X, where X is the power of target creature you control, then draw a card.",
+            "rules_text": "Choose one \u2014 \n\u2022 Destroy target artifact, enchantment or battle.\n\u2022 Scry X, where X is the power of target creature you control, then draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -201,14 +201,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kyxarie Peralta",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Clear Up",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 2,
+            "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Destroy target tapped creature.\n[i]Evaporate[/i] \u2014 {1}{W}, Exile Clear Up from your graveyard: Exile target card from a graveyard.",
@@ -219,7 +219,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Quickdraw",
@@ -228,7 +228,7 @@
             "type": "Instant",
             "number": 13,
             "color_identity": "W",
-            "cost": "{1}{W}",
+            "cost": "{W}",
             "rules_text": "Target attacking creature you control gains first strike until end of turn. If that creature's power is higher than its toughness, scry 1, then draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -237,14 +237,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Monztre",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Ethereal Burdener",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Soldier",
-            "number": 7,
+            "number": 8,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]\nWhenever Ethereal Burdener becomes tapped, you may pay {1}. When you do, tap target creature.",
@@ -255,17 +255,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Valeyan Battalion Captain",
+            "card_name": "Valey Battalion Captain",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Warrior",
-            "number": 21,
+            "number": 20,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]\nWhenever Valeyan Battalion Captain becomes tapped, creatures you control get +1/+0 and vigilance until end of turn.",
+            "rules_text": "Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]\nWhenever Valey Battalion Captain becomes tapped, creatures you control get +1/+0 and vigilance until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
@@ -273,7 +273,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kyxarie Peralta",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Quickdraw Thug",
@@ -291,14 +291,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Joel Chaim Holtzmann",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Valeyan Martial Guard",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Loxodon Monk",
-            "number": 24,
+            "number": 23,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Lifelink\nWhenever Valeyan Martial Guard attacks, if it has power 3 or greater, put a +1/+1 counter on another target creature you control.",
@@ -309,17 +309,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sam Santala",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Mountainborn Angel",
+            "card_name": "Allwatch Angel",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Angel",
-            "number": 12,
+            "number": 1,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Flying, vigilance\nConvert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]\nWhen Mountainborn Angel converts a creature, put a vigilance counter on that creature.",
+            "rules_text": "Flying, vigilance\nConvert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]\nWhen Allwatch Angel converts a creature, put a vigilance counter on that creature.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -327,14 +327,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Scout of the Great Plains",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Scout",
-            "number": 17,
+            "number": 16,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "When Scout of the Great Plains enters, look at the top three cards of your library. You may reveal a Plains card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
@@ -345,17 +345,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Alexey Egorov",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "All-Seeing Guardian",
+            "card_name": "Allwatch Guardian",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Bird Elemental",
-            "number": 1,
+            "number": 2,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Flash\nWhen All-Seeing Guardian enters, you may return another target permanent you control to its owner's hand.\nWhenever a permanent you control transforms, create a 2/2 white Elemental creature token.",
+            "rules_text": "Flash\nWhen Allwatch Guardian enters, you may return another target permanent you control to its owner's hand.\nWhenever a permanent you control transforms, create a 2/2 white Elemental creature token.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -363,14 +363,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ann Marie Rechter",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Curious Treasure Diver",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Merfolk",
-            "number": 3,
+            "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Vigilance\n[i]Evaporate[/i] \u2014 {1}{W}{W}, Exile Curious Treasure Diver from your graveyard: Search your library for an artifact or enchantment card, reveal it and put it into your hand, then shuffle.",
@@ -381,17 +381,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Andreia Ugrai",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Savacide Etherealist",
+            "card_name": "Whiteclam Etherealist",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Merfolk Cleric",
-            "number": 16,
+            "number": 24,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When Savacide Etherealist enters, scry 2.\n[i]Evaporate[/i] \u2014 {1}{W}, Exile Savacide Etherealist from your graveyard: Exile target creature you control, then return it to the battlefield.",
+            "rules_text": "When Whiteclam Etherealist enters, scry 2.\n[i]Evaporate[/i] \u2014 {1}{W}, Exile Whiteclam Etherealist from your graveyard: Exile target creature you control, then return it to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -399,32 +399,32 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dzikawa",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Resurface the Meek",
+            "card_name": "Resurfacing the Meek",
             "color": "W",
             "rarity": "uncommon",
             "type": "Sorcery",
             "number": 15,
             "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "Return target creature you control with power 2 or less from your graveyard to the battlefield.",
-            "flavor_text": "[i]FT\nFT\nFT[/i]",
+            "cost": "{1}{W}{W}",
+            "rules_text": "Return target creature you control with power 3 or less from your graveyard to the battlefield.",
+            "flavor_text": "[i]The Savacide Ocean, as it often does, rejected the first death of the crew of the Pelican.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Kyxarie Peralta",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Destination Unveiled",
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 5,
+            "number": 6,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Whenever a permanent you control transforms, you gain 2 life. If this is the first time this ability has resolved this turn, draw a card.",
@@ -435,14 +435,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Constantine Marin",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Struggle to Subdue",
             "color": "W",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 19,
+            "number": 18,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Destroy target creature. Its controller gains X life, where X is the difference in power between that creature and target creature you control.",
@@ -453,7 +453,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Bayard Wu",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Dredge Diver",
@@ -471,7 +471,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Gemchannel Golem",
@@ -489,35 +489,35 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jehan Choo",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Merchant of the North",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Human Citizen",
-            "number": 39,
+            "number": 38,
             "color_identity": "UBR",
             "cost": "{1}{U}",
             "rules_text": "When Merchant of the North enters, create a Treasure token.\n{1}, {T}: Add {B} or {R}.",
-            "flavor_text": "[i]FT\nFT[/i]",
+            "flavor_text": "[i]\u201cFor all your jewelry needs, the best deals in all of Opaelia!\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Desiccated Aven",
+            "card_name": "Cannon Bird",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Zombie Bird",
-            "number": 29,
+            "number": 28,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Flying\n[i]Evaporate[/i] \u2014 {1}{U}, Exile Desiccated Aven from your graveyard: Put a flying counter on target creature.",
+            "rules_text": "Flying\n[i]Evaporate[/i] \u2014 {1}{U}, Exile Cannon Bird from your graveyard: Put a flying counter on target creature.",
             "flavor_text": "[i]FT\nFT[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -525,14 +525,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nicolas Espinoza",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Opaelian Generator",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Elf Wizard",
-            "number": 41,
+            "number": 40,
             "color_identity": "U",
             "cost": "{4}{U}",
             "rules_text": "Vigilance\n{U}, {T}: Put a charge counter on target artifact you control.",
@@ -543,7 +543,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kirkat",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Fogscry Sphinx",
@@ -561,7 +561,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Necip Can Karakus",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Wash Ashore",
@@ -579,7 +579,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ralph Lomotan",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Disenchanting Fog",
@@ -597,14 +597,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Mahea Rodrigues",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Charge Burst",
             "color": "U",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 28,
+            "number": 29,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Put a charge counter on each of up to two target artifacts you control.\nDraw a card.",
@@ -615,7 +615,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Francisco Badilla",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Wave Stall",
@@ -633,17 +633,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aleksandra Petruk",
-            "notes": ""
+            "notes": "ft"
         },
         {
-            "card_name": "Gemspark Prison",
+            "card_name": "Reflective Prison",
             "color": "U",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 37,
+            "number": 41,
             "color_identity": "U",
-            "cost": "{U}",
-            "rules_text": "Enchant creature\nWhen Gemspark Prison enters, you may put a charge counter on target artifact you control.\nEnchanted creature has base power and toughness 0/2 and loses all abilities.",
+            "cost": "{2}{U}{U}",
+            "rules_text": "Enchant creature\nWhen Reflective Prison enters, you may create a token that's a copy of target creature you control.\nEnchanted creature has base power and toughness 0/2 and loses all abilities.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -651,7 +651,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ivan Sevic",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Drowned Memories",
@@ -669,10 +669,10 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dominik Mayer",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Envelop",
+            "card_name": "Envelop in Mist",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
@@ -687,17 +687,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "JoeyJazz",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Observant Gemslinger",
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Wizard",
-            "number": 40,
+            "number": 39,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Vigilance\nWhenever you draw a card, you may put a charge counter on target artifact you control.\n{2}{U}{U}, {T}: Draw a card.",
+            "rules_text": "Vigilance\nWhenever you draw a card, you may put a charge counter on target artifact you control.\n{1}{U}, {T}: Draw a card, then discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -705,14 +705,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Michael Sugianto",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Glimmertide Inventor",
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Artificer",
-            "number": 38,
+            "number": 37,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Flying\nWhenever an artifact you control enters, put a charge counter on each artifact you control.",
@@ -723,7 +723,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Thomas Ricci",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Sea-Mad Pirate",
@@ -741,7 +741,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lukasz Wiktorzak",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Wisp of Glimmers",
@@ -759,7 +759,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Phung Xuan Ngan",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Undead Tentacle",
@@ -777,7 +777,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ga\u00eblle Seguillon",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Dismembered Leviathan",
@@ -795,7 +795,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aaron Miller",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Brilliant Mechfly",
@@ -813,7 +813,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Vasilyna Holod",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Twice Drowned",
@@ -831,7 +831,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lupita Luttman",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Unveil the Mists",
@@ -849,7 +849,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Shadow Atlas",
@@ -867,17 +867,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aaron Lovett",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Spellslinger Gem",
+            "card_name": "Spellcharge Gem",
             "color": "U",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Gem",
             "number": 44,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Whenever you cast an instant or sorcery spell, put a charge counter on Spellslinger Gem.\n{T}, Remove a charge counter from Spellslinger Gem: Add one mana of any color. Spend this mana only to cast instant or sorcery spells.",
+            "rules_text": "Whenever you cast an instant or sorcery spell, put a charge counter on Spellcharge Gem.\n{T}, Remove a charge counter from Spellcharge Gem: Add one mana of any color. Spend this mana only to cast instant or sorcery spells.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -885,7 +885,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Julia Metzger",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Arcane Battery",
@@ -903,7 +903,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ihor Reshetnikov",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Returned Ranksman",
@@ -921,7 +921,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kylin Li",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Generator Ritualist",
@@ -939,7 +939,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Tulio Brito",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Merchant of the Isles",
@@ -950,14 +950,14 @@
             "color_identity": "WUB",
             "cost": "{1}{B}",
             "rules_text": "When Merchant of the Isles enters, you mill three cards.\n{1}, {T}: Add {W} or {U}.",
-            "flavor_text": "[i]FT\nFT[/i]",
+            "flavor_text": "[i]\u201cIf critters or soulguards are what you seek, find the deals of the Blinkmast!\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Kristina Gehrmann",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Vampiric Eagle",
@@ -975,7 +975,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Julian Bauer",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Chargesap Martialist",
@@ -993,14 +993,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Grafit Studio",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Savacide Unearther",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Human Pirate",
-            "number": 72,
+            "number": 73,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "When Savacide Unearther enters, you may return target creature card from your graveyard to your hand.",
@@ -1011,7 +1011,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dennis van Kessel",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Brier Slopes Brute",
@@ -1029,7 +1029,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nuare Studio",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Drag to the Depths",
@@ -1039,7 +1039,7 @@
             "number": 58,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Destroy target face-down or modified creature. [i](Equipment, Auras that player controls, and counters are modifications.)[/i]\n[i]Evaporate[/i] \u2014 {1}{B}, Exile Drag to the Depths from your graveyard: Target creature gains deathtouch until end of turn.",
+            "rules_text": "Exile up to two target creature cards from an opponent's graveyard.\n[i]Evaporate[/i] \u2014 {1}{B}, Exile Drag to the Depths from your graveyard: Target creature gains deathtouch until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1047,7 +1047,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lupita Luttmann",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Necromantic Charge",
@@ -1065,7 +1065,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jason Nguyen",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Harvest Intelligence",
@@ -1076,14 +1076,14 @@
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "As an additional cost to cast Harvest Intelligence, sacrifice a creature.\nDraw two cards. If the sacrificed creature was a Soldier, target opponent loses 2 life.",
-            "flavor_text": "[i]\u201cI'm quite certain you're not telling the whole truth. Allow me to confirm.\u201d[/i]",
+            "flavor_text": "[i]\u201cI'm quite certain you're not telling the whole truth. Let me confirm.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Lorenzo Mastroianni",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Dragged Under",
@@ -1092,7 +1092,7 @@
             "type": "Instant",
             "number": 59,
             "color_identity": "B",
-            "cost": "{1}{B}",
+            "cost": "{2}{B}",
             "rules_text": "Target player discards two cards. You lose 2 life and mill three cards.",
             "flavor_text": "[i]FT\nFT\nFT\nFT[/i]",
             "pt": "",
@@ -1101,7 +1101,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kelvin Koosh",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Gempoint Beam",
@@ -1119,14 +1119,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lualvaro",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Rotting Current",
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 71,
+            "number": 72,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "Destroy target creature.\n[i]Evaporate[/i] \u2014 {2}{B}, Exile Rotting Current from your graveyard: Create a 2/2 black Zombie creature token.",
@@ -1137,7 +1137,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Marcus Reyno",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Battlefield Soulstealer",
@@ -1155,7 +1155,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sanskarans",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Cleric of the Five",
@@ -1173,7 +1173,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kyxarie Peralta",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Deepwater Lamia",
@@ -1191,7 +1191,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Evira Itari",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Ravenous Drowned",
@@ -1209,7 +1209,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Alina Gundareva",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Clockwork Lich",
@@ -1220,14 +1220,14 @@
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Clockwork Lich's power is equal to the number of artifact cards in your graveyard.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]FT\nFT\nFT[/i]",
             "pt": "*/4",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Mozchops",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Miser of the Drowned",
@@ -1245,7 +1245,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Brunenrik",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Harvester of Sin",
@@ -1256,14 +1256,14 @@
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Whenever a Soldier you control dies, Harvester of Sin gets +1/+1 and deathtouch until end of turn.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]FT\nFT\nFT[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "JDTM",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Forbidden Siphoner",
@@ -1274,14 +1274,14 @@
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Deathtouch\nWhenever a creature you control dies or a card leaves your graveyard, put a charge counter on target artifact.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]FT\nFT[/i]",
             "pt": "1/3",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Pedram Mohammadi",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Disease in the Ranks",
@@ -1299,14 +1299,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nick Moskvin",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Strategic Hitjob",
+            "card_name": "Revolutionary Murder",
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 74,
+            "number": 71,
             "color_identity": "B",
             "cost": "{B}{B}",
             "rules_text": "Destroy target creature with mana value 4 or less.",
@@ -1317,7 +1317,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aleksandra Petruk",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Emerge from Death",
@@ -1335,14 +1335,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nick Moskvin",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Siphoning Onyx",
             "color": "B",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Gem",
-            "number": 73,
+            "number": 74,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "{T}, Remove a charge counter from Siphoning Onyx: Each opponent loses 2 life and you gain 2 life.",
@@ -1353,10 +1353,10 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "JasonTN",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Vlisting Shiftshield",
+            "card_name": "Valey Shiftshield",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Orc Soldier",
@@ -1371,7 +1371,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Markus Neidel",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Gemfire Golem",
@@ -1389,7 +1389,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Mac-tire",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Merchant of the Capital",
@@ -1400,14 +1400,14 @@
             "color_identity": "BRG",
             "cost": "{2}{R}",
             "rules_text": "When Merchant of the Capital enters, it deals 1 damage to any target.\n{1}, {T}: Add {B} or {G}.",
-            "flavor_text": "[i]\u201cTrust me, it's a dud! Let me demonstrate!\u201d[/i]",
+            "flavor_text": "[i]\u201cFor concoctions sacred or vile, come find Mak of Aionn!\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
-            "artist": "Aureaavis",
-            "notes": ""
+            "artist": "Blum Studios",
+            "notes": "v"
         },
         {
             "card_name": "Leader of the Phalanx",
@@ -1425,7 +1425,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Bruno Cesar",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Deceptive Chargemage",
@@ -1443,7 +1443,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Evira Itari",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Sharean Banneret",
@@ -1461,7 +1461,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dominik Mayer",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Ancient Maskbearer",
@@ -1479,7 +1479,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Brunenrik",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Prism Beam",
@@ -1497,7 +1497,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Evira Itari",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Improvised Armament",
@@ -1515,7 +1515,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sanskarans",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Glimpse the Red Horizon",
@@ -1525,7 +1525,7 @@
             "number": 89,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "If this is the first spell you cast this turn, exile the top two cards of your library. You may play them until end of turn. Otherwise, Glimpse the Red Horizon deals 4 damage to any target.",
+            "rules_text": "If this is the first spell you cast this turn, exile the top two cards of your library. You may play them until the end of your next turn. Otherwise, Glimpse the Red Horizon deals 4 damage to any target.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1533,7 +1533,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Miloecute",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Scorch and Scour",
@@ -1551,7 +1551,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Wrryyy",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Accelerant Tactics",
@@ -1569,7 +1569,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Joel Chaim Holtzmann",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Shrouded Fireblast",
@@ -1587,7 +1587,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Julie Dillon",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Sanguine Looter",
@@ -1605,7 +1605,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Galdersart",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Captain of Possibility",
@@ -1623,7 +1623,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ann Marie Rechter",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Armament Liege",
@@ -1641,7 +1641,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sam Kanios",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Blooddrinker Champion",
@@ -1659,7 +1659,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sergio Mayorga",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Blazeblade Adept",
@@ -1677,7 +1677,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Flameharvest Warmage",
@@ -1687,7 +1687,7 @@
             "number": 87,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Menace\nWhen Flameharvest Warmage deals combat damage to a player, add an amount of {R} equal to its power. Until end of turn, you don't lose this mana as steps and phases end.",
+            "rules_text": "Menace\nWhen Flameharvest Warmage deals combat damage to a player, add that much {R}. Until end of turn, you don't lose this mana as steps and phases end.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1695,7 +1695,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ilya Royz",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Dragonpoise Apprentice",
@@ -1713,7 +1713,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Hulala",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Split Focus",
@@ -1731,7 +1731,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Mauricio Carrasco",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Brave the Mountaintops",
@@ -1749,7 +1749,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kyxarie Peralta",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Dragonfire Ritual",
@@ -1767,7 +1767,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Alexander Mokhov",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Study the Martial Code",
@@ -1785,7 +1785,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Clint Cearley",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Army-Fueled Firestorm",
@@ -1803,25 +1803,25 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aleksandra Petruk",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Oqtari Shiftsword",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Orc Soldier",
-            "number": 116,
+            "number": 117,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]",
-            "flavor_text": "[i]Back to front...[/i]",
+            "flavor_text": "[i]\u201cBack to front...\u201d[/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Yune Sunghan",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Misthide Explorer",
@@ -1839,7 +1839,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dimitra Angelska",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Merchant of the Great Plains",
@@ -1850,14 +1850,14 @@
             "color_identity": "WUG",
             "cost": "{1}{G}",
             "rules_text": "When Merchant of the Great Plains enters, scry 2.\n{1}, {T}: Add {W} or {U}.",
-            "flavor_text": "[i]FT\nFT\nFT[/i]",
+            "flavor_text": "[i]\u201cI deal in wisdom of the land, and take only energy as payment, in whatever form you wish to hand over...\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Joel Chaim Holtzman",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Mist-Possessed Grizzly",
@@ -1875,7 +1875,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Rogier van de Beek",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Oqtari Enforcer",
@@ -1893,14 +1893,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Brunenrik",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Rallying Commander",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Knight",
-            "number": 120,
+            "number": 121,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "When Rallying Commander enters, create two 1/1 red Soldier creature tokens.",
@@ -1911,14 +1911,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Eric Felten",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Tallest of the Ranks",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Giant Warrior",
-            "number": 122,
+            "number": 123,
             "color_identity": "G",
             "cost": "{5}{G}",
             "rules_text": "Vigilance\nWhen Tallest of the Ranks attacks, it gets +1/+1 for each Soldier you control until end of turn.",
@@ -1929,7 +1929,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sanskarans",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Miststalker Behemoth",
@@ -1947,14 +1947,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Grzegorsz Rutkowski",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Rage Pheromone",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 119,
+            "number": 120,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Target creature you control fights target creature you don't control. Both those creatures attack the next combat if able.",
@@ -1965,14 +1965,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ilya Royz",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Underwater Scavenging",
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 123,
+            "number": 124,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Choose one \u2014 \n\u2022 Target creature you control deals damage equal to its power to target creature you don't control.\n\u2022 Exile up to one target card from a graveyard. Draw a card.",
@@ -1983,7 +1983,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lupita Luttman",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Ironbark Invigoration",
@@ -2001,14 +2001,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Angelo Bortolini",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Prod the Mist",
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 118,
+            "number": 119,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Search your library for a land card, put it onto the battlefield tapped, then shuffle. Then, you may transform that land.",
@@ -2019,7 +2019,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Yvan Villeneuve",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Commune with the Mist",
@@ -2037,14 +2037,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aleksandra Petruk",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Woodland Recruiter",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Elf Soldier",
-            "number": 124,
+            "number": 125,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Whenever a land you control enters, create a 1/1 red Soldier creature token.",
@@ -2055,7 +2055,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ilya Royz",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Mist Tamer",
@@ -2066,14 +2066,14 @@
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Whenever a permanent you control transforms, create a 2/2 green Spectral Wolf creature token.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]FT\nFT\nFT[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Runarta Vera",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Ester Woods Protector",
@@ -2084,14 +2084,14 @@
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Vigilance\n{T}: Add one mana of any color.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]FT\nFT\nFT[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "AlpheratzDraws",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Oqtari Champion",
@@ -2109,17 +2109,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Stu Harrington",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Yarkasing Pathlighter",
+            "card_name": "Oqtari Pathlighter",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Soldier",
-            "number": 125,
+            "number": 116,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Trample\nWhen Yarkasing Pathlighter deals combat damage to a player, look at the top X cards of your library, where X is this creature's power. Put one of them into your hand and the rest on the bottom of your library in a random order.",
+            "rules_text": "Trample\nWhen Oqtari Pathlighter deals combat damage to a player, look at the top X cards of your library, where X is this creature's power. Put one of them into your hand and the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -2127,14 +2127,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nuare",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Survival Adept",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Soldier",
-            "number": 121,
+            "number": 122,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Reach, deathtouch, lifelink",
@@ -2145,7 +2145,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aleksandra Petruk",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Mistborn Rejuvenator",
@@ -2163,7 +2163,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Eva Soulu",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Mentoring Shiftsword",
@@ -2181,7 +2181,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Legend Story Studios",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Armament Supplier",
@@ -2199,14 +2199,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Zeni",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Pragmatic Weaponry",
             "color": "G",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 117,
+            "number": 118,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Put two +1/+1 counters on target creature. Until end of turn, that creature can't be blocked by creatures with power less than it.",
@@ -2217,7 +2217,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Chris Howard",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Clash with the Army",
@@ -2235,7 +2235,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kyxarie Peralta",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Eerie Propagation",
@@ -2253,14 +2253,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Katerina Vitkovska",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Stuff the Unworthy",
             "color": "WU",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 140,
+            "number": 139,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Attacking creatures target player controls get -4/-0 until end of turn. You mill three cards, then draw a card.",
@@ -2271,14 +2271,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aaron Borgman",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Supercharge Ritualist",
             "color": "UB",
             "rarity": "uncommon",
             "type": "Creature \u2014 Elf Inventor",
-            "number": 141,
+            "number": 140,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
             "rules_text": "If one or more charge counters would be put on a Gem you control, that many plus one charge counters are put on that Gem instead.\nAt the beginning of your upkeep, put a charge counter on target Gem you control.",
@@ -2289,13 +2289,13 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jen Santos",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Avenger Bloodknight",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Orc Soldier",
+            "type": "Creature \u2014 Soldier",
             "number": 126,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
@@ -2307,17 +2307,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Peter Sokolov",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Regiment Recruiter",
+            "card_name": "Valiant Recruiter",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Soldier",
-            "number": 137,
+            "type": "Creature \u2014 Soldier",
+            "number": 143,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "When Regiment Recruiter or another nontoken Soldier you control enters, create a 1/1 red Soldier creature token.",
+            "rules_text": "When Valiant Recruiter or another nontoken Soldier you control enters, create a 1/1 red Soldier creature token.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2325,7 +2325,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Earl Lan",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Jungleborn Scout",
@@ -2343,14 +2343,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nino Daranyan",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Treasure Sifter",
             "color": "WB",
             "rarity": "uncommon",
             "type": "Creature \u2014 Skeleton Pirate",
-            "number": 143,
+            "number": 142,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
             "rules_text": "Lifelink, deathtouch\nWhenever Treasure Sifter enters or dies, mill three cards.",
@@ -2361,7 +2361,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nick Moskvin",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Peninsula Marauder",
@@ -2379,7 +2379,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Gemflinging",
@@ -2397,7 +2397,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lu Alvaro",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Beacon Over the Oceans",
@@ -2408,14 +2408,14 @@
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "You may play an additional land this turn. Draw two cards, then discard a card.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]FT\nFT\nFT[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Solafterashes",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Guide to War's End",
@@ -2433,7 +2433,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sanskarans",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Chrome Drake",
@@ -2451,7 +2451,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Orb of Pained Knowledge",
@@ -2469,13 +2469,13 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Drin Mehmeti",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Jungle Mission Specialist",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Soldier",
+            "type": "Creature \u2014 Soldier",
             "number": 131,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
@@ -2487,13 +2487,13 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Calder Moore",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Wrathful Champion",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elemental Warrior",
+            "type": "Creature \u2014 Warrior",
             "number": 145,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
@@ -2505,17 +2505,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dominik Mayer",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Jungleborn Mentor",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2014 Warrior",
             "number": 132,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "When Jungleborn Mentor deals combat damage to a player, put a +1/+1 counter on up to X target creatures, where X is its power.",
+            "rules_text": "When Jungleborn Mentor deals combat damage to a player, put a +1/+1 counters on up to X target creatures, where X is its power.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -2523,7 +2523,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jang Jae",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Warfallen Angel",
@@ -2541,7 +2541,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sanskarans",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Regiment Pathmaker",
@@ -2559,32 +2559,32 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Rostislav Zagornov",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Spelldrinker Pendant",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Artifact \u2014 Gem",
-            "number": 139,
+            "type": "Artifact Creature \u2014 Gem",
+            "number": 138,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "Whenever you cast your second spell each turn, put a charge counter on Spelldrinker Pendant.\n{T}, Remove a charge counter from Spelldrinker Pendant: Add {U} or {R}. Spelldrinker Pendant deals 2 damage to target player.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Galdersart",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Sylran, Many-Horned",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Elemental Elk",
-            "number": 142,
+            "number": 141,
             "color_identity": "UG",
             "cost": "{3}{G}{G}{U}",
             "rules_text": "Vigilance, trample\nSylran, Many-Horned's power and toughness are each equal to the number of lands you control.",
@@ -2595,14 +2595,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kateryna Vitkovska",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Resolute Deathmarcher",
             "color": "BG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Elf Soldier",
-            "number": 138,
+            "number": 137,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "Deathtouch\nWhen Resolute Deathmarcher or another Soldier you control dies, target player loses 1 life and you gain 1 life.",
@@ -2613,14 +2613,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dominik Mayer",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Phantasmal Eagle",
             "color": "WU",
             "rarity": "common",
             "type": "Creature \u2014 Bird",
-            "number": 156,
+            "number": 151,
             "color_identity": "WU",
             "cost": "{1}{WU}",
             "rules_text": "Flying\n[i]Evaporate[/i] \u2014 {WU}, Exile Phantasmal Eagle from your graveyard: Draw a card.",
@@ -2631,14 +2631,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Tyler Smith",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Radiance Collector",
             "color": "UB",
             "rarity": "common",
             "type": "Creature \u2014 Human Inventor",
-            "number": 157,
+            "number": 152,
             "color_identity": "UB",
             "cost": "{1}{UB}",
             "rules_text": "Whenever you draw a card, you may pay {UB}. If you do, put a charge counter on target artifact you control.",
@@ -2649,14 +2649,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Soyameii",
-            "notes": ""
+            "notes": "ft"
         },
         {
             "card_name": "Pervasive Militocrat",
             "color": "BR",
             "rarity": "common",
             "type": "Creature \u2014 Elf Wizard",
-            "number": 155,
+            "number": 150,
             "color_identity": "BR",
             "cost": "{1}{BR}",
             "rules_text": "Whenever one or more Soldiers you control attack, Pervasive Militocrat deals 1 damage to target player.",
@@ -2667,7 +2667,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aureaavis",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Army of Two",
@@ -2678,21 +2678,21 @@
             "color_identity": "RG",
             "cost": "{1}{RG}",
             "rules_text": "When Army of Two enters, create a 1/1 red Soldier creature token.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]FT\nFT\nFT\nFT[/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
-            "artist": "Guilherme Batista",
-            "notes": ""
+            "artist": "Guliherme Batista",
+            "notes": "ft"
         },
         {
             "card_name": "Stalwart Scout",
             "color": "WG",
             "rarity": "common",
             "type": "Creature \u2014 Elf Warrior",
-            "number": 160,
+            "number": 155,
             "color_identity": "WG",
             "cost": "{1}{GW}",
             "rules_text": "Vigilance; convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]\nWhenever Stalwart Scout attacks, it gets +0/+1 until end of turn.",
@@ -2703,14 +2703,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Eva Soulu",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Soul-Siphon Warlock",
             "color": "WB",
             "rarity": "common",
             "type": "Creature \u2014 Zombie Warlock",
-            "number": 159,
+            "number": 154,
             "color_identity": "WB",
             "cost": "{2}{WB}",
             "rules_text": "Lifelink\n[i]Evaporate[/i] \u2014 {3}{WB}{WB}, Exile Soul-Siphon Warlock from your graveyard: Target player loses life equal to the mana value of target creature you control, and you gain that much life.",
@@ -2721,14 +2721,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lothrean",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Regiment Scout",
             "color": "WR",
             "rarity": "common",
             "type": "Creature \u2014 Dragonborn Soldier",
-            "number": 158,
+            "number": 153,
             "color_identity": "WR",
             "cost": "{2}{RW}",
             "rules_text": "Regiment Scout has double strike as long as it's your turn.\nWhenever one or more creatures you control with power 2 or less attack, exile the top card of your library. You may play that card until end of turn.",
@@ -2739,14 +2739,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kateryna Vitkovska",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Glimmermage Adept",
             "color": "UR",
             "rarity": "common",
             "type": "Creature \u2014 Elf Wizard",
-            "number": 153,
+            "number": 148,
             "color_identity": "UR",
             "cost": "{2}{UR}",
             "rules_text": "Whenever you cast your first spell on each of your turns, add {U} or {R}. Spend this mana only to cast an instant, sorcery or Gem spell.",
@@ -2757,14 +2757,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sung Choi",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Great Plains Guide",
             "color": "UG",
             "rarity": "common",
             "type": "Creature \u2014 Human Scout",
-            "number": 154,
+            "number": 149,
             "color_identity": "UG",
             "cost": "{2}{GU}",
             "rules_text": "When Great Plains Guide enters, look at the top four cards of your library. You may reveal a land card from among them. If you do, put that card into your hand. Put the rest on the bottom of your library in a random order.",
@@ -2775,14 +2775,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Quentin Mabille",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Exploiter of Undergrowth",
             "color": "BG",
             "rarity": "common",
-            "type": "Creature \u2014 Zombie Scout",
-            "number": 152,
+            "type": "Creature",
+            "number": 147,
             "color_identity": "BG",
             "cost": "{2}{BG}",
             "rules_text": "Deathtouch\nWhen Exploiter of Undergrowth enters, sacrifice a creature. When you do, surveil 2. If the sacrificed creature was a Soldier, draw a card.",
@@ -2793,17 +2793,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ga\u00e9tan Weltzer",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Crest of Radiance",
+            "card_name": "UH01 \u2014 Crest of Radiance",
             "color": "UBR",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 149,
+            "number": 156,
             "color_identity": "UBR",
             "cost": "{1}{U}{BR}",
-            "rules_text": "Choose one \u2014 \n\u2022 Put a charge counter on each Gem you control.\n\u2022 Destroy target nonland permanent with mana value 3 or less.",
+            "rules_text": "Choose one \u2014 \n\u2022 Put a charge counter on each Gem you control.\n\u2022 Counter target creature or artifact spell.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2811,17 +2811,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Necip Can Karakus",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Crest of Magma",
+            "card_name": "UH02 \u2014 Crest of Magma",
             "color": "WRG",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 148,
+            "number": 157,
             "color_identity": "WRG",
             "cost": "{2}{RG}{W}",
-            "rules_text": "Choose one \u2014 \n\u2022 Draw cards equal to the power of target creature you control.\n\u2022 Crest of Magma deals 2 damage to each attacking creature.",
+            "rules_text": "Choose one \u2014 \n\u2022 Draw cards equal to the power of target creature you control.\n\u2022 UH02 \u2014 Crest of Magma deals 2 damage to each attacking creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2829,17 +2829,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Oleksa Grinefvich",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Crest of Waves",
+            "card_name": "UH03 \u2014 Crest of Waves",
             "color": "WUB",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 151,
+            "number": 158,
             "color_identity": "WUB",
             "cost": "{1}{WU}{B}",
-            "rules_text": "Choose one \u2014 \n\u2022 Target player mills six cards.\n\u2022 Counter target instant, sorcery or artifact spell.",
+            "rules_text": "Choose one \u2014 \n\u2022 Target player mills six cards.\n\u2022 Destroy target noncreature, nonland permanent.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2847,17 +2847,17 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ilya Royz",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Crest of Ruby",
+            "card_name": "UH04 \u2014 Crest of Ruby",
             "color": "BRG",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 150,
+            "number": 159,
             "color_identity": "BRG",
             "cost": "{1}{BG}{R}",
-            "rules_text": "Choose one \u2014 \n\u2022 Destroy target nonland permanent.\n\u2022 Create two 1/1 red Soldier creature tokens.",
+            "rules_text": "Choose one \u2014 \n\u2022 Exile the top two cards of your library. You may cast them this turn.\n\u2022 Create two 1/1 red Soldier creature tokens.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2865,14 +2865,14 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Necip Can Karakus",
-            "notes": ""
+            "notes": "v"
         },
         {
-            "card_name": "Crest of Ironbark",
+            "card_name": "UH05 \u2014 Crest of Ironbark",
             "color": "WUG",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 147,
+            "number": 160,
             "color_identity": "WUG",
             "cost": "{G}{WU}",
             "rules_text": "Choose one \u2014 \n\u2022 Search your library for a land card, reveal it and put it into your hand. You gain 2 life.\n\u2022 Scry X, where X is the number of lands you control, then draw a card.",
@@ -2883,7 +2883,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Damien Mammoliti",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Gemcraft Filigree",
@@ -2901,7 +2901,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Peng Lu",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Statue of Golden Victory",
@@ -2919,7 +2919,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Qifeng Lin",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Unstable Silumgite",
@@ -2937,7 +2937,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sandara",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Brilliant Crest",
@@ -2954,8 +2954,8 @@
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
-            "artist": "1oshua-art",
-            "notes": ""
+            "artist": "1oshu-art",
+            "notes": "v"
         },
         {
             "card_name": "Explorer's Scope",
@@ -2973,7 +2973,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Vincent Proce",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Yarkasing Landmark",
@@ -2991,7 +2991,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Guz",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Opaelian Landmark",
@@ -3009,7 +3009,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nika Kuznetsova",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Savacide Landmark",
@@ -3027,7 +3027,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Maxime Schilde",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Sharean Landmark",
@@ -3045,7 +3045,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Haoqian Khoo",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Avendwell Landmark",
@@ -3063,7 +3063,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Anthony Avon",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Frosted Plain",
@@ -3090,8 +3090,8 @@
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
-            "artist2": "FuzzyTuesday",
-            "notes": ""
+            "artist2": "",
+            "notes": "art"
         },
         {
             "card_name": "Cerulean Fogbank",
@@ -3111,15 +3111,15 @@
             "artist": "David Frasheski",
             "card_name2": "Chilled Wisp",
             "color2": "UB",
-            "type2": "Creature \u2014 Mist",
+            "type2": "",
             "cost2": "",
             "rules_text2": "Menace",
             "flavor_text2": "[i][/i]",
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
-            "artist2": "FuzzyTuesday",
-            "notes": ""
+            "artist2": "",
+            "notes": "art"
         },
         {
             "card_name": "Ashy Badlands",
@@ -3146,8 +3146,8 @@
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
-            "artist2": "FuzzyTuesday",
-            "notes": ""
+            "artist2": "",
+            "notes": "art"
         },
         {
             "card_name": "Foggy Peak",
@@ -3174,8 +3174,8 @@
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
-            "artist2": "Peter Nilsson",
-            "notes": ""
+            "artist2": "",
+            "notes": "art"
         },
         {
             "card_name": "Morningdew Vale",
@@ -3202,8 +3202,8 @@
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
-            "artist2": "FuzzyTuesday",
-            "notes": ""
+            "artist2": "",
+            "notes": "art"
         },
         {
             "card_name": "Overcast Marsh",
@@ -3230,8 +3230,8 @@
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
-            "artist2": "FuzzyTuesday",
-            "notes": ""
+            "artist2": "",
+            "notes": "art"
         },
         {
             "card_name": "Sandstorm Steppe",
@@ -3258,8 +3258,8 @@
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
-            "artist2": "FuzzyTuesday",
-            "notes": ""
+            "artist2": "",
+            "notes": "art"
         },
         {
             "card_name": "Limestone Steam Pool",
@@ -3286,8 +3286,8 @@
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
-            "artist2": "FuzzyTuesday",
-            "notes": ""
+            "artist2": "",
+            "notes": "art"
         },
         {
             "card_name": "Misty Taiga",
@@ -3314,8 +3314,8 @@
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
-            "artist2": "Jorge Jacinto",
-            "notes": ""
+            "artist2": "",
+            "notes": "art"
         },
         {
             "card_name": "Shaded Woods",
@@ -3342,8 +3342,8 @@
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
-            "artist2": "FuzzyTuesday",
-            "notes": ""
+            "artist2": "",
+            "notes": "art"
         },
         {
             "card_name": "Remote Barracks",
@@ -3370,8 +3370,8 @@
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
-            "artist2": "Jedd Chevrier",
-            "notes": ""
+            "artist2": "",
+            "notes": "art"
         },
         {
             "card_name": "Murky Vista",
@@ -3398,8 +3398,8 @@
             "pt2": "2/2",
             "special_text2": "",
             "loyalty2": "",
-            "artist2": "Jesse Neese",
-            "notes": ""
+            "artist2": "",
+            "notes": "art"
         },
         {
             "card_name": "Plains_IRA_1",
@@ -3687,25 +3687,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Niklozan",
-            "notes": ""
-        },
-        {
-            "card_name": "Soldier",
-            "color": "R",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Soldier",
-            "number": 5,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "IRA",
-            "loyalty": "",
-            "artist": "Nat Vitchayed",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Treasure",
@@ -3723,61 +3705,7 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Necip Can Karakus",
-            "notes": ""
-        },
-        {
-            "card_name": "Zombie",
-            "color": "B",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Zombie",
-            "number": 4,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "token",
-            "set": "IRA",
-            "loyalty": "",
-            "artist": "Antonio Manzanedo",
-            "notes": ""
-        },
-        {
-            "card_name": "Warrior",
-            "color": "R",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Warrior",
-            "number": 6,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "IRA",
-            "loyalty": "",
-            "artist": "Asur Misoa",
-            "notes": ""
-        },
-        {
-            "card_name": "Spectral Wolf",
-            "color": "G",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Beast",
-            "number": 7,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "token",
-            "set": "IRA",
-            "loyalty": "",
-            "artist": "Runarta Vera",
-            "notes": ""
+            "notes": "v"
         },
         {
             "card_name": "Elemental",
@@ -3795,7 +3723,79 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Digitiel",
-            "notes": ""
+            "notes": "v"
+        },
+        {
+            "card_name": "Zombie",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Zombie",
+            "number": 4,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "IRA",
+            "loyalty": "",
+            "artist": "Antonio Manzanedo",
+            "notes": "v"
+        },
+        {
+            "card_name": "Soldier",
+            "color": "R",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Soldier",
+            "number": 5,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "IRA",
+            "loyalty": "",
+            "artist": "Nat Vitchayed",
+            "notes": "v"
+        },
+        {
+            "card_name": "Warrior",
+            "color": "R",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Warrior",
+            "number": 6,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "IRA",
+            "loyalty": "",
+            "artist": "Asur Misoa",
+            "notes": "v"
+        },
+        {
+            "card_name": "Spectral Wolf",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Beast",
+            "number": 7,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "IRA",
+            "loyalty": "",
+            "artist": "Runarta Vera",
+            "notes": "v"
         }
     ]
 }
