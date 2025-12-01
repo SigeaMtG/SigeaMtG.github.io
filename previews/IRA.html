@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -187,7 +188,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="IRA"><img src="/sets/IRA-files/icon.png">Irandian Mists</a>
 	
@@ -197,266 +198,266 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\IRA-files\img\1_All-Seeing Guardian.png" id="1_All-Seeing Guardian" data-flag="@X" onclick="openSidebar('1_All-Seeing Guardian',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\26_Arcane Battery.png" id="26_Arcane Battery" data-flag="@X" onclick="openSidebar('26_Arcane Battery',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\51_Battlefield Soulstealer.png" id="51_Battlefield Soulstealer" data-flag="@X" onclick="openSidebar('51_Battlefield Soulstealer',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\78_Armament Liege.png" id="78_Armament Liege" data-flag="@X" onclick="openSidebar('78_Armament Liege',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\101_Armament Supplier.png" id="101_Armament Supplier" data-flag="@X" onclick="openSidebar('101_Armament Supplier',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\3_Curious Treasure Diver.png" id="3_Curious Treasure Diver" data-flag="@X" onclick="openSidebar('3_Curious Treasure Diver',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\27_Brilliant Mechfly.png" id="27_Brilliant Mechfly" data-flag="@X" onclick="openSidebar('27_Brilliant Mechfly',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\54_Cleric of the Five.png" id="54_Cleric of the Five" data-flag="@X" onclick="openSidebar('54_Cleric of the Five',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\79_Army-Fueled Firestorm.png" id="79_Army-Fueled Firestorm" data-flag="@X" onclick="openSidebar('79_Army-Fueled Firestorm',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\102_Clash with the Army.png" id="102_Clash with the Army" data-flag="@X" onclick="openSidebar('102_Clash with the Army',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\5_Destination Unveiled.png" id="5_Destination Unveiled" data-flag="@X" onclick="openSidebar('5_Destination Unveiled',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\31_Dismembered Leviathan.png" id="31_Dismembered Leviathan" data-flag="@X" onclick="openSidebar('31_Dismembered Leviathan',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\55_Clockwork Lich.png" id="55_Clockwork Lich" data-flag="@X" onclick="openSidebar('55_Clockwork Lich',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\80_Blazeblade Adept.png" id="80_Blazeblade Adept" data-flag="@X" onclick="openSidebar('80_Blazeblade Adept',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\104_Eerie Propagation.png" id="104_Eerie Propagation" data-flag="@X" onclick="openSidebar('104_Eerie Propagation',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\7_Ethereal Burdener.png" id="7_Ethereal Burdener" data-flag="@X" onclick="openSidebar('7_Ethereal Burdener',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\38_Glimmertide Inventor.png" id="38_Glimmertide Inventor" data-flag="@X" onclick="openSidebar('38_Glimmertide Inventor',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\56_Deepwater Lamia.png" id="56_Deepwater Lamia" data-flag="@X" onclick="openSidebar('56_Deepwater Lamia',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\81_Blooddrinker Champion.png" id="81_Blooddrinker Champion" data-flag="@X" onclick="openSidebar('81_Blooddrinker Champion',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\105_Ester Woods Protector.png" id="105_Ester Woods Protector" data-flag="@X" onclick="openSidebar('105_Ester Woods Protector',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\12_Mountainborn Angel.png" id="12_Mountainborn Angel" data-flag="@X" onclick="openSidebar('12_Mountainborn Angel',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\40_Observant Gemslinger.png" id="40_Observant Gemslinger" data-flag="@X" onclick="openSidebar('40_Observant Gemslinger',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\57_Disease in the Ranks.png" id="57_Disease in the Ranks" data-flag="@X" onclick="openSidebar('57_Disease in the Ranks',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\82_Brave the Mountaintops.png" id="82_Brave the Mountaintops" data-flag="@X" onclick="openSidebar('82_Brave the Mountaintops',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\107_Mentoring Shiftsword.png" id="107_Mentoring Shiftsword" data-flag="@X" onclick="openSidebar('107_Mentoring Shiftsword',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\14_Quickdraw Thug.png" id="14_Quickdraw Thug" data-flag="@X" onclick="openSidebar('14_Quickdraw Thug',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\42_Sea-Mad Pirate.png" id="42_Sea-Mad Pirate" data-flag="@X" onclick="openSidebar('42_Sea-Mad Pirate',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\60_Emerge from Death.png" id="60_Emerge from Death" data-flag="@X" onclick="openSidebar('60_Emerge from Death',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\83_Captain of Possibility.png" id="83_Captain of Possibility" data-flag="@X" onclick="openSidebar('83_Captain of Possibility',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\109_Mist Tamer.png" id="109_Mist Tamer" data-flag="@X" onclick="openSidebar('109_Mist Tamer',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\15_Resurface the Meek.png" id="15_Resurface the Meek" data-flag="@X" onclick="openSidebar('15_Resurface the Meek',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\43_Shadow Atlas.png" id="43_Shadow Atlas" data-flag="@X" onclick="openSidebar('43_Shadow Atlas',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\61_Forbidden Siphoner.png" id="61_Forbidden Siphoner" data-flag="@X" onclick="openSidebar('61_Forbidden Siphoner',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\85_Dragonfire Ritual.png" id="85_Dragonfire Ritual" data-flag="@X" onclick="openSidebar('85_Dragonfire Ritual',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\111_Mistborn Rejuvenator.png" id="111_Mistborn Rejuvenator" data-flag="@X" onclick="openSidebar('111_Mistborn Rejuvenator',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\16_Savacide Etherealist.png" id="16_Savacide Etherealist" data-flag="@X" onclick="openSidebar('16_Savacide Etherealist',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\44_Spellslinger Gem.png" id="44_Spellslinger Gem" data-flag="@X" onclick="openSidebar('44_Spellslinger Gem',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\65_Harvester of Sin.png" id="65_Harvester of Sin" data-flag="@X" onclick="openSidebar('65_Harvester of Sin',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\86_Dragonpoise Apprentice.png" id="86_Dragonpoise Apprentice" data-flag="@X" onclick="openSidebar('86_Dragonpoise Apprentice',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\114_Oqtari Champion.png" id="114_Oqtari Champion" data-flag="@X" onclick="openSidebar('114_Oqtari Champion',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\17_Scout of the Great Plains.png" id="17_Scout of the Great Plains" data-flag="@X" onclick="openSidebar('17_Scout of the Great Plains',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\45_Twice Drowned.png" id="45_Twice Drowned" data-flag="@X" onclick="openSidebar('45_Twice Drowned',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\67_Miser of the Drowned.png" id="67_Miser of the Drowned" data-flag="@X" onclick="openSidebar('67_Miser of the Drowned',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\87_Flameharvest Warmage.png" id="87_Flameharvest Warmage" data-flag="@X" onclick="openSidebar('87_Flameharvest Warmage',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\117_Pragmatic Weaponry.png" id="117_Pragmatic Weaponry" data-flag="@X" onclick="openSidebar('117_Pragmatic Weaponry',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\19_Struggle to Subdue.png" id="19_Struggle to Subdue" data-flag="@X" onclick="openSidebar('19_Struggle to Subdue',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\46_Undead Tentacle.png" id="46_Undead Tentacle" data-flag="@X" onclick="openSidebar('46_Undead Tentacle',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\69_Ravenous Drowned.png" id="69_Ravenous Drowned" data-flag="@X" onclick="openSidebar('69_Ravenous Drowned',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\94_Sanguine Looter.png" id="94_Sanguine Looter" data-flag="@X" onclick="openSidebar('94_Sanguine Looter',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\121_Survival Adept.png" id="121_Survival Adept" data-flag="@X" onclick="openSidebar('121_Survival Adept',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\21_Valeyan Battalion Captain.png" id="21_Valeyan Battalion Captain" data-flag="@X" onclick="openSidebar('21_Valeyan Battalion Captain',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\47_Unveil the Mists.png" id="47_Unveil the Mists" data-flag="@X" onclick="openSidebar('47_Unveil the Mists',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\73_Siphoning Onyx.png" id="73_Siphoning Onyx" data-flag="@X" onclick="openSidebar('73_Siphoning Onyx',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\98_Split Focus.png" id="98_Split Focus" data-flag="@X" onclick="openSidebar('98_Split Focus',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\124_Woodland Recruiter.png" id="124_Woodland Recruiter" data-flag="@X" onclick="openSidebar('124_Woodland Recruiter',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\24_Valeyan Martial Guard.png" id="24_Valeyan Martial Guard" data-flag="@X" onclick="openSidebar('24_Valeyan Martial Guard',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\50_Wisp of Glimmers.png" id="50_Wisp of Glimmers" data-flag="@X" onclick="openSidebar('50_Wisp of Glimmers',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\74_Strategic Hitjob.png" id="74_Strategic Hitjob" data-flag="@X" onclick="openSidebar('74_Strategic Hitjob',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\99_Study the Martial Code.png" id="99_Study the Martial Code" data-flag="@X" onclick="openSidebar('99_Study the Martial Code',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\125_Yarkasing Pathlighter.png" id="125_Yarkasing Pathlighter" data-flag="@X" onclick="openSidebar('125_Yarkasing Pathlighter',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\2_Clear Up.png" id="2_Clear Up" data-flag="@X" onclick="openSidebar('2_Clear Up',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\28_Charge Burst.png" id="28_Charge Burst" data-flag="@X" onclick="openSidebar('28_Charge Burst',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\52_Brier Slopes Brute.png" id="52_Brier Slopes Brute" data-flag="@X" onclick="openSidebar('52_Brier Slopes Brute',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\76_Accelerant Tactics.png" id="76_Accelerant Tactics" data-flag="@X" onclick="openSidebar('76_Accelerant Tactics',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\103_Commune with the Mist.png" id="103_Commune with the Mist" data-flag="@X" onclick="openSidebar('103_Commune with the Mist',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\4_Desiccated Mothling.png" id="4_Desiccated Mothling" data-flag="@X" onclick="openSidebar('4_Desiccated Mothling',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\29_Desiccated Aven.png" id="29_Desiccated Aven" data-flag="@X" onclick="openSidebar('29_Desiccated Aven',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\53_Chargesap Martialist.png" id="53_Chargesap Martialist" data-flag="@X" onclick="openSidebar('53_Chargesap Martialist',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\77_Ancient Maskbearer.png" id="77_Ancient Maskbearer" data-flag="@X" onclick="openSidebar('77_Ancient Maskbearer',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\106_Ironbark Invigoration.png" id="106_Ironbark Invigoration" data-flag="@X" onclick="openSidebar('106_Ironbark Invigoration',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\6_Drowned Harpy.png" id="6_Drowned Harpy" data-flag="@X" onclick="openSidebar('6_Drowned Harpy',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\30_Disenchanting Fog.png" id="30_Disenchanting Fog" data-flag="@X" onclick="openSidebar('30_Disenchanting Fog',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\58_Drag to the Depths.png" id="58_Drag to the Depths" data-flag="@X" onclick="openSidebar('58_Drag to the Depths',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\84_Deceptive Chargemage.png" id="84_Deceptive Chargemage" data-flag="@X" onclick="openSidebar('84_Deceptive Chargemage',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\108_Merchant of the Great Plains.png" id="108_Merchant of the Great Plains" data-flag="@X" onclick="openSidebar('108_Merchant of the Great Plains',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\8_Fogbound Elemental.png" id="8_Fogbound Elemental" data-flag="@X" onclick="openSidebar('8_Fogbound Elemental',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\32_Dredge Diver.png" id="32_Dredge Diver" data-flag="@X" onclick="openSidebar('32_Dredge Diver',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\59_Dragged Under.png" id="59_Dragged Under" data-flag="@X" onclick="openSidebar('59_Dragged Under',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\88_Gemfire Golem.png" id="88_Gemfire Golem" data-flag="@X" onclick="openSidebar('88_Gemfire Golem',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\110_Mist-Possessed Grizzly.png" id="110_Mist-Possessed Grizzly" data-flag="@X" onclick="openSidebar('110_Mist-Possessed Grizzly',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\9_Lost in the Fog.png" id="9_Lost in the Fog" data-flag="@X" onclick="openSidebar('9_Lost in the Fog',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\33_Drowned Memories.png" id="33_Drowned Memories" data-flag="@X" onclick="openSidebar('33_Drowned Memories',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\62_Gempoint Beam.png" id="62_Gempoint Beam" data-flag="@X" onclick="openSidebar('62_Gempoint Beam',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\89_Glimpse the Red Horizon.png" id="89_Glimpse the Red Horizon" data-flag="@X" onclick="openSidebar('89_Glimpse the Red Horizon',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\112_Misthide Explorer.png" id="112_Misthide Explorer" data-flag="@X" onclick="openSidebar('112_Misthide Explorer',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\10_Merchant of the Underpass.png" id="10_Merchant of the Underpass" data-flag="@X" onclick="openSidebar('10_Merchant of the Underpass',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\34_Envelop.png" id="34_Envelop" data-flag="@X" onclick="openSidebar('34_Envelop',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\63_Generator Ritualist.png" id="63_Generator Ritualist" data-flag="@X" onclick="openSidebar('63_Generator Ritualist',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\90_Improvised Armament.png" id="90_Improvised Armament" data-flag="@X" onclick="openSidebar('90_Improvised Armament',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\113_Miststalker Behemoth.png" id="113_Miststalker Behemoth" data-flag="@X" onclick="openSidebar('113_Miststalker Behemoth',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\11_Mistborn Unicorn.png" id="11_Mistborn Unicorn" data-flag="@X" onclick="openSidebar('11_Mistborn Unicorn',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\35_Fogscry Sphinx.png" id="35_Fogscry Sphinx" data-flag="@X" onclick="openSidebar('35_Fogscry Sphinx',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\64_Harvest Intelligence.png" id="64_Harvest Intelligence" data-flag="@X" onclick="openSidebar('64_Harvest Intelligence',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\91_Leader of the Phalanx.png" id="91_Leader of the Phalanx" data-flag="@X" onclick="openSidebar('91_Leader of the Phalanx',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\115_Oqtari Enforcer.png" id="115_Oqtari Enforcer" data-flag="@X" onclick="openSidebar('115_Oqtari Enforcer',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\13_Quickdraw.png" id="13_Quickdraw" data-flag="@X" onclick="openSidebar('13_Quickdraw',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\36_Gemchannel Golem.png" id="36_Gemchannel Golem" data-flag="@X" onclick="openSidebar('36_Gemchannel Golem',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\66_Merchant of the Isles.png" id="66_Merchant of the Isles" data-flag="@X" onclick="openSidebar('66_Merchant of the Isles',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\92_Merchant of the Capital.png" id="92_Merchant of the Capital" data-flag="@X" onclick="openSidebar('92_Merchant of the Capital',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\116_Oqtari Shiftsword.png" id="116_Oqtari Shiftsword" data-flag="@X" onclick="openSidebar('116_Oqtari Shiftsword',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\18_Shatter the Spoils.png" id="18_Shatter the Spoils" data-flag="@X" onclick="openSidebar('18_Shatter the Spoils',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\37_Gemspark Prison.png" id="37_Gemspark Prison" data-flag="@X" onclick="openSidebar('37_Gemspark Prison',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\68_Necromantic Charge.png" id="68_Necromantic Charge" data-flag="@X" onclick="openSidebar('68_Necromantic Charge',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\93_Prism Beam.png" id="93_Prism Beam" data-flag="@X" onclick="openSidebar('93_Prism Beam',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\118_Prod the Mist.png" id="118_Prod the Mist" data-flag="@X" onclick="openSidebar('118_Prod the Mist',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\20_Unfortunate Shipmender.png" id="20_Unfortunate Shipmender" data-flag="@X" onclick="openSidebar('20_Unfortunate Shipmender',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\39_Merchant of the North.png" id="39_Merchant of the North" data-flag="@X" onclick="openSidebar('39_Merchant of the North',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\70_Returned Ranksman.png" id="70_Returned Ranksman" data-flag="@X" onclick="openSidebar('70_Returned Ranksman',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\95_Scorch and Scour.png" id="95_Scorch and Scour" data-flag="@X" onclick="openSidebar('95_Scorch and Scour',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\119_Rage Pheromone.png" id="119_Rage Pheromone" data-flag="@X" onclick="openSidebar('119_Rage Pheromone',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\22_Valeyan Battleraptor.png" id="22_Valeyan Battleraptor" data-flag="@X" onclick="openSidebar('22_Valeyan Battleraptor',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\41_Opaelian Generator.png" id="41_Opaelian Generator" data-flag="@X" onclick="openSidebar('41_Opaelian Generator',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\71_Rotting Current.png" id="71_Rotting Current" data-flag="@X" onclick="openSidebar('71_Rotting Current',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\96_Sharean Banneret.png" id="96_Sharean Banneret" data-flag="@X" onclick="openSidebar('96_Sharean Banneret',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\120_Rallying Commander.png" id="120_Rallying Commander" data-flag="@X" onclick="openSidebar('120_Rallying Commander',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\23_Valeyan Gateguard.png" id="23_Valeyan Gateguard" data-flag="@X" onclick="openSidebar('23_Valeyan Gateguard',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\48_Wash Ashore.png" id="48_Wash Ashore" data-flag="@X" onclick="openSidebar('48_Wash Ashore',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\72_Savacide Unearther.png" id="72_Savacide Unearther" data-flag="@X" onclick="openSidebar('72_Savacide Unearther',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\97_Shrouded Fireblast.png" id="97_Shrouded Fireblast" data-flag="@X" onclick="openSidebar('97_Shrouded Fireblast',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\122_Tallest of the Ranks.png" id="122_Tallest of the Ranks" data-flag="@X" onclick="openSidebar('122_Tallest of the Ranks',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\25_Yarkasing Champion.png" id="25_Yarkasing Champion" data-flag="@X" onclick="openSidebar('25_Yarkasing Champion',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\49_Wave Stall.png" id="49_Wave Stall" data-flag="@X" onclick="openSidebar('49_Wave Stall',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\75_Vampiric Eagle.png" id="75_Vampiric Eagle" data-flag="@X" onclick="openSidebar('75_Vampiric Eagle',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\100_Vlisting Shiftshield.png" id="100_Vlisting Shiftshield" data-flag="@X" onclick="openSidebar('100_Vlisting Shiftshield',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\123_Underwater Scavenging.png" id="123_Underwater Scavenging" data-flag="@X" onclick="openSidebar('123_Underwater Scavenging',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\1_All-Seeing Guardian.png" id="1_All-Seeing Guardian" data-flag="@X" onclick="openSidebar('1_All-Seeing Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\26_Arcane Battery.png" id="26_Arcane Battery" data-flag="@X" onclick="openSidebar('26_Arcane Battery',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\51_Battlefield Soulstealer.png" id="51_Battlefield Soulstealer" data-flag="@X" onclick="openSidebar('51_Battlefield Soulstealer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\78_Armament Liege.png" id="78_Armament Liege" data-flag="@X" onclick="openSidebar('78_Armament Liege',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\101_Armament Supplier.png" id="101_Armament Supplier" data-flag="@X" onclick="openSidebar('101_Armament Supplier',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\3_Curious Treasure Diver.png" id="3_Curious Treasure Diver" data-flag="@X" onclick="openSidebar('3_Curious Treasure Diver',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\27_Brilliant Mechfly.png" id="27_Brilliant Mechfly" data-flag="@X" onclick="openSidebar('27_Brilliant Mechfly',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\54_Cleric of the Five.png" id="54_Cleric of the Five" data-flag="@X" onclick="openSidebar('54_Cleric of the Five',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\79_Army-Fueled Firestorm.png" id="79_Army-Fueled Firestorm" data-flag="@X" onclick="openSidebar('79_Army-Fueled Firestorm',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\102_Clash with the Army.png" id="102_Clash with the Army" data-flag="@X" onclick="openSidebar('102_Clash with the Army',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\5_Destination Unveiled.png" id="5_Destination Unveiled" data-flag="@X" onclick="openSidebar('5_Destination Unveiled',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\31_Dismembered Leviathan.png" id="31_Dismembered Leviathan" data-flag="@X" onclick="openSidebar('31_Dismembered Leviathan',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\55_Clockwork Lich.png" id="55_Clockwork Lich" data-flag="@X" onclick="openSidebar('55_Clockwork Lich',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\80_Blazeblade Adept.png" id="80_Blazeblade Adept" data-flag="@X" onclick="openSidebar('80_Blazeblade Adept',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\104_Eerie Propagation.png" id="104_Eerie Propagation" data-flag="@X" onclick="openSidebar('104_Eerie Propagation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\7_Ethereal Burdener.png" id="7_Ethereal Burdener" data-flag="@X" onclick="openSidebar('7_Ethereal Burdener',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\38_Glimmertide Inventor.png" id="38_Glimmertide Inventor" data-flag="@X" onclick="openSidebar('38_Glimmertide Inventor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\56_Deepwater Lamia.png" id="56_Deepwater Lamia" data-flag="@X" onclick="openSidebar('56_Deepwater Lamia',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\81_Blooddrinker Champion.png" id="81_Blooddrinker Champion" data-flag="@X" onclick="openSidebar('81_Blooddrinker Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\105_Ester Woods Protector.png" id="105_Ester Woods Protector" data-flag="@X" onclick="openSidebar('105_Ester Woods Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\12_Mountainborn Angel.png" id="12_Mountainborn Angel" data-flag="@X" onclick="openSidebar('12_Mountainborn Angel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\40_Observant Gemslinger.png" id="40_Observant Gemslinger" data-flag="@X" onclick="openSidebar('40_Observant Gemslinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\57_Disease in the Ranks.png" id="57_Disease in the Ranks" data-flag="@X" onclick="openSidebar('57_Disease in the Ranks',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\82_Brave the Mountaintops.png" id="82_Brave the Mountaintops" data-flag="@X" onclick="openSidebar('82_Brave the Mountaintops',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\107_Mentoring Shiftsword.png" id="107_Mentoring Shiftsword" data-flag="@X" onclick="openSidebar('107_Mentoring Shiftsword',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\14_Quickdraw Thug.png" id="14_Quickdraw Thug" data-flag="@X" onclick="openSidebar('14_Quickdraw Thug',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\42_Sea-Mad Pirate.png" id="42_Sea-Mad Pirate" data-flag="@X" onclick="openSidebar('42_Sea-Mad Pirate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\60_Emerge from Death.png" id="60_Emerge from Death" data-flag="@X" onclick="openSidebar('60_Emerge from Death',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\83_Captain of Possibility.png" id="83_Captain of Possibility" data-flag="@X" onclick="openSidebar('83_Captain of Possibility',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\109_Mist Tamer.png" id="109_Mist Tamer" data-flag="@X" onclick="openSidebar('109_Mist Tamer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\15_Resurface the Meek.png" id="15_Resurface the Meek" data-flag="@X" onclick="openSidebar('15_Resurface the Meek',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\43_Shadow Atlas.png" id="43_Shadow Atlas" data-flag="@X" onclick="openSidebar('43_Shadow Atlas',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\61_Forbidden Siphoner.png" id="61_Forbidden Siphoner" data-flag="@X" onclick="openSidebar('61_Forbidden Siphoner',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\85_Dragonfire Ritual.png" id="85_Dragonfire Ritual" data-flag="@X" onclick="openSidebar('85_Dragonfire Ritual',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\111_Mistborn Rejuvenator.png" id="111_Mistborn Rejuvenator" data-flag="@X" onclick="openSidebar('111_Mistborn Rejuvenator',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\16_Savacide Etherealist.png" id="16_Savacide Etherealist" data-flag="@X" onclick="openSidebar('16_Savacide Etherealist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\44_Spellslinger Gem.png" id="44_Spellslinger Gem" data-flag="@X" onclick="openSidebar('44_Spellslinger Gem',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\65_Harvester of Sin.png" id="65_Harvester of Sin" data-flag="@X" onclick="openSidebar('65_Harvester of Sin',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\86_Dragonpoise Apprentice.png" id="86_Dragonpoise Apprentice" data-flag="@X" onclick="openSidebar('86_Dragonpoise Apprentice',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\114_Oqtari Champion.png" id="114_Oqtari Champion" data-flag="@X" onclick="openSidebar('114_Oqtari Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\17_Scout of the Great Plains.png" id="17_Scout of the Great Plains" data-flag="@X" onclick="openSidebar('17_Scout of the Great Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\45_Twice Drowned.png" id="45_Twice Drowned" data-flag="@X" onclick="openSidebar('45_Twice Drowned',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\67_Miser of the Drowned.png" id="67_Miser of the Drowned" data-flag="@X" onclick="openSidebar('67_Miser of the Drowned',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\87_Flameharvest Warmage.png" id="87_Flameharvest Warmage" data-flag="@X" onclick="openSidebar('87_Flameharvest Warmage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\117_Pragmatic Weaponry.png" id="117_Pragmatic Weaponry" data-flag="@X" onclick="openSidebar('117_Pragmatic Weaponry',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\19_Struggle to Subdue.png" id="19_Struggle to Subdue" data-flag="@X" onclick="openSidebar('19_Struggle to Subdue',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\46_Undead Tentacle.png" id="46_Undead Tentacle" data-flag="@X" onclick="openSidebar('46_Undead Tentacle',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\69_Ravenous Drowned.png" id="69_Ravenous Drowned" data-flag="@X" onclick="openSidebar('69_Ravenous Drowned',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\94_Sanguine Looter.png" id="94_Sanguine Looter" data-flag="@X" onclick="openSidebar('94_Sanguine Looter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\121_Survival Adept.png" id="121_Survival Adept" data-flag="@X" onclick="openSidebar('121_Survival Adept',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\21_Valeyan Battalion Captain.png" id="21_Valeyan Battalion Captain" data-flag="@X" onclick="openSidebar('21_Valeyan Battalion Captain',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\47_Unveil the Mists.png" id="47_Unveil the Mists" data-flag="@X" onclick="openSidebar('47_Unveil the Mists',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\73_Siphoning Onyx.png" id="73_Siphoning Onyx" data-flag="@X" onclick="openSidebar('73_Siphoning Onyx',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\98_Split Focus.png" id="98_Split Focus" data-flag="@X" onclick="openSidebar('98_Split Focus',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\124_Woodland Recruiter.png" id="124_Woodland Recruiter" data-flag="@X" onclick="openSidebar('124_Woodland Recruiter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\24_Valeyan Martial Guard.png" id="24_Valeyan Martial Guard" data-flag="@X" onclick="openSidebar('24_Valeyan Martial Guard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\50_Wisp of Glimmers.png" id="50_Wisp of Glimmers" data-flag="@X" onclick="openSidebar('50_Wisp of Glimmers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\74_Strategic Hitjob.png" id="74_Strategic Hitjob" data-flag="@X" onclick="openSidebar('74_Strategic Hitjob',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\99_Study the Martial Code.png" id="99_Study the Martial Code" data-flag="@X" onclick="openSidebar('99_Study the Martial Code',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\125_Yarkasing Pathlighter.png" id="125_Yarkasing Pathlighter" data-flag="@X" onclick="openSidebar('125_Yarkasing Pathlighter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\2_Clear Up.png" id="2_Clear Up" data-flag="@X" onclick="openSidebar('2_Clear Up',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\28_Charge Burst.png" id="28_Charge Burst" data-flag="@X" onclick="openSidebar('28_Charge Burst',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\52_Brier Slopes Brute.png" id="52_Brier Slopes Brute" data-flag="@X" onclick="openSidebar('52_Brier Slopes Brute',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\76_Accelerant Tactics.png" id="76_Accelerant Tactics" data-flag="@X" onclick="openSidebar('76_Accelerant Tactics',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\103_Commune with the Mist.png" id="103_Commune with the Mist" data-flag="@X" onclick="openSidebar('103_Commune with the Mist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\4_Desiccated Mothling.png" id="4_Desiccated Mothling" data-flag="@X" onclick="openSidebar('4_Desiccated Mothling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\29_Desiccated Aven.png" id="29_Desiccated Aven" data-flag="@X" onclick="openSidebar('29_Desiccated Aven',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\53_Chargesap Martialist.png" id="53_Chargesap Martialist" data-flag="@X" onclick="openSidebar('53_Chargesap Martialist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\77_Ancient Maskbearer.png" id="77_Ancient Maskbearer" data-flag="@X" onclick="openSidebar('77_Ancient Maskbearer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\106_Ironbark Invigoration.png" id="106_Ironbark Invigoration" data-flag="@X" onclick="openSidebar('106_Ironbark Invigoration',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\6_Drowned Harpy.png" id="6_Drowned Harpy" data-flag="@X" onclick="openSidebar('6_Drowned Harpy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\30_Disenchanting Fog.png" id="30_Disenchanting Fog" data-flag="@X" onclick="openSidebar('30_Disenchanting Fog',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\58_Drag to the Depths.png" id="58_Drag to the Depths" data-flag="@X" onclick="openSidebar('58_Drag to the Depths',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\84_Deceptive Chargemage.png" id="84_Deceptive Chargemage" data-flag="@X" onclick="openSidebar('84_Deceptive Chargemage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\108_Merchant of the Great Plains.png" id="108_Merchant of the Great Plains" data-flag="@X" onclick="openSidebar('108_Merchant of the Great Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\8_Fogbound Elemental.png" id="8_Fogbound Elemental" data-flag="@X" onclick="openSidebar('8_Fogbound Elemental',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\32_Dredge Diver.png" id="32_Dredge Diver" data-flag="@X" onclick="openSidebar('32_Dredge Diver',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\59_Dragged Under.png" id="59_Dragged Under" data-flag="@X" onclick="openSidebar('59_Dragged Under',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\88_Gemfire Golem.png" id="88_Gemfire Golem" data-flag="@X" onclick="openSidebar('88_Gemfire Golem',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\110_Mist-Possessed Grizzly.png" id="110_Mist-Possessed Grizzly" data-flag="@X" onclick="openSidebar('110_Mist-Possessed Grizzly',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\9_Lost in the Fog.png" id="9_Lost in the Fog" data-flag="@X" onclick="openSidebar('9_Lost in the Fog',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\33_Drowned Memories.png" id="33_Drowned Memories" data-flag="@X" onclick="openSidebar('33_Drowned Memories',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\62_Gempoint Beam.png" id="62_Gempoint Beam" data-flag="@X" onclick="openSidebar('62_Gempoint Beam',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\89_Glimpse the Red Horizon.png" id="89_Glimpse the Red Horizon" data-flag="@X" onclick="openSidebar('89_Glimpse the Red Horizon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\112_Misthide Explorer.png" id="112_Misthide Explorer" data-flag="@X" onclick="openSidebar('112_Misthide Explorer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\10_Merchant of the Underpass.png" id="10_Merchant of the Underpass" data-flag="@X" onclick="openSidebar('10_Merchant of the Underpass',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\34_Envelop.png" id="34_Envelop" data-flag="@X" onclick="openSidebar('34_Envelop',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\63_Generator Ritualist.png" id="63_Generator Ritualist" data-flag="@X" onclick="openSidebar('63_Generator Ritualist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\90_Improvised Armament.png" id="90_Improvised Armament" data-flag="@X" onclick="openSidebar('90_Improvised Armament',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\113_Miststalker Behemoth.png" id="113_Miststalker Behemoth" data-flag="@X" onclick="openSidebar('113_Miststalker Behemoth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\11_Mistborn Unicorn.png" id="11_Mistborn Unicorn" data-flag="@X" onclick="openSidebar('11_Mistborn Unicorn',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\35_Fogscry Sphinx.png" id="35_Fogscry Sphinx" data-flag="@X" onclick="openSidebar('35_Fogscry Sphinx',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\64_Harvest Intelligence.png" id="64_Harvest Intelligence" data-flag="@X" onclick="openSidebar('64_Harvest Intelligence',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\91_Leader of the Phalanx.png" id="91_Leader of the Phalanx" data-flag="@X" onclick="openSidebar('91_Leader of the Phalanx',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\115_Oqtari Enforcer.png" id="115_Oqtari Enforcer" data-flag="@X" onclick="openSidebar('115_Oqtari Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\13_Quickdraw.png" id="13_Quickdraw" data-flag="@X" onclick="openSidebar('13_Quickdraw',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\36_Gemchannel Golem.png" id="36_Gemchannel Golem" data-flag="@X" onclick="openSidebar('36_Gemchannel Golem',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\66_Merchant of the Isles.png" id="66_Merchant of the Isles" data-flag="@X" onclick="openSidebar('66_Merchant of the Isles',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\92_Merchant of the Capital.png" id="92_Merchant of the Capital" data-flag="@X" onclick="openSidebar('92_Merchant of the Capital',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\116_Oqtari Shiftsword.png" id="116_Oqtari Shiftsword" data-flag="@X" onclick="openSidebar('116_Oqtari Shiftsword',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\18_Shatter the Spoils.png" id="18_Shatter the Spoils" data-flag="@X" onclick="openSidebar('18_Shatter the Spoils',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\37_Gemspark Prison.png" id="37_Gemspark Prison" data-flag="@X" onclick="openSidebar('37_Gemspark Prison',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\68_Necromantic Charge.png" id="68_Necromantic Charge" data-flag="@X" onclick="openSidebar('68_Necromantic Charge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\93_Prism Beam.png" id="93_Prism Beam" data-flag="@X" onclick="openSidebar('93_Prism Beam',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\118_Prod the Mist.png" id="118_Prod the Mist" data-flag="@X" onclick="openSidebar('118_Prod the Mist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\20_Unfortunate Shipmender.png" id="20_Unfortunate Shipmender" data-flag="@X" onclick="openSidebar('20_Unfortunate Shipmender',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\39_Merchant of the North.png" id="39_Merchant of the North" data-flag="@X" onclick="openSidebar('39_Merchant of the North',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\70_Returned Ranksman.png" id="70_Returned Ranksman" data-flag="@X" onclick="openSidebar('70_Returned Ranksman',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\95_Scorch and Scour.png" id="95_Scorch and Scour" data-flag="@X" onclick="openSidebar('95_Scorch and Scour',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\119_Rage Pheromone.png" id="119_Rage Pheromone" data-flag="@X" onclick="openSidebar('119_Rage Pheromone',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\22_Valeyan Battleraptor.png" id="22_Valeyan Battleraptor" data-flag="@X" onclick="openSidebar('22_Valeyan Battleraptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\41_Opaelian Generator.png" id="41_Opaelian Generator" data-flag="@X" onclick="openSidebar('41_Opaelian Generator',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\71_Rotting Current.png" id="71_Rotting Current" data-flag="@X" onclick="openSidebar('71_Rotting Current',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\96_Sharean Banneret.png" id="96_Sharean Banneret" data-flag="@X" onclick="openSidebar('96_Sharean Banneret',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\120_Rallying Commander.png" id="120_Rallying Commander" data-flag="@X" onclick="openSidebar('120_Rallying Commander',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\23_Valeyan Gateguard.png" id="23_Valeyan Gateguard" data-flag="@X" onclick="openSidebar('23_Valeyan Gateguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\48_Wash Ashore.png" id="48_Wash Ashore" data-flag="@X" onclick="openSidebar('48_Wash Ashore',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\72_Savacide Unearther.png" id="72_Savacide Unearther" data-flag="@X" onclick="openSidebar('72_Savacide Unearther',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\97_Shrouded Fireblast.png" id="97_Shrouded Fireblast" data-flag="@X" onclick="openSidebar('97_Shrouded Fireblast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\122_Tallest of the Ranks.png" id="122_Tallest of the Ranks" data-flag="@X" onclick="openSidebar('122_Tallest of the Ranks',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\25_Yarkasing Champion.png" id="25_Yarkasing Champion" data-flag="@X" onclick="openSidebar('25_Yarkasing Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\49_Wave Stall.png" id="49_Wave Stall" data-flag="@X" onclick="openSidebar('49_Wave Stall',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\75_Vampiric Eagle.png" id="75_Vampiric Eagle" data-flag="@X" onclick="openSidebar('75_Vampiric Eagle',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\100_Vlisting Shiftshield.png" id="100_Vlisting Shiftshield" data-flag="@X" onclick="openSidebar('100_Vlisting Shiftshield',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\123_Underwater Scavenging.png" id="123_Underwater Scavenging" data-flag="@X" onclick="openSidebar('123_Underwater Scavenging',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\128_Chrome Drake.png" id="128_Chrome Drake" data-flag="@X" onclick="openSidebar('128_Chrome Drake',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\134_Orb of Pained Knowledge.png" id="134_Orb of Pained Knowledge" data-flag="@X" onclick="openSidebar('134_Orb of Pained Knowledge',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\126_Avenger Bloodknight.png" id="126_Avenger Bloodknight" data-flag="@X" onclick="openSidebar('126_Avenger Bloodknight',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\137_Regiment Recruiter.png" id="137_Regiment Recruiter" data-flag="@X" onclick="openSidebar('137_Regiment Recruiter',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\132_Jungleborn Mentor.png" id="132_Jungleborn Mentor" data-flag="@X" onclick="openSidebar('132_Jungleborn Mentor',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\140_Stuff the Unworthy.png" id="140_Stuff the Unworthy" data-flag="@X" onclick="openSidebar('140_Stuff the Unworthy',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\141_Supercharge Ritualist.png" id="141_Supercharge Ritualist" data-flag="@X" onclick="openSidebar('141_Supercharge Ritualist',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\131_Jungle Mission Specialist.png" id="131_Jungle Mission Specialist" data-flag="@X" onclick="openSidebar('131_Jungle Mission Specialist',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\145_Wrathful Champion.png" id="145_Wrathful Champion" data-flag="@X" onclick="openSidebar('145_Wrathful Champion',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\133_Jungleborn Scout.png" id="133_Jungleborn Scout" data-flag="@X" onclick="openSidebar('133_Jungleborn Scout',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\156_Phantasmal Eagle.png" id="156_Phantasmal Eagle" data-flag="@X" onclick="openSidebar('156_Phantasmal Eagle',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\157_Radiance Collector.png" id="157_Radiance Collector" data-flag="@X" onclick="openSidebar('157_Radiance Collector',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\155_Pervasive Militocrat.png" id="155_Pervasive Militocrat" data-flag="@X" onclick="openSidebar('155_Pervasive Militocrat',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\146_Army of Two.png" id="146_Army of Two" data-flag="@X" onclick="openSidebar('146_Army of Two',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\160_Stalwart Scout.png" id="160_Stalwart Scout" data-flag="@X" onclick="openSidebar('160_Stalwart Scout',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\143_Treasure Sifter.png" id="143_Treasure Sifter" data-flag="@X" onclick="openSidebar('143_Treasure Sifter',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\129_Gemflinging.png" id="129_Gemflinging" data-flag="@X" onclick="openSidebar('129_Gemflinging',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\130_Guide to War's End.png" id="130_Guide to Wars End" data-flag="@X" onclick="openSidebar('130_Guide to Wars End',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\135_Peninsula Marauder.png" id="135_Peninsula Marauder" data-flag="@X" onclick="openSidebar('135_Peninsula Marauder',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\127_Beacon Over the Oceans.png" id="127_Beacon Over the Oceans" data-flag="@X" onclick="openSidebar('127_Beacon Over the Oceans',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\144_Warfallen Angel.png" id="144_Warfallen Angel" data-flag="@X" onclick="openSidebar('144_Warfallen Angel',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\139_Spelldrinker Pendant.png" id="139_Spelldrinker Pendant" data-flag="@X" onclick="openSidebar('139_Spelldrinker Pendant',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\138_Resolute Deathmarcher.png" id="138_Resolute Deathmarcher" data-flag="@X" onclick="openSidebar('138_Resolute Deathmarcher',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\136_Regiment Pathmaker.png" id="136_Regiment Pathmaker" data-flag="@X" onclick="openSidebar('136_Regiment Pathmaker',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\142_Sylran, Many-Horned.png" id="142_Sylran, Many-Horned" data-flag="@X" onclick="openSidebar('142_Sylran, Many-Horned',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\159_Soul-Siphon Warlock.png" id="159_Soul-Siphon Warlock" data-flag="@X" onclick="openSidebar('159_Soul-Siphon Warlock',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\153_Glimmermage Adept.png" id="153_Glimmermage Adept" data-flag="@X" onclick="openSidebar('153_Glimmermage Adept',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\152_Exploiter of Undergrowth.png" id="152_Exploiter of Undergrowth" data-flag="@X" onclick="openSidebar('152_Exploiter of Undergrowth',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\158_Regiment Scout.png" id="158_Regiment Scout" data-flag="@X" onclick="openSidebar('158_Regiment Scout',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\154_Great Plains Guide.png" id="154_Great Plains Guide" data-flag="@X" onclick="openSidebar('154_Great Plains Guide',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\147_Crest of Ironbark.png" id="147_Crest of Ironbark" data-flag="@X" onclick="openSidebar('147_Crest of Ironbark',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\148_Crest of Magma.png" id="148_Crest of Magma" data-flag="@X" onclick="openSidebar('148_Crest of Magma',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\149_Crest of Radiance.png" id="149_Crest of Radiance" data-flag="@X" onclick="openSidebar('149_Crest of Radiance',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\150_Crest of Ruby.png" id="150_Crest of Ruby" data-flag="@X" onclick="openSidebar('150_Crest of Ruby',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\151_Crest of Waves.png" id="151_Crest of Waves" data-flag="@X" onclick="openSidebar('151_Crest of Waves',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\128_Chrome Drake.png" id="128_Chrome Drake" data-flag="@X" onclick="openSidebar('128_Chrome Drake',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\134_Orb of Pained Knowledge.png" id="134_Orb of Pained Knowledge" data-flag="@X" onclick="openSidebar('134_Orb of Pained Knowledge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\126_Avenger Bloodknight.png" id="126_Avenger Bloodknight" data-flag="@X" onclick="openSidebar('126_Avenger Bloodknight',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\137_Regiment Recruiter.png" id="137_Regiment Recruiter" data-flag="@X" onclick="openSidebar('137_Regiment Recruiter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\132_Jungleborn Mentor.png" id="132_Jungleborn Mentor" data-flag="@X" onclick="openSidebar('132_Jungleborn Mentor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\140_Stuff the Unworthy.png" id="140_Stuff the Unworthy" data-flag="@X" onclick="openSidebar('140_Stuff the Unworthy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\141_Supercharge Ritualist.png" id="141_Supercharge Ritualist" data-flag="@X" onclick="openSidebar('141_Supercharge Ritualist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\131_Jungle Mission Specialist.png" id="131_Jungle Mission Specialist" data-flag="@X" onclick="openSidebar('131_Jungle Mission Specialist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\145_Wrathful Champion.png" id="145_Wrathful Champion" data-flag="@X" onclick="openSidebar('145_Wrathful Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\133_Jungleborn Scout.png" id="133_Jungleborn Scout" data-flag="@X" onclick="openSidebar('133_Jungleborn Scout',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\156_Phantasmal Eagle.png" id="156_Phantasmal Eagle" data-flag="@X" onclick="openSidebar('156_Phantasmal Eagle',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\157_Radiance Collector.png" id="157_Radiance Collector" data-flag="@X" onclick="openSidebar('157_Radiance Collector',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\155_Pervasive Militocrat.png" id="155_Pervasive Militocrat" data-flag="@X" onclick="openSidebar('155_Pervasive Militocrat',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\146_Army of Two.png" id="146_Army of Two" data-flag="@X" onclick="openSidebar('146_Army of Two',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\160_Stalwart Scout.png" id="160_Stalwart Scout" data-flag="@X" onclick="openSidebar('160_Stalwart Scout',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\143_Treasure Sifter.png" id="143_Treasure Sifter" data-flag="@X" onclick="openSidebar('143_Treasure Sifter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\129_Gemflinging.png" id="129_Gemflinging" data-flag="@X" onclick="openSidebar('129_Gemflinging',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\130_Guide to War's End.png" id="130_Guide to Wars End" data-flag="@X" onclick="openSidebar('130_Guide to Wars End',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\135_Peninsula Marauder.png" id="135_Peninsula Marauder" data-flag="@X" onclick="openSidebar('135_Peninsula Marauder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\127_Beacon Over the Oceans.png" id="127_Beacon Over the Oceans" data-flag="@X" onclick="openSidebar('127_Beacon Over the Oceans',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\144_Warfallen Angel.png" id="144_Warfallen Angel" data-flag="@X" onclick="openSidebar('144_Warfallen Angel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\139_Spelldrinker Pendant.png" id="139_Spelldrinker Pendant" data-flag="@X" onclick="openSidebar('139_Spelldrinker Pendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\138_Resolute Deathmarcher.png" id="138_Resolute Deathmarcher" data-flag="@X" onclick="openSidebar('138_Resolute Deathmarcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\136_Regiment Pathmaker.png" id="136_Regiment Pathmaker" data-flag="@X" onclick="openSidebar('136_Regiment Pathmaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\142_Sylran, Many-Horned.png" id="142_Sylran, Many-Horned" data-flag="@X" onclick="openSidebar('142_Sylran, Many-Horned',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\159_Soul-Siphon Warlock.png" id="159_Soul-Siphon Warlock" data-flag="@X" onclick="openSidebar('159_Soul-Siphon Warlock',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\153_Glimmermage Adept.png" id="153_Glimmermage Adept" data-flag="@X" onclick="openSidebar('153_Glimmermage Adept',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\152_Exploiter of Undergrowth.png" id="152_Exploiter of Undergrowth" data-flag="@X" onclick="openSidebar('152_Exploiter of Undergrowth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\158_Regiment Scout.png" id="158_Regiment Scout" data-flag="@X" onclick="openSidebar('158_Regiment Scout',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\154_Great Plains Guide.png" id="154_Great Plains Guide" data-flag="@X" onclick="openSidebar('154_Great Plains Guide',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\147_Crest of Ironbark.png" id="147_Crest of Ironbark" data-flag="@X" onclick="openSidebar('147_Crest of Ironbark',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\148_Crest of Magma.png" id="148_Crest of Magma" data-flag="@X" onclick="openSidebar('148_Crest of Magma',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\149_Crest of Radiance.png" id="149_Crest of Radiance" data-flag="@X" onclick="openSidebar('149_Crest of Radiance',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\150_Crest of Ruby.png" id="150_Crest of Ruby" data-flag="@X" onclick="openSidebar('150_Crest of Ruby',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\151_Crest of Waves.png" id="151_Crest of Waves" data-flag="@X" onclick="openSidebar('151_Crest of Waves',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\161_Avendwell Landmark.png" id="161_Avendwell Landmark" data-flag="@X" onclick="openSidebar('161_Avendwell Landmark',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\165_Opaelian Landmark.png" id="165_Opaelian Landmark" data-flag="@X" onclick="openSidebar('165_Opaelian Landmark',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\166_Savacide Landmark.png" id="166_Savacide Landmark" data-flag="@X" onclick="openSidebar('166_Savacide Landmark',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\167_Sharean Landmark.png" id="167_Sharean Landmark" data-flag="@X" onclick="openSidebar('167_Sharean Landmark',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\170_Yarkasing Landmark.png" id="170_Yarkasing Landmark" data-flag="@X" onclick="openSidebar('170_Yarkasing Landmark',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\162_Brilliant Crest.png" id="162_Brilliant Crest" data-flag="@X" onclick="openSidebar('162_Brilliant Crest',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\163_Explorer's Scope.png" id="163_Explorers Scope" data-flag="@X" onclick="openSidebar('163_Explorers Scope',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\164_Gemcraft Filigree.png" id="164_Gemcraft Filigree" data-flag="@X" onclick="openSidebar('164_Gemcraft Filigree',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\168_Statue of Golden Victory.png" id="168_Statue of Golden Victory" data-flag="@X" onclick="openSidebar('168_Statue of Golden Victory',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\169_Unstable Silumgite.png" id="169_Unstable Silumgite" data-flag="@X" onclick="openSidebar('169_Unstable Silumgite',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img data-alt_src="/sets\IRA-files\img\174_Frosted Plain_back.png" alt="/sets\IRA-files\img\174_Frosted Plain_front.png" id="174_Frosted Plain" data-flag="@XD" onclick="openSidebar('174_Frosted Plain',false)"><button class="flip-btn" onclick="imgFlip('174_Frosted Plain')"></button></div>
-				<div class="container"><img data-alt_src="/sets\IRA-files\img\172_Cerulean Fogbank_back.png" alt="/sets\IRA-files\img\172_Cerulean Fogbank_front.png" id="172_Cerulean Fogbank" data-flag="@XD" onclick="openSidebar('172_Cerulean Fogbank',false)"><button class="flip-btn" onclick="imgFlip('172_Cerulean Fogbank')"></button></div>
-				<div class="container"><img data-alt_src="/sets\IRA-files\img\171_Ashy Badlands_back.png" alt="/sets\IRA-files\img\171_Ashy Badlands_front.png" id="171_Ashy Badlands" data-flag="@XD" onclick="openSidebar('171_Ashy Badlands',false)"><button class="flip-btn" onclick="imgFlip('171_Ashy Badlands')"></button></div>
-				<div class="container"><img data-alt_src="/sets\IRA-files\img\173_Foggy Peak_back.png" alt="/sets\IRA-files\img\173_Foggy Peak_front.png" id="173_Foggy Peak" data-flag="@XD" onclick="openSidebar('173_Foggy Peak',false)"><button class="flip-btn" onclick="imgFlip('173_Foggy Peak')"></button></div>
-				<div class="container"><img data-alt_src="/sets\IRA-files\img\177_Morningdew Vale_back.png" alt="/sets\IRA-files\img\177_Morningdew Vale_front.png" id="177_Morningdew Vale" data-flag="@XD" onclick="openSidebar('177_Morningdew Vale',false)"><button class="flip-btn" onclick="imgFlip('177_Morningdew Vale')"></button></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img data-alt_src="/sets\IRA-files\img\178_Overcast Marsh_back.png" alt="/sets\IRA-files\img\178_Overcast Marsh_front.png" id="178_Overcast Marsh" data-flag="@XD" onclick="openSidebar('178_Overcast Marsh',false)"><button class="flip-btn" onclick="imgFlip('178_Overcast Marsh')"></button></div>
-				<div class="container"><img data-alt_src="/sets\IRA-files\img\175_Limestone Steam Pool_back.png" alt="/sets\IRA-files\img\175_Limestone Steam Pool_front.png" id="175_Limestone Steam Pool" data-flag="@XD" onclick="openSidebar('175_Limestone Steam Pool',false)"><button class="flip-btn" onclick="imgFlip('175_Limestone Steam Pool')"></button></div>
-				<div class="container"><img data-alt_src="/sets\IRA-files\img\181_Shaded Woods_back.png" alt="/sets\IRA-files\img\181_Shaded Woods_front.png" id="181_Shaded Woods" data-flag="@XD" onclick="openSidebar('181_Shaded Woods',false)"><button class="flip-btn" onclick="imgFlip('181_Shaded Woods')"></button></div>
-				<div class="container"><img data-alt_src="/sets\IRA-files\img\180_Sandstorm Steppe_back.png" alt="/sets\IRA-files\img\180_Sandstorm Steppe_front.png" id="180_Sandstorm Steppe" data-flag="@XD" onclick="openSidebar('180_Sandstorm Steppe',false)"><button class="flip-btn" onclick="imgFlip('180_Sandstorm Steppe')"></button></div>
-				<div class="container"><img data-alt_src="/sets\IRA-files\img\176_Misty Taiga_back.png" alt="/sets\IRA-files\img\176_Misty Taiga_front.png" id="176_Misty Taiga" data-flag="@XD" onclick="openSidebar('176_Misty Taiga',false)"><button class="flip-btn" onclick="imgFlip('176_Misty Taiga')"></button></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img data-alt_src="/sets\IRA-files\img\179_Remote Barracks_back.png" alt="/sets\IRA-files\img\179_Remote Barracks_front.png" id="179_Remote Barracks" data-flag="@XD" onclick="openSidebar('179_Remote Barracks',false)"><button class="flip-btn" onclick="imgFlip('179_Remote Barracks')"></button></div>
-				<div class="container"><img data-alt_src="/sets\IRA-files\img\182_Murky Vista_back.png" alt="/sets\IRA-files\img\182_Murky Vista_front.png" id="182_Murky Vista" data-flag="@XD" onclick="openSidebar('182_Murky Vista',false)"><button class="flip-btn" onclick="imgFlip('182_Murky Vista')"></button></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\183_Plains_IRA_1.png" id="183_Plains_IRA_1" data-flag="@X" onclick="openSidebar('183_Plains_IRA_1',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\184_Plains_IRA_2.png" id="184_Plains_IRA_2" data-flag="@X" onclick="openSidebar('184_Plains_IRA_2',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\185_Plains_IRA_3.png" id="185_Plains_IRA_3" data-flag="@X" onclick="openSidebar('185_Plains_IRA_3',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\186_Island_IRA_1.png" id="186_Island_IRA_1" data-flag="@X" onclick="openSidebar('186_Island_IRA_1',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\187_Island_IRA_2.png" id="187_Island_IRA_2" data-flag="@X" onclick="openSidebar('187_Island_IRA_2',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\188_Island_IRA_3.png" id="188_Island_IRA_3" data-flag="@X" onclick="openSidebar('188_Island_IRA_3',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\189_Swamp_IRA_1.png" id="189_Swamp_IRA_1" data-flag="@X" onclick="openSidebar('189_Swamp_IRA_1',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\190_Swamp_IRA_2.png" id="190_Swamp_IRA_2" data-flag="@X" onclick="openSidebar('190_Swamp_IRA_2',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\191_Swamp_IRA_3.png" id="191_Swamp_IRA_3" data-flag="@X" onclick="openSidebar('191_Swamp_IRA_3',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\192_Mountain_IRA_1.png" id="192_Mountain_IRA_1" data-flag="@X" onclick="openSidebar('192_Mountain_IRA_1',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\193_Mountain_IRA_2.png" id="193_Mountain_IRA_2" data-flag="@X" onclick="openSidebar('193_Mountain_IRA_2',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\194_Mountain_IRA_3.png" id="194_Mountain_IRA_3" data-flag="@X" onclick="openSidebar('194_Mountain_IRA_3',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\195_Forest_IRA_1.png" id="195_Forest_IRA_1" data-flag="@X" onclick="openSidebar('195_Forest_IRA_1',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\196_Forest_IRA_2.png" id="196_Forest_IRA_2" data-flag="@X" onclick="openSidebar('196_Forest_IRA_2',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\197_Forest_IRA_3.png" id="197_Forest_IRA_3" data-flag="@X" onclick="openSidebar('197_Forest_IRA_3',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\161_Avendwell Landmark.png" id="161_Avendwell Landmark" data-flag="@X" onclick="openSidebar('161_Avendwell Landmark',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\165_Opaelian Landmark.png" id="165_Opaelian Landmark" data-flag="@X" onclick="openSidebar('165_Opaelian Landmark',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\166_Savacide Landmark.png" id="166_Savacide Landmark" data-flag="@X" onclick="openSidebar('166_Savacide Landmark',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\167_Sharean Landmark.png" id="167_Sharean Landmark" data-flag="@X" onclick="openSidebar('167_Sharean Landmark',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\170_Yarkasing Landmark.png" id="170_Yarkasing Landmark" data-flag="@X" onclick="openSidebar('170_Yarkasing Landmark',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\162_Brilliant Crest.png" id="162_Brilliant Crest" data-flag="@X" onclick="openSidebar('162_Brilliant Crest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\163_Explorer's Scope.png" id="163_Explorers Scope" data-flag="@X" onclick="openSidebar('163_Explorers Scope',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\164_Gemcraft Filigree.png" id="164_Gemcraft Filigree" data-flag="@X" onclick="openSidebar('164_Gemcraft Filigree',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\168_Statue of Golden Victory.png" id="168_Statue of Golden Victory" data-flag="@X" onclick="openSidebar('168_Statue of Golden Victory',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\169_Unstable Silumgite.png" id="169_Unstable Silumgite" data-flag="@X" onclick="openSidebar('169_Unstable Silumgite',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\IRA-files\img\174_Frosted Plain_back.png" alt="/sets\IRA-files\img\174_Frosted Plain_front.png" id="174_Frosted Plain" data-flag="@XD" onclick="openSidebar('174_Frosted Plain',false)"><button class="flip-btn" onclick="imgFlip('174_Frosted Plain')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\IRA-files\img\172_Cerulean Fogbank_back.png" alt="/sets\IRA-files\img\172_Cerulean Fogbank_front.png" id="172_Cerulean Fogbank" data-flag="@XD" onclick="openSidebar('172_Cerulean Fogbank',false)"><button class="flip-btn" onclick="imgFlip('172_Cerulean Fogbank')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\IRA-files\img\171_Ashy Badlands_back.png" alt="/sets\IRA-files\img\171_Ashy Badlands_front.png" id="171_Ashy Badlands" data-flag="@XD" onclick="openSidebar('171_Ashy Badlands',false)"><button class="flip-btn" onclick="imgFlip('171_Ashy Badlands')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\IRA-files\img\173_Foggy Peak_back.png" alt="/sets\IRA-files\img\173_Foggy Peak_front.png" id="173_Foggy Peak" data-flag="@XD" onclick="openSidebar('173_Foggy Peak',false)"><button class="flip-btn" onclick="imgFlip('173_Foggy Peak')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\IRA-files\img\177_Morningdew Vale_back.png" alt="/sets\IRA-files\img\177_Morningdew Vale_front.png" id="177_Morningdew Vale" data-flag="@XD" onclick="openSidebar('177_Morningdew Vale',false)"><button class="flip-btn" onclick="imgFlip('177_Morningdew Vale')"></button></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\IRA-files\img\178_Overcast Marsh_back.png" alt="/sets\IRA-files\img\178_Overcast Marsh_front.png" id="178_Overcast Marsh" data-flag="@XD" onclick="openSidebar('178_Overcast Marsh',false)"><button class="flip-btn" onclick="imgFlip('178_Overcast Marsh')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\IRA-files\img\175_Limestone Steam Pool_back.png" alt="/sets\IRA-files\img\175_Limestone Steam Pool_front.png" id="175_Limestone Steam Pool" data-flag="@XD" onclick="openSidebar('175_Limestone Steam Pool',false)"><button class="flip-btn" onclick="imgFlip('175_Limestone Steam Pool')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\IRA-files\img\181_Shaded Woods_back.png" alt="/sets\IRA-files\img\181_Shaded Woods_front.png" id="181_Shaded Woods" data-flag="@XD" onclick="openSidebar('181_Shaded Woods',false)"><button class="flip-btn" onclick="imgFlip('181_Shaded Woods')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\IRA-files\img\180_Sandstorm Steppe_back.png" alt="/sets\IRA-files\img\180_Sandstorm Steppe_front.png" id="180_Sandstorm Steppe" data-flag="@XD" onclick="openSidebar('180_Sandstorm Steppe',false)"><button class="flip-btn" onclick="imgFlip('180_Sandstorm Steppe')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\IRA-files\img\176_Misty Taiga_back.png" alt="/sets\IRA-files\img\176_Misty Taiga_front.png" id="176_Misty Taiga" data-flag="@XD" onclick="openSidebar('176_Misty Taiga',false)"><button class="flip-btn" onclick="imgFlip('176_Misty Taiga')"></button></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\IRA-files\img\179_Remote Barracks_back.png" alt="/sets\IRA-files\img\179_Remote Barracks_front.png" id="179_Remote Barracks" data-flag="@XD" onclick="openSidebar('179_Remote Barracks',false)"><button class="flip-btn" onclick="imgFlip('179_Remote Barracks')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\IRA-files\img\182_Murky Vista_back.png" alt="/sets\IRA-files\img\182_Murky Vista_front.png" id="182_Murky Vista" data-flag="@XD" onclick="openSidebar('182_Murky Vista',false)"><button class="flip-btn" onclick="imgFlip('182_Murky Vista')"></button></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\183_Plains_IRA_1.png" id="183_Plains_IRA_1" data-flag="@X" onclick="openSidebar('183_Plains_IRA_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\184_Plains_IRA_2.png" id="184_Plains_IRA_2" data-flag="@X" onclick="openSidebar('184_Plains_IRA_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\185_Plains_IRA_3.png" id="185_Plains_IRA_3" data-flag="@X" onclick="openSidebar('185_Plains_IRA_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\186_Island_IRA_1.png" id="186_Island_IRA_1" data-flag="@X" onclick="openSidebar('186_Island_IRA_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\187_Island_IRA_2.png" id="187_Island_IRA_2" data-flag="@X" onclick="openSidebar('187_Island_IRA_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\188_Island_IRA_3.png" id="188_Island_IRA_3" data-flag="@X" onclick="openSidebar('188_Island_IRA_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\189_Swamp_IRA_1.png" id="189_Swamp_IRA_1" data-flag="@X" onclick="openSidebar('189_Swamp_IRA_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\190_Swamp_IRA_2.png" id="190_Swamp_IRA_2" data-flag="@X" onclick="openSidebar('190_Swamp_IRA_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\191_Swamp_IRA_3.png" id="191_Swamp_IRA_3" data-flag="@X" onclick="openSidebar('191_Swamp_IRA_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\192_Mountain_IRA_1.png" id="192_Mountain_IRA_1" data-flag="@X" onclick="openSidebar('192_Mountain_IRA_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\193_Mountain_IRA_2.png" id="193_Mountain_IRA_2" data-flag="@X" onclick="openSidebar('193_Mountain_IRA_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\194_Mountain_IRA_3.png" id="194_Mountain_IRA_3" data-flag="@X" onclick="openSidebar('194_Mountain_IRA_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\195_Forest_IRA_1.png" id="195_Forest_IRA_1" data-flag="@X" onclick="openSidebar('195_Forest_IRA_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\196_Forest_IRA_2.png" id="196_Forest_IRA_2" data-flag="@X" onclick="openSidebar('196_Forest_IRA_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\197_Forest_IRA_3.png" id="197_Forest_IRA_3" data-flag="@X" onclick="openSidebar('197_Forest_IRA_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\1t_Copy.png" id="1t_Copy" data-flag="@X" onclick="openSidebar('1t_Copy',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\2t_Treasure.png" id="2t_Treasure" data-flag="@X" onclick="openSidebar('2t_Treasure',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\3t_Elemental.png" id="3t_Elemental" data-flag="@X" onclick="openSidebar('3t_Elemental',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\4t_Zombie.png" id="4t_Zombie" data-flag="@X" onclick="openSidebar('4t_Zombie',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\5t_Soldier.png" id="5t_Soldier" data-flag="@X" onclick="openSidebar('5t_Soldier',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\6t_Warrior.png" id="6t_Warrior" data-flag="@X" onclick="openSidebar('6t_Warrior',false)"></div>
-				<div class="container"><img alt="/sets\IRA-files\img\7t_Spectral Wolf.png" id="7t_Spectral Wolf" data-flag="@X" onclick="openSidebar('7t_Spectral Wolf',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\1t_Copy.png" id="1t_Copy" data-flag="@X" onclick="openSidebar('1t_Copy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\2t_Treasure.png" id="2t_Treasure" data-flag="@X" onclick="openSidebar('2t_Treasure',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\3t_Elemental.png" id="3t_Elemental" data-flag="@X" onclick="openSidebar('3t_Elemental',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\4t_Zombie.png" id="4t_Zombie" data-flag="@X" onclick="openSidebar('4t_Zombie',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\5t_Soldier.png" id="5t_Soldier" data-flag="@X" onclick="openSidebar('5t_Soldier',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\6t_Warrior.png" id="6t_Warrior" data-flag="@X" onclick="openSidebar('6t_Warrior',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRA-files\img\7t_Spectral Wolf.png" id="7t_Spectral Wolf" data-flag="@X" onclick="openSidebar('7t_Spectral Wolf',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -553,27 +554,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -585,17 +610,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -628,6 +655,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -637,6 +665,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
