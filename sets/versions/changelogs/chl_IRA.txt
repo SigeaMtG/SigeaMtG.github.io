@@ -1,4 +1,369 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Convert added.
+Convert added.
+Mistcowl Awakener added.
+Crystophylax, Ethereal added.
+Blazing Enlightenment added.
+Submerged Paragon added.
+Hatebear added.
+Virtue and Sin added.
+Exhumed Corvid added.
+Frigid Chargemaster added.
+Reflective Fogwing added.
+Boneminnow added.
+Xirruphin, Fleeting added.
+The Spark of Invention added.
+Mirroring Depths added.
+Chalice of the Cult added.
+Nirvana added.
+Jaws of the Depths added.
+Depths' Lure added.
+Embittered Captain added.
+Iazoketh, Dire added.
+The Council Corrupted added.
+Dredging added.
+Soulcage added.
+Alakaslam, the Grey Dawn added.
+Sir Mari, Bloodcrazed added.
+Hurler of Armaments added.
+Shiftspear Captain added.
+Rylireor, Voiceless added.
+A Culture of War added.
+Inspired Blazeblade added.
+Paindrinker Amulet added.
+Rigor Mortis added.
+Bloodlustful Champion added.
+Soldierhoof Behemoth added.
+Yark, Shiftshield Reaver added.
+Mistcowl Druid added.
+Imologir, Ambitious added.
+A Culture of Peace added.
+Mist Awakened added.
+Consolidation Captain added.
+Windbreaker added.
+Defensive Phalanx added.
+Gem affinity added.
+crazy white weenie added.
+Emperor Enorim II added.
+Alwyn Aevaris added.
+The Grand Admiral added.
+Prime Valeyan Ordun added.
+Archdruid Olion added.
+Convert bear added.
+Captain Xanlos added.
+Stifle added.
+Mist Commander added.
+Aor'Il, Scourge of Esterlis added.
+Soldier buff added.
+midrange naya dude added.
+Tactical Phalanx added.
+Orzhov Boardwipe added.
+Lifesap Auditor added.
+Affinity Gem added.
+2p matters added.
+Prime Counterspell added.
+Aggro Soldier tokens added.
+Evap commander added.
+Soldier Commander added.
+Evap enchantment added.
+Gem Commander added.
+WUBRG Mist Ench added.
+Millwipe added.
+Shirley added.
+Karan Kurem added.
+Arxikas added.
+Baldan Wazu added.
+Ovno Zig added.
+Crest of Radiance added.
+Crest of Magma added.
+Crest of Waves added.
+Crest of Ruby added.
+Crest of Ironbark added.
+Trail of Dragons added.
+The Kaleidoscope Hollow added.
+Savacide Council added.
+Ailen'Or, Ruined City added.
+Thov Da'Rul added.
+Woods of Ester added.
+Reflective Mist added.
+
+Cannon Bird removed.
+Blooddrinker Champion removed.
+UH01 — Crest of Radiance removed.
+UH02 — Crest of Magma removed.
+UH03 — Crest of Waves removed.
+UH04 — Crest of Ruby removed.
+UH05 — Crest of Ironbark removed.
+
+Unfortunate Shipmender
+rules_text: {3}{W}: Unfortunate Shipmender gets +2/+0 until end of turn.
+[i]Evaporate[/i] — {5}{W}{W}, Exile Unfortunate Shipmender from your graveyard: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery. => {3}{W}: Unfortunate Shipmender gets +2/+0 until end of turn.
+[i]Evaporate[/i] — {5}{W}{W}, Exile this card from your graveyard: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery.
+
+Valeyan Battleraptor
+pt: 5/2 => 3/4
+
+Drowned Harpy
+rules_text: [i]Evaporate[/i] — {3}{W}, Exile Drowned Harpy from your graveyard: Target creature gets +2/+0 until end of turn. Activate only as a sorcery. => [i]Evaporate[/i] — {3}{W}, Exile this card from your graveyard: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.
+
+Desiccated Mothling
+rules_text: Flying
+[i]Evaporate[/i] — {3}{W}{W}, Exile Desiccated Mothling from your graveyard: Destroy target creature. Its controller gains life equal to its mana value. Activate only as a sorcery. => Flying
+[i]Evaporate[/i] — {3}{W}{W}, Exile this card from your graveyard: Destroy target creature. Its controller gains life equal to its mana value. Activate only as a sorcery.
+
+Clear Up
+rules_text: Destroy target tapped creature.
+[i]Evaporate[/i] — {1}{W}, Exile Clear Up from your graveyard: Exile target card from a graveyard. => Destroy target tapped creature.
+[i]Evaporate[/i] — {1}{W}, Exile this card from your graveyard: Exile target card from a graveyard.
+
+Valey Battalion Captain
+rules_text: Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Whenever Valey Battalion Captain becomes tapped, creatures you control get +1/+0 and vigilance until end of turn. => Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Whenever Valey Battalion Captain becomes tapped, target creature you control gets +2/+2 and gains vigilance until end of turn.
+
+Allwatch Angel
+pt: 4/3 => 3/3
+
+Curious Treasure Diver
+rules_text: Vigilance
+[i]Evaporate[/i] — {1}{W}{W}, Exile Curious Treasure Diver from your graveyard: Search your library for an artifact or enchantment card, reveal it and put it into your hand, then shuffle. => Vigilance
+[i]Evaporate[/i] — {1}{W}{W}, Exile this card from your graveyard: Search your library for an artifact or enchantment card, reveal it and put it into your hand, then shuffle.
+
+Whiteclam Etherealist
+rules_text: When Whiteclam Etherealist enters, scry 2.
+[i]Evaporate[/i] — {1}{W}, Exile Whiteclam Etherealist from your graveyard: Exile target creature you control, then return it to the battlefield. => When Whiteclam Etherealist enters, scry 2.
+[i]Evaporate[/i] — {1}{W}, Exile this card from your graveyard: Exile target creature you control, then return it to the battlefield.
+
+Wash Ashore
+rules_text: Counter target noncreature spell.
+[i]Evaporate[/i] — {2}{U}, Exile Wash Ashore from your graveyard: Draw a card. => Counter target noncreature spell.
+[i]Evaporate[/i] — {2}{U}, Exile this card from your graveyard: Draw a card.
+
+Drowned Memories
+type: Sorcery => Instant
+rules_text: Put target creature on top of its owner's library.
+[i]Evaporate[/i] — {2}{U}, Exile Drowned Memories from your graveyard: Target player mills four cards. => Return target creature to its owner's hand.
+[i]Evaporate[/i] — {2}{U}, Exile this card from your graveyard: Target player mills four cards.
+
+Observant Gemslinger
+type: Creature — Wizard => Creature — Human Wizard
+
+Sea-Mad Pirate
+rules_text: When Sea-Mad Pirate enters or leaves, mill two cards.
+[i]Evaporate[/i] — {2}{U}{U}, Exile Sea-Mad Pirate from your graveyard: Surveil 2, then draw a card. => When Sea-Mad Pirate enters or leaves, mill two cards.
+[i]Evaporate[/i] — {2}{U}{U}, Exile this card from your graveyard: Surveil 2, then draw a card.
+
+Wisp of Glimmers
+rules_text: Flying
+[i]Evaporate[/i] — {2}{U}, Exile Wisp of Glimmers from your graveyard: Search your library for an artifact card with mana value 3 or less, reveal it, put it into your hand, then shuffle. => Flying
+[i]Evaporate[/i] — {2}{U}, Exile this card from your graveyard: Search your library for an artifact card with mana value 3 or less, reveal it, put it into your hand, then shuffle.
+
+Dismembered Leviathan
+type: Creature — Octopus => Creature — Kraken
+
+Twice Drowned
+rules_text: Counter target spell.
+[i]Evaporate[/i] — {3}{U}{U}, Exile Twice Drowned from your graveyard: Counter target spell. => Counter target spell.
+[i]Evaporate[/i] — {1}{U}, Exile this card from your graveyard: Exile up to two instant or sorcery cards from target player's graveyard.
+
+Shadow Atlas
+rules_text: {T}, Remove a charge counter from Shadow Atlas: Surveil 2, then draw a card. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => {T}: Add {U}. Put a charge counter on Shadow Atlas.
+{T}, Remove a charge counter from Shadow Atlas: Surveil 2, then draw a card. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Vampiric Eagle
+rules_text: Flying
+[i]Evaporate[/i] — {4}{B}, Exile Vampiric Eagle from your graveyard: Target player loses 2 life and you gain 2 life. => Flying
+[i]Evaporate[/i] — {4}{B}, Exile this card from your graveyard: Target player loses 2 life and you gain 2 life.
+
+Drag to the Depths
+rules_text: Exile up to two target creature cards from an opponent's graveyard.
+[i]Evaporate[/i] — {1}{B}, Exile Drag to the Depths from your graveyard: Target creature gains deathtouch until end of turn. => Exile up to two target creature cards from an opponent's graveyard.
+[i]Evaporate[/i] — {1}{B}, Exile this card from your graveyard: Target creature gains deathtouch until end of turn.
+
+Rotting Current
+rules_text: Destroy target creature.
+[i]Evaporate[/i] — {2}{B}, Exile Rotting Current from your graveyard: Create a 2/2 black Zombie creature token. => Destroy target creature.
+[i]Evaporate[/i] — {2}{B}, Exile this card from your graveyard: Create a 2/2 black Zombie creature token.
+
+Deepwater Lamia
+rules_text: When Deepwater Lamia enters, you mill three cards.
+[i]Evaporate[/i] — {1}{B}, Exile Deepwater Lamia from your graveyard: Return target creature card from your graveyard to your hand. => When Deepwater Lamia enters, you mill three cards.
+[i]Evaporate[/i] — {1}{B}, Exile this card from your graveyard: Return target creature card from your graveyard to your hand.
+
+Ravenous Drowned
+rules_text: Menace
+[i]Evaporate[/i] — {2}{B}{B}, Exile Ravenous Drowned from your graveyard: Target creature gets -2/-2 until end of turn. => Menace
+[i]Evaporate[/i] — {2}{B}{B}, Exile this card from your graveyard: Target creature gets -2/-2 until end of turn.
+
+Deceptive Chargemage
+type: Creature — Wizard => Creature — Human Wizard
+
+Blazeblade Adept
+type: Creature — Soldier => Creature — Tiefling Soldier
+
+Miststalker Behemoth
+rules_text: Whenever a creature you control transforms, Miststalker Behemoth gets +1/+1 and trample until end of turn. => Whenever a permanent you control transforms, Miststalker Behemoth gets +1/+1 and trample until end of turn.
+
+Oqtari Pathlighter
+type: Creature — Soldier => Creature — Orc Soldier
+
+Armament Supplier
+
+Avenger Bloodknight
+type: Creature — Soldier => Creature — Orc Soldier
+rules_text: Haste, menace
+{1}{B}{R}, Sacrifice Avenger Bloodknight: Creatures you control gain haste and menace until end of turn. => Haste
+{1}{B}{R}, Sacrifice Avenger Bloodknight: Creatures you control gain haste and menace until end of turn.
+
+Valiant Recruiter
+type: Creature — Soldier => Creature — Human Soldier
+
+Jungleborn Scout
+rules_text: Vigilance, convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Whenever Jungleborn Scout deals combat damage to a player, you may put a +1/+1 counter on target creature. => Vigilance
+Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Whenever Jungleborn Scout deals combat damage to a player, you may put a +1/+1 counter on target creature.
+
+Beacon Over the Oceans
+cost: {2}{G}{U} => {1}{G}{U}
+
+Guide to War's End
+rules_text: {B}{G}, Sacrifice a creature: You gain X life, where X is that creature's power. If that creature was a Soldier, draw a card. => {B}{G}, Sacrifice a creature: You gain X life, where X is that creature's power. If that creature was a Soldier, draw a card. Activate only once per turn.
+
+Chrome Drake
+rules_text: Flying
+When Chrome Drake enters, you gain 2 life, draw two cards, then discard two cards. => Flying
+When Chrome Drake enters, you gain 2 life, draw two cards, then discard two cards.
+[i]Evaporate[/i] — {2}{W}{U}, Exile this card from your graveyard: You gain 2 life and draw a card.
+pt: 3/4 => 3/3
+
+Jungle Mission Specialist
+type: Creature — Soldier => Creature — Human Soldier
+
+Wrathful Champion
+type: Creature — Warrior => Creature — Demon Warrior
+
+Jungleborn Mentor
+type: Creature — Warrior => Creature — Orc Warrior
+rules_text: When Jungleborn Mentor deals combat damage to a player, put a +1/+1 counters on up to X target creatures, where X is its power. => Whenever Jungleborn Mentor deals combat damage to a player, put a +1/+1 counter on up to X target creatures, where X is its power.
+
+Warfallen Angel
+rules_text: Flying, menace, deathtouch
+[i]Evaporate[/i] — {3}{W}{B}, Exile Warfallen Angel from your graveyard: Put a flying counter, a menace counter, and a deathtouch counter on target creature. Activate only as a sorcery. => Flying, menace, deathtouch
+[i]Evaporate[/i] — {3}{W}{B}, Exile this card from your graveyard: Put a flying counter, a menace counter, and a deathtouch counter on target creature. Activate only as a sorcery.
+
+Regiment Pathmaker
+rules_text: Whenever a creature you control with power 2 or less attacks, if this is the first time this ability has resolved this turn, draw a card. Otherwise, Regiment Pathmaker gets +1/+0 until end of turn. => Whenever another creature you control with power 2 or less attacks, if this is the first time this ability has resolved this turn, draw a card. Otherwise, Regiment Pathmaker gets +1/+0 until end of turn.
+
+Phantasmal Eagle
+rules_text: Flying
+[i]Evaporate[/i] — {WU}, Exile Phantasmal Eagle from your graveyard: Draw a card. => Flying
+[i]Evaporate[/i] — {WU}, Exile this card from your graveyard: Draw a card.
+
+Army of Two
+
+Stalwart Scout
+rules_text: Vigilance; convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Whenever Stalwart Scout attacks, it gets +0/+1 until end of turn. => Vigilance
+Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Whenever Stalwart Scout attacks, it gets +0/+1 until end of turn.
+
+Soul-Siphon Warlock
+rules_text: Lifelink
+[i]Evaporate[/i] — {3}{WB}{WB}, Exile Soul-Siphon Warlock from your graveyard: Target player loses life equal to the mana value of target creature you control, and you gain that much life. => Lifelink
+[i]Evaporate[/i] — {4}{WB}{WB}, Exile this card from your graveyard: Target player loses life equal to the mana value of target creature you control, and you gain that much life.
+
+Exploiter of Undergrowth
+type: Creature => Creature — Elf Scout
+
+Unstable Silumgite
+rules_text: {T}, Remove three charge counters from Unstable Silumgite, Sacrifice Unstable Silumgite: Destroy target nonland permanent. => {T}: Add {U} or {R}. Put a charge counter on Unstable Silumgite.
+{T}, Remove three charge counters from Unstable Silumgite, Sacrifice Unstable Silumgite: Destroy target nonland permanent.
+
+Brilliant Crest
+rules_text: {1}, {T}: Add one mana of any color.
+{T}, Remove a charge counter from Brilliant Crest: Add one mana of any color. => {1}, {T}: Add one mana of any color.
+{T}, Remove a charge counter from Brilliant Crest: Add two mana of any color.
+
+Frosted Plain
+rules_text: Mist {4}{WU} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+Frosted Plain enters the battlefield tapped.
+{T}: Add {W} or {U}. => [i]({T}: Add {W} or {U}.)[/i]
+Frosted Plain enters tapped.
+Mist {4}{WU} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Cerulean Fogbank
+rules_text: Mist {4}{UB} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+Cerulean Fogbank enters the battlefield tapped.
+{T}: Add {U} or {B}. => [i]({T}: Add {U} or {B}.)[/i]
+Cerulean Fogbank enters tapped.
+Mist {4}{UB} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Ashy Badlands
+rules_text: Mist {4}{BR} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+Ashy Badlands enters the battlefield tapped.
+{T}: Add {B} or {R}. => [i]({T}: Add {B} or {R}.)[/i]
+Ashy Badlands enters tapped.
+Mist {4}{BR} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Foggy Peak
+rules_text: Mist {4}{RG} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+Foggy Peak enters the battlefield tapped.
+{T}: Add {R} or {G}. => [i]({T}: Add {R} or {G}.)[/i]
+Foggy Peak enters tapped.
+Mist {4}{RG} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Morningdew Vale
+rules_text: Mist {4}{GW} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+Morningdew Vale enters the battlefield tapped.
+{T}: Add {W} or {G}. => [i]({T}: Add {G} or {W}.)[/i]
+Morningdew Vale enters tapped.
+Mist {4}{GW} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Overcast Marsh
+rules_text: Mist {4}{WB} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+Overcast Marsh enters the battlefield tapped.
+{T}: Add {W} or {B}. => [i]({T}: Add {W} or {B}.)[/i]
+Overcast Marsh enters tapped.
+Mist {4}{WB} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Limestone Steam Pool
+rules_text: Mist {4}{UR} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+Limestone Steam Pool enters the battlefield tapped.
+{T}: Add {U} or {R}. => [i]({T}: Add {U} or {R}.)[/i]
+Limestone Steam Pool enters tapped.
+Mist {4}{UR} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Misty Taiga
+rules_text: Mist {4}{GU} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+Misty Taiga enters the battlefield tapped.
+{T}: Add {G} or {U}. => [i]({T}: Add {U} or {G}.)[/i]
+Misty Taiga enters tapped.
+Mist {4}{GU} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Shaded Woods
+rules_text: Mist {4}{BG} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+Shaded Woods enters the battlefield tapped.
+{T}: Add {B} or {G}. => [i]({T}: Add {B} or {G}.)[/i]
+Shaded Woods enters tapped.
+Mist {4}{BG} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Remote Barracks
+rules_text: Mist {3} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+{T}: Add {C}. => {T}: Add {C}.
+Mist {3} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Murky Vista
+rules_text: Mist {3} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+{T}: Add {C}. => Murky Vista enters tapped.
+When Murky Vista enters, add one mana of any color.
+{T}: Add {C}.
+Mist {3} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Valey Gateguard added.
