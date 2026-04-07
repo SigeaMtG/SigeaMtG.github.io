@@ -2893,7 +2893,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/1_Copy.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/1t_Copy.png"
 			}
 		},
 		{
@@ -2903,7 +2903,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/2_Treasure.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/2t_Treasure.png"
 			}
 		},
 		{
@@ -2913,7 +2913,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/3_Elemental.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/3t_Elemental.png"
 			}
 		},
 		{
@@ -2923,7 +2923,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/4_Zombie.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/4t_Zombie.png"
 			}
 		},
 		{
@@ -2933,7 +2933,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/5_Soldier.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/5t_Soldier.png"
 			}
 		},
 		{
@@ -2943,7 +2943,7 @@
 			"type": "Token Creature — Warrior",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/6_Warrior.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/6t_Warrior.png"
 			}
 		},
 		{
@@ -2953,7 +2953,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/7_Spectral Wolf.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/7t_Spectral Wolf.png"
 			}
 		},
 		{
@@ -2963,7 +2963,7 @@
 			"type": "Token Land",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/8_Reflective Mist.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/8t_Reflective Mist.png"
 			}
 		}
 	]
@@ -3150,7 +3150,89 @@
 	4 Misty Taiga
 	4 Shaded Woods
 	4 Remote Barracks
-[common(7)]
+[common(6)]
+	8 Unfortunate Shipmender
+	8 Valey Gateguard
+	8 Merchant of the Underpass
+	8 Valeyan Battleraptor
+	8 Fogbound Elemental
+	8 Mistborn Unicorn
+	8 Drowned Harpy
+	8 Desiccated Mothling
+	8 Yarkasing Champion
+	8 Lost in the Fog
+	8 Shatter the Spoils
+	8 Clear Up
+	8 Quickdraw
+	8 Dredge Diver
+	8 Gemchannel Golem
+	8 Merchant of the North
+	8 Exhumed Corvid
+	8 Opaelian Generator
+	8 Fogscry Sphinx
+	8 Wash Ashore
+	8 Disenchanting Fog
+	8 Charge Burst
+	8 Wave Stall
+	8 Reflective Prison
+	8 Drowned Memories
+	8 Envelop in Mist
+	8 Returned Ranksman
+	8 Generator Ritualist
+	8 Merchant of the Isles
+	8 Vampiric Eagle
+	8 Chargesap Martialist
+	8 Savacide Unearther
+	8 Brier Slopes Brute
+	8 Drag to the Depths
+	8 Necromantic Charge
+	8 Harvest Intelligence
+	8 Dragged Under
+	8 Gempoint Beam
+	8 Rotting Current
+	8 Valey Shiftshield
+	8 Gemfire Golem
+	8 Merchant of the Capital
+	8 Leader of the Phalanx
+	8 Deceptive Chargemage
+	8 Sharean Banneret
+	8 Ancient Maskbearer
+	8 Prism Beam
+	8 Improvised Armament
+	8 Glimpse the Red Horizon
+	8 Scorch and Scour
+	8 Accelerant Tactics
+	8 Shrouded Fireblast
+	8 Oqtari Shiftsword
+	8 Misthide Explorer
+	8 Merchant of the Great Plains
+	8 Mist-Possessed Grizzly
+	8 Oqtari Enforcer
+	8 Rallying Commander
+	8 Tallest of the Ranks
+	8 Miststalker Behemoth
+	8 Rage Pheromone
+	8 Underwater Scavenging
+	8 Ironbark Invigoration
+	8 Prod the Mist
+	8 Commune with the Mist
+	8 Phantasmal Eagle
+	8 Radiance Collector
+	8 Pervasive Militocrat
+	8 Army of Two
+	8 Stalwart Scout
+	8 Soul-Siphon Warlock
+	8 Regiment Scout
+	8 Glimmermage Adept
+	8 Great Plains Guide
+	8 Exploiter of Undergrowth
+	8 Gemcraft Filigree
+	8 Statue of Golden Victory
+	8 Unstable Silumgite
+	8 Brilliant Crest
+	8 Explorer's Scope
+	8 Murky Vista
+[common | masterpiece(1)]
 	8 Unfortunate Shipmender
 	8 Valey Gateguard
 	8 Merchant of the Underpass
