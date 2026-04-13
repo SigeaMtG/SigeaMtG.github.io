@@ -1,4 +1,246 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Valeyan Gateguard added.
+Virtue of Resilience added.
+Beastback Assailant added.
+Dyvnas' Favored added.
+Valeyan Lieutenant added.
+Nightly Mapping added.
+Oqtari Improviser added.
+Prowess Harvester added.
+Bloodlusting Champion added.
+Sultai graveyard added.
+efficient wipe added.
+draw added.
+top-end esper added.
+The Fireblood Crystal added.
+Evap added.
+Gemcrackle Battery added.
+Oqtari Marauder added.
+
+Valey Gateguard removed.
+Convert removed.
+Convert removed.
+Hatebear removed.
+Valey Battalion Captain removed.
+Dredging removed.
+Shiftspear Captain removed.
+Captain of Possibility removed.
+Bloodlustful Champion removed.
+Affinity Gem removed.
+Peninsula Marauder removed.
+Warrior removed.
+
+Valeyan Battleraptor
+
+Fogbound Elemental
+type: Creature — Elemental Bird => Creature — Elemental
+
+Yarkasing Champion
+rules_text: Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => {W}: Convert target creature you control. Activate only once per turn. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+
+Blazing Enlightenment
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 red Warrior creature token with convert.
+II — Target creature you control gets +2/+0 until end of turn.
+III — You gain life equal to the power of target creature you control. => 
+I — Create a 1/1 red Warrior creature token with convert. [i](Switch its power and toughness until end of turn.)[/i]
+II — Target creature you control gets +2/+0 until end of turn.
+III — You gain life equal to the power of target creature you control.
+
+Virtue and Sin
+
+Ethereal Burdener
+rules_text: Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Whenever Ethereal Burdener becomes tapped, you may pay {1}. When you do, tap target creature. => Whenever Ethereal Burdener becomes tapped, you may pay {1}. When you do, tap target creature.
+{T}: Convert target creature you control. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+
+Allwatch Angel
+rules_text: Flying, vigilance
+Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+When Allwatch Angel converts a creature, put a vigilance counter on that creature. => Flying, vigilance
+{1}{W}{W}, {T}: Convert target creature you control and put a vigilance counter on it. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+
+Frigid Chargemaster
+type: Artifact Creature — Gem Wizard => Artifact Creature — Human Gem Wizard
+
+Boneminnow
+
+Xirruphin, Fleeting
+
+The Spark of Invention
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+II — The next artifact spell you cast this turn costs {2} less to cast.
+III — Put two charge counters on any number of target artifacts you control. => 
+I — Draw two cards, then discard a card.
+II — The next artifact spell you cast this turn costs {2} less to cast.
+III — Put two charge counters on any number of target artifacts you control.
+
+Mirroring Depths
+
+Jaws of the Depths
+
+The Council Corrupted
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature. You lose 2 life.
+II — Mill a card for each creature card in target player's graveyard.
+III — Create a token that's a copy of target creature card in a graveyard. => 
+I — Destroy target creature. You lose 2 life.
+II — Mill a card for each creature card in target player's graveyard.
+III — Create a token that's a copy of target creature card in a graveyard.
+
+Alakaslam, the Grey Dawn
+
+Valey Shiftshield
+rules_text: Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => {R}: Convert Valey Shiftshield. Activate only as a sorcery. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+
+Sir Mari, Bloodcrazed
+type: Legendary Creature — Soldier => Legendary Creature — Centaur Soldier
+
+Hurler of Armaments
+type: Creature — Warrior => Creature — Orc Warrior
+
+Rylireor, Voiceless
+
+A Culture of War
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player creates two 1/1 red Soldier creature tokens.
+II — Creatures you control get +1/+1 and gain menace until end of turn.
+III — Put a +1/+1 counter on each creature you control. => 
+I — Each player creates two 1/1 red Soldier creature tokens.
+II — Creatures you control get +1/+1 and gain menace until end of turn.
+III — Put a +1/+1 counter on each creature you control.
+
+Paindrinker Amulet
+
+Blazeblade Adept
+rules_text: Haste, menace, convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => Haste, menace
+{R}: Convert target creature you control. Activate only once each turn. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+
+Study the Martial Code
+rules_text: Exile the top two cards of your library. You may play them until the end of your next turn.
+Create a 1/1 red Warrior creature token with convert. => Exile the top two cards of your library. You may play them until the end of your next turn.
+Create a 1/1 red Soldier creature token.
+
+Oqtari Shiftsword
+rules_text: Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => {G}: Convert Oqtari Shiftsword. Activate only as a sorcery. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+
+Oqtari Enforcer
+rules_text: Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+When Oqtari Enforcer converts a creature, that creature gets +1/+1 until end of turn. => {1}{G}{G}: Target creature you control gets +1/+1 until end of turn. Convert that creature. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+
+Prod the Mist
+
+Mistcowl Druid
+
+Imologir, Ambitious
+
+A Culture of Peace
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a land card and put that card into your hand, then shuffle.
+II — Whenever a creature you control enters or transforms this turn, you gain 1 life.
+III — Whenever you tap a land for mana this turn, add an additional {G}. => 
+I — Search your library for a land card and put that card into your hand, then shuffle.
+II — Whenever a creature you control enters or transforms this turn, you gain 1 life.
+III — Whenever you tap a land for mana this turn, add an additional {G}.
+
+Mist Awakened
+
+Oqtari Champion
+rules_text: Vigilance, trample
+Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => Vigilance, trample
+{G}: Convert Oqtari Champion. Activate only as a sorcery. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+
+Mentoring Shiftsword
+rules_text: Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+When Mentoring Shiftsword converts a creature, that creature gains vigilance until end of turn. => {2}{G}: Target creature you control can't be blocked by creatures with greater power until end of turn. Convert that creature. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+
+Aor'Il, Scourge of Esterlis
+rules_text: Menace
+You have no maximum hand size.
+Whenever you discard a card, return that card to your hand and draw a card.
+[i]Evaporate[/i] — {2}{U}{B}, Exile this card from your graveyard: Gain control of target creature. => Menace
+You have no maximum hand size.
+Whenever you discard a card, return that card to your hand and surveil 1.
+[i]Evaporate[/i] — {2}{U}{U}{B}, Exile this card from your graveyard: Gain control of target creature.
+
+The Grand Admiral
+cost: {1}{W}{U}{B} => {W}{U}{B}
+rules_text: At the beginning of your upkeep, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Once each turn, you may put a card you own in exile with evaporate into your graveyard. => At the beginning of your upkeep, surveil 2.
+Whenever you activate an ability of a card in your graveyard, return target permanent to its owner's hand.
+pt: 4/4 => 3/4
+
+Archdruid Olion
+rules_text: Ward {2}
+When Archdruid Olion enters, your life total becomes equal to the total amount of lands and Mist creatures you control.
+Mist creatures you control get +2/+2 and can't be blocked. => Ward {2}
+When Archdruid Olion enters, your life total becomes equal to the total amount of lands and Mists you control.
+Mists you control get +2/+2 and can't be blocked.
+
+Soldier buff
+cost: {1}{B}{R} => {2}{B}{R}
+
+midrange naya dude
+rules_text: Trample, lifelink, haste => Trample, lifelink, haste
+{1}{R}{G}{W}: Target creature you control gains trample, lifelink and haste until end of turn. You may convert that creature. Activate only as a sorcery and only once each turn.
+
+Jungleborn Scout
+rules_text: Vigilance
+Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Whenever Jungleborn Scout deals combat damage to a player, you may put a +1/+1 counter on target creature. => Vigilance
+{T}: Put a +1/+1 counter on target creature you control and convert it. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+
+Jungleborn Mentor
+rules_text: Whenever Jungleborn Mentor deals combat damage to a player, put a +1/+1 counter on up to X target creatures, where X is its power. => Whenever Jungleborn Mentor deals combat damage to a player, put a +1/+1 counter on up to X other target creatures, where X is its power.
+
+Army of Two
+
+Stalwart Scout
+rules_text: Vigilance
+Convert [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Whenever Stalwart Scout attacks, it gets +0/+1 until end of turn. => {2}{GW}{GW}: Stalwart Scout and target creature you control gain vigilance until end of turn. Convert that creature. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+
+Regiment Scout
+cost: {2}{RW} => {2}{RW}{RW}
+pt: 2/2 => 2/3
+
+Shirley
+
+Karan Kurem
+
+Arxikas
+
+Baldan Wazu
+type: Legendary Creature — Human Soldier => Legendary Creature — Human Pirate Soldier
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a 1/1 Warrior creature token with convert. Baldan Wazu deals 1 damage to any target. => Whenever a land you control enters, create a 1/1 red Soldier creature token. Baldan Wazu deals 1 damage to any target.
+
+Ovno Zig
+
+Trail of Dragons
+
+Savacide Council
+
+Ailen'Or, Ruined City
+
+Woods of Ester
+rules_text: Woods of Ester enters tapped.
+{T}: Add {G}.
+{3}{G}{G}, {T}: Target creature gets +X/+0 until end of turn, where X is its power.
+Mist {2}{G} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => Woods of Ester enters tapped.
+{T}: Add {G}.
+{3}{G}{G}, {T}: Target creature gets +X/+0 until end of turn, where X is its power.
+Mist {2}{G}{G} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Copy
+pt:  => */*
+
+Reflective Mist
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Convert added.
