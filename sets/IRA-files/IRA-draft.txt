@@ -1661,13 +1661,13 @@
 			}
 		},
 		{
-			"name": "Gem affinity",
+			"name": "Quantz, Gem Inventor",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}",
-			"type": "Creature — Wizard",
-			"collector_number": "181",
+			"type": "Legendary Artifact Creature — Wizard",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/181_Gem affinity.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/201_Quantz, Gem Inventor.png"
 			}
 		},
 		{
@@ -1675,9 +1675,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Giant Soldier",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/189_Inspiring Seneschal.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/188_Inspiring Seneschal.png"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Creature — Spirit Pirate",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/186_The Grand Admiral.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/185_The Grand Admiral.png"
 			}
 		},
 		{
@@ -1775,9 +1775,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "201",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/201_Prime Valeyan Ordun.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/200_Prime Valeyan Ordun.png"
 			}
 		},
 		{
@@ -1815,9 +1815,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{U}",
 			"type": "Instant",
-			"collector_number": "197",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/197_Mistwarp.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/196_Mistwarp.png"
 			}
 		},
 		{
@@ -1825,9 +1825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Elemental Knight",
-			"collector_number": "194",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/194_Knight of the Mists.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/193_Knight of the Mists.png"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Drake",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/185_Ghastly Drake.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/184_Ghastly Drake.png"
 			}
 		},
 		{
@@ -1875,9 +1875,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "193",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/193_Kingsfall.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/192_Kingsfall.png"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Demon Soldier",
-			"collector_number": "195",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/195_Lifesap Auditor.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/194_Lifesap Auditor.png"
 			}
 		},
 		{
@@ -1895,9 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Artifact — Gem",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/183_Gemcrackle Battery.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/182_Gemcrackle Battery.png"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/188_Incendiary Colonne.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/187_Incendiary Colonne.png"
 			}
 		},
 		{
@@ -1915,9 +1915,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/182_Gemcharge Capture.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/181_Gemcharge Capture.png"
 			}
 		},
 		{
@@ -1965,9 +1965,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Artifact Creature — Gem Wizard",
-			"collector_number": "198",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/198_Module 4L-13-N.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/197_Module 4L-13-N.png"
 			}
 		},
 		{
@@ -1985,9 +1985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "196",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/196_Mistcreep.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/195_Mistcreep.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Elf Warrior",
-			"collector_number": "192",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/192_Jungleborn Scout.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/191_Jungleborn Scout.png"
 			}
 		},
 		{
@@ -2055,9 +2055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Ogre Warrior",
-			"collector_number": "199",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/199_Oqtari Marauder.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/198_Oqtari Marauder.png"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Instant",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/184_Gemflinging.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/183_Gemflinging.png"
 			}
 		},
 		{
@@ -2085,9 +2085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Demon",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/187_Guide to War's End.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/186_Guide to War's End.png"
 			}
 		},
 		{
@@ -2105,9 +2105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Artifact — Gem",
-			"collector_number": "200",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/200_Orb of Pained Knowledge.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/199_Orb of Pained Knowledge.png"
 			}
 		},
 		{
@@ -2115,9 +2115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/190_Jungle Mission Specialist.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/189_Jungle Mission Specialist.png"
 			}
 		},
 		{
@@ -2135,9 +2135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "191",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/191_Jungleborn Mentor.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/190_Jungleborn Mentor.png"
 			}
 		},
 		{
@@ -3080,7 +3080,7 @@
 	2 Sharean Consolidator
 	2 Windbreaker
 	1 Defensive Phalanx
-	1 Gem affinity
+	1 Quantz, Gem Inventor
 	1 Inspiring Seneschal
 	1 Everett, Emperor No More
 	1 Aor'Il, Scourge of Esterlis
@@ -3557,7 +3557,7 @@
 	6 Clash with the Army
 	6 Eerie Propagation
 	1 Defensive Phalanx
-	1 Gem affinity
+	1 Quantz, Gem Inventor
 	1 Inspiring Seneschal
 	1 Everett, Emperor No More
 	1 Aor'Il, Scourge of Esterlis
@@ -3825,7 +3825,7 @@
 	15 Clash with the Army
 	15 Eerie Propagation
 	4 Defensive Phalanx
-	4 Gem affinity
+	4 Quantz, Gem Inventor
 	4 Inspiring Seneschal
 	4 Everett, Emperor No More
 	4 Aor'Il, Scourge of Esterlis

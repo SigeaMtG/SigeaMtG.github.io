@@ -1,4 +1,12 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Quantz, Gem Inventor added.
+
+Gem affinity removed.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Crest of Radiance added.

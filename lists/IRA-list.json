@@ -1382,7 +1382,7 @@
     },
     {
         "card_name": "Gemcharge Capture",
-        "number": 182,
+        "number": 181,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1422,7 +1422,7 @@
     },
     {
         "card_name": "Ghastly Drake",
-        "number": 185,
+        "number": 184,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1446,7 +1446,7 @@
     },
     {
         "card_name": "Jungleborn Mentor",
-        "number": 191,
+        "number": 190,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1470,7 +1470,7 @@
     },
     {
         "card_name": "Jungle Mission Specialist",
-        "number": 190,
+        "number": 189,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1486,7 +1486,7 @@
     },
     {
         "card_name": "Jungleborn Scout",
-        "number": 192,
+        "number": 191,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1502,7 +1502,7 @@
     },
     {
         "card_name": "Orb of Pained Knowledge",
-        "number": 200,
+        "number": 199,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1618,46 +1618,6 @@
     },
     {
         "card_name": "Inspiring Seneschal",
-        "number": 189,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mistcreep",
-        "number": 196,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Kingsfall",
-        "number": 193,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Gem affinity",
-        "number": 181,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Lifesap Auditor",
-        "number": 195,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Incendiary Colonne",
         "number": 188,
         "shape": "normal",
         "set": "IRA",
@@ -1665,8 +1625,48 @@
         "position": ""
     },
     {
+        "card_name": "Mistcreep",
+        "number": 195,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kingsfall",
+        "number": 192,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Quantz, Gem Inventor",
+        "number": 201,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lifesap Auditor",
+        "number": 194,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Incendiary Colonne",
+        "number": 187,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Mistwarp",
-        "number": 197,
+        "number": 196,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1690,7 +1690,7 @@
     },
     {
         "card_name": "Guide to War's End",
-        "number": 187,
+        "number": 186,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1722,7 +1722,7 @@
     },
     {
         "card_name": "Gemcrackle Battery",
-        "number": 183,
+        "number": 182,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1738,7 +1738,7 @@
     },
     {
         "card_name": "Oqtari Marauder",
-        "number": 199,
+        "number": 198,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1762,7 +1762,7 @@
     },
     {
         "card_name": "Gemflinging",
-        "number": 184,
+        "number": 183,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1878,7 +1878,7 @@
     },
     {
         "card_name": "Prime Valeyan Ordun",
-        "number": 201,
+        "number": 200,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1894,7 +1894,7 @@
     },
     {
         "card_name": "The Grand Admiral",
-        "number": 186,
+        "number": 185,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1902,7 +1902,7 @@
     },
     {
         "card_name": "Module 4L-13-N",
-        "number": 198,
+        "number": 197,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -2039,7 +2039,7 @@
     },
     {
         "card_name": "Knight of the Mists",
-        "number": 194,
+        "number": 193,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
