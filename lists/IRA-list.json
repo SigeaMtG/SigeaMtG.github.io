@@ -1389,32 +1389,32 @@
         "position": ""
     },
     {
-        "card_name": "RX03 \u2014 Arxikas",
-        "number": 230,
+        "card_name": "Arxikas",
+        "number": 221,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "RX04 \u2014 Baldan Wazu",
-        "number": 231,
+        "card_name": "Baldan Wazu",
+        "number": 222,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "RX05 \u2014 Ovno Zig",
+        "card_name": "Ovno Zig",
+        "number": 227,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shirley",
         "number": 232,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "RX01 \u2014 Shirley",
-        "number": 228,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1461,8 +1461,8 @@
         "position": ""
     },
     {
-        "card_name": "RX02 \u2014 Karan Kurem",
-        "number": 229,
+        "card_name": "Karan Kurem",
+        "number": 226,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1510,7 +1510,7 @@
     },
     {
         "card_name": "Pervasive Militocrat",
-        "number": 224,
+        "number": 228,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1534,7 +1534,7 @@
     },
     {
         "card_name": "Phantasmal Eagle",
-        "number": 225,
+        "number": 229,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1562,7 +1562,7 @@
     },
     {
         "card_name": "Radiance Collector",
-        "number": 226,
+        "number": 230,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1770,7 +1770,7 @@
     },
     {
         "card_name": "Exploiter of Undergrowth",
-        "number": 221,
+        "number": 223,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1786,7 +1786,7 @@
     },
     {
         "card_name": "Great Plains Guide",
-        "number": 223,
+        "number": 225,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1808,7 +1808,7 @@
     },
     {
         "card_name": "Regiment Scout",
-        "number": 227,
+        "number": 231,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1822,7 +1822,7 @@
     },
     {
         "card_name": "Glimmermage Adept",
-        "number": 222,
+        "number": 224,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,

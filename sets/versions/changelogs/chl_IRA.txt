@@ -1,4 +1,29 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Shirley added.
+Karan Kurem added.
+Arxikas added.
+Baldan Wazu added.
+Ovno Zig added.
+
+RX01 — Shirley removed.
+RX02 — Karan Kurem removed.
+RX03 — Arxikas removed.
+RX04 — Baldan Wazu removed.
+RX05 — Ovno Zig removed.
+
+A Culture of Peace
+special_text: 
+I — Search your library for a land card and put that card into your hand, then shuffle.
+II — Whenever a creature you control enters or transforms this turn, you gain 1 life.
+III — Whenever you tap a land for mana this turn, add an additional {G}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a land card and put that card into your hand, then shuffle.
+II — Whenever a creature you control enters or transforms this turn, you gain 1 life.
+III — Whenever you tap a land for mana this turn, add an additional {G}.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Sharean Craterhoof added.

@@ -2195,9 +2195,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/U}",
 			"type": "Creature — Bird",
-			"collector_number": "225",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/225_Phantasmal Eagle.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/229_Phantasmal Eagle.png"
 			}
 		},
 		{
@@ -2205,9 +2205,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}",
 			"type": "Creature — Human Inventor",
-			"collector_number": "226",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/226_Radiance Collector.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/230_Radiance Collector.png"
 			}
 		},
 		{
@@ -2215,9 +2215,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "224",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/224_Pervasive Militocrat.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/228_Pervasive Militocrat.png"
 			}
 		},
 		{
@@ -2255,9 +2255,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/W}{R/W}",
 			"type": "Creature — Dragonborn Soldier",
-			"collector_number": "227",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/227_Regiment Scout.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/231_Regiment Scout.png"
 			}
 		},
 		{
@@ -2265,9 +2265,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/R}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "222",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/222_Glimmermage Adept.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/224_Glimmermage Adept.png"
 			}
 		},
 		{
@@ -2275,9 +2275,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/U}",
 			"type": "Creature — Human Scout",
-			"collector_number": "223",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/223_Great Plains Guide.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/225_Great Plains Guide.png"
 			}
 		},
 		{
@@ -2285,59 +2285,59 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "221",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/221_Exploiter of Undergrowth.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/223_Exploiter of Undergrowth.png"
 			}
 		},
 		{
-			"name": "RX01 — Shirley",
+			"name": "Shirley",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W/U}",
 			"type": "Legendary Creature — Zombie Warlock",
-			"collector_number": "228",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/228_RX01 — Shirley.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/232_Shirley.png"
 			}
 		},
 		{
-			"name": "RX02 — Karan Kurem",
+			"name": "Karan Kurem",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U/B}",
 			"type": "Legendary Creature — Octopus Horror",
-			"collector_number": "229",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/229_RX02 — Karan Kurem.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/226_Karan Kurem.png"
 			}
 		},
 		{
-			"name": "RX03 — Arxikas",
+			"name": "Arxikas",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B/R}",
 			"type": "Legendary Creature — Spider Demon",
-			"collector_number": "230",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/230_RX03 — Arxikas.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/221_Arxikas.png"
 			}
 		},
 		{
-			"name": "RX04 — Baldan Wazu",
+			"name": "Baldan Wazu",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R/G}",
 			"type": "Legendary Creature — Human Pirate Soldier",
-			"collector_number": "231",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/231_RX04 — Baldan Wazu.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/222_Baldan Wazu.png"
 			}
 		},
 		{
-			"name": "RX05 — Ovno Zig",
+			"name": "Ovno Zig",
 			"rarity": "rare",
 			"mana_cost": "{G}{G/W}",
 			"type": "Legendary Creature — Goblin Warrior",
-			"collector_number": "232",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/232_RX05 — Ovno Zig.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/227_Ovno Zig.png"
 			}
 		},
 		{
@@ -3113,11 +3113,11 @@
 	2 Module 4L-13-N
 	2 Stirrings in the Mist
 	2 Mistcreep
-	2 RX01 — Shirley
-	2 RX02 — Karan Kurem
-	2 RX03 — Arxikas
-	2 RX04 — Baldan Wazu
-	2 RX05 — Ovno Zig
+	2 Shirley
+	2 Karan Kurem
+	2 Arxikas
+	2 Baldan Wazu
+	2 Ovno Zig
 	1 Trail of Dragons
 	2 The Kaleidoscope Hollow
 	2 Savacide Council
@@ -3620,11 +3620,11 @@
 	12 Glimmermage Adept
 	12 Great Plains Guide
 	12 Exploiter of Undergrowth
-	2 RX01 — Shirley
-	2 RX02 — Karan Kurem
-	2 RX03 — Arxikas
-	2 RX04 — Baldan Wazu
-	2 RX05 — Ovno Zig
+	2 Shirley
+	2 Karan Kurem
+	2 Arxikas
+	2 Baldan Wazu
+	2 Ovno Zig
 	6 UX01 — Crest of Radiance
 	6 UX02 — Crest of Magma
 	6 UX03 — Crest of Waves
@@ -3888,11 +3888,11 @@
 	6 Glimmermage Adept
 	6 Great Plains Guide
 	6 Exploiter of Undergrowth
-	7 RX01 — Shirley
-	7 RX02 — Karan Kurem
-	7 RX03 — Arxikas
-	7 RX04 — Baldan Wazu
-	7 RX05 — Ovno Zig
+	7 Shirley
+	7 Karan Kurem
+	7 Arxikas
+	7 Baldan Wazu
+	7 Ovno Zig
 	15 UX01 — Crest of Radiance
 	15 UX02 — Crest of Magma
 	15 UX03 — Crest of Waves

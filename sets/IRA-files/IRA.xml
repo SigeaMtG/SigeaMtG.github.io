@@ -3858,7 +3858,7 @@ When Resolute Deathmarcher or another Soldier you control dies, target player lo
 			<name>Phantasmal Eagle</name>
 			<text>Flying
 Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/225_Phantasmal Eagle.png" num="225">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/229_Phantasmal Eagle.png" num="229">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3875,7 +3875,7 @@ Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
 		<card>
 			<name>Radiance Collector</name>
 			<text>Whenever you draw a card, you may pay {UB}. If you do, put a charge counter on target artifact you control.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/226_Radiance Collector.png" num="226">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/230_Radiance Collector.png" num="230">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3892,7 +3892,7 @@ Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
 		<card>
 			<name>Pervasive Militocrat</name>
 			<text>Whenever one or more Soldiers you control attack, Pervasive Militocrat deals 1 damage to target player.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/224_Pervasive Militocrat.png" num="224">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/228_Pervasive Militocrat.png" num="228">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3962,7 +3962,7 @@ Evaporate — {4}{WB}{WB}, Exile this card from your graveyard: Target player lo
 			<name>Regiment Scout</name>
 			<text>Regiment Scout has double strike as long as it&apos;s your turn.
 Whenever one or more creatures you control with power 2 or less attack, exile the top card of your library. You may play that card until end of turn.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/227_Regiment Scout.png" num="227">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/231_Regiment Scout.png" num="231">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3979,7 +3979,7 @@ Whenever one or more creatures you control with power 2 or less attack, exile th
 		<card>
 			<name>Glimmermage Adept</name>
 			<text>Whenever you cast your first spell on each of your turns, add {U} or {R}. Spend this mana only to cast an instant, sorcery or Gem spell.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/222_Glimmermage Adept.png" num="222">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/224_Glimmermage Adept.png" num="224">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3996,7 +3996,7 @@ Whenever one or more creatures you control with power 2 or less attack, exile th
 		<card>
 			<name>Great Plains Guide</name>
 			<text>When Great Plains Guide enters, look at the top four cards of your library. You may reveal a land card from among them. If you do, put that card into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/223_Great Plains Guide.png" num="223">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/225_Great Plains Guide.png" num="225">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4014,7 +4014,7 @@ Whenever one or more creatures you control with power 2 or less attack, exile th
 			<name>Exploiter of Undergrowth</name>
 			<text>Deathtouch
 When Exploiter of Undergrowth enters, sacrifice a creature. When you do, surveil 2. If the sacrificed creature was a Soldier, draw a card.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/221_Exploiter of Undergrowth.png" num="221">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/223_Exploiter of Undergrowth.png" num="223">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4029,10 +4029,10 @@ When Exploiter of Undergrowth enters, sacrifice a creature. When you do, surveil
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RX01 — Shirley</name>
+			<name>Shirley</name>
 			<text>Flying
-Whenever RX01 — Shirley deals combat damage to a creature, tap that creature and put a stun counter on it. You may pay {U}. If you do, draw a card.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/228_RX01 — Shirley.png" num="228">IRA</set>
+Whenever Shirley deals combat damage to a creature, tap that creature and put a stun counter on it. You may pay {U}. If you do, draw a card.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/232_Shirley.png" num="232">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4047,10 +4047,10 @@ Whenever RX01 — Shirley deals combat damage to a creature, tap that creature a
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RX02 — Karan Kurem</name>
+			<name>Karan Kurem</name>
 			<text>Vigilance
-Whenever RX02 — Karan Kurem enters, gain control of target creature with mana value 4 or less. It&apos;s a 4/4 Thrall in addition to its other types for as long as you control that creature.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/229_RX02 — Karan Kurem.png" num="229">IRA</set>
+Whenever Karan Kurem enters, gain control of target creature with mana value 4 or less. It&apos;s a 4/4 Thrall in addition to its other types for as long as you control that creature.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/226_Karan Kurem.png" num="226">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4065,10 +4065,10 @@ Whenever RX02 — Karan Kurem enters, gain control of target creature with mana 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RX03 — Arxikas</name>
+			<name>Arxikas</name>
 			<text>Other Spiders you control get +1/+1.
-When RX03 — Arxikas enters, it deals 2 damage to each other creature. Whenever a creature dies this turn, create a 1/0 black Spider Illusion creature token.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/230_RX03 — Arxikas.png" num="230">IRA</set>
+When Arxikas enters, it deals 2 damage to each other creature. Whenever a creature dies this turn, create a 1/0 black Spider Illusion creature token.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/221_Arxikas.png" num="221">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4083,9 +4083,9 @@ When RX03 — Arxikas enters, it deals 2 damage to each other creature. Whenever
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RX04 — Baldan Wazu</name>
-			<text>Whenever a land you control enters, create a 1/1 red Soldier creature token. RX04 — Baldan Wazu deals 1 damage to any target.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/231_RX04 — Baldan Wazu.png" num="231">IRA</set>
+			<name>Baldan Wazu</name>
+			<text>Whenever a land you control enters, create a 1/1 red Soldier creature token. Baldan Wazu deals 1 damage to any target.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/222_Baldan Wazu.png" num="222">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4100,11 +4100,11 @@ When RX03 — Arxikas enters, it deals 2 damage to each other creature. Whenever
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RX05 — Ovno Zig</name>
-			<text>RX05 — Ovno Zig can&apos;t be blocked by creatures with greater power.
-Whenever RX05 — Ovno Zig deals combat damage to a player, scry X, where X is its power, then draw a card.
-{G}: RX05 — Ovno Zig gets +1/+1 or -1/-1 until end of turn.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/232_RX05 — Ovno Zig.png" num="232">IRA</set>
+			<name>Ovno Zig</name>
+			<text>Ovno Zig can&apos;t be blocked by creatures with greater power.
+Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power, then draw a card.
+{G}: Ovno Zig gets +1/+1 or -1/-1 until end of turn.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/227_Ovno Zig.png" num="227">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
