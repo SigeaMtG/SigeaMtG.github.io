@@ -2195,9 +2195,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/U}",
 			"type": "Creature — Bird",
-			"collector_number": "229",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/229_Phantasmal Eagle.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/234_Phantasmal Eagle.png"
 			}
 		},
 		{
@@ -2205,9 +2205,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}",
 			"type": "Creature — Human Inventor",
-			"collector_number": "230",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/230_Radiance Collector.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/235_Radiance Collector.png"
 			}
 		},
 		{
@@ -2215,9 +2215,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "228",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/228_Pervasive Militocrat.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/233_Pervasive Militocrat.png"
 			}
 		},
 		{
@@ -2235,9 +2235,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Creature — Elf Warrior",
-			"collector_number": "234",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/234_Stalwart Scout.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/239_Stalwart Scout.png"
 			}
 		},
 		{
@@ -2245,9 +2245,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/B}",
 			"type": "Creature — Zombie Warlock",
-			"collector_number": "233",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/233_Soul-Siphon Warlock.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/238_Soul-Siphon Warlock.png"
 			}
 		},
 		{
@@ -2255,9 +2255,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/W}{R/W}",
 			"type": "Creature — Dragonborn Soldier",
-			"collector_number": "231",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/231_Regiment Scout.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/236_Regiment Scout.png"
 			}
 		},
 		{
@@ -2265,9 +2265,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/R}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "224",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/224_Glimmermage Adept.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/229_Glimmermage Adept.png"
 			}
 		},
 		{
@@ -2275,9 +2275,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/U}",
 			"type": "Creature — Human Scout",
-			"collector_number": "225",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/225_Great Plains Guide.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/230_Great Plains Guide.png"
 			}
 		},
 		{
@@ -2285,9 +2285,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "223",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/223_Exploiter of Undergrowth.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/228_Exploiter of Undergrowth.png"
 			}
 		},
 		{
@@ -2295,9 +2295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W/U}",
 			"type": "Legendary Creature — Zombie Warlock",
-			"collector_number": "232",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/232_Shirley.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/237_Shirley.png"
 			}
 		},
 		{
@@ -2305,9 +2305,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U/B}",
 			"type": "Legendary Creature — Octopus Horror",
-			"collector_number": "226",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/226_Karan Kurem.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/231_Karan Kurem.png"
 			}
 		},
 		{
@@ -2335,59 +2335,59 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{G/W}",
 			"type": "Legendary Creature — Goblin Warrior",
-			"collector_number": "227",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/227_Ovno Zig.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/232_Ovno Zig.png"
 			}
 		},
 		{
-			"name": "UX01 — Crest of Radiance",
+			"name": "Crest of Radiance",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B/R}",
 			"type": "Instant",
-			"collector_number": "235",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/235_UX01 — Crest of Radiance.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/225_Crest of Radiance.png"
 			}
 		},
 		{
-			"name": "UX02 — Crest of Magma",
+			"name": "Crest of Magma",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R/G}{W}",
 			"type": "Instant",
-			"collector_number": "236",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/236_UX02 — Crest of Magma.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/224_Crest of Magma.png"
 			}
 		},
 		{
-			"name": "UX03 — Crest of Waves",
+			"name": "Crest of Waves",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}{B}",
 			"type": "Instant",
-			"collector_number": "237",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/237_UX03 — Crest of Waves.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/227_Crest of Waves.png"
 			}
 		},
 		{
-			"name": "UX04 — Crest of Ruby",
+			"name": "Crest of Ruby",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/G}{R}",
 			"type": "Instant",
-			"collector_number": "238",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/238_UX04 — Crest of Ruby.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/226_Crest of Ruby.png"
 			}
 		},
 		{
-			"name": "UX05 — Crest of Ironbark",
+			"name": "Crest of Ironbark",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W/U}",
 			"type": "Instant",
-			"collector_number": "239",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/239_UX05 — Crest of Ironbark.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/223_Crest of Ironbark.png"
 			}
 		},
 		{
@@ -3205,11 +3205,11 @@
 	4 Spelldrinker Pendant
 	4 Sylran, Many-Horned
 	4 Resolute Deathmarcher
-	4 UX01 — Crest of Radiance
-	4 UX02 — Crest of Magma
-	4 UX03 — Crest of Waves
-	4 UX04 — Crest of Ruby
-	4 UX05 — Crest of Ironbark
+	4 Crest of Radiance
+	4 Crest of Magma
+	4 Crest of Waves
+	4 Crest of Ruby
+	4 Crest of Ironbark
 	4 Yarkasing Landmark
 	4 Opaelian Landmark
 	4 Savacide Landmark
@@ -3625,11 +3625,11 @@
 	2 Arxikas
 	2 Baldan Wazu
 	2 Ovno Zig
-	6 UX01 — Crest of Radiance
-	6 UX02 — Crest of Magma
-	6 UX03 — Crest of Waves
-	6 UX04 — Crest of Ruby
-	6 UX05 — Crest of Ironbark
+	6 Crest of Radiance
+	6 Crest of Magma
+	6 Crest of Waves
+	6 Crest of Ruby
+	6 Crest of Ironbark
 	12 Gemcraft Filigree
 	12 Statue of Golden Victory
 	12 Unstable Silumgite
@@ -3893,11 +3893,11 @@
 	7 Arxikas
 	7 Baldan Wazu
 	7 Ovno Zig
-	15 UX01 — Crest of Radiance
-	15 UX02 — Crest of Magma
-	15 UX03 — Crest of Waves
-	15 UX04 — Crest of Ruby
-	15 UX05 — Crest of Ironbark
+	15 Crest of Radiance
+	15 Crest of Magma
+	15 Crest of Waves
+	15 Crest of Ruby
+	15 Crest of Ironbark
 	6 Gemcraft Filigree
 	6 Statue of Golden Victory
 	6 Unstable Silumgite

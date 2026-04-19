@@ -3858,7 +3858,7 @@ When Resolute Deathmarcher or another Soldier you control dies, target player lo
 			<name>Phantasmal Eagle</name>
 			<text>Flying
 Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/229_Phantasmal Eagle.png" num="229">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/234_Phantasmal Eagle.png" num="234">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3875,7 +3875,7 @@ Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
 		<card>
 			<name>Radiance Collector</name>
 			<text>Whenever you draw a card, you may pay {UB}. If you do, put a charge counter on target artifact you control.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/230_Radiance Collector.png" num="230">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/235_Radiance Collector.png" num="235">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3892,7 +3892,7 @@ Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
 		<card>
 			<name>Pervasive Militocrat</name>
 			<text>Whenever one or more Soldiers you control attack, Pervasive Militocrat deals 1 damage to target player.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/228_Pervasive Militocrat.png" num="228">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/233_Pervasive Militocrat.png" num="233">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3926,7 +3926,7 @@ Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
 		<card>
 			<name>Stalwart Scout</name>
 			<text>{2}{GW}{GW}: Stalwart Scout and target creature you control gain vigilance until end of turn. Convert that creature. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/234_Stalwart Scout.png" num="234">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/239_Stalwart Scout.png" num="239">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3944,7 +3944,7 @@ Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
 			<name>Soul-Siphon Warlock</name>
 			<text>Lifelink
 Evaporate — {4}{WB}{WB}, Exile this card from your graveyard: Target player loses life equal to the mana value of target creature you control, and you gain that much life.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/233_Soul-Siphon Warlock.png" num="233">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/238_Soul-Siphon Warlock.png" num="238">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3962,7 +3962,7 @@ Evaporate — {4}{WB}{WB}, Exile this card from your graveyard: Target player lo
 			<name>Regiment Scout</name>
 			<text>Regiment Scout has double strike as long as it&apos;s your turn.
 Whenever one or more creatures you control with power 2 or less attack, exile the top card of your library. You may play that card until end of turn.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/231_Regiment Scout.png" num="231">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/236_Regiment Scout.png" num="236">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3979,7 +3979,7 @@ Whenever one or more creatures you control with power 2 or less attack, exile th
 		<card>
 			<name>Glimmermage Adept</name>
 			<text>Whenever you cast your first spell on each of your turns, add {U} or {R}. Spend this mana only to cast an instant, sorcery or Gem spell.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/224_Glimmermage Adept.png" num="224">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/229_Glimmermage Adept.png" num="229">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3996,7 +3996,7 @@ Whenever one or more creatures you control with power 2 or less attack, exile th
 		<card>
 			<name>Great Plains Guide</name>
 			<text>When Great Plains Guide enters, look at the top four cards of your library. You may reveal a land card from among them. If you do, put that card into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/225_Great Plains Guide.png" num="225">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/230_Great Plains Guide.png" num="230">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4014,7 +4014,7 @@ Whenever one or more creatures you control with power 2 or less attack, exile th
 			<name>Exploiter of Undergrowth</name>
 			<text>Deathtouch
 When Exploiter of Undergrowth enters, sacrifice a creature. When you do, surveil 2. If the sacrificed creature was a Soldier, draw a card.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/223_Exploiter of Undergrowth.png" num="223">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/228_Exploiter of Undergrowth.png" num="228">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4032,7 +4032,7 @@ When Exploiter of Undergrowth enters, sacrifice a creature. When you do, surveil
 			<name>Shirley</name>
 			<text>Flying
 Whenever Shirley deals combat damage to a creature, tap that creature and put a stun counter on it. You may pay {U}. If you do, draw a card.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/232_Shirley.png" num="232">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/237_Shirley.png" num="237">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4050,7 +4050,7 @@ Whenever Shirley deals combat damage to a creature, tap that creature and put a 
 			<name>Karan Kurem</name>
 			<text>Vigilance
 Whenever Karan Kurem enters, gain control of target creature with mana value 4 or less. It&apos;s a 4/4 Thrall in addition to its other types for as long as you control that creature.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/226_Karan Kurem.png" num="226">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/231_Karan Kurem.png" num="231">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4104,7 +4104,7 @@ When Arxikas enters, it deals 2 damage to each other creature. Whenever a creatu
 			<text>Ovno Zig can&apos;t be blocked by creatures with greater power.
 Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power, then draw a card.
 {G}: Ovno Zig gets +1/+1 or -1/-1 until end of turn.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/227_Ovno Zig.png" num="227">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/232_Ovno Zig.png" num="232">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4119,11 +4119,11 @@ Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power,
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UX01 — Crest of Radiance</name>
+			<name>Crest of Radiance</name>
 			<text>Choose one — 
 • Put a charge counter on each Gem you control.
 • Counter target creature or artifact spell.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/235_UX01 — Crest of Radiance.png" num="235">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/225_Crest of Radiance.png" num="225">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4137,11 +4137,11 @@ Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power,
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UX02 — Crest of Magma</name>
+			<name>Crest of Magma</name>
 			<text>Choose one — 
 • Draw cards equal to the power of target creature you control.
-• UX02 — Crest of Magma deals 2 damage to each attacking creature.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/236_UX02 — Crest of Magma.png" num="236">IRA</set>
+• Crest of Magma deals 2 damage to each attacking creature.</text>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/224_Crest of Magma.png" num="224">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4155,11 +4155,11 @@ Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power,
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UX03 — Crest of Waves</name>
+			<name>Crest of Waves</name>
 			<text>Choose one — 
 • Target player mills six cards.
 • Destroy target noncreature, nonland permanent.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/237_UX03 — Crest of Waves.png" num="237">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/227_Crest of Waves.png" num="227">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4173,11 +4173,11 @@ Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power,
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UX04 — Crest of Ruby</name>
+			<name>Crest of Ruby</name>
 			<text>Choose one — 
 • Exile the top two cards of your library. You may cast them this turn.
 • Create two 1/1 red Soldier creature tokens.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/238_UX04 — Crest of Ruby.png" num="238">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/226_Crest of Ruby.png" num="226">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4191,11 +4191,11 @@ Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power,
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UX05 — Crest of Ironbark</name>
+			<name>Crest of Ironbark</name>
 			<text>Choose one — 
 • Search your library for a land card, reveal it and put it into your hand. You gain 2 life.
 • Scry X, where X is the number of lands you control, then draw a card.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/239_UX05 — Crest of Ironbark.png" num="239">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/223_Crest of Ironbark.png" num="223">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
