@@ -1,4 +1,156 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Sharean Craterhoof added.
+Sharean Consolidator added.
+Inspiring Seneschal added.
+Everett, Emperor No More added.
+Desiccant Annihilation added.
+Dragonspotting added.
+Djinni of Past and Future added.
+Shiftsword Innovator added.
+Mistwarp added.
+Knight of the Mists added.
+Ghastly Drake added.
+Sharean Bloodletter added.
+Yarkasing Elite added.
+Kingsfall added.
+Incendiary Colonne added.
+Gemcharge Capture added.
+Venerated Colonel added.
+Sphinx of Borrowed Time added.
+Vigrus, Phoenix Prime added.
+Drying Basins added.
+Module 4L-13-N added.
+Stirrings in the Mist added.
+Mistcreep added.
+RX01 — Shirley added.
+RX02 — Karan Kurem added.
+RX03 — Arxikas added.
+RX04 — Baldan Wazu added.
+RX05 — Ovno Zig added.
+UX01 — Crest of Radiance added.
+UX02 — Crest of Magma added.
+UX03 — Crest of Waves added.
+UX04 — Crest of Ruby added.
+UX05 — Crest of Ironbark added.
+Irandian Mists Allied Draft Archetypes added.
+Irandian Mists Enemy Draft Archetypes added.
+
+Soldierhoof Behemoth removed.
+Consolidation Captain removed.
+crazy white weenie removed.
+Sultai graveyard removed.
+efficient wipe removed.
+draw removed.
+top-end esper removed.
+Convert bear removed.
+Stifle removed.
+Mist Commander removed.
+Evap removed.
+Soldier buff removed.
+midrange naya dude removed.
+Orzhov Boardwipe removed.
+2p matters removed.
+Prime Counterspell removed.
+Aggro Soldier tokens removed.
+Evap commander removed.
+Soldier Commander removed.
+Evap enchantment removed.
+Gem Commander removed.
+WUBRG Mist Ench removed.
+Millwipe removed.
+Shirley removed.
+Karan Kurem removed.
+Arxikas removed.
+Baldan Wazu removed.
+Ovno Zig removed.
+Crest of Radiance removed.
+Crest of Magma removed.
+Crest of Waves removed.
+Crest of Ruby removed.
+Crest of Ironbark removed.
+
+Inspired Blazeblade
+type: Creature — Soldier => Creature — Demon Soldier
+
+Dragonpoise Apprentice
+
+Yark, Shiftshield Reaver
+
+A Culture of Peace
+
+Mist Awakened
+
+Defensive Phalanx
+
+Gem affinity
+
+Aor'Il, Scourge of Esterlis
+
+The Fireblood Crystal
+rules_text: Whenever an opponent is dealt damage, put a charge counter on The Fireblood Crystal.
+{T}, Remove two charge counters from The Fireblood Crystal: You may cast target instant or sorcery card from your graveyard this turn. When you do, exile it as it resolves. => Whenever an opponent is dealt damage, put a charge counter on The Fireblood Crystal.
+{T}, Remove two charge counters from The Fireblood Crystal: You may cast target instant or sorcery card from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.
+
+Tactical Phalanx
+
+Lifesap Auditor
+
+Gemcrackle Battery
+cost: {2}{U}{R} => {1}{U}{R}
+rules_text: Instant and sorcery spells you cast cost {1} less to cast for each charge counter on Gemcrackle Battery.
+{1}{U}{R}, {T}: Put a charge counter on Gemcrackle Battery. => Instant and sorcery spells you cast cost {1} less to cast for each charge counter on Gemcrackle Battery.
+{U}{R}, {T}: Put a charge counter on Gemcrackle Battery.
+
+Explorer's Scope
+
+Yarkasing Landmark
+
+The Kaleidoscope Hollow
+rules_text: The Kaleidoscope Hollow enters tapped.
+When The Kaleidoscope Hollow enters, choose a color.
+{T}: Add {W} or one mana of the chosen color.
+Mist {2}{W} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => The Kaleidoscope Hollow enters tapped.
+When The Kaleidoscope Hollow enters, choose a color.
+{T}: Add {W} or one mana of the chosen color.
+Mist {3}{W} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Thov Da'Rul
+rules_text: Thov Da'Rul enters tapped.
+{T}: Add {R}.
+{2}{R}{R}, {T}: Target creature you control gets +2/+0 until end of turn.
+Mist {2}{R} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => Thov Da'Rul enters tapped.
+{T}: Add {R}.
+{2}{R}{R}, {T}: Target creature you control gets +2/+0 until end of turn.
+Mist {2}{R}{R} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+
+Frosted Plain
+
+Cerulean Fogbank
+
+Ashy Badlands
+
+Foggy Peak
+
+Morningdew Vale
+
+Overcast Marsh
+
+Sandstorm Steppe
+
+Limestone Steam Pool
+
+Misty Taiga
+
+Shaded Woods
+
+Remote Barracks
+
+Murky Vista
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Valeyan Gateguard added.

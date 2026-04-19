@@ -1174,7 +1174,7 @@
 			"name": "Inspired Blazeblade",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Soldier",
+			"type": "Creature — Demon Soldier",
 			"collector_number": "116",
 			"image_uris": {
 				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/116_Inspired Blazeblade.png"
@@ -1325,9 +1325,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Orc Soldier",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/154_Oqtari Shiftsword.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/153_Oqtari Shiftsword.png"
 			}
 		},
 		{
@@ -1335,9 +1335,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Frog Scout",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/149_Misthide Explorer.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/148_Misthide Explorer.png"
 			}
 		},
 		{
@@ -1345,9 +1345,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bird Citizen",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/143_Merchant of the Great Plains.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/142_Merchant of the Great Plains.png"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Bear",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/146_Mist-Possessed Grizzly.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/145_Mist-Possessed Grizzly.png"
 			}
 		},
 		{
@@ -1365,9 +1365,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "152",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/152_Oqtari Enforcer.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/151_Oqtari Enforcer.png"
 			}
 		},
 		{
@@ -1375,9 +1375,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Knight",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/158_Rallying Commander.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/157_Rallying Commander.png"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Snake",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/150_Miststalker Behemoth.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/149_Miststalker Behemoth.png"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "157",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/157_Rage Pheromone.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/156_Rage Pheromone.png"
 			}
 		},
 		{
@@ -1425,9 +1425,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/141_Ironbark Invigoration.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/140_Ironbark Invigoration.png"
 			}
 		},
 		{
@@ -1435,9 +1435,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/156_Prod the Mist.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/155_Prod the Mist.png"
 			}
 		},
 		{
@@ -1451,13 +1451,13 @@
 			}
 		},
 		{
-			"name": "Soldierhoof Behemoth",
+			"name": "Sharean Craterhoof",
 			"rarity": "mythic",
 			"mana_cost": "{5}{G}{G}{G}",
-			"type": "Creature — Soldier",
+			"type": "Creature — Beast Soldier",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/159_Soldierhoof Behemoth.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/159_Sharean Craterhoof.png"
 			}
 		},
 		{
@@ -1475,9 +1475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Druid",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/148_Mistcowl Druid.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/147_Mistcowl Druid.png"
 			}
 		},
 		{
@@ -1485,9 +1485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/140_Imologir, Ambitious.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/139_Imologir, Ambitious.png"
 			}
 		},
 		{
@@ -1495,9 +1495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/137_A Culture of Peace.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/136_A Culture of Peace.png"
 			}
 		},
 		{
@@ -1505,19 +1505,19 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/144_Mist Awakened.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/143_Mist Awakened.png"
 			}
 		},
 		{
-			"name": "Consolidation Captain",
+			"name": "Sharean Consolidator",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Soldier",
-			"collector_number": "136",
+			"type": "Creature — Human Soldier",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/136_Consolidation Captain.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/158_Sharean Consolidator.png"
 			}
 		},
 		{
@@ -1545,9 +1545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "145",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/145_Mist Tamer.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/144_Mist Tamer.png"
 			}
 		},
 		{
@@ -1555,9 +1555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/139_Ester Woods Protector.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/138_Ester Woods Protector.png"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Giant Soldier",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/151_Oqtari Champion.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/150_Oqtari Champion.png"
 			}
 		},
 		{
@@ -1575,9 +1575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Orc Soldier",
-			"collector_number": "153",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/153_Oqtari Pathlighter.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/152_Oqtari Pathlighter.png"
 			}
 		},
 		{
@@ -1595,9 +1595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/147_Mistborn Rejuvenator.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/146_Mistborn Rejuvenator.png"
 			}
 		},
 		{
@@ -1605,9 +1605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/142_Mentoring Shiftsword.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/141_Mentoring Shiftsword.png"
 			}
 		},
 		{
@@ -1625,9 +1625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "155",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/155_Pragmatic Weaponry.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/154_Pragmatic Weaponry.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/138_Eerie Propagation.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/137_Eerie Propagation.png"
 			}
 		},
 		{
@@ -1655,9 +1655,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Instant",
-			"collector_number": "178",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/178_Defensive Phalanx.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/173_Defensive Phalanx.png"
 			}
 		},
 		{
@@ -1665,29 +1665,29 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Wizard",
-			"collector_number": "186",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/186_Gem affinity.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/181_Gem affinity.png"
 			}
 		},
 		{
-			"name": "crazy white weenie",
+			"name": "Inspiring Seneschal",
 			"rarity": "mythic",
-			"mana_cost": "{1}{R}{W}",
-			"type": "Creature — Soldier",
-			"collector_number": "177",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Giant Soldier",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/177_crazy white weenie.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/189_Inspiring Seneschal.png"
 			}
 		},
 		{
-			"name": "Sultai graveyard",
+			"name": "Everett, Emperor No More",
 			"rarity": "mythic",
 			"mana_cost": "{B}{G}{U}",
-			"type": "Legendary Creature",
-			"collector_number": "210",
+			"type": "Legendary Creature — Spirit Soldier",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/210_Sultai graveyard.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/179_Everett, Emperor No More.png"
 			}
 		},
 		{
@@ -1695,39 +1695,39 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Fish",
-			"collector_number": "170",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/170_Aor'Il, Scourge of Esterlis.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/167_Aor'Il, Scourge of Esterlis.png"
 			}
 		},
 		{
-			"name": "efficient wipe",
+			"name": "Desiccant Annihilation",
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "180",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/180_efficient wipe.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/174_Desiccant Annihilation.png"
 			}
 		},
 		{
-			"name": "draw",
+			"name": "Dragonspotting",
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{U}",
 			"type": "Instant",
-			"collector_number": "179",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/179_draw.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/176_Dragonspotting.png"
 			}
 		},
 		{
-			"name": "top-end esper",
+			"name": "Djinni of Past and Future",
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{U}{B}",
-			"type": "Creature — Sphinx",
-			"collector_number": "214",
+			"type": "Creature — Spirit Demon",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/214_top-end esper.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/175_Djinni of Past and Future.png"
 			}
 		},
 		{
@@ -1735,9 +1735,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Artifact — Gem",
-			"collector_number": "185",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/185_The Fireblood Crystal.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/180_The Fireblood Crystal.png"
 			}
 		},
 		{
@@ -1745,9 +1745,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Legendary Creature — Human Noble Soldier",
-			"collector_number": "181",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/181_Emperor Enorim II.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/178_Emperor Enorim II.png"
 			}
 		},
 		{
@@ -1755,9 +1755,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Planeswalker — Alwyn",
-			"collector_number": "169",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/169_Alwyn Aevaris.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/166_Alwyn Aevaris.png"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Creature — Spirit Pirate",
-			"collector_number": "190",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/190_The Grand Admiral.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/186_The Grand Admiral.png"
 			}
 		},
 		{
@@ -1775,9 +1775,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "203",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/203_Prime Valeyan Ordun.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/201_Prime Valeyan Ordun.png"
 			}
 		},
 		{
@@ -1785,19 +1785,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{W}{U}",
 			"type": "Legendary Creature — Druid",
-			"collector_number": "171",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/171_Archdruid Olion.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/168_Archdruid Olion.png"
 			}
 		},
 		{
-			"name": "Convert bear",
+			"name": "Shiftsword Innovator",
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
-			"type": "Creature",
-			"collector_number": "176",
+			"type": "Creature — Human Advisor",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/176_Convert bear.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/205_Shiftsword Innovator.png"
 			}
 		},
 		{
@@ -1805,59 +1805,59 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Wolf Pirate",
-			"collector_number": "174",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/174_Captain Xanlos.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/171_Captain Xanlos.png"
 			}
 		},
 		{
-			"name": "Stifle",
+			"name": "Mistwarp",
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{U}",
 			"type": "Instant",
-			"collector_number": "166",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/166_Stifle.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/197_Mistwarp.png"
 			}
 		},
 		{
-			"name": "Mist Commander",
+			"name": "Knight of the Mists",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
-			"type": "Legendary Creature — Elemental",
-			"collector_number": "198",
+			"type": "Legendary Creature — Elemental Knight",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/198_Mist Commander.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/194_Knight of the Mists.png"
 			}
 		},
 		{
-			"name": "Evap",
+			"name": "Ghastly Drake",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Creature",
-			"collector_number": "182",
+			"type": "Creature — Drake",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/182_Evap.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/185_Ghastly Drake.png"
 			}
 		},
 		{
-			"name": "Soldier buff",
+			"name": "Sharean Bloodletter",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Soldier",
-			"collector_number": "206",
+			"type": "Creature — Human Soldier",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/206_Soldier buff.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/204_Sharean Bloodletter.png"
 			}
 		},
 		{
-			"name": "midrange naya dude",
+			"name": "Yarkasing Elite",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
-			"type": "Creature — Warrior",
-			"collector_number": "196",
+			"type": "Creature — Snake Warrior",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/196_midrange naya dude.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/219_Yarkasing Elite.png"
 			}
 		},
 		{
@@ -1865,19 +1865,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Soldier",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/213_Tactical Phalanx.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/212_Tactical Phalanx.png"
 			}
 		},
 		{
-			"name": "Orzhov Boardwipe",
+			"name": "Kingsfall",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "201",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/201_Orzhov Boardwipe.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/193_Kingsfall.png"
 			}
 		},
 		{
@@ -1893,101 +1893,101 @@
 		{
 			"name": "Gemcrackle Battery",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{R}",
+			"mana_cost": "{1}{U}{R}",
 			"type": "Artifact — Gem",
-			"collector_number": "188",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/188_Gemcrackle Battery.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/183_Gemcrackle Battery.png"
 			}
 		},
 		{
-			"name": "2p matters",
+			"name": "Incendiary Colonne",
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
-			"type": "Creature — Warrior",
-			"collector_number": "167",
+			"type": "Creature — Human Warrior",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/167_2p matters.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/188_Incendiary Colonne.png"
 			}
 		},
 		{
-			"name": "Prime Counterspell",
+			"name": "Gemcharge Capture",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
-			"collector_number": "202",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/202_Prime Counterspell.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/182_Gemcharge Capture.png"
 			}
 		},
 		{
-			"name": "Aggro Soldier tokens",
+			"name": "Venerated Colonel",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Creature",
-			"collector_number": "168",
+			"type": "Creature — Human Soldier",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/168_Aggro Soldier tokens.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/215_Venerated Colonel.png"
 			}
 		},
 		{
-			"name": "Evap commander",
+			"name": "Sphinx of Borrowed Time",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Creature — Zombie Sphinx",
-			"collector_number": "183",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/183_Evap commander.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/207_Sphinx of Borrowed Time.png"
 			}
 		},
 		{
-			"name": "Soldier Commander",
+			"name": "Vigrus, Phoenix Prime",
 			"rarity": "rare",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "207",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/207_Soldier Commander.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/216_Vigrus, Phoenix Prime.png"
 			}
 		},
 		{
-			"name": "Evap enchantment",
+			"name": "Drying Basins",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "184",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/184_Evap enchantment.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/177_Drying Basins.png"
 			}
 		},
 		{
-			"name": "Gem Commander",
+			"name": "Module 4L-13-N",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Artifact Creature — Gem Wizard",
-			"collector_number": "187",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/187_Gem Commander.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/198_Module 4L-13-N.png"
 			}
 		},
 		{
-			"name": "WUBRG Mist Ench",
+			"name": "Stirrings in the Mist",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "219",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/219_WUBRG Mist Ench.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/208_Stirrings in the Mist.png"
 			}
 		},
 		{
-			"name": "Millwipe",
+			"name": "Mistcreep",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}{B}{G}",
+			"mana_cost": "{G}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "197",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/197_Millwipe.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/196_Mistcreep.png"
 			}
 		},
 		{
@@ -2005,9 +2005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Elf Inventor",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/211_Supercharge Ritualist.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/210_Supercharge Ritualist.png"
 			}
 		},
 		{
@@ -2015,9 +2015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Orc Soldier",
-			"collector_number": "172",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/172_Avenger Bloodknight.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/169_Avenger Bloodknight.png"
 			}
 		},
 		{
@@ -2025,9 +2025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "216",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/216_Valiant Recruiter.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/214_Valiant Recruiter.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Elf Warrior",
-			"collector_number": "194",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/194_Jungleborn Scout.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/192_Jungleborn Scout.png"
 			}
 		},
 		{
@@ -2045,9 +2045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Skeleton Pirate",
-			"collector_number": "215",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/215_Treasure Sifter.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/213_Treasure Sifter.png"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Instant",
-			"collector_number": "189",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/189_Gemflinging.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/184_Gemflinging.png"
 			}
 		},
 		{
@@ -2075,9 +2075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "173",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/173_Beacon Over the Oceans.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/170_Beacon Over the Oceans.png"
 			}
 		},
 		{
@@ -2085,9 +2085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Demon",
-			"collector_number": "191",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/191_Guide to War's End.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/187_Guide to War's End.png"
 			}
 		},
 		{
@@ -2095,9 +2095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Creature — Drake",
-			"collector_number": "175",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/175_Chrome Drake.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/172_Chrome Drake.png"
 			}
 		},
 		{
@@ -2115,9 +2115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "192",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/192_Jungle Mission Specialist.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/190_Jungle Mission Specialist.png"
 			}
 		},
 		{
@@ -2135,9 +2135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "193",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/193_Jungleborn Mentor.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/191_Jungleborn Mentor.png"
 			}
 		},
 		{
@@ -2155,9 +2155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Orc Scout",
-			"collector_number": "204",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/204_Regiment Pathmaker.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/202_Regiment Pathmaker.png"
 			}
 		},
 		{
@@ -2165,9 +2165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Artifact Creature — Gem",
-			"collector_number": "208",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/208_Spelldrinker Pendant.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/206_Spelldrinker Pendant.png"
 			}
 		},
 		{
@@ -2175,9 +2175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}{U}",
 			"type": "Legendary Creature — Elemental Elk",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/212_Sylran, Many-Horned.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/211_Sylran, Many-Horned.png"
 			}
 		},
 		{
@@ -2185,9 +2185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "205",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/205_Resolute Deathmarcher.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/203_Resolute Deathmarcher.png"
 			}
 		},
 		{
@@ -2195,9 +2195,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/U}",
 			"type": "Creature — Bird",
-			"collector_number": "234",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/234_Phantasmal Eagle.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/225_Phantasmal Eagle.png"
 			}
 		},
 		{
@@ -2205,9 +2205,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}",
 			"type": "Creature — Human Inventor",
-			"collector_number": "235",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/235_Radiance Collector.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/226_Radiance Collector.png"
 			}
 		},
 		{
@@ -2215,9 +2215,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "233",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/233_Pervasive Militocrat.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/224_Pervasive Militocrat.png"
 			}
 		},
 		{
@@ -2235,9 +2235,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Creature — Elf Warrior",
-			"collector_number": "239",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/239_Stalwart Scout.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/234_Stalwart Scout.png"
 			}
 		},
 		{
@@ -2245,9 +2245,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/B}",
 			"type": "Creature — Zombie Warlock",
-			"collector_number": "238",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/238_Soul-Siphon Warlock.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/233_Soul-Siphon Warlock.png"
 			}
 		},
 		{
@@ -2255,9 +2255,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/W}{R/W}",
 			"type": "Creature — Dragonborn Soldier",
-			"collector_number": "236",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/236_Regiment Scout.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/227_Regiment Scout.png"
 			}
 		},
 		{
@@ -2265,9 +2265,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/R}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "229",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/229_Glimmermage Adept.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/222_Glimmermage Adept.png"
 			}
 		},
 		{
@@ -2275,9 +2275,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/U}",
 			"type": "Creature — Human Scout",
-			"collector_number": "230",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/230_Great Plains Guide.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/223_Great Plains Guide.png"
 			}
 		},
 		{
@@ -2285,109 +2285,109 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "228",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/228_Exploiter of Undergrowth.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/221_Exploiter of Undergrowth.png"
 			}
 		},
 		{
-			"name": "Shirley",
+			"name": "RX01 — Shirley",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W/U}",
 			"type": "Legendary Creature — Zombie Warlock",
-			"collector_number": "237",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/237_Shirley.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/228_RX01 — Shirley.png"
 			}
 		},
 		{
-			"name": "Karan Kurem",
+			"name": "RX02 — Karan Kurem",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U/B}",
 			"type": "Legendary Creature — Octopus Horror",
-			"collector_number": "231",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/231_Karan Kurem.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/229_RX02 — Karan Kurem.png"
 			}
 		},
 		{
-			"name": "Arxikas",
+			"name": "RX03 — Arxikas",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B/R}",
 			"type": "Legendary Creature — Spider Demon",
-			"collector_number": "221",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/221_Arxikas.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/230_RX03 — Arxikas.png"
 			}
 		},
 		{
-			"name": "Baldan Wazu",
+			"name": "RX04 — Baldan Wazu",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R/G}",
 			"type": "Legendary Creature — Human Pirate Soldier",
-			"collector_number": "222",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/222_Baldan Wazu.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/231_RX04 — Baldan Wazu.png"
 			}
 		},
 		{
-			"name": "Ovno Zig",
+			"name": "RX05 — Ovno Zig",
 			"rarity": "rare",
 			"mana_cost": "{G}{G/W}",
 			"type": "Legendary Creature — Goblin Warrior",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/232_Ovno Zig.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/232_RX05 — Ovno Zig.png"
 			}
 		},
 		{
-			"name": "Crest of Radiance",
+			"name": "UX01 — Crest of Radiance",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B/R}",
 			"type": "Instant",
-			"collector_number": "225",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/225_Crest of Radiance.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/235_UX01 — Crest of Radiance.png"
 			}
 		},
 		{
-			"name": "Crest of Magma",
+			"name": "UX02 — Crest of Magma",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R/G}{W}",
 			"type": "Instant",
-			"collector_number": "224",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/224_Crest of Magma.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/236_UX02 — Crest of Magma.png"
 			}
 		},
 		{
-			"name": "Crest of Waves",
+			"name": "UX03 — Crest of Waves",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}{B}",
 			"type": "Instant",
-			"collector_number": "227",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/227_Crest of Waves.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/237_UX03 — Crest of Waves.png"
 			}
 		},
 		{
-			"name": "Crest of Ruby",
+			"name": "UX04 — Crest of Ruby",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/G}{R}",
 			"type": "Instant",
-			"collector_number": "226",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/226_Crest of Ruby.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/238_UX04 — Crest of Ruby.png"
 			}
 		},
 		{
-			"name": "Crest of Ironbark",
+			"name": "UX05 — Crest of Ironbark",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W/U}",
 			"type": "Instant",
-			"collector_number": "223",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/223_Crest of Ironbark.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/239_UX05 — Crest of Ironbark.png"
 			}
 		},
 		{
@@ -2957,13 +2957,33 @@
 			}
 		},
 		{
+			"name": "Irandian Mists Allied Draft Archetypes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/2t_Irandian Mists Allied Draft Archetypes.png"
+			}
+		},
+		{
+			"name": "Irandian Mists Enemy Draft Archetypes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/3t_Irandian Mists Enemy Draft Archetypes.png"
+			}
+		},
+		{
 			"name": "Treasure",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "2",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/2t_Treasure.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/4t_Treasure.png"
 			}
 		},
 		{
@@ -2971,9 +2991,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "3",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/3t_Elemental.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/5t_Elemental.png"
 			}
 		},
 		{
@@ -2981,9 +3001,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie",
-			"collector_number": "4",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/4t_Zombie.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/6t_Zombie.png"
 			}
 		},
 		{
@@ -2991,9 +3011,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/5t_Soldier.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/7t_Soldier.png"
 			}
 		},
 		{
@@ -3001,9 +3021,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Beast",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/6t_Spectral Wolf.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/8t_Spectral Wolf.png"
 			}
 		},
 		{
@@ -3011,9 +3031,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/7t_Reflective Mist.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/9t_Reflective Mist.png"
 			}
 		}
 	]
@@ -3051,53 +3071,53 @@
 	2 Inspired Blazeblade
 	2 Paindrinker Amulet
 	2 Rigor Mortis
-	1 Soldierhoof Behemoth
+	1 Sharean Craterhoof
 	2 Yark, Shiftshield Reaver
 	2 Mistcowl Druid
 	2 Imologir, Ambitious
 	2 A Culture of Peace
 	2 Mist Awakened
-	2 Consolidation Captain
+	2 Sharean Consolidator
 	2 Windbreaker
 	1 Defensive Phalanx
 	1 Gem affinity
-	1 crazy white weenie
-	1 Sultai graveyard
+	1 Inspiring Seneschal
+	1 Everett, Emperor No More
 	1 Aor'Il, Scourge of Esterlis
-	1 efficient wipe
-	1 draw
-	1 top-end esper
+	1 Desiccant Annihilation
+	1 Dragonspotting
+	1 Djinni of Past and Future
 	1 The Fireblood Crystal
 	1 Emperor Enorim II
 	1 Alwyn Aevaris
 	1 The Grand Admiral
 	1 Prime Valeyan Ordun
 	1 Archdruid Olion
-	2 Convert bear
+	2 Shiftsword Innovator
 	2 Captain Xanlos
-	2 Stifle
-	2 Mist Commander
-	2 Evap
-	2 Soldier buff
-	2 midrange naya dude
+	2 Mistwarp
+	2 Knight of the Mists
+	2 Ghastly Drake
+	2 Sharean Bloodletter
+	2 Yarkasing Elite
 	2 Tactical Phalanx
-	2 Orzhov Boardwipe
+	2 Kingsfall
 	2 Lifesap Auditor
 	2 Gemcrackle Battery
-	2 2p matters
-	2 Prime Counterspell
-	2 Aggro Soldier tokens
-	2 Evap commander
-	2 Soldier Commander
-	2 Evap enchantment
-	2 Gem Commander
-	2 WUBRG Mist Ench
-	2 Millwipe
-	2 Shirley
-	2 Karan Kurem
-	2 Arxikas
-	2 Baldan Wazu
-	2 Ovno Zig
+	2 Incendiary Colonne
+	2 Gemcharge Capture
+	2 Venerated Colonel
+	2 Sphinx of Borrowed Time
+	2 Vigrus, Phoenix Prime
+	2 Drying Basins
+	2 Module 4L-13-N
+	2 Stirrings in the Mist
+	2 Mistcreep
+	2 RX01 — Shirley
+	2 RX02 — Karan Kurem
+	2 RX03 — Arxikas
+	2 RX04 — Baldan Wazu
+	2 RX05 — Ovno Zig
 	1 Trail of Dragons
 	2 The Kaleidoscope Hollow
 	2 Savacide Council
@@ -3185,11 +3205,11 @@
 	4 Spelldrinker Pendant
 	4 Sylran, Many-Horned
 	4 Resolute Deathmarcher
-	4 Crest of Radiance
-	4 Crest of Magma
-	4 Crest of Waves
-	4 Crest of Ruby
-	4 Crest of Ironbark
+	4 UX01 — Crest of Radiance
+	4 UX02 — Crest of Magma
+	4 UX03 — Crest of Waves
+	4 UX04 — Crest of Ruby
+	4 UX05 — Crest of Ironbark
 	4 Yarkasing Landmark
 	4 Opaelian Landmark
 	4 Savacide Landmark
@@ -3516,13 +3536,13 @@
 	12 Ironbark Invigoration
 	12 Prod the Mist
 	12 Commune with the Mist
-	1 Soldierhoof Behemoth
+	1 Sharean Craterhoof
 	2 Yark, Shiftshield Reaver
 	2 Mistcowl Druid
 	2 Imologir, Ambitious
 	2 A Culture of Peace
 	2 Mist Awakened
-	2 Consolidation Captain
+	2 Sharean Consolidator
 	2 Windbreaker
 	6 Woodland Recruiter
 	6 Mist Tamer
@@ -3538,38 +3558,38 @@
 	6 Eerie Propagation
 	1 Defensive Phalanx
 	1 Gem affinity
-	1 crazy white weenie
-	1 Sultai graveyard
+	1 Inspiring Seneschal
+	1 Everett, Emperor No More
 	1 Aor'Il, Scourge of Esterlis
-	1 efficient wipe
-	1 draw
-	1 top-end esper
+	1 Desiccant Annihilation
+	1 Dragonspotting
+	1 Djinni of Past and Future
 	1 The Fireblood Crystal
 	1 Emperor Enorim II
 	1 Alwyn Aevaris
 	1 The Grand Admiral
 	1 Prime Valeyan Ordun
 	1 Archdruid Olion
-	2 Convert bear
+	2 Shiftsword Innovator
 	2 Captain Xanlos
-	2 Stifle
-	2 Mist Commander
-	2 Evap
-	2 Soldier buff
-	2 midrange naya dude
+	2 Mistwarp
+	2 Knight of the Mists
+	2 Ghastly Drake
+	2 Sharean Bloodletter
+	2 Yarkasing Elite
 	2 Tactical Phalanx
-	2 Orzhov Boardwipe
+	2 Kingsfall
 	2 Lifesap Auditor
 	2 Gemcrackle Battery
-	2 2p matters
-	2 Prime Counterspell
-	2 Aggro Soldier tokens
-	2 Evap commander
-	2 Soldier Commander
-	2 Evap enchantment
-	2 Gem Commander
-	2 WUBRG Mist Ench
-	2 Millwipe
+	2 Incendiary Colonne
+	2 Gemcharge Capture
+	2 Venerated Colonel
+	2 Sphinx of Borrowed Time
+	2 Vigrus, Phoenix Prime
+	2 Drying Basins
+	2 Module 4L-13-N
+	2 Stirrings in the Mist
+	2 Mistcreep
 	6 Stuff the Unworthy
 	6 Supercharge Ritualist
 	6 Avenger Bloodknight
@@ -3600,16 +3620,16 @@
 	12 Glimmermage Adept
 	12 Great Plains Guide
 	12 Exploiter of Undergrowth
-	2 Shirley
-	2 Karan Kurem
-	2 Arxikas
-	2 Baldan Wazu
-	2 Ovno Zig
-	6 Crest of Radiance
-	6 Crest of Magma
-	6 Crest of Waves
-	6 Crest of Ruby
-	6 Crest of Ironbark
+	2 RX01 — Shirley
+	2 RX02 — Karan Kurem
+	2 RX03 — Arxikas
+	2 RX04 — Baldan Wazu
+	2 RX05 — Ovno Zig
+	6 UX01 — Crest of Radiance
+	6 UX02 — Crest of Magma
+	6 UX03 — Crest of Waves
+	6 UX04 — Crest of Ruby
+	6 UX05 — Crest of Ironbark
 	12 Gemcraft Filigree
 	12 Statue of Golden Victory
 	12 Unstable Silumgite
@@ -3784,13 +3804,13 @@
 	6 Ironbark Invigoration
 	6 Prod the Mist
 	6 Commune with the Mist
-	4 Soldierhoof Behemoth
+	4 Sharean Craterhoof
 	7 Yark, Shiftshield Reaver
 	7 Mistcowl Druid
 	7 Imologir, Ambitious
 	7 A Culture of Peace
 	7 Mist Awakened
-	7 Consolidation Captain
+	7 Sharean Consolidator
 	7 Windbreaker
 	15 Woodland Recruiter
 	15 Mist Tamer
@@ -3806,38 +3826,38 @@
 	15 Eerie Propagation
 	4 Defensive Phalanx
 	4 Gem affinity
-	4 crazy white weenie
-	4 Sultai graveyard
+	4 Inspiring Seneschal
+	4 Everett, Emperor No More
 	4 Aor'Il, Scourge of Esterlis
-	4 efficient wipe
-	4 draw
-	4 top-end esper
+	4 Desiccant Annihilation
+	4 Dragonspotting
+	4 Djinni of Past and Future
 	4 The Fireblood Crystal
 	4 Emperor Enorim II
 	4 Alwyn Aevaris
 	4 The Grand Admiral
 	4 Prime Valeyan Ordun
 	4 Archdruid Olion
-	7 Convert bear
+	7 Shiftsword Innovator
 	7 Captain Xanlos
-	7 Stifle
-	7 Mist Commander
-	7 Evap
-	7 Soldier buff
-	7 midrange naya dude
+	7 Mistwarp
+	7 Knight of the Mists
+	7 Ghastly Drake
+	7 Sharean Bloodletter
+	7 Yarkasing Elite
 	7 Tactical Phalanx
-	7 Orzhov Boardwipe
+	7 Kingsfall
 	7 Lifesap Auditor
 	7 Gemcrackle Battery
-	7 2p matters
-	7 Prime Counterspell
-	7 Aggro Soldier tokens
-	7 Evap commander
-	7 Soldier Commander
-	7 Evap enchantment
-	7 Gem Commander
-	7 WUBRG Mist Ench
-	7 Millwipe
+	7 Incendiary Colonne
+	7 Gemcharge Capture
+	7 Venerated Colonel
+	7 Sphinx of Borrowed Time
+	7 Vigrus, Phoenix Prime
+	7 Drying Basins
+	7 Module 4L-13-N
+	7 Stirrings in the Mist
+	7 Mistcreep
 	15 Stuff the Unworthy
 	15 Supercharge Ritualist
 	15 Avenger Bloodknight
@@ -3868,16 +3888,16 @@
 	6 Glimmermage Adept
 	6 Great Plains Guide
 	6 Exploiter of Undergrowth
-	7 Shirley
-	7 Karan Kurem
-	7 Arxikas
-	7 Baldan Wazu
-	7 Ovno Zig
-	15 Crest of Radiance
-	15 Crest of Magma
-	15 Crest of Waves
-	15 Crest of Ruby
-	15 Crest of Ironbark
+	7 RX01 — Shirley
+	7 RX02 — Karan Kurem
+	7 RX03 — Arxikas
+	7 RX04 — Baldan Wazu
+	7 RX05 — Ovno Zig
+	15 UX01 — Crest of Radiance
+	15 UX02 — Crest of Magma
+	15 UX03 — Crest of Waves
+	15 UX04 — Crest of Ruby
+	15 UX05 — Crest of Ironbark
 	6 Gemcraft Filigree
 	6 Statue of Golden Victory
 	6 Unstable Silumgite

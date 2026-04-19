@@ -5,7 +5,7 @@
 			<name>IRA</name>
 			<longname>Irandian Mists</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-13</releasedate>
+			<releasedate>2026-04-19</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2071,7 +2071,7 @@ Whenever one or more other Soldiers you control enter, double Inspired Blazeblad
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Soldier</type>
+				<type>Creature — Demon Soldier</type>
 				<maintype>Creature</maintype>
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
@@ -2329,7 +2329,7 @@ Whenever a Soldier you control enters, you may pay {R}. If you do, return Army-F
 		<card>
 			<name>Oqtari Shiftsword</name>
 			<text>{G}: Convert Oqtari Shiftsword. Activate only as a sorcery. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/154_Oqtari Shiftsword.png" num="154">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/153_Oqtari Shiftsword.png" num="153">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2346,7 +2346,7 @@ Whenever a Soldier you control enters, you may pay {R}. If you do, return Army-F
 		<card>
 			<name>Misthide Explorer</name>
 			<text>Sacrifice Misthide Explorer: Search your library for a Forest card, put that card onto the battlefield tapped or face-down, then shuffle.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/149_Misthide Explorer.png" num="149">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/148_Misthide Explorer.png" num="148">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2364,7 +2364,7 @@ Whenever a Soldier you control enters, you may pay {R}. If you do, return Army-F
 			<name>Merchant of the Great Plains</name>
 			<text>When Merchant of the Great Plains enters, scry 2.
 {1}, {T}: Add {W} or {U}.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/143_Merchant of the Great Plains.png" num="143">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/142_Merchant of the Great Plains.png" num="142">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2381,7 +2381,7 @@ Whenever a Soldier you control enters, you may pay {R}. If you do, return Army-F
 		<card>
 			<name>Mist-Possessed Grizzly</name>
 			<text>Whenever a permanent you control transforms, Mist-Possessed Grizzly gets +1/+1 and trample until end of turn.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/146_Mist-Possessed Grizzly.png" num="146">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/145_Mist-Possessed Grizzly.png" num="145">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2398,7 +2398,7 @@ Whenever a Soldier you control enters, you may pay {R}. If you do, return Army-F
 		<card>
 			<name>Oqtari Enforcer</name>
 			<text>{1}{G}{G}: Target creature you control gets +1/+1 until end of turn. Convert that creature. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/152_Oqtari Enforcer.png" num="152">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/151_Oqtari Enforcer.png" num="151">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2415,7 +2415,7 @@ Whenever a Soldier you control enters, you may pay {R}. If you do, return Army-F
 		<card>
 			<name>Rallying Commander</name>
 			<text>When Rallying Commander enters, create two 1/1 red Soldier creature tokens.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/158_Rallying Commander.png" num="158">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/157_Rallying Commander.png" num="157">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2450,7 +2450,7 @@ When Tallest of the Ranks attacks, it gets +1/+1 for each Soldier you control un
 		<card>
 			<name>Miststalker Behemoth</name>
 			<text>Whenever a permanent you control transforms, Miststalker Behemoth gets +1/+1 and trample until end of turn.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/150_Miststalker Behemoth.png" num="150">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/149_Miststalker Behemoth.png" num="149">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2467,7 +2467,7 @@ When Tallest of the Ranks attacks, it gets +1/+1 for each Soldier you control un
 		<card>
 			<name>Rage Pheromone</name>
 			<text>Target creature you control fights target creature you don&apos;t control. Both those creatures attack the next combat if able.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/157_Rage Pheromone.png" num="157">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/156_Rage Pheromone.png" num="156">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2501,7 +2501,7 @@ When Tallest of the Ranks attacks, it gets +1/+1 for each Soldier you control un
 		<card>
 			<name>Ironbark Invigoration</name>
 			<text>Target creature you control gets +2/+4 until end of turn. (Converting the target of this spell swaps these stats.)</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/141_Ironbark Invigoration.png" num="141">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/140_Ironbark Invigoration.png" num="140">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2517,7 +2517,7 @@ When Tallest of the Ranks attacks, it gets +1/+1 for each Soldier you control un
 		<card>
 			<name>Prod the Mist</name>
 			<text>Search your library for a land card, put it onto the battlefield tapped, then shuffle. Then, you may transform that land.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/156_Prod the Mist.png" num="156">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/155_Prod the Mist.png" num="155">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2547,14 +2547,14 @@ When Tallest of the Ranks attacks, it gets +1/+1 for each Soldier you control un
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Soldierhoof Behemoth</name>
+			<name>Sharean Craterhoof</name>
 			<text>Haste
-When Soldierhoof Behemoth enters, Soldiers you control gain trample and get +X/+X until end of turn, where X is the amount of Soldiers you control.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/159_Soldierhoof Behemoth.png" num="159">IRA</set>
+When Sharean Craterhoof enters, Soldiers you control gain trample and get +X/+X until end of turn, where X is the amount of Soldiers you control.</text>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/159_Sharean Craterhoof.png" num="159">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Soldier</type>
+				<type>Creature — Beast Soldier</type>
 				<maintype>Creature</maintype>
 				<manacost>5GGG</manacost>
 				<cmc>8</cmc>
@@ -2587,7 +2587,7 @@ Whenever Yark, Shiftshield Reaver deals combat damage to a player, look at the t
 			<text>Reach
 Whenever a permanent you control transforms, you gain 1 life and draw a card.
 Activated abilities of lands you control cost {1} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/148_Mistcowl Druid.png" num="148">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/147_Mistcowl Druid.png" num="147">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2606,7 +2606,7 @@ Activated abilities of lands you control cost {1} less to activate. This effect 
 			<text>Flying
 Imologir, Ambitious enters with your choice of a trample or haste counter on it.
 Whenever Imologir attacks, you may have it fight target creature you don&apos;t control. If you do, put a +1/+1 counter on Imologir.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/140_Imologir, Ambitious.png" num="140">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/139_Imologir, Ambitious.png" num="139">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2623,7 +2623,7 @@ Whenever Imologir attacks, you may have it fight target creature you don&apos;t 
 		<card>
 			<name>A Culture of Peace</name>
 			<text></text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/137_A Culture of Peace.png" num="137">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/136_A Culture of Peace.png" num="136">IRA</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -2640,7 +2640,7 @@ Whenever Imologir attacks, you may have it fight target creature you don&apos;t 
 			<name>Mist Awakened</name>
 			<text>Search your library for up to eight land cards, put them onto the battlefield, then shuffle. 
 Transform any number of lands you control.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/144_Mist Awakened.png" num="144">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/143_Mist Awakened.png" num="143">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2654,14 +2654,14 @@ Transform any number of lands you control.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Consolidation Captain</name>
+			<name>Sharean Consolidator</name>
 			<text>Trample
 Lands you control have &quot;{1}{G}, {T}: Create a 1/1 red Soldier creature token.&quot;</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/136_Consolidation Captain.png" num="136">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/158_Sharean Consolidator.png" num="158">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Soldier</type>
+				<type>Creature — Human Soldier</type>
 				<maintype>Creature</maintype>
 				<manacost>2GG</manacost>
 				<cmc>4</cmc>
@@ -2709,7 +2709,7 @@ Equip {3}</text>
 		<card>
 			<name>Mist Tamer</name>
 			<text>Whenever a permanent you control transforms, create a 2/2 green Spectral Wolf creature token.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/145_Mist Tamer.png" num="145">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/144_Mist Tamer.png" num="144">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2727,7 +2727,7 @@ Equip {3}</text>
 			<name>Ester Woods Protector</name>
 			<text>Vigilance
 {T}: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/139_Ester Woods Protector.png" num="139">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/138_Ester Woods Protector.png" num="138">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2745,7 +2745,7 @@ Equip {3}</text>
 			<name>Oqtari Champion</name>
 			<text>Vigilance, trample
 {G}: Convert Oqtari Champion. Activate only as a sorcery. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/151_Oqtari Champion.png" num="151">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/150_Oqtari Champion.png" num="150">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2763,7 +2763,7 @@ Equip {3}</text>
 			<name>Oqtari Pathlighter</name>
 			<text>Trample
 When Oqtari Pathlighter deals combat damage to a player, look at the top X cards of your library, where X is this creature&apos;s power. Put one of them into your hand and the rest on the bottom of your library in a random order.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/153_Oqtari Pathlighter.png" num="153">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/152_Oqtari Pathlighter.png" num="152">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2797,7 +2797,7 @@ When Oqtari Pathlighter deals combat damage to a player, look at the top X cards
 		<card>
 			<name>Mistborn Rejuvenator</name>
 			<text>Whenever one or more token creatures you control enter, you may pay {G}. If you do, return target permanent card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/147_Mistborn Rejuvenator.png" num="147">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/146_Mistborn Rejuvenator.png" num="146">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2814,7 +2814,7 @@ When Oqtari Pathlighter deals combat damage to a player, look at the top X cards
 		<card>
 			<name>Mentoring Shiftsword</name>
 			<text>{2}{G}: Target creature you control can&apos;t be blocked by creatures with greater power until end of turn. Convert that creature. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/142_Mentoring Shiftsword.png" num="142">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/141_Mentoring Shiftsword.png" num="141">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2848,7 +2848,7 @@ When Oqtari Pathlighter deals combat damage to a player, look at the top X cards
 		<card>
 			<name>Pragmatic Weaponry</name>
 			<text>Put two +1/+1 counters on target creature. Until end of turn, that creature can&apos;t be blocked by creatures with power less than it.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/155_Pragmatic Weaponry.png" num="155">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/154_Pragmatic Weaponry.png" num="154">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2883,7 +2883,7 @@ If the creature you control has power 4 or greater, draw a card.</text>
 			<text>Flash
 When Eerie Propagation enters, prevent all combat damage that would be dealt this turn, then draw a card.
 Whenever a permanent you control transforms, you may return Eerie Propagation to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/138_Eerie Propagation.png" num="138">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/137_Eerie Propagation.png" num="137">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2899,7 +2899,7 @@ Whenever a permanent you control transforms, you may return Eerie Propagation to
 		<card>
 			<name>Defensive Phalanx</name>
 			<text>Prevent all combat damage that would be dealt to you this turn. Create a number of 1/1 red Soldier creature tokens equal to the number of creature cards in your graveyard.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/178_Defensive Phalanx.png" num="178">IRA</set>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/173_Defensive Phalanx.png" num="173">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2916,7 +2916,7 @@ Whenever a permanent you control transforms, you may return Eerie Propagation to
 			<name>Gem affinity</name>
 			<text>Colored artifact spells you control have affinity for artifacts. (Those spells cost {1} less to cast for each artifact you control.)
 {T}: Untap target artifact you control. Double the amount of charge counters on it.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/186_Gem affinity.png" num="186">IRA</set>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/181_Gem affinity.png" num="181">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2931,32 +2931,32 @@ Whenever a permanent you control transforms, you may return Eerie Propagation to
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>crazy white weenie</name>
-			<text>Double strike
-Whenever crazy white weenie attacks, other creatures you control with power 2 or less gain double strike until end of turn.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/177_crazy white weenie.png" num="177">IRA</set>
+			<name>Inspiring Seneschal</name>
+			<text>Whenever you attack, you may discard a card. When you do, target Soldier you control gains double strike until end of turn.
+Whenever you discard a card, you may pay {R}. When you do, Inspiring Seneschal deals 3 damage to target player.</text>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/189_Inspiring Seneschal.png" num="189">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Soldier</type>
+				<type>Creature — Giant Soldier</type>
 				<maintype>Creature</maintype>
-				<manacost>1RW</manacost>
-				<cmc>3</cmc>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
-				<pt>1/2</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Sultai graveyard</name>
+			<name>Everett, Emperor No More</name>
 			<text>Whenever a permanent you control transforms, you may mill two cards.
 Whenever one or more nonland cards are put into your graveyard from anywhere, you may return a land card from your graveyard to the battlefield tapped.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/210_Sultai graveyard.png" num="210">IRA</set>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/179_Everett, Emperor No More.png" num="179">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature</type>
+				<type>Legendary Creature — Spirit Soldier</type>
 				<maintype>Creature</maintype>
 				<manacost>BGU</manacost>
 				<cmc>3</cmc>
@@ -2972,7 +2972,7 @@ Whenever one or more nonland cards are put into your graveyard from anywhere, yo
 You have no maximum hand size.
 Whenever you discard a card, return that card to your hand and surveil 1.
 Evaporate — {2}{U}{U}{B}, Exile this card from your graveyard: Gain control of target creature.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/170_Aor&apos;Il, Scourge of Esterlis.png" num="170">IRA</set>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/167_Aor&apos;Il, Scourge of Esterlis.png" num="167">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2987,10 +2987,10 @@ Evaporate — {2}{U}{U}{B}, Exile this card from your graveyard: Gain control of
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>efficient wipe</name>
+			<name>Desiccant Annihilation</name>
 			<text>Destroy all creatures.
 Exile up to three target cards from a single graveyard.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/180_efficient wipe.png" num="180">IRA</set>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/174_Desiccant Annihilation.png" num="174">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3004,10 +3004,10 @@ Exile up to three target cards from a single graveyard.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>draw</name>
+			<name>Dragonspotting</name>
 			<text>Look at the top three cards of your library, then put them back in any order. You may shuffle.
 Draw two cards.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/179_draw.png" num="179">IRA</set>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/176_Dragonspotting.png" num="176">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3021,15 +3021,15 @@ Draw two cards.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>top-end esper</name>
+			<name>Djinni of Past and Future</name>
 			<text>Flying, vigilance
-Whenever top-end esper attacks, draw a card and mill two cards.
-Evaporate — {5}{W}{U}{U}{B}, Exile top-end esper from your graveyard: Shuffle your hand and graveyard into your library, then draw seven cards. Take an extra turn after this one.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/214_top-end esper.png" num="214">IRA</set>
+Whenever Djinni of Past and Future attack, draw a card and mill two cards.
+Evaporate — {5}{W}{U}{U}{B}, Exile Djinni of Past and Future from your graveyard: Shuffle your hand and graveyard into your library, then draw seven cards. Take an extra turn after this one.</text>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/175_Djinni of Past and Future.png" num="175">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Sphinx</type>
+				<type>Creature — Spirit Demon</type>
 				<maintype>Creature</maintype>
 				<manacost>4WUB</manacost>
 				<cmc>7</cmc>
@@ -3042,8 +3042,8 @@ Evaporate — {5}{W}{U}{U}{B}, Exile top-end esper from your graveyard: Shuffle 
 		<card>
 			<name>The Fireblood Crystal</name>
 			<text>Whenever an opponent is dealt damage, put a charge counter on The Fireblood Crystal.
-{T}, Remove two charge counters from The Fireblood Crystal: You may cast target instant or sorcery card from your graveyard this turn. When you do, exile it as it resolves.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/185_The Fireblood Crystal.png" num="185">IRA</set>
+{T}, Remove two charge counters from The Fireblood Crystal: You may cast target instant or sorcery card from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.</text>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/180_The Fireblood Crystal.png" num="180">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3061,7 +3061,7 @@ Evaporate — {5}{W}{U}{U}{B}, Exile top-end esper from your graveyard: Shuffle 
 			<text>Trample, ward—Pay 2 life.
 Emperor Enorim II&apos;s power is equal to the amount of Soldiers you control.
 Whenever a nontoken Soldier you control dies, create X 1/1 red Soldier creature tokens, where X is that creature&apos;s power.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/181_Emperor Enorim II.png" num="181">IRA</set>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/178_Emperor Enorim II.png" num="178">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3078,7 +3078,7 @@ Whenever a nontoken Soldier you control dies, create X 1/1 red Soldier creature 
 		<card>
 			<name>Alwyn Aevaris</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/169_Alwyn Aevaris.png" num="169">IRA</set>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/166_Alwyn Aevaris.png" num="166">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3096,7 +3096,7 @@ Whenever a nontoken Soldier you control dies, create X 1/1 red Soldier creature 
 			<name>The Grand Admiral</name>
 			<text>At the beginning of your upkeep, surveil 2.
 Whenever you activate an ability of a card in your graveyard, return target permanent to its owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/190_The Grand Admiral.png" num="190">IRA</set>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/186_The Grand Admiral.png" num="186">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3114,7 +3114,7 @@ Whenever you activate an ability of a card in your graveyard, return target perm
 			<name>Prime Valeyan Ordun</name>
 			<text>Trample
 Whenever a creature you control deals combat damage to a player, you may draw that many cards, then discard that many cards. Do this only once each turn.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/203_Prime Valeyan Ordun.png" num="203">IRA</set>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/201_Prime Valeyan Ordun.png" num="201">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3133,7 +3133,7 @@ Whenever a creature you control deals combat damage to a player, you may draw th
 			<text>Ward {2}
 When Archdruid Olion enters, your life total becomes equal to the total amount of lands and Mists you control.
 Mists you control get +2/+2 and can&apos;t be blocked.</text>
-			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/171_Archdruid Olion.png" num="171">IRA</set>
+			<set rarity="mythic" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/168_Archdruid Olion.png" num="168">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3148,16 +3148,16 @@ Mists you control get +2/+2 and can&apos;t be blocked.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Convert bear</name>
+			<name>Shiftsword Innovator</name>
 			<text>Whenever another creature you control enters, if it doesn&apos;t have the same power as another creature you control, choose one — 
-• Put a +1/+1 counter on Convert bear.
+• Put a +1/+1 counter on Shiftsword Innovator.
 • You gain 2 life.
 • Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/176_Convert bear.png" num="176">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/205_Shiftsword Innovator.png" num="205">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Human Advisor</type>
 				<maintype>Creature</maintype>
 				<manacost>GW</manacost>
 				<cmc>2</cmc>
@@ -3171,7 +3171,7 @@ Mists you control get +2/+2 and can&apos;t be blocked.</text>
 			<name>Captain Xanlos</name>
 			<text>Ward—Sacrifice a Treasure. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a Treasure.)
 Whenever one or more creatures attack a player other than you, each player creates a Treasure token.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/174_Captain Xanlos.png" num="174">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/171_Captain Xanlos.png" num="171">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3186,10 +3186,10 @@ Whenever one or more creatures attack a player other than you, each player creat
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Stifle</name>
+			<name>Mistwarp</name>
 			<text>Counter target permanent spell, activated ability, or triggered ability.
 Scry 1. If you control six or more lands, draw a card.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/166_Stifle.png" num="166">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/197_Mistwarp.png" num="197">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3203,15 +3203,15 @@ Scry 1. If you control six or more lands, draw a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Mist Commander</name>
+			<name>Knight of the Mists</name>
 			<text>Flying, trample, lifelink
 You may play an additional land on each of your turns.
 Whenever a permanent you control transforms, reveal the top five cards of your library. Put all land cards from among them into your hand and the rest on the bottom of your library in a random order.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/198_Mist Commander.png" num="198">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/194_Knight of the Mists.png" num="194">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Elemental</type>
+				<type>Legendary Creature — Elemental Knight</type>
 				<maintype>Creature</maintype>
 				<manacost>WUBRG</manacost>
 				<cmc>5</cmc>
@@ -3222,15 +3222,15 @@ Whenever a permanent you control transforms, reveal the top five cards of your l
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Evap</name>
+			<name>Ghastly Drake</name>
 			<text>Flying
 Abilities from cards in your graveyard cost {1} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.
-Whenever a card leaves your graveyard, put a +1/+1 counter on Evap.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/182_Evap.png" num="182">IRA</set>
+Whenever a card leaves your graveyard for the first time each turn, put a +1/+1 counter on Ghastly Drake.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/185_Ghastly Drake.png" num="185">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Drake</type>
 				<maintype>Creature</maintype>
 				<manacost>1UB</manacost>
 				<cmc>3</cmc>
@@ -3241,14 +3241,14 @@ Whenever a card leaves your graveyard, put a +1/+1 counter on Evap.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Soldier buff</name>
+			<name>Sharean Bloodletter</name>
 			<text>During your turn, Soldiers you control have first strike.
 Whenever one or more Soldiers you control deal combat damage to a player, you may pay 2 life. If you do, create a 1/1 red Soldier creature token.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/206_Soldier buff.png" num="206">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/204_Sharean Bloodletter.png" num="204">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Soldier</type>
+				<type>Creature — Human Soldier</type>
 				<maintype>Creature</maintype>
 				<manacost>2BR</manacost>
 				<cmc>4</cmc>
@@ -3259,14 +3259,14 @@ Whenever one or more Soldiers you control deal combat damage to a player, you ma
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>midrange naya dude</name>
+			<name>Yarkasing Elite</name>
 			<text>Trample, lifelink, haste
 {1}{R}{G}{W}: Target creature you control gains trample, lifelink and haste until end of turn. You may convert that creature. Activate only as a sorcery and only once each turn.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/196_midrange naya dude.png" num="196">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/219_Yarkasing Elite.png" num="219">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Warrior</type>
+				<type>Creature — Snake Warrior</type>
 				<maintype>Creature</maintype>
 				<manacost>1RGW</manacost>
 				<cmc>4</cmc>
@@ -3280,7 +3280,7 @@ Whenever one or more Soldiers you control deal combat damage to a player, you ma
 			<name>Tactical Phalanx</name>
 			<text>Tactical Phalanx enters with five +1/+1 counters on it.
 Whenever Tactical Phalanx deals combat damage to a player, you may remove a +1/+1 counter from it. When you do, create a 1/1 red Soldier creature token.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/213_Tactical Phalanx.png" num="213">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/212_Tactical Phalanx.png" num="212">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3295,9 +3295,9 @@ Whenever Tactical Phalanx deals combat damage to a player, you may remove a +1/+
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Orzhov Boardwipe</name>
-			<text>Destroy all creatures. Return target creature card with mana value 5 or less from your graveyard to the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/201_Orzhov Boardwipe.png" num="201">IRA</set>
+			<name>Kingsfall</name>
+			<text>Destroy all creatures. When you do, return target creature card with mana value 5 or less from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/193_Kingsfall.png" num="193">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3331,42 +3331,42 @@ Whenever one or more creature cards are put into your graveyard, you may pay {B}
 		<card>
 			<name>Gemcrackle Battery</name>
 			<text>Instant and sorcery spells you cast cost {1} less to cast for each charge counter on Gemcrackle Battery.
-{1}{U}{R}, {T}: Put a charge counter on Gemcrackle Battery.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/188_Gemcrackle Battery.png" num="188">IRA</set>
+{U}{R}, {T}: Put a charge counter on Gemcrackle Battery.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/183_Gemcrackle Battery.png" num="183">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact — Gem</type>
 				<maintype>Artifact</maintype>
-				<manacost>2UR</manacost>
-				<cmc>4</cmc>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>2p matters</name>
+			<name>Incendiary Colonne</name>
 			<text>Haste
-Whenever another creature you control attacks, if it has power 2 or less, 2p matters deals 1 damage to each player.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/167_2p matters.png" num="167">IRA</set>
+Whenever a creature you control with power 2 or less enters, you may pay {R}. If you do, that creature deals damage equal to its power to any target.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/188_Incendiary Colonne.png" num="188">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Warrior</type>
+				<type>Creature — Human Warrior</type>
 				<maintype>Creature</maintype>
 				<manacost>RW</manacost>
 				<cmc>2</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Prime Counterspell</name>
+			<name>Gemcharge Capture</name>
 			<text>Counter target noncreature spell. If a spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/202_Prime Counterspell.png" num="202">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/182_Gemcharge Capture.png" num="182">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3380,14 +3380,14 @@ Whenever another creature you control attacks, if it has power 2 or less, 2p mat
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Aggro Soldier tokens</name>
+			<name>Venerated Colonel</name>
 			<text>Haste
 {T}: Create a number of 1/1 red Soldier creature tokens equal to the amount of creatures that attacked this turn.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/168_Aggro Soldier tokens.png" num="168">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/215_Venerated Colonel.png" num="215">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Human Soldier</type>
 				<maintype>Creature</maintype>
 				<manacost>2RW</manacost>
 				<cmc>4</cmc>
@@ -3398,10 +3398,11 @@ Whenever another creature you control attacks, if it has power 2 or less, 2p mat
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Evap commander</name>
-			<text>If a permanent card would be put into exile from your graveyard, exile it with a drowned counter on it instead.
+			<name>Sphinx of Borrowed Time</name>
+			<text>Flying
+If a permanent card would be put into exile from your graveyard, exile it with a drowned counter on it instead.
 You may cast spells from among cards you own in exile with drowned counters on them. When you do, they enter with a finality counter, and are 1/1 Spirits in addition to their other types.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/183_Evap commander.png" num="183">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/207_Sphinx of Borrowed Time.png" num="207">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3416,11 +3417,12 @@ You may cast spells from among cards you own in exile with drowned counters on t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Soldier Commander</name>
-			<text>At the beginning of your end step, choose up to one — 
+			<name>Vigrus, Phoenix Prime</name>
+			<text>Trample, ward— Pay 2 life.
+At the beginning of your end step, choose up to one — 
 • Return target Soldier card from your graveyard to the battlefield with a finality counter on it.
 • Exile target Soldier card from your graveyard. Creatures you control get +1/+1 until the end of your next turn.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/207_Soldier Commander.png" num="207">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/216_Vigrus, Phoenix Prime.png" num="216">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3430,15 +3432,15 @@ You may cast spells from among cards you own in exile with drowned counters on t
 				<cmc>3</cmc>
 				<colors>BRG</colors>
 				<coloridentity>BRG</coloridentity>
-				<pt>4/3</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Evap enchantment</name>
-			<text>Whenever a card leaves your graveyard, draw a card, then discard a card, then put a [] counter on Evap enchantment.
-Activated abilities from cards in your graveyard cost {1} less to activate for each [] counter on Evap enchantment.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/184_Evap enchantment.png" num="184">IRA</set>
+			<name>Drying Basins</name>
+			<text>Whenever a card leaves your graveyard, draw a card, then discard a card. Put a salt counter on Drying Basins.
+Activated abilities from cards in your graveyard cost {1} less to activate for each salt counter on Drying Basins.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/177_Drying Basins.png" num="177">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3452,11 +3454,10 @@ Activated abilities from cards in your graveyard cost {1} less to activate for e
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Gem Commander</name>
-			<text>Flying
-Gem Commander gets +1/+1 for each charge counter on it.
+			<name>Module 4L-13-N</name>
+			<text>Remove a charge counter from Module 4L-13-N: Module 4L-13-N gains hexproof until end of turn.
 At the beginning of your upkeep and at the beginning of your end step, move any number of charge counters between permanents you control.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/187_Gem Commander.png" num="187">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/198_Module 4L-13-N.png" num="198">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3471,10 +3472,10 @@ At the beginning of your upkeep and at the beginning of your end step, move any 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WUBRG Mist Ench</name>
-			<text>Mist creatures you control get +1/+1 and have flying and &quot;{T}: Add one mana of any color.&quot;
+			<name>Stirrings in the Mist</name>
+			<text>Mist creatures you control get +1/+1 and have menace and &quot;{T}: Add one mana of any color.&quot;
 Whenever a land you control transforms, draw a card.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/219_WUBRG Mist Ench.png" num="219">IRA</set>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/208_Stirrings in the Mist.png" num="208">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3488,19 +3489,19 @@ Whenever a land you control transforms, draw a card.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Millwipe</name>
-			<text>Destroy all creatures.
-Target player mills eight cards, then return target creature card from a graveyard onto the battlefield under your control.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/197_Millwipe.png" num="197">IRA</set>
+			<name>Mistcreep</name>
+			<text>You gain 1 life and draw a card. You may play an additional land this turn.
+Whenever a permanent you control transforms, you may pay {GU}. If you do, return Mistcreep from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/196_Mistcreep.png" num="196">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3BBG</manacost>
-				<cmc>6</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
+				<manacost>GGU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
@@ -3524,7 +3525,7 @@ Target player mills eight cards, then return target creature card from a graveya
 			<name>Supercharge Ritualist</name>
 			<text>If one or more charge counters would be put on a Gem you control, that many plus one charge counters are put on that Gem instead.
 At the beginning of your upkeep, put a charge counter on target Gem you control.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/211_Supercharge Ritualist.png" num="211">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/210_Supercharge Ritualist.png" num="210">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3542,7 +3543,7 @@ At the beginning of your upkeep, put a charge counter on target Gem you control.
 			<name>Avenger Bloodknight</name>
 			<text>Haste
 {1}{B}{R}, Sacrifice Avenger Bloodknight: Creatures you control gain haste and menace until end of turn.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/172_Avenger Bloodknight.png" num="172">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/169_Avenger Bloodknight.png" num="169">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3559,7 +3560,7 @@ At the beginning of your upkeep, put a charge counter on target Gem you control.
 		<card>
 			<name>Valiant Recruiter</name>
 			<text>When Valiant Recruiter or another nontoken Soldier you control enters, create a 1/1 red Soldier creature token.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/216_Valiant Recruiter.png" num="216">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/214_Valiant Recruiter.png" num="214">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3577,7 +3578,7 @@ At the beginning of your upkeep, put a charge counter on target Gem you control.
 			<name>Jungleborn Scout</name>
 			<text>Vigilance
 {T}: Put a +1/+1 counter on target creature you control and convert it. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/194_Jungleborn Scout.png" num="194">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/192_Jungleborn Scout.png" num="192">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3595,7 +3596,7 @@ At the beginning of your upkeep, put a charge counter on target Gem you control.
 			<name>Treasure Sifter</name>
 			<text>Lifelink, deathtouch
 Whenever Treasure Sifter enters or dies, mill three cards.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/215_Treasure Sifter.png" num="215">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/213_Treasure Sifter.png" num="213">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3631,7 +3632,7 @@ Whenever Oqtari Marauder becomes tapped, it deals 1 damage to target player.</te
 		<card>
 			<name>Gemflinging</name>
 			<text>Gemflinging deals 2 damage to any target. Scry 2, then draw a card.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/189_Gemflinging.png" num="189">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/184_Gemflinging.png" num="184">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3647,7 +3648,7 @@ Whenever Oqtari Marauder becomes tapped, it deals 1 damage to target player.</te
 		<card>
 			<name>Beacon Over the Oceans</name>
 			<text>You may play an additional land this turn. Draw two cards, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/173_Beacon Over the Oceans.png" num="173">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/170_Beacon Over the Oceans.png" num="170">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3663,7 +3664,7 @@ Whenever Oqtari Marauder becomes tapped, it deals 1 damage to target player.</te
 		<card>
 			<name>Guide to War&apos;s End</name>
 			<text>{B}{G}, Sacrifice a creature: You gain X life, where X is that creature&apos;s power. If that creature was a Soldier, draw a card. Activate only once per turn.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/191_Guide to War&apos;s End.png" num="191">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/187_Guide to War&apos;s End.png" num="187">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3682,7 +3683,7 @@ Whenever Oqtari Marauder becomes tapped, it deals 1 damage to target player.</te
 			<text>Flying
 When Chrome Drake enters, you gain 2 life, draw two cards, then discard two cards.
 Evaporate — {2}{W}{U}, Exile this card from your graveyard: You gain 2 life and draw a card.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/175_Chrome Drake.png" num="175">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/172_Chrome Drake.png" num="172">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3715,7 +3716,7 @@ Evaporate — {2}{W}{U}, Exile this card from your graveyard: You gain 2 life an
 		<card>
 			<name>Jungle Mission Specialist</name>
 			<text>Whenever Jungle Mission Specialist attacks, Soldiers you control get +1/+0 and menace until end of turn.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/192_Jungle Mission Specialist.png" num="192">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/190_Jungle Mission Specialist.png" num="190">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3750,7 +3751,7 @@ Whenever a Soldier you control attacks, Wrathful Champion gets +1/+0 until end o
 		<card>
 			<name>Jungleborn Mentor</name>
 			<text>Whenever Jungleborn Mentor deals combat damage to a player, put a +1/+1 counter on up to X other target creatures, where X is its power.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/193_Jungleborn Mentor.png" num="193">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/191_Jungleborn Mentor.png" num="191">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3785,7 +3786,7 @@ Evaporate — {3}{W}{B}, Exile this card from your graveyard: Put a flying count
 		<card>
 			<name>Regiment Pathmaker</name>
 			<text>Whenever another creature you control with power 2 or less attacks, if this is the first time this ability has resolved this turn, draw a card. Otherwise, Regiment Pathmaker gets +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/204_Regiment Pathmaker.png" num="204">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/202_Regiment Pathmaker.png" num="202">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3803,7 +3804,7 @@ Evaporate — {3}{W}{B}, Exile this card from your graveyard: Put a flying count
 			<name>Spelldrinker Pendant</name>
 			<text>Whenever you cast your second spell each turn, put a charge counter on Spelldrinker Pendant.
 {T}, Remove a charge counter from Spelldrinker Pendant: Add {U} or {R}. Spelldrinker Pendant deals 2 damage to target player.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/208_Spelldrinker Pendant.png" num="208">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/206_Spelldrinker Pendant.png" num="206">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3821,7 +3822,7 @@ Evaporate — {3}{W}{B}, Exile this card from your graveyard: Put a flying count
 			<name>Sylran, Many-Horned</name>
 			<text>Vigilance, trample
 Sylran, Many-Horned&apos;s power and toughness are each equal to the number of lands you control.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/212_Sylran, Many-Horned.png" num="212">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/211_Sylran, Many-Horned.png" num="211">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3839,7 +3840,7 @@ Sylran, Many-Horned&apos;s power and toughness are each equal to the number of l
 			<name>Resolute Deathmarcher</name>
 			<text>Deathtouch
 When Resolute Deathmarcher or another Soldier you control dies, target player loses 1 life and you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/205_Resolute Deathmarcher.png" num="205">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/203_Resolute Deathmarcher.png" num="203">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3857,7 +3858,7 @@ When Resolute Deathmarcher or another Soldier you control dies, target player lo
 			<name>Phantasmal Eagle</name>
 			<text>Flying
 Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/234_Phantasmal Eagle.png" num="234">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/225_Phantasmal Eagle.png" num="225">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3874,7 +3875,7 @@ Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
 		<card>
 			<name>Radiance Collector</name>
 			<text>Whenever you draw a card, you may pay {UB}. If you do, put a charge counter on target artifact you control.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/235_Radiance Collector.png" num="235">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/226_Radiance Collector.png" num="226">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3891,7 +3892,7 @@ Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
 		<card>
 			<name>Pervasive Militocrat</name>
 			<text>Whenever one or more Soldiers you control attack, Pervasive Militocrat deals 1 damage to target player.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/233_Pervasive Militocrat.png" num="233">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/224_Pervasive Militocrat.png" num="224">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3925,7 +3926,7 @@ Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
 		<card>
 			<name>Stalwart Scout</name>
 			<text>{2}{GW}{GW}: Stalwart Scout and target creature you control gain vigilance until end of turn. Convert that creature. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/239_Stalwart Scout.png" num="239">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/234_Stalwart Scout.png" num="234">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3943,7 +3944,7 @@ Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
 			<name>Soul-Siphon Warlock</name>
 			<text>Lifelink
 Evaporate — {4}{WB}{WB}, Exile this card from your graveyard: Target player loses life equal to the mana value of target creature you control, and you gain that much life.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/238_Soul-Siphon Warlock.png" num="238">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/233_Soul-Siphon Warlock.png" num="233">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3961,7 +3962,7 @@ Evaporate — {4}{WB}{WB}, Exile this card from your graveyard: Target player lo
 			<name>Regiment Scout</name>
 			<text>Regiment Scout has double strike as long as it&apos;s your turn.
 Whenever one or more creatures you control with power 2 or less attack, exile the top card of your library. You may play that card until end of turn.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/236_Regiment Scout.png" num="236">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/227_Regiment Scout.png" num="227">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3978,7 +3979,7 @@ Whenever one or more creatures you control with power 2 or less attack, exile th
 		<card>
 			<name>Glimmermage Adept</name>
 			<text>Whenever you cast your first spell on each of your turns, add {U} or {R}. Spend this mana only to cast an instant, sorcery or Gem spell.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/229_Glimmermage Adept.png" num="229">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/222_Glimmermage Adept.png" num="222">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3995,7 +3996,7 @@ Whenever one or more creatures you control with power 2 or less attack, exile th
 		<card>
 			<name>Great Plains Guide</name>
 			<text>When Great Plains Guide enters, look at the top four cards of your library. You may reveal a land card from among them. If you do, put that card into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/230_Great Plains Guide.png" num="230">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/223_Great Plains Guide.png" num="223">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4013,7 +4014,7 @@ Whenever one or more creatures you control with power 2 or less attack, exile th
 			<name>Exploiter of Undergrowth</name>
 			<text>Deathtouch
 When Exploiter of Undergrowth enters, sacrifice a creature. When you do, surveil 2. If the sacrificed creature was a Soldier, draw a card.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/228_Exploiter of Undergrowth.png" num="228">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/221_Exploiter of Undergrowth.png" num="221">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4028,10 +4029,10 @@ When Exploiter of Undergrowth enters, sacrifice a creature. When you do, surveil
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Shirley</name>
+			<name>RX01 — Shirley</name>
 			<text>Flying
-Whenever Shirley deals combat damage to a creature, tap that creature and put a stun counter on it. You may pay {U}. If you do, draw a card.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/237_Shirley.png" num="237">IRA</set>
+Whenever RX01 — Shirley deals combat damage to a creature, tap that creature and put a stun counter on it. You may pay {U}. If you do, draw a card.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/228_RX01 — Shirley.png" num="228">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4046,10 +4047,10 @@ Whenever Shirley deals combat damage to a creature, tap that creature and put a 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Karan Kurem</name>
+			<name>RX02 — Karan Kurem</name>
 			<text>Vigilance
-Whenever Karan Kurem enters, gain control of target creature with mana value 4 or less. It&apos;s a 4/4 Thrall in addition to its other types for as long as you control that creature.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/231_Karan Kurem.png" num="231">IRA</set>
+Whenever RX02 — Karan Kurem enters, gain control of target creature with mana value 4 or less. It&apos;s a 4/4 Thrall in addition to its other types for as long as you control that creature.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/229_RX02 — Karan Kurem.png" num="229">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4064,10 +4065,10 @@ Whenever Karan Kurem enters, gain control of target creature with mana value 4 o
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Arxikas</name>
+			<name>RX03 — Arxikas</name>
 			<text>Other Spiders you control get +1/+1.
-When Arxikas enters, it deals 2 damage to each other creature. Whenever a creature dies this turn, create a 1/0 black Spider Illusion creature token.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/221_Arxikas.png" num="221">IRA</set>
+When RX03 — Arxikas enters, it deals 2 damage to each other creature. Whenever a creature dies this turn, create a 1/0 black Spider Illusion creature token.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/230_RX03 — Arxikas.png" num="230">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4082,9 +4083,9 @@ When Arxikas enters, it deals 2 damage to each other creature. Whenever a creatu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Baldan Wazu</name>
-			<text>Whenever a land you control enters, create a 1/1 red Soldier creature token. Baldan Wazu deals 1 damage to any target.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/222_Baldan Wazu.png" num="222">IRA</set>
+			<name>RX04 — Baldan Wazu</name>
+			<text>Whenever a land you control enters, create a 1/1 red Soldier creature token. RX04 — Baldan Wazu deals 1 damage to any target.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/231_RX04 — Baldan Wazu.png" num="231">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4099,11 +4100,11 @@ When Arxikas enters, it deals 2 damage to each other creature. Whenever a creatu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Ovno Zig</name>
-			<text>Ovno Zig can&apos;t be blocked by creatures with greater power.
-Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power, then draw a card.
-{G}: Ovno Zig gets +1/+1 or -1/-1 until end of turn.</text>
-			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/232_Ovno Zig.png" num="232">IRA</set>
+			<name>RX05 — Ovno Zig</name>
+			<text>RX05 — Ovno Zig can&apos;t be blocked by creatures with greater power.
+Whenever RX05 — Ovno Zig deals combat damage to a player, scry X, where X is its power, then draw a card.
+{G}: RX05 — Ovno Zig gets +1/+1 or -1/-1 until end of turn.</text>
+			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/232_RX05 — Ovno Zig.png" num="232">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4118,11 +4119,11 @@ Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power,
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Crest of Radiance</name>
+			<name>UX01 — Crest of Radiance</name>
 			<text>Choose one — 
 • Put a charge counter on each Gem you control.
 • Counter target creature or artifact spell.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/225_Crest of Radiance.png" num="225">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/235_UX01 — Crest of Radiance.png" num="235">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4136,11 +4137,11 @@ Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power,
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Crest of Magma</name>
+			<name>UX02 — Crest of Magma</name>
 			<text>Choose one — 
 • Draw cards equal to the power of target creature you control.
-• Crest of Magma deals 2 damage to each attacking creature.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/224_Crest of Magma.png" num="224">IRA</set>
+• UX02 — Crest of Magma deals 2 damage to each attacking creature.</text>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/236_UX02 — Crest of Magma.png" num="236">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4154,11 +4155,11 @@ Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power,
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Crest of Waves</name>
+			<name>UX03 — Crest of Waves</name>
 			<text>Choose one — 
 • Target player mills six cards.
 • Destroy target noncreature, nonland permanent.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/227_Crest of Waves.png" num="227">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/237_UX03 — Crest of Waves.png" num="237">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4172,11 +4173,11 @@ Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power,
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Crest of Ruby</name>
+			<name>UX04 — Crest of Ruby</name>
 			<text>Choose one — 
 • Exile the top two cards of your library. You may cast them this turn.
 • Create two 1/1 red Soldier creature tokens.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/226_Crest of Ruby.png" num="226">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/238_UX04 — Crest of Ruby.png" num="238">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4190,11 +4191,11 @@ Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power,
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Crest of Ironbark</name>
+			<name>UX05 — Crest of Ironbark</name>
 			<text>Choose one — 
 • Search your library for a land card, reveal it and put it into your hand. You gain 2 life.
 • Scry X, where X is the number of lands you control, then draw a card.</text>
-			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/223_Crest of Ironbark.png" num="223">IRA</set>
+			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/239_UX05 — Crest of Ironbark.png" num="239">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4409,7 +4410,7 @@ Whenever Iarla, Eternal attacks, search your library for a land or Dragon card, 
 			<text>The Kaleidoscope Hollow enters tapped.
 When The Kaleidoscope Hollow enters, choose a color.
 {T}: Add {W} or one mana of the chosen color.
-Mist {2}{W} (You may transform this card any time you could cast an instant for its mist cost.)
+Mist {3}{W} (You may transform this card any time you could cast an instant for its mist cost.)
 ---
 (Back): Risen Mist</text>
 			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/255_The Kaleidoscope Hollow_front.png" num="255a">IRA</set>
@@ -4534,9 +4535,9 @@ Whenever Specter of the Last Drow deals combat damage to a player, that player s
 			<text>Thov Da&apos;Rul enters tapped.
 {T}: Add {R}.
 {2}{R}{R}, {T}: Target creature you control gets +2/+0 until end of turn.
-Mist {2}{R} (You may transform this card any time you could cast an instant for its mist cost.)
+Mist {2}{R}{R} (You may transform this card any time you could cast an instant for its mist cost.)
 ---
-(Back): Engulfed Statue</text>
+(Back): Infernal Statue</text>
 			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/264_Thov Da&apos;Rul_front.png" num="264a">IRA</set>
 			<prop>
 				<layout>transform</layout>
@@ -4548,13 +4549,13 @@ Mist {2}{R} (You may transform this card any time you could cast an instant for 
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related attach="transform">Engulfed Statue</related>
+			<related attach="transform">Infernal Statue</related>
 		</card>
 		<card>
-			<name>Engulfed Statue</name>
+			<name>Infernal Statue</name>
 			<text>First strike
-Engulfed Statue can&apos;t be blocked.
-Whenever Engulfed Statue deals combat damage to a player, creatures you control get +1/+0 until end of turn.
+Infernal Statue can&apos;t be blocked.
+Whenever Infernal Statue deals combat damage to a player, creatures you control get +1/+0 until end of turn.
 ---
 (Front): Thov Da&apos;Rul</text>
 			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/264_Thov Da&apos;Rul_back.png" num="264b">IRA</set>
@@ -4683,15 +4684,15 @@ Mist {4}{UB} (You may transform this card any time you could cast an instant for
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type></type>
-				<maintype></maintype>
+				<type>Creature — Mist</type>
+				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 				<pt>2/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 			<related attach="transform">Cerulean Fogbank</related>
 		</card>
 		<card>
@@ -4716,7 +4717,7 @@ Mist {4}{BR} (You may transform this card any time you could cast an instant for
 		</card>
 		<card>
 			<name>Ashen Wisp</name>
-			<text>Haste
+			<text>Menace
 ---
 (Front): Ashy Badlands</text>
 			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/251_Ashy Badlands_back.png" num="251b">IRA</set>
@@ -4876,7 +4877,7 @@ Sandstorm Steppe enters the battlefield tapped.
 		</card>
 		<card>
 			<name>Sandblast Wisp</name>
-			<text>Haste
+			<text>During your turn, Sandblast Wisp has first strike.
 ---
 (Front): Sandstorm Steppe</text>
 			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/261_Sandstorm Steppe_back.png" num="261b">IRA</set>
@@ -5074,7 +5075,7 @@ Mist {3} (You may transform this card any time you could cast an instant for its
 		<card>
 			<name>Materialized Fog</name>
 			<text>When this permanent transforms into Materialized Fog, add one mana of any color.
-{T}: Add {C}.
+T: Add {C}.
 ---
 (Front): Murky Vista</text>
 			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/267_Murky Vista_back.png" num="267b">IRA</set>
@@ -5332,9 +5333,59 @@ Mist {3} (You may transform this card any time you could cast an instant for its
 			<token>1</token>
 		</card>
 		<card>
+			<name>Irandian Mists Allied Draft Archetypes IRA</name>
+			<text>[b]{WU}:[/b] [b]Evaporation Control
+[/b]Grind opponents out slowly with the power of evaporate
+[b]U/B: Gem Control
+[/b]Power up your gems to build a game-winning advantage
+[b]{BR}: Soldier Aggro
+[/b]Sacrifice the footmen for the greater good, and rush down your opponent
+[b]{RG}: Soldier Go-Wide
+[/b]Create a massive Soldier token army and grow them large to close the game out
+[b]{GW}: Convert Aggro ({T}: Target creature you control switches its power and toughness until end of turn.)
+[/b]Utilize the strange ways of Yarkasing warriors and their shifting weaponry to accrue advantages and slay your opponent</text>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/2t_Irandian Mists Allied Draft Archetypes.png" num="2">IRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Irandian Mists Enemy Draft Archetypes IRA</name>
+			<text>[b]{WB}: Evaporation Midrange
+[/b]Use aggressively-statted creatures in the early game, and cash them in for value through evaporation later
+[b]{UR}: Gem Spellslinger
+[/b]Charge your gems with the magic from instants and sorceries, and eek out value from casting multiple spells in a turn
+[b]{BG}: Soldier Sacrifice
+[/b]Sacrifice your Soldiers for value, and grind out advantages to win slowly
+[b]{RW}: Weenie Aggro
+[/b]Combine the power of Soldiers and other small creatures to power down your opponent, with payoffs for power 2 or less
+[b]{GU}: Mist Ramp
+[/b]Find lands with mist from your deck, ramp into big threats, and buff up your mist creatures to befuddle your opponent</text>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/3t_Irandian Mists Enemy Draft Archetypes.png" num="3">IRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
 			<name>Treasure IRA</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/2t_Treasure.png" num="2">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/4t_Treasure.png" num="4">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5349,7 +5400,7 @@ Mist {3} (You may transform this card any time you could cast an instant for its
 		<card>
 			<name>Elemental IRA</name>
 			<text></text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/3t_Elemental.png" num="3">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/5t_Elemental.png" num="5">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5367,7 +5418,7 @@ Mist {3} (You may transform this card any time you could cast an instant for its
 		<card>
 			<name>Zombie IRA</name>
 			<text></text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/4t_Zombie.png" num="4">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/6t_Zombie.png" num="6">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5385,7 +5436,7 @@ Mist {3} (You may transform this card any time you could cast an instant for its
 		<card>
 			<name>Soldier IRA</name>
 			<text></text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/5t_Soldier.png" num="5">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/7t_Soldier.png" num="7">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5403,7 +5454,7 @@ Mist {3} (You may transform this card any time you could cast an instant for its
 		<card>
 			<name>Spectral Wolf IRA</name>
 			<text></text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/6t_Spectral Wolf.png" num="6">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/8t_Spectral Wolf.png" num="8">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5421,7 +5472,7 @@ Mist {3} (You may transform this card any time you could cast an instant for its
 		<card>
 			<name>Reflective Mist IRA</name>
 			<text>{T}: Add one mana of any color another land you control could produce.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/7t_Reflective Mist.png" num="7">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/9t_Reflective Mist.png" num="9">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
