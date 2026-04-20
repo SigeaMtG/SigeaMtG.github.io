@@ -5,7 +5,7 @@
 			<name>IRA</name>
 			<longname>Irandian Mists</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-19</releasedate>
+			<releasedate>2026-04-20</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -30,7 +30,7 @@ Evaporate — {5}{W}{W}, Exile this card from your graveyard: Creatures you cont
 		<card>
 			<name>Valeyan Gateguard</name>
 			<text>First strike
-{W}: Convert Valeyan Gateguard. Activate only as a sorcery. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
+{W}: Convert Valeyan Gateguard. Activate only as a sorcery. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/27_Valeyan Gateguard.png" num="27">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -151,7 +151,7 @@ Evaporate — {3}{W}{W}, Exile this card from your graveyard: Destroy target cre
 		</card>
 		<card>
 			<name>Yarkasing Champion</name>
-			<text>{W}: Convert target creature you control. Activate only once per turn. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
+			<text>{W}: Convert target creature you control. Activate only once per turn. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/33_Yarkasing Champion.png" num="33">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -381,7 +381,7 @@ Equip {1}{W}{B}</text>
 		<card>
 			<name>Ethereal Burdener</name>
 			<text>Whenever Ethereal Burdener becomes tapped, you may pay {1}. When you do, tap target creature.
-{T}: Convert target creature you control. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
+{T}: Convert target creature you control. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/12_Ethereal Burdener.png" num="12">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -398,7 +398,7 @@ Equip {1}{W}{B}</text>
 		</card>
 		<card>
 			<name>Valeyan Lieutenant</name>
-			<text>{T}: Convert target creature you control. ({T}: Target creature you control switches its power and toughness until end of turn.)
+			<text>{T}: Convert target creature you control. (Switch its power and toughness until end of turn.)
 Whenever Valeyan Lieutenant becomes tapped, target creature you control gets +2/+2 and gains vigilance until end of turn.</text>
 			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/28_Valeyan Lieutenant.png" num="28">IRA</set>
 			<prop>
@@ -453,7 +453,7 @@ Whenever Valeyan Martial Guard attacks, if it has power 3 or greater, put a +1/+
 		<card>
 			<name>Allwatch Angel</name>
 			<text>Flying, vigilance
-{1}{W}{W}, {T}: Convert target creature you control and put a vigilance counter on it. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
+{1}{W}{W}, {T}: Convert target creature you control and put a vigilance counter on it. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/1_Allwatch Angel.png" num="1">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1750,7 +1750,7 @@ Surveil 2. If you sacrificed a permanent this turn, return target permanent card
 		</card>
 		<card>
 			<name>Valey Shiftshield</name>
-			<text>{R}: Convert Valey Shiftshield. Activate only as a sorcery. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
+			<text>{R}: Convert Valey Shiftshield. Activate only as a sorcery. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/132_Valey Shiftshield.png" num="132">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1889,7 +1889,7 @@ If you control a Gem, scry 1.</text>
 		</card>
 		<card>
 			<name>Improvised Armament</name>
-			<text>Target creature gets +1/+0 and gains convert until end of turn. ({T}: Target creature you control switches its power and toughness until end of turn.)
+			<text>Target creature gets +1/+1 until end of turn. Convert it. (Switch its power and toughness until end of turn.)
 Draw a card.</text>
 			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/115_Improvised Armament.png" num="115">IRA</set>
 			<prop>
@@ -2012,7 +2012,7 @@ Whenever Hurler of Armaments deals combat damage to a player, you may discard a 
 		</card>
 		<card>
 			<name>Oqtari Improviser</name>
-			<text>{T}: Convert target creature you control. ({T}: Target creature you control switches its power and toughness until end of turn.)
+			<text>{T}: Convert target creature you control. (Switch its power and toughness until end of turn.)
 Whenever Oqtari Improviser becomes tapped, it deals damage equal to its power to target player.</text>
 			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/119_Oqtari Improviser.png" num="119">IRA</set>
 			<prop>
@@ -2189,7 +2189,7 @@ Whenever Bloodlusting Champion deals combat damage to a player, exile the top ca
 		<card>
 			<name>Blazeblade Adept</name>
 			<text>Haste, menace
-{R}: Convert target creature you control. Activate only once each turn. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
+{R}: Convert target creature you control. Activate only once each turn. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/104_Blazeblade Adept.png" num="104">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2328,7 +2328,7 @@ Whenever a Soldier you control enters, you may pay {R}. If you do, return Army-F
 		</card>
 		<card>
 			<name>Oqtari Shiftsword</name>
-			<text>{G}: Convert Oqtari Shiftsword. Activate only as a sorcery. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
+			<text>{G}: Convert Oqtari Shiftsword. Activate only as a sorcery. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/153_Oqtari Shiftsword.png" num="153">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2397,7 +2397,7 @@ Whenever a Soldier you control enters, you may pay {R}. If you do, return Army-F
 		</card>
 		<card>
 			<name>Oqtari Enforcer</name>
-			<text>{1}{G}{G}: Target creature you control gets +1/+1 until end of turn. Convert that creature. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
+			<text>{1}{G}{G}: Target creature you control gets +1/+1 until end of turn. Convert that creature. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/151_Oqtari Enforcer.png" num="151">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2744,7 +2744,7 @@ Equip {3}</text>
 		<card>
 			<name>Oqtari Champion</name>
 			<text>Vigilance, trample
-{G}: Convert Oqtari Champion. Activate only as a sorcery. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
+{G}: Convert Oqtari Champion. Activate only as a sorcery. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/150_Oqtari Champion.png" num="150">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2813,7 +2813,7 @@ When Oqtari Pathlighter deals combat damage to a player, look at the top X cards
 		</card>
 		<card>
 			<name>Mentoring Shiftsword</name>
-			<text>{2}{G}: Target creature you control can&apos;t be blocked by creatures with greater power until end of turn. Convert that creature. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
+			<text>{2}{G}: Target creature you control can&apos;t be blocked by creatures with greater power until end of turn. Convert that creature. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/141_Mentoring Shiftsword.png" num="141">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3577,7 +3577,7 @@ At the beginning of your upkeep, put a charge counter on target Gem you control.
 		<card>
 			<name>Jungleborn Scout</name>
 			<text>Vigilance
-{T}: Put a +1/+1 counter on target creature you control and convert it. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
+{T}: Put a +1/+1 counter on target creature you control and convert it. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/191_Jungleborn Scout.png" num="191">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3613,7 +3613,7 @@ Whenever Treasure Sifter enters or dies, mill three cards.</text>
 		<card>
 			<name>Oqtari Marauder</name>
 			<text>Haste
-{T}: Convert target creature you control. Activate only as a sorcery. ({T}: Target creature you control switches its power and toughness until end of turn.)
+{T}: Convert target creature you control. Activate only as a sorcery. (Switch its power and toughness until end of turn.)
 Whenever Oqtari Marauder becomes tapped, it deals 1 damage to target player.</text>
 			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/198_Oqtari Marauder.png" num="198">IRA</set>
 			<prop>
@@ -3925,7 +3925,7 @@ Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
 		</card>
 		<card>
 			<name>Stalwart Scout</name>
-			<text>{2}{GW}{GW}: Stalwart Scout and target creature you control gain vigilance until end of turn. Convert that creature. ({T}: Target creature you control switches its power and toughness until end of turn.)</text>
+			<text>{2}{GW}{GW}: Stalwart Scout and target creature you control gain vigilance until end of turn. Convert that creature. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/239_Stalwart Scout.png" num="239">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -5342,7 +5342,7 @@ T: Add {C}.
 [/b]Sacrifice the footmen for the greater good, and rush down your opponent
 [b]{RG}: Soldier Go-Wide
 [/b]Create a massive Soldier token army and grow them large to close the game out
-[b]{GW}: Convert Aggro ({T}: Target creature you control switches its power and toughness until end of turn.)
+[b]{GW}: Convert Aggro
 [/b]Utilize the strange ways of Yarkasing warriors and their shifting weaponry to accrue advantages and slay your opponent</text>
 			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/2t_Irandian Mists Allied Draft Archetypes.png" num="2">IRA</set>
 			<prop>
@@ -5418,7 +5418,7 @@ T: Add {C}.
 		<card>
 			<name>Zombie IRA</name>
 			<text></text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/6t_Zombie.png" num="6">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/7t_Zombie.png" num="7">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5436,7 +5436,7 @@ T: Add {C}.
 		<card>
 			<name>Soldier IRA</name>
 			<text></text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/7t_Soldier.png" num="7">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/8t_Soldier.png" num="8">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5454,7 +5454,7 @@ T: Add {C}.
 		<card>
 			<name>Spectral Wolf IRA</name>
 			<text></text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/8t_Spectral Wolf.png" num="8">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/9t_Spectral Wolf.png" num="9">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5472,7 +5472,7 @@ T: Add {C}.
 		<card>
 			<name>Reflective Mist IRA</name>
 			<text>{T}: Add one mana of any color another land you control could produce.</text>
-			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/9t_Reflective Mist.png" num="9">IRA</set>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/10t_Reflective Mist.png" num="10">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5482,6 +5482,24 @@ T: Add {C}.
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Warrior IRA</name>
+			<text>Haste</text>
+			<set rarity="common" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/6t_Warrior.png" num="6">IRA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
 			<token>1</token>
 		</card>
 	</cards>

@@ -1,4 +1,129 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Warrior added.
+
+
+Valeyan Gateguard
+rules_text: First strike
+{W}: Convert Valeyan Gateguard. Activate only as a sorcery. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => First strike
+{W}: Convert Valeyan Gateguard. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Yarkasing Champion
+rules_text: {W}: Convert target creature you control. Activate only once per turn. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => {W}: Convert target creature you control. Activate only once per turn. [i](Switch its power and toughness until end of turn.)[/i]
+
+Blazing Enlightenment
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 red Warrior creature token with convert. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+II — Target creature you control gets +2/+0 until end of turn.
+III — You gain life equal to the power of target creature you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Warrior creature token with haste.
+II — Target creature you control gets +2/+0 until end of turn.
+III — You gain life equal to the power of target creature you control.
+
+Ethereal Burdener
+rules_text: Whenever Ethereal Burdener becomes tapped, you may pay {1}. When you do, tap target creature.
+{T}: Convert target creature you control. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => Whenever Ethereal Burdener becomes tapped, you may pay {1}. When you do, tap target creature.
+{T}: Convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]
+
+Valeyan Lieutenant
+rules_text: {T}: Convert target creature you control. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Whenever Valeyan Lieutenant becomes tapped, target creature you control gets +2/+2 and gains vigilance until end of turn. => {T}: Convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]
+Whenever Valeyan Lieutenant becomes tapped, target creature you control gets +2/+2 and gains vigilance until end of turn.
+
+Allwatch Angel
+rules_text: Flying, vigilance
+{1}{W}{W}, {T}: Convert target creature you control and put a vigilance counter on it. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => Flying, vigilance
+{1}{W}{W}, {T}: Convert target creature you control and put a vigilance counter on it. [i](Switch its power and toughness until end of turn.)[/i]
+
+The Spark of Invention
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+II — The next artifact spell you cast this turn costs {2} less to cast.
+III — Put two charge counters on any number of target artifacts you control. => 
+I — Draw two cards, then discard a card.
+II — The next artifact spell you cast this turn costs {2} less to cast.
+III — Put two charge counters on any number of target artifacts you control.
+
+The Council Corrupted
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature. You lose 2 life.
+II — Mill a card for each creature card in target player's graveyard.
+III — Create a token that's a copy of target creature card in a graveyard. => 
+I — Destroy target creature. You lose 2 life.
+II — Mill a card for each creature card in target player's graveyard.
+III — Create a token that's a copy of target creature card in a graveyard.
+
+Valey Shiftshield
+rules_text: {R}: Convert Valey Shiftshield. Activate only as a sorcery. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => {R}: Convert Valey Shiftshield. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Improvised Armament
+rules_text: Target creature gets +1/+0 and gains convert until end of turn. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Draw a card. => Target creature gets +1/+1 until end of turn. Convert it. [i](Switch its power and toughness until end of turn.)[/i]
+Draw a card.
+
+Oqtari Improviser
+rules_text: {T}: Convert target creature you control. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Whenever Oqtari Improviser becomes tapped, it deals damage equal to its power to target player. => {T}: Convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]
+Whenever Oqtari Improviser becomes tapped, it deals damage equal to its power to target player.
+
+Blazeblade Adept
+rules_text: Haste, menace
+{R}: Convert target creature you control. Activate only once each turn. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => Haste, menace
+{R}: Convert target creature you control. Activate only once each turn. [i](Switch its power and toughness until end of turn.)[/i]
+
+Oqtari Shiftsword
+rules_text: {G}: Convert Oqtari Shiftsword. Activate only as a sorcery. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => {G}: Convert Oqtari Shiftsword. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Oqtari Enforcer
+rules_text: {1}{G}{G}: Target creature you control gets +1/+1 until end of turn. Convert that creature. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => {1}{G}{G}: Target creature you control gets +1/+1 until end of turn. Convert that creature. [i](Switch its power and toughness until end of turn.)[/i]
+
+Oqtari Champion
+rules_text: Vigilance, trample
+{G}: Convert Oqtari Champion. Activate only as a sorcery. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => Vigilance, trample
+{G}: Convert Oqtari Champion. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Mentoring Shiftsword
+rules_text: {2}{G}: Target creature you control can't be blocked by creatures with greater power until end of turn. Convert that creature. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => {2}{G}: Target creature you control can't be blocked by creatures with greater power until end of turn. Convert that creature. [i](Switch its power and toughness until end of turn.)[/i]
+
+Jungleborn Scout
+rules_text: Vigilance
+{T}: Put a +1/+1 counter on target creature you control and convert it. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => Vigilance
+{T}: Put a +1/+1 counter on target creature you control and convert it. [i](Switch its power and toughness until end of turn.)[/i]
+
+Oqtari Marauder
+rules_text: Haste
+{T}: Convert target creature you control. Activate only as a sorcery. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+Whenever Oqtari Marauder becomes tapped, it deals 1 damage to target player. => Haste
+{T}: Convert target creature you control. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+Whenever Oqtari Marauder becomes tapped, it deals 1 damage to target player.
+
+Stalwart Scout
+rules_text: {2}{GW}{GW}: Stalwart Scout and target creature you control gain vigilance until end of turn. Convert that creature. [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i] => {2}{GW}{GW}: Stalwart Scout and target creature you control gain vigilance until end of turn. Convert that creature. [i](Switch its power and toughness until end of turn.)[/i]
+
+Irandian Mists Allied Draft Archetypes
+rules_text: [b]{WU}:[/b] [b]Evaporation Control
+[/b][i]Grind opponents out slowly with the power of evaporate
+[/i][b]U/B: Gem Control
+[/b][i]Power up your gems to build a game-winning advantage
+[/i][b]{BR}: Soldier Aggro
+[/b][i]Sacrifice the footmen for the greater good, and rush down your opponent
+[/i][b]{RG}: Soldier Go-Wide
+[/b][i]Create a massive Soldier token army and grow them large to close the game out
+[/i][b]{GW}: Convert Aggro [i]({T}: Target creature you control switches its power and toughness until end of turn.)[/i]
+[i][/b]Utilize the strange ways of Yarkasing warriors and their shifting weaponry to accrue advantages and slay your opponent[/i] => [b]{WU}:[/b] [b]Evaporation Control
+[/b][i]Grind opponents out slowly with the power of evaporate
+[/i][b]U/B: Gem Control
+[/b][i]Power up your gems to build a game-winning advantage
+[/i][b]{BR}: Soldier Aggro
+[/b][i]Sacrifice the footmen for the greater good, and rush down your opponent
+[/i][b]{RG}: Soldier Go-Wide
+[/b][i]Create a massive Soldier token army and grow them large to close the game out
+[/i][b]{GW}: Convert Aggro
+[i][/b]Utilize the strange ways of Yarkasing warriors and their shifting weaponry to accrue advantages and slay your opponent[/i]
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Quantz, Gem Inventor added.

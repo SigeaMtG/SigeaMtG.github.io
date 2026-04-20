@@ -3001,9 +3001,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/6t_Zombie.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/7t_Zombie.png"
 			}
 		},
 		{
@@ -3011,9 +3011,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/7t_Soldier.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/8t_Soldier.png"
 			}
 		},
 		{
@@ -3021,9 +3021,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Beast",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/8t_Spectral Wolf.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/9t_Spectral Wolf.png"
 			}
 		},
 		{
@@ -3031,9 +3031,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/9t_Reflective Mist.png"
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/10t_Reflective Mist.png"
+			}
+		},
+		{
+			"name": "Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://SigeaMtG.github.io/sets/IRA-files/img/6t_Warrior.png"
 			}
 		}
 	]

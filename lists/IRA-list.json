@@ -2545,7 +2545,7 @@
     },
     {
         "card_name": "Reflective Mist",
-        "number": 9,
+        "number": 10,
         "shape": "token",
         "set": "IRA",
         "rotated": false,
@@ -2560,7 +2560,7 @@
         "position": ""
     },
     {
-        "card_name": "Zombie",
+        "card_name": "Warrior",
         "number": 6,
         "shape": "token",
         "set": "IRA",
@@ -2568,7 +2568,7 @@
         "position": ""
     },
     {
-        "card_name": "Soldier",
+        "card_name": "Zombie",
         "number": 7,
         "shape": "token",
         "set": "IRA",
@@ -2576,7 +2576,7 @@
         "position": ""
     },
     {
-        "card_name": "Spectral Wolf",
+        "card_name": "Soldier",
         "number": 8,
         "shape": "token",
         "set": "IRA",
@@ -2584,7 +2584,12 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Spectral Wolf",
+        "number": 9,
+        "shape": "token",
+        "set": "IRA",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
