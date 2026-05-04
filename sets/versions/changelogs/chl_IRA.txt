@@ -1,4 +1,658 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Valeyan Shiftshield added.
+Copy_IRA added.
+Treasure_IRA added.
+Zombie_IRA added.
+Soldier_IRA added.
+Warrior_IRA added.
+Spider Illusion added.
+
+Valey Shiftshield removed.
+Copy removed.
+Treasure removed.
+Zombie removed.
+Soldier removed.
+Warrior removed.
+
+Unfortunate Shipmender
+
+Valeyan Gateguard
+
+Merchant of the Underpass
+rules_text: When Merchant of the Underpass enters, put a +1/+1 counter on target tapped creature.
+{1}, {T}: Add {R} or {G}. => When Merchant of the Underpass enters, put a +1/+1 counter up to one target creature.
+{1}, {T}: Add {R} or {G}.
+
+Valeyan Battleraptor
+
+Fogbound Elemental
+
+Mistborn Unicorn
+
+Drowned Harpy
+
+Desiccated Mothling
+
+Yarkasing Champion
+rules_text: {W}: Convert target creature you control. Activate only once per turn. [i](Switch its power and toughness until end of turn.)[/i] => Whenever Yarkasing Champion attacks, convert up to one target creature you control. [i](Switch its power and toughness until end of turn.)[/i]
+
+Lost in the Fog
+
+Shatter the Spoils
+
+Clear Up
+
+Quickdraw
+
+Virtue of Resilience
+rules_text: Flying, vigilance
+{T}: Convert target creature.
+At the beginning of your end step, if you control a creature with power 5 or greater, return Virtue of Resilience from your graveyard to the battlefield. => Flying, vigilance
+Whenever a creature you control enters, convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]
+At the beginning of your end step, if you control a creature with power 5 or greater, return Virtue of Resilience from your graveyard to the battlefield.
+
+Beastback Assailant
+rules_text: Ward {1}
+{2}{W}{W}: Convert up to one target creature you control. Creatures you control gain vigilance until end of turn. => Ward {1}
+Creatures you control have vigilance.
+Whenever Beastback Assailant attacks, convert target creature you control.
+
+Mistcowl Awakener
+
+Crystophylax, Ethereal
+
+Blazing Enlightenment
+rules_text:  => 
+I — Create a 1/1 white Warrior creature token with haste.
+II — Target creature you control gets +2/+0 until end of turn.
+III — You gain life equal to the power of target creature you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Warrior creature token with haste.
+II — Target creature you control gets +2/+0 until end of turn.
+III — You gain life equal to the power of target creature you control. => 
+I — Create a 1/1 white Warrior creature token with haste.
+II — Target creature you control gets +2/+0 until end of turn.
+III — You gain life equal to the power of target creature you control.
+
+Submerged Paragon
+
+Dyvnas' Favored
+
+Virtue and Sin
+
+Ethereal Burdener
+
+Valeyan Lieutenant
+rules_text: {T}: Convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]
+Whenever Valeyan Lieutenant becomes tapped, target creature you control gets +2/+2 and gains vigilance until end of turn. => Whenever Valeyan Lieutenant becomes tapped, target creature you control gets +2/+2 and gains vigilance until end of turn. 
+{T}: Convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]
+
+Quickdraw Thug
+
+Valeyan Martial Guard
+
+Allwatch Angel
+rules_text: Flying, vigilance
+{1}{W}{W}, {T}: Convert target creature you control and put a vigilance counter on it. [i](Switch its power and toughness until end of turn.)[/i] => Flying, vigilance
+Whenever Allwatch Angel attacks, convert target creature and put a vigilance counter on it. [i](Switch its power and toughness until end of turn.)[/i]
+
+Scout of the Great Plains
+
+Allwatch Guardian
+
+Curious Treasure Diver
+
+Whiteclam Etherealist
+
+Resurfacing the Meek
+
+Destination Unveiled
+
+Struggle to Subdue
+
+Dredge Diver
+
+Gemchannel Golem
+
+Merchant of the North
+
+Exhumed Corvid
+
+Opaelian Generator
+
+Fogscry Sphinx
+
+Wash Ashore
+
+Disenchanting Fog
+
+Charge Burst
+
+Wave Stall
+
+Reflective Prison
+
+Drowned Memories
+
+Envelop in Mist
+
+Frigid Chargemaster
+
+Reflective Fogwing
+
+Boneminnow
+
+Xirruphin, Fleeting
+
+The Spark of Invention
+rules_text:  => 
+I — Draw two cards, then discard a card.
+II — The next artifact spell you cast this turn costs {2} less to cast.
+III — Put two charge counters on any number of target artifacts you control.
+
+Mirroring Depths
+
+Chalice of the Cult
+
+Nirvana
+
+Observant Gemslinger
+
+Glimmertide Inventor
+
+Sea-Mad Pirate
+
+Wisp of Glimmers
+
+Undead Tentacle
+
+Dismembered Leviathan
+
+Brilliant Mechfly
+
+Twice Drowned
+
+Unveil the Mists
+
+Shadow Atlas
+
+Spellcharge Gem
+
+Arcane Battery
+
+Returned Ranksman
+
+Generator Ritualist
+
+Merchant of the Isles
+
+Vampiric Eagle
+
+Chargesap Martialist
+
+Savacide Unearther
+
+Brier Slopes Brute
+
+Drag to the Depths
+
+Necromantic Charge
+
+Harvest Intelligence
+
+Dragged Under
+
+Gempoint Beam
+
+Rotting Current
+
+Jaws of the Depths
+
+Depths' Lure
+
+Embittered Captain
+
+Iazoketh, Dire
+
+The Council Corrupted
+rules_text:  => 
+I — Destroy target creature. You lose 2 life.
+II — Mill a card for each creature card in target player's graveyard.
+III — Create a token that's a copy of target creature card in a graveyard.
+
+Nightly Mapping
+
+Soulcage
+
+Alakaslam, the Grey Dawn
+
+Battlefield Soulstealer
+
+Cleric of the Five
+
+Deepwater Lamia
+
+Ravenous Drowned
+
+Clockwork Lich
+
+Miser of the Drowned
+
+Harvester of Sin
+
+Forbidden Siphoner
+
+Disease in the Ranks
+
+Revolutionary Murder
+
+Emerge from Death
+
+Siphoning Onyx
+
+Gemfire Golem
+
+Merchant of the Capital
+
+Leader of the Phalanx
+
+Deceptive Chargemage
+
+Sharean Banneret
+
+Ancient Maskbearer
+
+Prism Beam
+
+Improvised Armament
+
+Glimpse the Red Horizon
+
+Scorch and Scour
+
+Accelerant Tactics
+
+Shrouded Fireblast
+
+Sir Mari, Bloodcrazed
+
+Hurler of Armaments
+
+Oqtari Improviser
+rules_text: {T}: Convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]
+Whenever Oqtari Improviser becomes tapped, it deals damage equal to its power to target player. => Whenever Oqtari Improviser becomes tapped, it deals damage equal to its power to target player.
+{T}: Convert another target creature you control. [i](Switch its power and toughness until end of turn.)[/i]
+pt: 2/5 => 2/4
+
+Rylireor, Voiceless
+
+A Culture of War
+rules_text:  => 
+I — Each player creates two 1/1 red Soldier creature tokens.
+II — Creatures you control get +1/+1 and gain menace until end of turn.
+III — Put a +1/+1 counter on each creature you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player creates two 1/1 red Soldier creature tokens.
+II — Creatures you control get +1/+1 and gain menace until end of turn.
+III — Put a +1/+1 counter on each creature you control. => 
+I — Each player creates two 1/1 red Soldier creature tokens.
+II — Creatures you control get +1/+1 and gain menace until end of turn.
+III — Put a +1/+1 counter on each creature you control.
+
+Inspired Blazeblade
+
+Paindrinker Amulet
+
+Rigor Mortis
+
+Sanguine Looter
+
+Prowess Harvester
+
+Armament Liege
+
+Bloodlusting Champion
+pt: 2/1 => 1/1
+
+Blazeblade Adept
+rules_text: Haste, menace
+{R}: Convert target creature you control. Activate only once each turn. [i](Switch its power and toughness until end of turn.)[/i] => Haste, menace
+Whenever Blazeblade Adept attacks, convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]
+
+Flameharvest Warmage
+
+Dragonpoise Apprentice
+
+Split Focus
+
+Brave the Mountaintops
+
+Dragonfire Ritual
+
+Study the Martial Code
+
+Army-Fueled Firestorm
+
+Oqtari Shiftsword
+rules_text: {G}: Convert Oqtari Shiftsword. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i] => Whenever Oqtari Shiftsword attacks, convert it. [i](Switch its power and toughness until end of turn.)[/i]
+pt: 2/1 => 1/2
+
+Misthide Explorer
+rules_text: Sacrifice Misthide Explorer: Search your library for a Forest card, put that card onto the battlefield tapped or face-down, then shuffle. => Sacrifice Misthide Explorer: Search your library for a Forest card, put that card onto the battlefield tapped, then shuffle. You may transform that land.
+
+Merchant of the Great Plains
+
+Mist-Possessed Grizzly
+
+Oqtari Enforcer
+
+Rallying Commander
+
+Tallest of the Ranks
+
+Miststalker Behemoth
+
+Rage Pheromone
+rules_text: Target creature you control fights target creature you don't control. Both those creatures attack the next combat if able. => Target creature you control fights target creature you don't control. Both those creatures attack during the next combat on their controller's turn if able.
+
+Underwater Scavenging
+
+Ironbark Invigoration
+
+Prod the Mist
+
+Commune with the Mist
+
+Sharean Craterhoof
+
+Yark, Shiftshield Reaver
+rules_text: Trample
+Whenever Yark, Shiftshield Reaver deals combat damage to a player, look at the top X cards of your library, where X is the damage dealt. You may reveal a creature or land card from among them. If you do, put that card into your hand. Put the rest on the bottom of your library in any order. => Ward {2}
+When Yark, Shiftshield Reaver enters, convert any amount of target creatures you control. [i](Switch its power and toughness until end of turn.)[/i]
+All creatures able to block Yark, Shiftshield Reaver must do so.
+pt: 2/4 => 1/5
+
+Mistcowl Druid
+
+Imologir, Ambitious
+
+A Culture of Peace
+rules_text:  => 
+I — Search your library for a land card and put that card into your hand, then shuffle.
+II — Whenever a creature you control enters or transforms this turn, you gain 1 life.
+III — Whenever you tap a land for mana this turn, add an additional {G}.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a land card and put that card into your hand, then shuffle.
+II — Whenever a creature you control enters or transforms this turn, you gain 1 life.
+III — Whenever you tap a land for mana this turn, add an additional {G}. => 
+I — Search your library for a land card and put that card into your hand, then shuffle.
+II — Whenever a creature you control enters or transforms this turn, you gain 1 life.
+III — Whenever you tap a land for mana this turn, add an additional {G}.
+
+Mist Awakened
+
+Sharean Consolidator
+
+Windbreaker
+
+Woodland Recruiter
+
+Mist Tamer
+
+Ester Woods Protector
+
+Oqtari Champion
+rules_text: Vigilance, trample
+{G}: Convert Oqtari Champion. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i] => Vigilance, trample
+Whenever Oqtari Champion attacks, you may convert it. [i](Switch its power and toughness until end of turn.)[/i]
+
+Oqtari Pathlighter
+
+Survival Adept
+
+Mistborn Rejuvenator
+rules_text: Whenever one or more token creatures you control enter, you may pay {G}. If you do, return target permanent card from your graveyard to your hand. => Whenever a permanent you control transforms, you may pay {G}. If you do, return target permanent card from your graveyard to your hand.
+
+Mentoring Shiftsword
+
+Armament Supplier
+
+Pragmatic Weaponry
+
+Clash with the Army
+
+Eerie Propagation
+
+Defensive Phalanx
+
+Quantz, Gem Inventor
+
+Inspiring Seneschal
+
+Everett, Emperor No More
+
+Aor'Il, Scourge of Esterlis
+
+Desiccant Annihilation
+
+Dragonspotting
+
+Djinni of Past and Future
+
+The Fireblood Crystal
+
+Emperor Enorim II
+
+Alwyn Aevaris
+rules_text:  => [+1]: Draw a card, then discard a card unless you control an artifact.
+[+1]: Target player loses life equal to the amount of charge counters on target artifact you control.
+[-7]: Destroy all artifacts you don't control, then draw a card for each artifact destroyed this way.
+
+The Grand Admiral
+
+Prime Valeyan Ordun
+
+Archdruid Olion
+
+Shiftsword Innovator
+
+Captain Xanlos
+
+Mistwarp
+
+Knight of the Mists
+
+Ghastly Drake
+
+Sharean Bloodletter
+
+Yarkasing Elite
+
+Tactical Phalanx
+
+Kingsfall
+
+Lifesap Auditor
+
+Gemcrackle Battery
+
+Incendiary Colonne
+
+Gemcharge Capture
+
+Venerated Colonel
+
+Sphinx of Borrowed Time
+
+Vigrus, Phoenix Prime
+
+Drying Basins
+
+Module 4L-13-N
+
+Stirrings in the Mist
+
+Mistcreep
+
+Stuff the Unworthy
+
+Supercharge Ritualist
+
+Avenger Bloodknight
+
+Valiant Recruiter
+
+Jungleborn Scout
+
+Treasure Sifter
+
+Oqtari Marauder
+rules_text: Haste
+{T}: Convert target creature you control. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+Whenever Oqtari Marauder becomes tapped, it deals 1 damage to target player. => Haste
+Whenever Oqtari Marauder becomes tapped, it deals 1 damage to target player.
+{T}: Convert target creature you control. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Gemflinging
+
+Beacon Over the Oceans
+
+Guide to War's End
+
+Chrome Drake
+
+Orb of Pained Knowledge
+
+Jungle Mission Specialist
+
+Wrathful Champion
+
+Jungleborn Mentor
+
+Warfallen Angel
+
+Regiment Pathmaker
+
+Spelldrinker Pendant
+
+Sylran, Many-Horned
+
+Resolute Deathmarcher
+
+Phantasmal Eagle
+
+Radiance Collector
+
+Pervasive Militocrat
+
+Army of Two
+
+Stalwart Scout
+
+Soul-Siphon Warlock
+
+Regiment Scout
+
+Glimmermage Adept
+
+Great Plains Guide
+
+Exploiter of Undergrowth
+
+Shirley
+
+Karan Kurem
+
+Arxikas
+
+Baldan Wazu
+rules_text: Whenever a land you control enters, create a 1/1 red Soldier creature token. Baldan Wazu deals 1 damage to any target. => Whenever a land you control enters, create a 1/1 red Soldier creature token. When you do, Baldan Wazu deals 1 damage to any target.
+
+Ovno Zig
+
+Crest of Radiance
+
+Crest of Magma
+
+Crest of Waves
+
+Crest of Ruby
+
+Crest of Ironbark
+
+Gemcraft Filigree
+
+Statue of Golden Victory
+
+Unstable Silumgite
+
+Brilliant Crest
+
+Explorer's Scope
+
+Yarkasing Landmark
+rules_text: When Yarkasing Landmark enters, search your library for a basic Forest, Mountain or Plains card, reveal it, put it into your hand, then shuffle.
+{W}{RG}, {T}, Sacrifice Yarkasing Landmark: Put a +1/+1 counter on target creature. => When Yarkasing Landmark enters, search your library for a basic Forest, Mountain or Plains card, reveal it, put it into your hand, then shuffle.
+{W}{RG}, {T}, Sacrifice Yarkasing Landmark: Convert target creature you control and put a +1/+1 counter on it. [i](Switch its power and toughness until end of turn.)[/i]
+
+Opaelian Landmark
+
+Savacide Landmark
+
+Sharean Landmark
+
+Avendwell Landmark
+
+Trail of Dragons
+
+The Kaleidoscope Hollow
+
+Savacide Council
+
+Ailen'Or, Ruined City
+
+Thov Da'Rul
+
+Woods of Ester
+
+Frosted Plain
+
+Cerulean Fogbank
+
+Ashy Badlands
+
+Foggy Peak
+
+Morningdew Vale
+
+Overcast Marsh
+
+Sandstorm Steppe
+
+Limestone Steam Pool
+
+Misty Taiga
+
+Shaded Woods
+
+Remote Barracks
+
+Murky Vista
+
+Irandian Mists Allied Draft Archetypes
+
+Irandian Mists Enemy Draft Archetypes
+
+Elemental
+
+Spectral Wolf
+
+Reflective Mist
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Warrior added.

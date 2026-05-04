@@ -16,8 +16,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jose Brand",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Valeyan Gateguard",
@@ -35,8 +39,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Erikas Perl",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Merchant of the Underpass",
@@ -46,7 +54,7 @@
             "number": 15,
             "color_identity": "WRG",
             "cost": "{1}{W}",
-            "rules_text": "When Merchant of the Underpass enters, put a +1/+1 counter on target tapped creature.\n{1}, {T}: Add {R} or {G}.",
+            "rules_text": "When Merchant of the Underpass enters, put a +1/+1 counter up to one target creature.\n{1}, {T}: Add {R} or {G}.",
             "flavor_text": "[i]\u201cCheap gems and filigree! The best deals in all of Valey!\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -54,8 +62,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Brian Valeza",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Valeyan Battleraptor",
@@ -73,8 +85,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Raph Herrera",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fogbound Elemental",
@@ -92,8 +108,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Billy Christian",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mistborn Unicorn",
@@ -111,8 +131,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Katerina Vitkovska",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drowned Harpy",
@@ -130,8 +154,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Anato Finnstark",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Desiccated Mothling",
@@ -149,8 +177,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yarkasing Champion",
@@ -160,7 +192,7 @@
             "number": 33,
             "color_identity": "W",
             "cost": "{5}{W}",
-            "rules_text": "{W}: Convert target creature you control. Activate only once per turn. [i](Switch its power and toughness until end of turn.)[/i]",
+            "rules_text": "Whenever Yarkasing Champion attacks, convert up to one target creature you control. [i](Switch its power and toughness until end of turn.)[/i]",
             "flavor_text": "[i]FT\nFT\nFT[/i]",
             "pt": "4/7",
             "special_text": "",
@@ -168,8 +200,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aleksandra Petruk",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lost in the Fog",
@@ -187,8 +223,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Katerina Vitkovska",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shatter the Spoils",
@@ -206,8 +246,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kyxarie Peralta",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clear Up",
@@ -225,8 +269,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Quickdraw",
@@ -244,8 +292,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Monztre",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Virtue of Resilience",
@@ -255,7 +307,7 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "Flying, vigilance\n{T}: Convert target creature.\nAt the beginning of your end step, if you control a creature with power 5 or greater, return Virtue of Resilience from your graveyard to the battlefield.",
+            "rules_text": "Flying, vigilance\nWhenever a creature you control enters, convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]\nAt the beginning of your end step, if you control a creature with power 5 or greater, return Virtue of Resilience from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -263,8 +315,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Joseph Qiu",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beastback Assailant",
@@ -274,7 +330,7 @@
             "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Ward {1}\n{2}{W}{W}: Convert up to one target creature you control. Creatures you control gain vigilance until end of turn.",
+            "rules_text": "Ward {1}\nCreatures you control have vigilance.\nWhenever Beastback Assailant attacks, convert target creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -282,8 +338,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ilse Gort",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mistcowl Awakener",
@@ -301,8 +361,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Erskine Designs",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crystophylax, Ethereal",
@@ -320,8 +384,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Erta\u00e7 Altin\u00f6z",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blazing Enlightenment",
@@ -331,16 +399,20 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Create a 1/1 white Warrior creature token with haste.\nII \u2013 Target creature you control gets +2/+0 until end of turn.\nIII \u2013 You gain life equal to the power of target creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Create a 1/1 white Warrior creature token with haste.\nII \u2013 Target creature you control gets +2/+0 until end of turn.\nIII \u2013 You gain life equal to the power of target creature you control.",
+            "special_text": "\nI \u2013 Create a 1/1 white Warrior creature token with haste.\nII \u2013 Target creature you control gets +2/+0 until end of turn.\nIII \u2013 You gain life equal to the power of target creature you control.",
             "shape": "saga",
             "set": "IRA",
             "loyalty": "",
             "artist": "Maerel Hibadita",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "17",
+            "rotated": false,
+            "notes": "v\n!tokens Warrior<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Submerged Paragon",
@@ -358,8 +430,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Billy Christian",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dyvnas' Favored",
@@ -377,8 +453,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ilya Drokonov",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Virtue and Sin",
@@ -396,8 +476,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Pauline Voss",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": "v\nmaybe this should be WB, not sure if the deathtouch is allowed for mono-white and cheating equip costs exists",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ethereal Burdener",
@@ -415,8 +499,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Valeyan Lieutenant",
@@ -426,7 +514,7 @@
             "number": 28,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "{T}: Convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]\nWhenever Valeyan Lieutenant becomes tapped, target creature you control gets +2/+2 and gains vigilance until end of turn.",
+            "rules_text": "Whenever Valeyan Lieutenant becomes tapped, target creature you control gets +2/+2 and gains vigilance until end of turn. \n{T}: Convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
@@ -434,8 +522,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kyxarie Peralta",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Quickdraw Thug",
@@ -453,8 +545,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Joel Chaim Holtzmann",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Valeyan Martial Guard",
@@ -472,8 +568,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sam Santala",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Allwatch Angel",
@@ -483,7 +583,7 @@
             "number": 1,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Flying, vigilance\n{1}{W}{W}, {T}: Convert target creature you control and put a vigilance counter on it. [i](Switch its power and toughness until end of turn.)[/i]",
+            "rules_text": "Flying, vigilance\nWhenever Allwatch Angel attacks, convert target creature and put a vigilance counter on it. [i](Switch its power and toughness until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -491,8 +591,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scout of the Great Plains",
@@ -510,8 +614,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Alexey Egorov",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Allwatch Guardian",
@@ -529,8 +637,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ann Marie Rechter",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "27",
+            "rotated": false,
+            "notes": "v\n!tokens Elemental<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Curious Treasure Diver",
@@ -548,8 +660,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Andreia Ugrai",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whiteclam Etherealist",
@@ -567,8 +683,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dzikawa",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Resurfacing the Meek",
@@ -586,8 +706,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kyxarie Peralta",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Destination Unveiled",
@@ -605,8 +729,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Constantine Marin",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Struggle to Subdue",
@@ -624,8 +752,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Bayard Wu",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dredge Diver",
@@ -643,8 +775,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gemchannel Golem",
@@ -662,8 +798,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jehan Choo",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Merchant of the North",
@@ -681,8 +821,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "35",
+            "rotated": false,
+            "notes": "v\n!tokens Treasure_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Exhumed Corvid",
@@ -700,8 +844,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nicolas Espinoza",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Opaelian Generator",
@@ -719,8 +867,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kirkat",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fogscry Sphinx",
@@ -738,8 +890,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Necip Can Karakus",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wash Ashore",
@@ -757,8 +913,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ralph Lomotan",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Disenchanting Fog",
@@ -776,8 +936,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Mahea Rodrigues",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Charge Burst",
@@ -795,8 +959,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Francisco Badilla",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wave Stall",
@@ -814,8 +982,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aleksandra Petruk",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reflective Prison",
@@ -833,8 +1005,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ivan Sevic",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drowned Memories",
@@ -852,8 +1028,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Envelop in Mist",
@@ -871,8 +1051,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "JoeyJazz",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Frigid Chargemaster",
@@ -890,8 +1074,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Roman Groph",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reflective Fogwing",
@@ -909,8 +1097,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Calder Moore",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "47",
+            "rotated": false,
+            "notes": "v\n!tokens Reflective Mist<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Boneminnow",
@@ -928,8 +1120,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Wes Keil",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Xirruphin, Fleeting",
@@ -947,8 +1143,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Julian Bauer",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "49",
+            "rotated": false,
+            "notes": "v\n!tokens Copy_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Spark of Invention",
@@ -958,7 +1158,7 @@
             "number": 58,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Draw two cards, then discard a card.\nII \u2013 The next artifact spell you cast this turn costs {2} less to cast.\nIII \u2013 Put two charge counters on any number of target artifacts you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2013 Draw two cards, then discard a card.\nII \u2013 The next artifact spell you cast this turn costs {2} less to cast.\nIII \u2013 Put two charge counters on any number of target artifacts you control.",
@@ -966,8 +1166,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Joseph Qiu",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mirroring Depths",
@@ -985,8 +1189,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Alena Aenami",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chalice of the Cult",
@@ -1004,8 +1212,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dominik Zdenkovich",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nirvana",
@@ -1023,8 +1235,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Julian Bauer",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Observant Gemslinger",
@@ -1042,8 +1258,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Michael Sugianto",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glimmertide Inventor",
@@ -1061,8 +1281,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Thomas Ricci",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sea-Mad Pirate",
@@ -1080,8 +1304,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lukasz Wiktorzak",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wisp of Glimmers",
@@ -1099,8 +1327,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Phung Xuan Ngan",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Undead Tentacle",
@@ -1118,8 +1350,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ga\u00eblle Seguillon",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dismembered Leviathan",
@@ -1137,8 +1373,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aaron Miller",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brilliant Mechfly",
@@ -1156,8 +1396,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Vasilyna Holod",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Twice Drowned",
@@ -1175,8 +1419,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lupita Luttman",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unveil the Mists",
@@ -1194,8 +1442,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shadow Atlas",
@@ -1213,8 +1465,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aaron Lovett",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spellcharge Gem",
@@ -1232,8 +1488,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Julia Metzger",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arcane Battery",
@@ -1251,8 +1511,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ihor Reshetnikov",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Returned Ranksman",
@@ -1270,8 +1534,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kylin Li",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "66",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Generator Ritualist",
@@ -1289,8 +1557,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Tulio Brito",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Merchant of the Isles",
@@ -1308,8 +1580,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kristina Gehrmann",
+            "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vampiric Eagle",
@@ -1327,8 +1603,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Julian Bauer",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chargesap Martialist",
@@ -1346,8 +1626,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Grafit Studio",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Savacide Unearther",
@@ -1365,8 +1649,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dennis van Kessel",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brier Slopes Brute",
@@ -1384,8 +1672,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nuare Studio",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drag to the Depths",
@@ -1403,8 +1695,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lupita Luttmann",
+            "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Necromantic Charge",
@@ -1422,8 +1718,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jason Nguyen",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Harvest Intelligence",
@@ -1441,8 +1741,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lorenzo Mastroianni",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dragged Under",
@@ -1460,8 +1764,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kelvin Koosh",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gempoint Beam",
@@ -1479,8 +1787,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lualvaro",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rotting Current",
@@ -1498,8 +1810,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Marcus Reyno",
-            "notes": "ft",
-            "image_type": "png"
+            "alias": "",
+            "position": "78",
+            "rotated": false,
+            "notes": "ft\n!tokens Zombie_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jaws of the Depths",
@@ -1517,8 +1833,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Erskine Designs",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Depths' Lure",
@@ -1536,8 +1856,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Erskine Designs",
+            "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Embittered Captain",
@@ -1555,8 +1879,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Chris Rahn",
-            "notes": "ft",
-            "image_type": "png"
+            "alias": "",
+            "position": "81",
+            "rotated": false,
+            "notes": "ft\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Iazoketh, Dire",
@@ -1574,8 +1902,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Anato Finnstark",
+            "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Council Corrupted",
@@ -1585,7 +1917,7 @@
             "number": 73,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Destroy target creature. You lose 2 life.\nII \u2013 Mill a card for each creature card in target player's graveyard.\nIII \u2013 Create a token that's a copy of target creature card in a graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2013 Destroy target creature. You lose 2 life.\nII \u2013 Mill a card for each creature card in target player's graveyard.\nIII \u2013 Create a token that's a copy of target creature card in a graveyard.",
@@ -1593,8 +1925,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Joel Chaim Holtzmann",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "83",
+            "rotated": false,
+            "notes": "v\n!tokens Copy_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nightly Mapping",
@@ -1612,8 +1948,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Andrii Shafetov",
+            "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soulcage",
@@ -1631,8 +1971,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Joseph Qiu",
+            "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Alakaslam, the Grey Dawn",
@@ -1650,8 +1994,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Efflam Mercier",
+            "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Battlefield Soulstealer",
@@ -1669,8 +2017,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sanskarans",
+            "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cleric of the Five",
@@ -1684,12 +2036,16 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "IRA",
             "loyalty": "",
             "artist": "Kyxarie Peralta",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "88",
+            "rotated": false,
+            "notes": "v\n!token Copy_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deepwater Lamia",
@@ -1707,8 +2063,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Evira Itari",
+            "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ravenous Drowned",
@@ -1726,8 +2086,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Alina Gundareva",
+            "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clockwork Lich",
@@ -1745,8 +2109,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Mozchops",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Miser of the Drowned",
@@ -1764,8 +2132,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Brunenrik",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "92",
+            "rotated": false,
+            "notes": "v\n!tokens Treasure_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Harvester of Sin",
@@ -1783,8 +2155,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "JDTM",
+            "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forbidden Siphoner",
@@ -1802,8 +2178,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Pedram Mohammadi",
+            "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Disease in the Ranks",
@@ -1821,8 +2201,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nick Moskvin",
+            "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Revolutionary Murder",
@@ -1840,8 +2224,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aleksandra Petruk",
+            "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Emerge from Death",
@@ -1859,8 +2247,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nick Moskvin",
+            "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Siphoning Onyx",
@@ -1878,18 +2270,22 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "JasonTN",
+            "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Valey Shiftshield",
+            "card_name": "Valeyan Shiftshield",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Orc Soldier",
             "number": 132,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "{R}: Convert Valey Shiftshield. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]",
+            "rules_text": "{0}: Convert Valeyan Shiftshield. Activate only as a sorcery and only once each turn. [i](Switch its power and toughness until end of turn.)[/i]",
             "flavor_text": "[i]\u201c...or front to back?\u201d[/i]",
             "pt": "1/2",
             "special_text": "",
@@ -1897,8 +2293,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Markus Neidel",
+            "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gemfire Golem",
@@ -1916,8 +2316,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Mac-tire",
+            "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Merchant of the Capital",
@@ -1935,8 +2339,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Blum Studios",
+            "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Leader of the Phalanx",
@@ -1954,8 +2362,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Bruno Cesar",
-            "notes": "ft",
-            "image_type": "png"
+            "alias": "",
+            "position": "102",
+            "rotated": false,
+            "notes": "ft\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deceptive Chargemage",
@@ -1973,8 +2385,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Evira Itari",
+            "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sharean Banneret",
@@ -1992,8 +2408,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ancient Maskbearer",
@@ -2011,8 +2431,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Brunenrik",
+            "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prism Beam",
@@ -2030,8 +2454,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Evira Itari",
+            "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Improvised Armament",
@@ -2049,8 +2477,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sanskarans",
+            "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glimpse the Red Horizon",
@@ -2068,8 +2500,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Miloecute",
+            "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scorch and Scour",
@@ -2087,8 +2523,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Wrryyy",
+            "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Accelerant Tactics",
@@ -2106,8 +2546,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Joel Chaim Holtzmann",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "110",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<2>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shrouded Fireblast",
@@ -2125,8 +2569,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Julie Dillon",
+            "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sir Mari, Bloodcrazed",
@@ -2144,8 +2592,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Antoine Leblanc",
+            "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hurler of Armaments",
@@ -2163,8 +2615,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Tomasz Ryger",
+            "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oqtari Improviser",
@@ -2174,16 +2630,20 @@
             "number": 119,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "{T}: Convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]\nWhenever Oqtari Improviser becomes tapped, it deals damage equal to its power to target player.",
+            "rules_text": "Whenever Oqtari Improviser becomes tapped, it deals damage equal to its power to target player.\n{T}: Convert another target creature you control. [i](Switch its power and toughness until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/5",
+            "pt": "2/4",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Cl\u00e9ment Boucher",
+            "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rylireor, Voiceless",
@@ -2201,8 +2661,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Anthony Catillaz",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "115",
+            "rotated": false,
+            "notes": "v\n!tokens Treasure_IRA<x>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "A Culture of War",
@@ -2212,16 +2676,20 @@
             "number": 107,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Each player creates two 1/1 red Soldier creature tokens.\nII \u2013 Creatures you control get +1/+1 and gain menace until end of turn.\nIII \u2013 Put a +1/+1 counter on each creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Each player creates two 1/1 red Soldier creature tokens.\nII \u2013 Creatures you control get +1/+1 and gain menace until end of turn.\nIII \u2013 Put a +1/+1 counter on each creature you control.",
+            "special_text": "\nI \u2013 Each player creates two 1/1 red Soldier creature tokens.\nII \u2013 Creatures you control get +1/+1 and gain menace until end of turn.\nIII \u2013 Put a +1/+1 counter on each creature you control.",
             "shape": "saga",
             "set": "IRA",
             "loyalty": "",
             "artist": "Joseph Qiu",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "116",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier<2>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inspired Blazeblade",
@@ -2239,8 +2707,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Conor Burke",
+            "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Paindrinker Amulet",
@@ -2258,8 +2730,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Yuchen Wang",
+            "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rigor Mortis",
@@ -2277,8 +2753,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Brian Valeza",
+            "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sanguine Looter",
@@ -2296,8 +2776,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Galdersart",
+            "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prowess Harvester",
@@ -2315,8 +2799,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Bachzim",
+            "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Armament Liege",
@@ -2334,8 +2822,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sam Kanios",
+            "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bloodlusting Champion",
@@ -2347,14 +2839,18 @@
             "cost": "{R}",
             "rules_text": "As long as it's your turn, Bloodlusting Champion has first strike.\nWhenever Bloodlusting Champion deals combat damage to a player, exile the top card of your library. You may play that card this turn.",
             "flavor_text": "[i][/i]",
-            "pt": "2/1",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Sergio Mayorga",
+            "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blazeblade Adept",
@@ -2364,7 +2860,7 @@
             "number": 104,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Haste, menace\n{R}: Convert target creature you control. Activate only once each turn. [i](Switch its power and toughness until end of turn.)[/i]",
+            "rules_text": "Haste, menace\nWhenever Blazeblade Adept attacks, convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]",
             "flavor_text": "[i]FT\nFT[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2372,8 +2868,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flameharvest Warmage",
@@ -2391,8 +2891,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ilya Royz",
+            "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dragonpoise Apprentice",
@@ -2410,8 +2914,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Hung Quang",
+            "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Split Focus",
@@ -2429,8 +2937,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Mauricio Carrasco",
+            "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brave the Mountaintops",
@@ -2448,8 +2960,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kyxarie Peralta",
+            "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dragonfire Ritual",
@@ -2467,8 +2983,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Alexander Mokhov",
+            "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Study the Martial Code",
@@ -2486,8 +3006,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Clint Cearley",
-            "notes": "ft",
-            "image_type": "png"
+            "alias": "",
+            "position": "130",
+            "rotated": false,
+            "notes": "ft\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Army-Fueled Firestorm",
@@ -2505,8 +3029,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aleksandra Petruk",
+            "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oqtari Shiftsword",
@@ -2516,16 +3044,20 @@
             "number": 153,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "{G}: Convert Oqtari Shiftsword. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]",
+            "rules_text": "Whenever Oqtari Shiftsword attacks, convert it. [i](Switch its power and toughness until end of turn.)[/i]",
             "flavor_text": "[i]\u201cBack to front...\u201d[/i]",
-            "pt": "2/1",
+            "pt": "1/2",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Yune Sunghan",
+            "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Misthide Explorer",
@@ -2535,7 +3067,7 @@
             "number": 148,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Sacrifice Misthide Explorer: Search your library for a Forest card, put that card onto the battlefield tapped or face-down, then shuffle.",
+            "rules_text": "Sacrifice Misthide Explorer: Search your library for a Forest card, put that card onto the battlefield tapped, then shuffle. You may transform that land.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2543,8 +3075,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dimitra Angelska",
+            "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Merchant of the Great Plains",
@@ -2562,8 +3098,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Joel Chaim Holtzman",
+            "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mist-Possessed Grizzly",
@@ -2581,8 +3121,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Rogier van de Beek",
+            "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oqtari Enforcer",
@@ -2600,8 +3144,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Brunenrik",
+            "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rallying Commander",
@@ -2619,8 +3167,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Eric Felten",
-            "notes": "ft",
-            "image_type": "png"
+            "alias": "",
+            "position": "137",
+            "rotated": false,
+            "notes": "ft\n!tokens Soldier_IRA<2>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tallest of the Ranks",
@@ -2638,8 +3190,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sanskarans",
+            "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Miststalker Behemoth",
@@ -2657,8 +3213,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Grzegorsz Rutkowski",
+            "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rage Pheromone",
@@ -2668,7 +3228,7 @@
             "number": 156,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Target creature you control fights target creature you don't control. Both those creatures attack the next combat if able.",
+            "rules_text": "Target creature you control fights target creature you don't control. Both those creatures attack during the next combat on their controller's turn if able.",
             "flavor_text": "[i]FT\nFT[/i]",
             "pt": "",
             "special_text": "",
@@ -2676,8 +3236,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ilya Royz",
+            "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Underwater Scavenging",
@@ -2695,8 +3259,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lupita Luttman",
+            "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ironbark Invigoration",
@@ -2714,8 +3282,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Angelo Bortolini",
+            "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prod the Mist",
@@ -2733,8 +3305,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Yvan Villeneuve",
+            "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Commune with the Mist",
@@ -2752,8 +3328,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aleksandra Petruk",
+            "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sharean Craterhoof",
@@ -2771,8 +3351,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Gus Hunter",
+            "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yark, Shiftshield Reaver",
@@ -2782,16 +3366,20 @@
             "number": 165,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "Trample\nWhenever Yark, Shiftshield Reaver deals combat damage to a player, look at the top X cards of your library, where X is the damage dealt. You may reveal a creature or land card from among them. If you do, put that card into your hand. Put the rest on the bottom of your library in any order.",
+            "rules_text": "Ward {2}\nWhen Yark, Shiftshield Reaver enters, convert any amount of target creatures you control. [i](Switch its power and toughness until end of turn.)[/i]\nAll creatures able to block Yark, Shiftshield Reaver must do so.",
             "flavor_text": "[i][/i]",
-            "pt": "2/4",
+            "pt": "1/5",
             "special_text": "",
             "shape": "normal",
             "set": "IRA",
             "loyalty": "",
             "artist": "Clive Almeida",
+            "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mistcowl Druid",
@@ -2809,8 +3397,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Raphael Lacoste",
+            "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Imologir, Ambitious",
@@ -2828,8 +3420,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Phil Berry",
+            "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "A Culture of Peace",
@@ -2839,16 +3435,20 @@
             "number": 136,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Search your library for a land card and put that card into your hand, then shuffle.\nII \u2013 Whenever a creature you control enters or transforms this turn, you gain 1 life.\nIII \u2013 Whenever you tap a land for mana this turn, add an additional {G}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Search your library for a land card and put that card into your hand, then shuffle.\nII \u2013 Whenever a creature you control enters or transforms this turn, you gain 1 life.\nIII \u2013 Whenever you tap a land for mana this turn, add an additional {G}.",
+            "special_text": "\nI \u2013 Search your library for a land card and put that card into your hand, then shuffle.\nII \u2013 Whenever a creature you control enters or transforms this turn, you gain 1 life.\nIII \u2013 Whenever you tap a land for mana this turn, add an additional {G}.",
             "shape": "saga",
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mist Awakened",
@@ -2866,8 +3466,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Tom Lopez",
+            "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sharean Consolidator",
@@ -2885,8 +3489,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Connor Sheehan",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "151",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Windbreaker",
@@ -2904,8 +3512,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Gunshiprevolution",
+            "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Woodland Recruiter",
@@ -2923,8 +3535,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ilya Royz",
-            "notes": "ft",
-            "image_type": "png"
+            "alias": "",
+            "position": "153",
+            "rotated": false,
+            "notes": "ft\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mist Tamer",
@@ -2942,8 +3558,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Runarta Vera",
-            "notes": "ft",
-            "image_type": "png"
+            "alias": "",
+            "position": "154",
+            "rotated": false,
+            "notes": "ft\n!tokens Spectral Wolf<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ester Woods Protector",
@@ -2961,8 +3581,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "AlpheratzDraws",
+            "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oqtari Champion",
@@ -2972,7 +3596,7 @@
             "number": 150,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Vigilance, trample\n{G}: Convert Oqtari Champion. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]",
+            "rules_text": "Vigilance, trample\nWhenever Oqtari Champion attacks, you may convert it. [i](Switch its power and toughness until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "6/5",
             "special_text": "",
@@ -2980,8 +3604,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Stu Harrington",
+            "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oqtari Pathlighter",
@@ -2999,8 +3627,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nuare",
+            "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Survival Adept",
@@ -3018,8 +3650,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aleksandra Petruk",
+            "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mistborn Rejuvenator",
@@ -3029,7 +3665,7 @@
             "number": 146,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Whenever one or more token creatures you control enter, you may pay {G}. If you do, return target permanent card from your graveyard to your hand.",
+            "rules_text": "Whenever a permanent you control transforms, you may pay {G}. If you do, return target permanent card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3037,8 +3673,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Eva Soulu",
+            "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mentoring Shiftsword",
@@ -3056,8 +3696,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Legend Story Studios",
+            "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Armament Supplier",
@@ -3075,8 +3719,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Zeni",
+            "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pragmatic Weaponry",
@@ -3094,8 +3742,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Chris Howard",
+            "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clash with the Army",
@@ -3113,8 +3765,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kyxarie Peralta",
+            "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eerie Propagation",
@@ -3132,8 +3788,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Katerina Vitkovska",
+            "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Defensive Phalanx",
@@ -3151,8 +3811,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Manuel Krommenacker",
-            "notes": "v\nALTERNATIVELY:\nfog\nexile yard, create soldiers equal to creature cards exiled",
-            "image_type": "png"
+            "alias": "",
+            "position": "165",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<x>;\nALTERNATIVELY:\nfog\nexile yard, create soldiers equal to creature cards exiled",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Quantz, Gem Inventor",
@@ -3170,8 +3834,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Tim Shepherd",
+            "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inspiring Seneschal",
@@ -3189,8 +3857,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Davood Diba",
+            "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Everett, Emperor No More",
@@ -3208,8 +3880,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aor'Il, Scourge of Esterlis",
@@ -3227,8 +3903,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Yvan Villeneuve",
+            "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Desiccant Annihilation",
@@ -3246,8 +3926,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Tomasz Ryger",
+            "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dragonspotting",
@@ -3265,8 +3949,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "David Frasheski",
+            "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Djinni of Past and Future",
@@ -3284,8 +3972,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ann Marie Rechter",
+            "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Fireblood Crystal",
@@ -3303,8 +3995,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Alexandra Maligyna",
+            "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Emperor Enorim II",
@@ -3322,8 +4018,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Joseph Qiu",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "174",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<x>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Alwyn Aevaris",
@@ -3333,7 +4033,7 @@
             "number": 166,
             "color_identity": "UBR",
             "cost": "{1}{U}{B}{R}",
-            "rules_text": "",
+            "rules_text": "[+1]: Draw a card, then discard a card unless you control an artifact.\n[+1]: Target player loses life equal to the amount of charge counters on target artifact you control.\n[-7]: Destroy all artifacts you don't control, then draw a card for each artifact destroyed this way.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Draw a card, then discard a card unless you control an artifact.\n[+1]: Target player loses life equal to the amount of charge counters on target artifact you control.\n[-7]: Destroy all artifacts you don't control, then draw a card for each artifact destroyed this way.",
@@ -3341,8 +4041,12 @@
             "set": "IRA",
             "loyalty": "4",
             "artist": "Helga Sable",
+            "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": "v\nalternative +: \"Put a charge counter on up to one target artifact you control and draw a card.\"",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Grand Admiral",
@@ -3360,8 +4064,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Joseph Qiu",
+            "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prime Valeyan Ordun",
@@ -3379,8 +4087,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Deiv Calviz",
+            "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Archdruid Olion",
@@ -3398,8 +4110,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Tomasz Ryger",
+            "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shiftsword Innovator",
@@ -3417,8 +4133,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Davood Diba",
+            "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Captain Xanlos",
@@ -3436,8 +4156,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Galdersart",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "180",
+            "rotated": false,
+            "notes": "v\n!tokens Treasure_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mistwarp",
@@ -3455,8 +4179,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Alexandra Petruk",
+            "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Knight of the Mists",
@@ -3474,8 +4202,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Angelica Donarini",
+            "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ghastly Drake",
@@ -3493,8 +4225,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ingram Schell",
+            "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sharean Bloodletter",
@@ -3512,8 +4248,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "184",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yarkasing Elite",
@@ -3531,8 +4271,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Edikt Art",
+            "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tactical Phalanx",
@@ -3550,8 +4294,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nedim Can",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "186",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kingsfall",
@@ -3569,8 +4317,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Julian Bauer",
+            "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lifesap Auditor",
@@ -3588,8 +4340,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Billy Christian",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "188",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gemcrackle Battery",
@@ -3607,8 +4363,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Mateusz Wisniewski",
+            "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Incendiary Colonne",
@@ -3626,8 +4386,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Julio de Carvalho",
+            "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gemcharge Capture",
@@ -3645,8 +4409,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Maerel Hibadita",
+            "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Venerated Colonel",
@@ -3664,8 +4432,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Marko Djurdjevic & Michal Ivan",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "192",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<x>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sphinx of Borrowed Time",
@@ -3683,8 +4455,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kirinkawai",
+            "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vigrus, Phoenix Prime",
@@ -3702,8 +4478,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Tomasz Ryder",
+            "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drying Basins",
@@ -3721,8 +4501,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Hung Quang",
+            "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Module 4L-13-N",
@@ -3740,8 +4524,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Wirawan Pranoto",
+            "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stirrings in the Mist",
@@ -3759,8 +4547,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Alexander Wolf",
+            "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mistcreep",
@@ -3778,8 +4570,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Erskine Designs",
+            "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stuff the Unworthy",
@@ -3797,8 +4593,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aaron Borgman",
+            "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Supercharge Ritualist",
@@ -3816,8 +4616,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jen Santos",
+            "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avenger Bloodknight",
@@ -3835,8 +4639,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Peter Sokolov",
+            "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Valiant Recruiter",
@@ -3854,8 +4662,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Earl Lan",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "202",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jungleborn Scout",
@@ -3873,8 +4685,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nino Daranyan",
+            "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure Sifter",
@@ -3892,8 +4708,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nick Moskvin",
+            "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oqtari Marauder",
@@ -3903,7 +4723,7 @@
             "number": 198,
             "color_identity": "WR",
             "cost": "{R}{W}",
-            "rules_text": "Haste\n{T}: Convert target creature you control. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]\nWhenever Oqtari Marauder becomes tapped, it deals 1 damage to target player.",
+            "rules_text": "Haste\nWhenever Oqtari Marauder becomes tapped, it deals 1 damage to target player.\n{T}: Convert target creature you control. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3911,8 +4731,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
+            "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gemflinging",
@@ -3930,8 +4754,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lu Alvaro",
+            "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beacon Over the Oceans",
@@ -3949,8 +4777,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Solafterashes",
+            "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Guide to War's End",
@@ -3968,8 +4800,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sanskarans",
+            "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chrome Drake",
@@ -3987,8 +4823,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Orb of Pained Knowledge",
@@ -4006,8 +4846,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Drin Mehmeti",
+            "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jungle Mission Specialist",
@@ -4025,8 +4869,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Calder Moore",
+            "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wrathful Champion",
@@ -4044,8 +4892,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jungleborn Mentor",
@@ -4063,8 +4915,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jang Jae",
+            "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Warfallen Angel",
@@ -4082,8 +4938,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sanskarans",
+            "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Regiment Pathmaker",
@@ -4101,8 +4961,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Rostislav Zagornov",
+            "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spelldrinker Pendant",
@@ -4120,8 +4984,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Galdersart",
+            "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sylran, Many-Horned",
@@ -4139,8 +5007,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kateryna Vitkovska",
+            "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Resolute Deathmarcher",
@@ -4158,8 +5030,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Phantasmal Eagle",
@@ -4177,8 +5053,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Tyler Smith",
+            "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Radiance Collector",
@@ -4196,8 +5076,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Soyameii",
+            "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "ft",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pervasive Militocrat",
@@ -4215,8 +5099,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Aureaavis",
+            "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Army of Two",
@@ -4234,8 +5122,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Guliherme Batista",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "222",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stalwart Scout",
@@ -4253,8 +5145,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Eva Soulu",
+            "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soul-Siphon Warlock",
@@ -4272,8 +5168,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Lothrean",
+            "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Regiment Scout",
@@ -4291,8 +5191,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Kateryna Vitkovska",
+            "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glimmermage Adept",
@@ -4310,8 +5214,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sung Choi",
+            "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Great Plains Guide",
@@ -4329,8 +5237,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Quentin Mabille",
+            "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Exploiter of Undergrowth",
@@ -4348,8 +5260,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ga\u00e9tan Weltzer",
+            "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shirley",
@@ -4367,8 +5283,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Brendan Lamb",
+            "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Karan Kurem",
@@ -4386,8 +5306,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Damiano di Marco",
+            "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arxikas",
@@ -4405,8 +5329,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Splinter-VR",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "231",
+            "rotated": false,
+            "notes": "v\n!tokens Spider Illusion<x>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Baldan Wazu",
@@ -4416,7 +5344,7 @@
             "number": 222,
             "color_identity": "RG",
             "cost": "{2}{R}{RG}",
-            "rules_text": "Whenever a land you control enters, create a 1/1 red Soldier creature token. Baldan Wazu deals 1 damage to any target.",
+            "rules_text": "Whenever a land you control enters, create a 1/1 red Soldier creature token. When you do, Baldan Wazu deals 1 damage to any target.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4424,8 +5352,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "David Benzal",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "232",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ovno Zig",
@@ -4443,8 +5375,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Alvaro Ramirez",
+            "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crest of Radiance",
@@ -4462,8 +5398,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Necip Can Karakus",
+            "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crest of Magma",
@@ -4481,8 +5421,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Oleksa Grinefvich",
+            "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crest of Waves",
@@ -4500,8 +5444,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ilya Royz",
+            "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crest of Ruby",
@@ -4519,8 +5467,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Necip Can Karakus",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "237",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<2>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crest of Ironbark",
@@ -4538,8 +5490,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Damien Mammoliti",
+            "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gemcraft Filigree",
@@ -4557,8 +5513,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Peng Lu",
+            "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Statue of Golden Victory",
@@ -4576,8 +5536,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Qifeng Lin",
+            "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unstable Silumgite",
@@ -4595,8 +5559,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sandara",
+            "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brilliant Crest",
@@ -4614,8 +5582,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "1oshu-art",
+            "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Explorer's Scope",
@@ -4633,8 +5605,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Vincent Proce",
+            "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": "redo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yarkasing Landmark",
@@ -4644,7 +5620,7 @@
             "number": 249,
             "color_identity": "WRG",
             "cost": "{3}",
-            "rules_text": "When Yarkasing Landmark enters, search your library for a basic Forest, Mountain or Plains card, reveal it, put it into your hand, then shuffle.\n{W}{RG}, {T}, Sacrifice Yarkasing Landmark: Put a +1/+1 counter on target creature.",
+            "rules_text": "When Yarkasing Landmark enters, search your library for a basic Forest, Mountain or Plains card, reveal it, put it into your hand, then shuffle.\n{W}{RG}, {T}, Sacrifice Yarkasing Landmark: Convert target creature you control and put a +1/+1 counter on it. [i](Switch its power and toughness until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4652,8 +5628,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Gabriel Nagypal",
+            "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Opaelian Landmark",
@@ -4671,8 +5651,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nika Kuznetsova",
+            "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Savacide Landmark",
@@ -4690,8 +5674,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Maxime Schilde",
+            "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sharean Landmark",
@@ -4709,8 +5697,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Haoqian Khoo",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "247",
+            "rotated": false,
+            "notes": "v\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avendwell Landmark",
@@ -4728,8 +5720,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Anthony Avon",
+            "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": "v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Trail of Dragons",
@@ -4747,6 +5743,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Deiv Calviz",
+            "alias": "",
+            "position": "249",
             "card_name2": "Iarla, Eternal",
             "color2": "",
             "type2": "Legendary Creature \u2013 Dragon",
@@ -4757,8 +5755,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Nino Daranyan",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Kaleidoscope Hollow",
@@ -4776,6 +5778,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jeff Brown",
+            "alias": "",
+            "position": "250",
             "card_name2": "Risen Mist",
             "color2": "W",
             "type2": "Legendary Creature \u2013 Mist",
@@ -4786,8 +5790,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Mahea Rodrigues",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Savacide Council",
@@ -4805,6 +5813,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Illia Tsiuskevich",
+            "alias": "",
+            "position": "251",
             "card_name2": "Aberrant Reflection",
             "color2": "U",
             "type2": "Legendary Creature \u2013 Mist",
@@ -4815,8 +5825,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Erskine Designs",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tokens Copy_IRA<1>\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ailen'Or, Ruined City",
@@ -4834,6 +5848,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Echira Sorin",
+            "alias": "",
+            "position": "252",
             "card_name2": "Specter of the Last Drow",
             "color2": "B",
             "type2": "Legendary Creature \u2013 Mist Spirit",
@@ -4844,8 +5860,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Julian Bauer",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thov Da'Rul",
@@ -4863,6 +5883,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Darek Zabrocki",
+            "alias": "",
+            "position": "253",
             "card_name2": "Infernal Statue",
             "color2": "R",
             "type2": "Legendary Creature \u2013 Mist",
@@ -4873,8 +5895,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Arthur Yuan",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Woods of Ester",
@@ -4892,6 +5918,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Duncan Halleck",
+            "alias": "",
+            "position": "254",
             "card_name2": "Witchlights of the Woods",
             "color2": "G",
             "type2": "Legendary Creature \u2013 Mist",
@@ -4902,8 +5930,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Ria van Montfort",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Frosted Plain",
@@ -4921,6 +5953,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nina Vels",
+            "alias": "",
+            "position": "255",
             "card_name2": "Frozen Wisp",
             "color2": "WU",
             "type2": "Creature \u2013 Mist",
@@ -4931,8 +5965,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Yamen O'Donnell",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cerulean Fogbank",
@@ -4950,6 +5988,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "David Frasheski",
+            "alias": "",
+            "position": "256",
             "card_name2": "Chilled Wisp",
             "color2": "UB",
             "type2": "Creature \u2013 Mist",
@@ -4960,8 +6000,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Yamen O'Donnell",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ashy Badlands",
@@ -4979,6 +6023,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Samuele Bandini",
+            "alias": "",
+            "position": "257",
             "card_name2": "Ashen Wisp",
             "color2": "BR",
             "type2": "Creature \u2013 Mist",
@@ -4989,8 +6035,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Yamen O'Donnell",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Foggy Peak",
@@ -5008,6 +6058,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Alexis Susani",
+            "alias": "",
+            "position": "258",
             "card_name2": "Mountainside Wisp",
             "color2": "RG",
             "type2": "Creature \u2013 Mist",
@@ -5018,8 +6070,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Yamen O'Donnell",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Morningdew Vale",
@@ -5037,6 +6093,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Mahnaz Soleymannejad",
+            "alias": "",
+            "position": "259",
             "card_name2": "Dewdrop Wisp",
             "color2": "WG",
             "type2": "Creature \u2013 Mist",
@@ -5047,8 +6105,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Fuzzytuesday",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Overcast Marsh",
@@ -5066,6 +6128,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Agnieszka Firla",
+            "alias": "",
+            "position": "260",
             "card_name2": "Putrid Wisp",
             "color2": "WB",
             "type2": "Creature \u2013 Mist",
@@ -5076,8 +6140,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Yamen O'Donnell",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sandstorm Steppe",
@@ -5095,6 +6163,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Stanislav Yurev",
+            "alias": "",
+            "position": "261",
             "card_name2": "Sandblast Wisp",
             "color2": "WR",
             "type2": "Creature \u2013 Mist",
@@ -5105,8 +6175,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Yamen O'Donnell",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Limestone Steam Pool",
@@ -5124,6 +6198,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jennifer Dunham",
+            "alias": "",
+            "position": "262",
             "card_name2": "Sulfuric Wisp",
             "color2": "UR",
             "type2": "Creature \u2013 Mist",
@@ -5134,8 +6210,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Yamen O'Donnell",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Misty Taiga",
@@ -5153,6 +6233,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jason Scheier",
+            "alias": "",
+            "position": "263",
             "card_name2": "Everfrost Wisp",
             "color2": "UG",
             "type2": "Creature \u2013 Mist",
@@ -5163,8 +6245,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Yamen O'Donnell",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shaded Woods",
@@ -5182,6 +6268,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Jason Scheier",
+            "alias": "",
+            "position": "264",
             "card_name2": "Dank Wisp",
             "color2": "BG",
             "type2": "Creature \u2013 Mist",
@@ -5192,8 +6280,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Yamen O'Donnell",
-            "notes": "v",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Remote Barracks",
@@ -5211,6 +6303,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Josu Solano",
+            "alias": "",
+            "position": "265",
             "card_name2": "Rimefrost Bank",
             "color2": "",
             "type2": "Creature \u2013 Mist",
@@ -5221,8 +6315,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Joseph Feely",
-            "notes": "v\nlandslot",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\nlandslot\n!tokens Soldier_IRA<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Murky Vista",
@@ -5240,6 +6338,8 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "David Frasheski",
+            "alias": "",
+            "position": "266",
             "card_name2": "Materialized Fog",
             "color2": "",
             "type2": "Creature \u2013 Mist",
@@ -5250,8 +6350,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "David Frasheski",
-            "notes": "v\nlandslot",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "v\nlandslot\n!tapped",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains_IRA_1",
@@ -5269,8 +6373,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Necip Can Karakus",
+            "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": "!exportname Plains_IRA_1\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains_IRA_2",
@@ -5288,8 +6396,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Zudarts Lee",
+            "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": "!exportname Plains_IRA_2\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains_IRA_3",
@@ -5307,8 +6419,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "269",
+            "rotated": false,
             "notes": "!exportname Plains_IRA_3\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island_IRA_1",
@@ -5326,8 +6442,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Miloecute",
+            "alias": "",
+            "position": "270",
+            "rotated": false,
             "notes": "!exportname Island_IRA_1\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island_IRA_2",
@@ -5345,8 +6465,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
+            "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": "!exportname Island_IRA_2\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island_IRA_3",
@@ -5364,8 +6488,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Katerina Vitkovska",
+            "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": "!exportname Island_IRA_3\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp_IRA_1",
@@ -5383,8 +6511,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Yvan Villeneuve",
+            "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": "!exportname Swamp_IRA_1\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp_IRA_2",
@@ -5402,8 +6534,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Juhani Jokinen",
+            "alias": "",
+            "position": "274",
+            "rotated": false,
             "notes": "!exportname Swamp_IRA_2\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp_IRA_3",
@@ -5421,8 +6557,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Maksim Kneht",
+            "alias": "",
+            "position": "275",
+            "rotated": false,
             "notes": "!exportname Swamp_IRA_3\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain_IRA_1",
@@ -5440,8 +6580,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Drin Mehmeti",
+            "alias": "",
+            "position": "276",
+            "rotated": false,
             "notes": "!exportname Mountain_IRA_1\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain_IRA_2",
@@ -5459,8 +6603,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Asur Misoa",
+            "alias": "",
+            "position": "277",
+            "rotated": false,
             "notes": "!exportname Mountain_IRA_2\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain_IRA_3",
@@ -5478,8 +6626,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Josh Hutchinson",
+            "alias": "",
+            "position": "278",
+            "rotated": false,
             "notes": "!exportname Mountain_IRA_3\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest_IRA_1",
@@ -5497,8 +6649,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Duncan Halleck",
+            "alias": "",
+            "position": "279",
+            "rotated": false,
             "notes": "!exportname Forest_IRA_1\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest_IRA_2",
@@ -5516,8 +6672,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Ingram Schell",
+            "alias": "",
+            "position": "280",
+            "rotated": false,
             "notes": "!exportname Forest_IRA_2\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest_IRA_3",
@@ -5535,11 +6695,15 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Laura Kirsch",
+            "alias": "",
+            "position": "281",
+            "rotated": false,
             "notes": "!exportname Forest_IRA_3\nlandslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Copy",
+            "card_name": "Copy_IRA",
             "color": "",
             "rarity": "common",
             "type": "Token",
@@ -5554,8 +6718,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Niklozan",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "282",
+            "rotated": false,
+            "notes": "v\n!related Xirruphin, Fleeting;Cleric of the Five;The Council Corrupted;Aberrant Reflection<1>\n!exportname Copy_IRA",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Irandian Mists Allied Draft Archetypes",
@@ -5573,8 +6741,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "283",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Irandian Mists Enemy Draft Archetypes",
@@ -5592,11 +6764,15 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "284",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Treasure",
+            "card_name": "Treasure_IRA",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Treasure",
@@ -5611,8 +6787,12 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Necip Can Karakus",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "285",
+            "rotated": false,
+            "notes": "v\n!related Merchant of the North;Miser of the Drowned;Captain Xanlos<1>;\n!related Rylireor, Voiceless<x>\n!exportname Treasure_IRA",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elemental",
@@ -5630,15 +6810,19 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Digitiel",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "286",
+            "rotated": false,
+            "notes": "v\n!related Allwatch Guardian<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Zombie",
+            "card_name": "Zombie_IRA",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2013 Zombie",
-            "number": 7,
+            "number": 8,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -5649,15 +6833,19 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Antonio Manzanedo",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "287",
+            "rotated": false,
+            "notes": "v\n!related Rotting Current<1>\n!exportname Zombie_IRA",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Soldier",
+            "card_name": "Soldier_IRA",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2013 Soldier",
-            "number": 8,
+            "number": 9,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -5668,15 +6856,19 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Nat Vitchayed",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "288",
+            "rotated": false,
+            "notes": "v\n!related Embittered Captain;Returned Ranksman;Leader of the Phalanx;Study the Martial Code;Sharean Consolidator;Woodland Recruiter;Lifesap Auditor;Sharean Bloodletter;Tactical Phalanx;Valiant Recruiter;Army of Two;Baldan Wazu;Sharean Landmark;Rimefrost Bank; Remote Barracks<1>;\n!related Accelerant Tactics;A Culture of War;Rallying Commander;Crest of Ruby<2>;\n!related Defensive Phalanx;Emperor Enorim II;Venerated Colonel<x>;\n!exportname Soldier_IRA",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spectral Wolf",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2013 Beast",
-            "number": 9,
+            "number": 10,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -5687,15 +6879,19 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Runarta Vera",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "289",
+            "rotated": false,
+            "notes": "v\n!related Mist Tamer<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reflective Mist",
             "color": "",
             "rarity": "common",
             "type": "Token Land",
-            "number": 10,
+            "number": 11,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add one mana of any color another land you control could produce.",
@@ -5706,11 +6902,15 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Deborah Saez",
-            "notes": "v",
-            "image_type": "png"
+            "alias": "",
+            "position": "290",
+            "rotated": false,
+            "notes": "v\n!related Reflective Fogwing<1>",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Warrior",
+            "card_name": "Warrior_IRA",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2013 Warrior",
@@ -5725,8 +6925,35 @@
             "set": "IRA",
             "loyalty": "",
             "artist": "Tomasz Ryger",
-            "notes": "",
-            "image_type": "png"
+            "alias": "",
+            "position": "291",
+            "rotated": false,
+            "notes": "!related Blazing Enlightenment<1>\n!exportname Warrior_IRA",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Spider Illusion",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Spider Illusion",
+            "number": 7,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/0",
+            "special_text": "",
+            "shape": "token",
+            "set": "IRA",
+            "loyalty": "",
+            "artist": "Ben Wootten",
+            "alias": "",
+            "position": "292",
+            "rotated": false,
+            "notes": "!related Arxikas<x>",
+            "image_type": "png",
+            "v_mana": ""
         }
     ]
 }
