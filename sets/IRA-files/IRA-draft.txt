@@ -3170,6 +3170,7 @@
 	4 Spellcharge Gem
 	4 Arcane Battery
 	4 Battlefield Soulstealer
+	4 Cleric of the Five
 	4 Deepwater Lamia
 	4 Ravenous Drowned
 	4 Clockwork Lich
@@ -3498,6 +3499,7 @@
 	2 Soulcage
 	2 Alakaslam, the Grey Dawn
 	6 Battlefield Soulstealer
+	6 Cleric of the Five
 	6 Deepwater Lamia
 	6 Ravenous Drowned
 	6 Clockwork Lich
@@ -3765,6 +3767,7 @@
 	7 Soulcage
 	7 Alakaslam, the Grey Dawn
 	15 Battlefield Soulstealer
+	15 Cleric of the Five
 	15 Deepwater Lamia
 	15 Ravenous Drowned
 	15 Clockwork Lich

@@ -311,7 +311,8 @@ Whenever Crystophylax attacks, exile up to one target nonland permanent an oppon
 		</card>
 		<card>
 			<name>Blazing Enlightenment</name>
-			<text>I — Create a 1/1 white Warrior creature token with haste.
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 1/1 white Warrior creature token with haste.
 II — Target creature you control gets +2/+0 until end of turn.
 III — You gain life equal to the power of target creature you control.</text>
 			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/17.png" num="4">IRA</set>
@@ -900,7 +901,8 @@ Whenever Xirruphin attacks, create a token that&apos;s a copy of target nonland 
 		</card>
 		<card>
 			<name>The Spark of Invention</name>
-			<text>I — Draw two cards, then discard a card.
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Draw two cards, then discard a card.
 II — The next artifact spell you cast this turn costs {2} less to cast.
 III — Put two charge counters on any number of target artifacts you control.</text>
 			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/50.png" num="58">IRA</set>
@@ -1485,7 +1487,8 @@ Whenever Iazoketh attacks, other creatures get -X/-X until end of turn, where X 
 		</card>
 		<card>
 			<name>The Council Corrupted</name>
-			<text>I — Destroy target creature. You lose 2 life.
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy target creature. You lose 2 life.
 II — Mill a card for each creature card in target player&apos;s graveyard.
 III — Create a token that&apos;s a copy of target creature card in a graveyard.</text>
 			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/83.png" num="73">IRA</set>
@@ -1574,7 +1577,7 @@ Whenever a Soldier you control dies, you may pay 1 life. If you do, draw a card.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Cleric of the Five IRA</name>
+			<name>Cleric of the Five</name>
 			<text>Whenever a card leaves your graveyard, if Cleric of the Five isn&apos;t a token, create a token that&apos;s a copy of Cleric of the Five.
 Sacrifice five creatures named Cleric of the Five: Search your library for a Demon or Fish creature card and put it on the battlefield, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/88.png" num="71">IRA</set>
@@ -1590,7 +1593,7 @@ Sacrifice five creatures named Cleric of the Five: Search your library for a Dem
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
+			<related count="1">Copy_IRA</related>
 		</card>
 		<card>
 			<name>Deepwater Lamia</name>
@@ -2070,7 +2073,8 @@ Whenever Rylireor deals combat damage to a player, create X Treasure tokens, whe
 		</card>
 		<card>
 			<name>A Culture of War</name>
-			<text>I — Each player creates two 1/1 red Soldier creature tokens.
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each player creates two 1/1 red Soldier creature tokens.
 II — Creatures you control get +1/+1 and gain menace until end of turn.
 III — Put a +1/+1 counter on each creature you control.</text>
 			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/116.png" num="107">IRA</set>
@@ -2649,7 +2653,8 @@ Whenever Imologir attacks, you may have it fight target creature you don&apos;t 
 		</card>
 		<card>
 			<name>A Culture of Peace</name>
-			<text>I — Search your library for a land card and put that card into your hand, then shuffle.
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Search your library for a land card and put that card into your hand, then shuffle.
 II — Whenever a creature you control enters or transforms this turn, you gain 1 life.
 III — Whenever you tap a land for mana this turn, add an additional {G}.</text>
 			<set rarity="rare" picurl="https://SigeaMtG.github.io/sets/IRA-files/img/149.png" num="136">IRA</set>

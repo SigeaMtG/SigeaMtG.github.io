@@ -376,12 +376,12 @@
         "position": "60"
     },
     {
-        "card_name": "Clockwork Lich",
-        "number": 72,
+        "card_name": "Cleric of the Five",
+        "number": 71,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "91"
+        "position": "88"
     },
     {
         "card_name": "Army-Fueled Firestorm",
@@ -416,12 +416,12 @@
         "position": "59"
     },
     {
-        "card_name": "Deepwater Lamia",
-        "number": 74,
+        "card_name": "Clockwork Lich",
+        "number": 72,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "89"
+        "position": "91"
     },
     {
         "card_name": "Blazeblade Adept",
@@ -456,12 +456,12 @@
         "position": "55"
     },
     {
-        "card_name": "Disease in the Ranks",
-        "number": 76,
+        "card_name": "Deepwater Lamia",
+        "number": 74,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "95"
+        "position": "89"
     },
     {
         "card_name": "Bloodlusting Champion",
@@ -496,12 +496,12 @@
         "position": "54"
     },
     {
-        "card_name": "Emerge from Death",
-        "number": 80,
+        "card_name": "Disease in the Ranks",
+        "number": 76,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "97"
+        "position": "95"
     },
     {
         "card_name": "Brave the Mountaintops",
@@ -536,12 +536,12 @@
         "position": "56"
     },
     {
-        "card_name": "Forbidden Siphoner",
-        "number": 81,
+        "card_name": "Emerge from Death",
+        "number": 80,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "94"
+        "position": "97"
     },
     {
         "card_name": "Dragonfire Ritual",
@@ -576,12 +576,12 @@
         "position": "63"
     },
     {
-        "card_name": "Harvester of Sin",
-        "number": 85,
+        "card_name": "Forbidden Siphoner",
+        "number": 81,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "93"
+        "position": "94"
     },
     {
         "card_name": "Dragonpoise Apprentice",
@@ -616,12 +616,12 @@
         "position": "64"
     },
     {
-        "card_name": "Miser of the Drowned",
-        "number": 89,
+        "card_name": "Harvester of Sin",
+        "number": 85,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "92"
+        "position": "93"
     },
     {
         "card_name": "Flameharvest Warmage",
@@ -656,12 +656,12 @@
         "position": "61"
     },
     {
-        "card_name": "Ravenous Drowned",
-        "number": 92,
+        "card_name": "Miser of the Drowned",
+        "number": 89,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "90"
+        "position": "92"
     },
     {
         "card_name": "Prowess Harvester",
@@ -696,12 +696,12 @@
         "position": "58"
     },
     {
-        "card_name": "Revolutionary Murder",
-        "number": 94,
+        "card_name": "Ravenous Drowned",
+        "number": 92,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "96"
+        "position": "90"
     },
     {
         "card_name": "Sanguine Looter",
@@ -736,12 +736,12 @@
         "position": "62"
     },
     {
-        "card_name": "Siphoning Onyx",
-        "number": 97,
+        "card_name": "Revolutionary Murder",
+        "number": 94,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "98"
+        "position": "96"
     },
     {
         "card_name": "Split Focus",
@@ -776,12 +776,12 @@
         "position": "57"
     },
     {
-        "card_name": "Brier Slopes Brute",
-        "number": 69,
+        "card_name": "Siphoning Onyx",
+        "number": 97,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "72"
+        "position": "98"
     },
     {
         "card_name": "Study the Martial Code",
@@ -816,12 +816,12 @@
         "position": "41"
     },
     {
-        "card_name": "Chargesap Martialist",
-        "number": 70,
+        "card_name": "Brier Slopes Brute",
+        "number": 69,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "70"
+        "position": "72"
     },
     {
         "card_name": "Accelerant Tactics",
@@ -856,12 +856,12 @@
         "position": "40"
     },
     {
-        "card_name": "Drag to the Depths",
-        "number": 77,
+        "card_name": "Chargesap Martialist",
+        "number": 70,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "73"
+        "position": "70"
     },
     {
         "card_name": "Ancient Maskbearer",
@@ -896,12 +896,12 @@
         "position": "33"
     },
     {
-        "card_name": "Dragged Under",
-        "number": 78,
+        "card_name": "Drag to the Depths",
+        "number": 77,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "76"
+        "position": "73"
     },
     {
         "card_name": "Deceptive Chargemage",
@@ -936,12 +936,12 @@
         "position": "44"
     },
     {
-        "card_name": "Gempoint Beam",
-        "number": 82,
+        "card_name": "Dragged Under",
+        "number": 78,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "77"
+        "position": "76"
     },
     {
         "card_name": "Gemfire Golem",
@@ -976,12 +976,12 @@
         "position": "45"
     },
     {
-        "card_name": "Generator Ritualist",
-        "number": 83,
+        "card_name": "Gempoint Beam",
+        "number": 82,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "67"
+        "position": "77"
     },
     {
         "card_name": "Glimpse the Red Horizon",
@@ -1016,12 +1016,12 @@
         "position": "36"
     },
     {
-        "card_name": "Harvest Intelligence",
-        "number": 84,
+        "card_name": "Generator Ritualist",
+        "number": 83,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "75"
+        "position": "67"
     },
     {
         "card_name": "Improvised Armament",
@@ -1056,12 +1056,12 @@
         "position": "38"
     },
     {
-        "card_name": "Merchant of the Isles",
-        "number": 88,
+        "card_name": "Harvest Intelligence",
+        "number": 84,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "68"
+        "position": "75"
     },
     {
         "card_name": "Leader of the Phalanx",
@@ -1096,12 +1096,12 @@
         "position": "34"
     },
     {
-        "card_name": "Necromantic Charge",
-        "number": 90,
+        "card_name": "Merchant of the Isles",
+        "number": 88,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "74"
+        "position": "68"
     },
     {
         "card_name": "Merchant of the Capital",
@@ -1136,12 +1136,12 @@
         "position": "35"
     },
     {
-        "card_name": "Returned Ranksman",
-        "number": 93,
+        "card_name": "Necromantic Charge",
+        "number": 90,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "66"
+        "position": "74"
     },
     {
         "card_name": "Prism Beam",
@@ -1176,12 +1176,12 @@
         "position": "37"
     },
     {
-        "card_name": "Rotting Current",
-        "number": 95,
+        "card_name": "Returned Ranksman",
+        "number": 93,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "78"
+        "position": "66"
     },
     {
         "card_name": "Scorch and Scour",
@@ -1216,12 +1216,12 @@
         "position": "43"
     },
     {
-        "card_name": "Savacide Unearther",
-        "number": 96,
+        "card_name": "Rotting Current",
+        "number": 95,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "71"
+        "position": "78"
     },
     {
         "card_name": "Sharean Banneret",
@@ -1256,12 +1256,12 @@
         "position": "39"
     },
     {
-        "card_name": "Vampiric Eagle",
-        "number": 99,
+        "card_name": "Savacide Unearther",
+        "number": 96,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "69"
+        "position": "71"
     },
     {
         "card_name": "Shrouded Fireblast",
@@ -1296,7 +1296,12 @@
         "position": "42"
     },
     {
-        "card_name": "e"
+        "card_name": "Vampiric Eagle",
+        "number": 99,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "69"
     },
     {
         "card_name": "Valeyan Shiftshield",
@@ -2547,14 +2552,6 @@
         "position": "290"
     },
     {
-        "card_name": "Cleric of the Five",
-        "number": 71,
-        "shape": "token",
-        "set": "IRA",
-        "rotated": false,
-        "position": "88"
-    },
-    {
         "card_name": "Elemental",
         "number": 5,
         "shape": "token",
@@ -2601,6 +2598,9 @@
         "set": "IRA",
         "rotated": false,
         "position": "289"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
