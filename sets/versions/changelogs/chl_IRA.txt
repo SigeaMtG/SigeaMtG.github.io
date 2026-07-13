@@ -1,4 +1,744 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Wolf Spirit added.
+
+Spectral Wolf removed.
+
+Lost in the Fog
+rules_text: When Lost in the Fog enters, exile target nonland permanent an opponent controls until Lost in the Fog leaves.
+Whenever a permanent you control transforms, you may exile Lost in the Fog. If you do, return it to the battlefield. => When Lost in the Fog enters, exile target nonland permanent an opponent controls until Lost in the Fog leaves the battlefield.
+Whenever a permanent you control transforms, you may exile Lost in the Fog. If you do, return it to the battlefield under its owner's control.
+
+Shatter the Spoils
+rules_text: Choose one — 
+• Destroy target artifact, enchantment or battle.
+• Scry X, where X is the power of target creature you control, then draw a card. => Choose one — 
+• Destroy target artifact, enchantment or battle.
+• Surveil 1 if you control a creature with power 3 or greater. Draw a card.
+
+Quickdraw
+rules_text: Target attacking creature you control gains first strike until end of turn. If that creature's power is higher than its toughness, scry 1, then draw a card. => Target attacking creature you control gains first strike until end of turn. If that creature's power is greater than its toughness, scry 1, then draw a card.
+
+Beastback Assailant
+rules_text: Ward {1}
+Creatures you control have vigilance.
+Whenever Beastback Assailant attacks, convert target creature you control. => Ward {1}
+Creatures you control have vigilance.
+Whenever Beastback Assailant attacks, convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i]
+
+Mistcowl Awakener
+rules_text: Lifelink
+Whenever Mistcowl Awakener attacks, you may return target permanent card with mana value 2 or less from your graveyard to the battlefield. When you do, you may transform that permanent. => Lifelink
+Whenever Mistcowl Awakener attacks, you may return target permanent card with mana value 2 or less from your graveyard to the battlefield with a finality counter on it. When you do, you may transform that permanent.
+
+Blazing Enlightenment
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Warrior creature token with haste.
+II — Target creature you control gets +2/+0 until end of turn.
+III — You gain life equal to the power of target creature you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Warrior creature token with vigilance.
+II — Target creature you control gets +2/+0 until end of turn.
+III — You gain life equal to the power of target creature you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Warrior creature token with haste.
+II — Target creature you control gets +2/+0 until end of turn.
+III — You gain life equal to the power of target creature you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 white Warrior creature token with vigilance.
+II — Target creature you control gets +2/+0 until end of turn.
+III — You gain life equal to the power of target creature you control.
+
+Virtue and Sin
+cost: {1}{W} => {W}{B}
+
+Ethereal Burdener
+rules_text: Whenever Ethereal Burdener becomes tapped, you may pay {1}. When you do, tap target creature.
+{T}: Convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i] => Whenever Ethereal Burdener becomes tapped, you may pay {1}. When you do, tap target creature.
+{T}: Convert target creature you control. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Valeyan Lieutenant
+rules_text: Whenever Valeyan Lieutenant becomes tapped, target creature you control gets +2/+2 and gains vigilance until end of turn. 
+{T}: Convert target creature you control. [i](Switch its power and toughness until end of turn.)[/i] => Whenever Valeyan Lieutenant becomes tapped, target creature you control gets +2/+2 and gains vigilance until end of turn. 
+{T}: Convert target creature you control. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Quickdraw Thug
+rules_text: During your turn, Quickdraw Thug has first strike.
+Whenever Quickdraw Thug deals combat damage to a player, scry X, where X is its power. => During your turn, Quickdraw Thug has first strike.
+Whenever Quickdraw Thug deals combat damage to a player, target creature gets +X/+X until end of turn, where X is its power.
+
+Valeyan Martial Guard
+type: Creature — Loxodon Monk => Creature — Elephant Monk
+
+Whiteclam Etherealist
+rules_text: When Whiteclam Etherealist enters, scry 2.
+[i]Evaporate[/i] — {1}{W}, Exile this card from your graveyard: Exile target creature you control, then return it to the battlefield. => When Whiteclam Etherealist enters, surveil 2.
+[i]Evaporate[/i] — {1}{W}, Exile this card from your graveyard: Exile target creature you control, then return it to the battlefield under its owner's control.
+
+Resurfacing the Meek
+rules_text: Return target creature you control with power 3 or less from your graveyard to the battlefield. => Return target creature you control with power 2 or less from your graveyard to the battlefield.
+
+Merchant of the North
+rules_text: When Merchant of the North enters, create a Treasure token.
+{1}, {T}: Add {B} or {R}. => When Merchant of the North enters, put a charge counter on target artifact you control.
+{1}, {T}: Add {B} or {R}.
+
+Exhumed Corvid
+rules_text: Flying
+[i]Evaporate[/i] — {1}{U}, Exile this card from your graveyard: Put a flying counter on target creature. => Flying
+[i]Evaporate[/i] — {1}{U}, Exile this card from your graveyard: Put a flying counter on target creature. Activate only as a sorcery.
+
+Fogscry Sphinx
+rules_text: Flying
+{2}{U}, {T}: Scry 2. You may reveal the top card of your library. If it's a land card, put it into your hand. => Flying
+{2}{U}, {T}: Surveil 2. You may reveal the top card of your library. If it's a land card, put it into your hand.
+
+Disenchanting Fog
+rules_text: Target creature you control gets +0/+2 and hexproof until end of turn.
+Scry 1. If you control a Mist, draw a card instead. => Target creature you control gets +0/+2 and hexproof until end of turn.
+Surveil 1. If you control a Mist, draw a card instead.
+
+Frigid Chargemaster
+rules_text: Whenever one or more charge counters are put on one or more artifacts you control, tap up to one target creature and put a stun counter on it.
+{1}{U}, Remove a charge counter from Frigid Chargemaster: Draw a card. => Whenever one or more charge counters are put on one or more artifacts you control, tap up to one target creature and put a stun counter on it. Do this only twice per turn.
+{1}{U}, Remove a charge counter from Frigid Chargemaster: Draw a card.
+
+Reflective Fogwing
+cost: {2}{U}{U} => {3}{U}{U}
+rules_text: Flying
+Whenever Reflective Fogwing or another creature you control enters, you may transform target land you control. When you do, create a Reflective Mist land token with “{T}: Add one mana of any color another land you control could produce.” => Flying
+Whenever Reflective Fogwing enters, you may transform target land you control. When you do, create a token that's a copy of target creature you control.
+
+Boneminnow
+rules_text: Vigilance
+Whenever a card leaves your graveyard, you may surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+[i]Evaporate[/i] — {2}{B}{B}, Exile this card from your graveyard: Mill five cards. => Vigilance
+Whenever a card leaves your graveyard, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+[i]Evaporate[/i] — {2}{B}{B}, Exile this card from your graveyard: Mill five cards.
+
+Xirruphin, Fleeting
+rules_text: Flying
+Xirruphin, Fleeting enters with your choice of a vigilance or hexproof counter on it.
+Whenever Xirruphin attacks, create a token that's a copy of target nonland permanent. It gains haste until end of turn. Exile that token at the beginning of the next end step. => Flying
+Xirruphin, Fleeting enters with your choice of a vigilance or hexproof counter on it.
+Whenever Xirruphin attacks, create a token that's a copy of target nonland permanent. Exile that token at the beginning of your next upkeep.
+
+The Spark of Invention
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+II — The next artifact spell you cast this turn costs {2} less to cast.
+III — Put two charge counters on any number of target artifacts you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+II — The next artifact spell you cast this turn costs {2} less to cast.
+III — Put two charge counters on each of any number of target artifacts you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+II — The next artifact spell you cast this turn costs {2} less to cast.
+III — Put two charge counters on any number of target artifacts you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+II — The next artifact spell you cast this turn costs {2} less to cast.
+III — Put two charge counters on each of any number of target artifacts you control.
+
+Sea-Mad Pirate
+rules_text: When Sea-Mad Pirate enters or leaves, mill two cards.
+[i]Evaporate[/i] — {2}{U}{U}, Exile this card from your graveyard: Surveil 2, then draw a card. => When Sea-Mad Pirate enters or leaves the battlefield, mill two cards.
+[i]Evaporate[/i] — {2}{U}{U}, Exile this card from your graveyard: Surveil 2, then draw a card.
+
+Undead Tentacle
+rules_text: Whenever Undead Tentacle blocks a creature, that creature doesn't untap during its controller's next untap step. => Whenever Undead Tentacle blocks a creature, tap it and put a stun counter on it.
+
+Brilliant Mechfly
+rules_text: Flying
+Whenever Brilliant Mechfly deals combat damage to a player, put a charge counter on it.
+Remove a charge counter from Brilliant Mechfly: Scry 2. => Flying
+Whenever Brilliant Mechfly deals combat damage to a player, put a charge counter on it.
+Remove a charge counter from Brilliant Mechfly: Surveil 2.
+
+Twice Drowned
+rules_text: Counter target spell.
+[i]Evaporate[/i] — {1}{U}, Exile this card from your graveyard: Exile up to two instant or sorcery cards from target player's graveyard. => Counter target spell.
+[i]Evaporate[/i] — {2}{U}{U}, Exile this card from your graveyard: Shuffle target creature into its owner's library.
+
+Shadow Atlas
+rules_text: {T}: Add {U}. Put a charge counter on Shadow Atlas.
+{T}, Remove a charge counter from Shadow Atlas: Surveil 2, then draw a card. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => {T}: Add {U}. Put a charge counter on Shadow Atlas.
+{T}, Remove two charge counters from Shadow Atlas: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Arcane Battery
+rules_text: Whenever an artifact you control leaves the battlefield, put all charge counters from that artifact onto Arcane Battery.
+At the beginning of your upkeep, move up to two charge counters from Arcane Battery to target artifact you control. => Whenever an artifact you control leaves the battlefield, if it had charge counters on it, put those counters onto Arcane Battery.
+At the beginning of your upkeep, move up to two charge counters from Arcane Battery to target artifact you control.
+
+Returned Ranksman
+rules_text: Haste
+When Returned Ranksman dies, create a 1/1 red Soldier creature token. => When Returned Ranksman dies, create a 1/1 red Soldier creature token.
+
+Merchant of the Isles
+rules_text: When Merchant of the Isles enters, you mill three cards.
+{1}, {T}: Add {W} or {U}. => When Merchant of the Isles enters, mill three cards.
+{1}, {T}: Add {W} or {U}.
+
+Chargesap Martialist
+rules_text: Lifelink
+Whenever one or more charge counters are put on artifacts you control, you may pay {B}. If you do, each opponent loses 1 life and you gain 1 life. => Lifelink
+Whenever one or more charge counters are put on one or more artifacts you control, you may pay {B}. If you do, each opponent loses 1 life and you gain 1 life.
+
+Necromantic Charge
+rules_text: As an additional cost to cast this spell, remove X charge counters from artifacts you control.
+X target creatures you control get +1/+0 and deathtouch until end of turn. => As an additional cost to cast this spell, remove X charge counters from artifacts you control.
+X target creatures you control get +1/+0 and gain deathtouch until end of turn.
+
+Harvest Intelligence
+rules_text: As an additional cost to cast Harvest Intelligence, sacrifice a creature.
+Draw two cards. If the sacrificed creature was a Soldier, target opponent loses 2 life. => As an additional cost to cast Harvest Intelligence, sacrifice a creature.
+Draw two cards. If the sacrificed creature was a Soldier, each opponent loses 2 life.
+
+Dragged Under
+type: Instant => Sorcery
+
+Rotting Current
+rules_text: Destroy target creature.
+[i]Evaporate[/i] — {2}{B}, Exile this card from your graveyard: Create a 2/2 black Zombie creature token. => Destroy target creature.
+[i]Evaporate[/i] — {2}{B}, Exile this card from your graveyard: Create a 2/2 black Zombie creature token. Activate only as a sorcery.
+
+Iazoketh, Dire
+rules_text: Flying
+Iazoketh, Dire enters with your choice of a deathtouch or menace counter on it.
+Whenever Iazoketh attacks, other creatures get -X/-X until end of turn, where X is the amount of attacking creatures you control. => Flying
+Iazoketh, Dire enters with your choice of a deathtouch or menace counter on it.
+Whenever Iazoketh attacks, other creatures get -X/-X until end of turn, where X is the number of attacking creatures you control.
+
+Cleric of the Five
+cost: {B} => {1}{B}
+rules_text: Whenever a card leaves your graveyard, if Cleric of the Five isn't a token, create a token that's a copy of Cleric of the Five.
+Sacrifice five creatures named Cleric of the Five: Search your library for a Demon or Fish creature card and put it on the battlefield, then shuffle. => Whenever one or more cards leave your graveyard, if Cleric of the Five isn't a token, create a token that's a copy of Cleric of the Five.
+Sacrifice five creatures named Cleric of the Five: Search your library for a Demon or Fish creature card and put it on the battlefield, then shuffle.
+
+Deepwater Lamia
+rules_text: When Deepwater Lamia enters, you mill three cards.
+[i]Evaporate[/i] — {1}{B}, Exile this card from your graveyard: Return target creature card from your graveyard to your hand. => When Deepwater Lamia enters, mill three cards.
+[i]Evaporate[/i] — {1}{B}, Exile this card from your graveyard: Return target creature card from your graveyard to your hand.
+
+Ravenous Drowned
+rules_text: Menace
+[i]Evaporate[/i] — {2}{B}{B}, Exile this card from your graveyard: Target creature gets -2/-2 until end of turn. => Menace
+[i]Evaporate[/i] — {2}{B}{B}, Exile this card from your graveyard: Target creature gets -2/-2 until end of turn. Activate only as a sorcery.
+
+Harvester of Sin
+rules_text: Whenever a Soldier you control dies, Harvester of Sin gets +1/+1 and deathtouch until end of turn. => Whenever a Soldier you control dies, Harvester of Sin gets +1/+1 and gains deathtouch until end of turn.
+
+Forbidden Siphoner
+rules_text: Deathtouch
+Whenever a creature you control dies or a card leaves your graveyard, put a charge counter on target artifact. => Deathtouch
+Whenever a creature you control dies or a card leaves your graveyard, put a charge counter on target artifact you control.
+
+Disease in the Ranks
+rules_text: When Disease in the Ranks enters, target player discards a card and loses 1 life.
+Whenever a creature you control dies, you may return Disease in the Ranks to its owner's hand. => When Disease in the Ranks enters, target player mills a card and loses 1 life.
+Whenever a creature you control dies, you may return Disease in the Ranks to its owner's hand.
+
+Emerge from Death
+rules_text: As an additional cost to cast this spell, you may sacrifice a creature or artifact.
+Surveil 2. If you sacrificed a permanent this turn, return target permanent card from your graveyard to your hand. => As an additional cost to cast this spell, you may sacrifice a creature or artifact.
+Surveil 2. If you sacrificed a permanent this turn, return a creature card from your graveyard to your hand.
+
+Deceptive Chargemage
+rules_text: Whenever Deceptive Chargemage attacks, you may remove a charge counter from a Gem you control. If you do, it gains first strike until end of turn. => Whenever Deceptive Chargemage attacks, you may remove a charge counter from a Gem you control. If you do, Deceptive Chargemage gains first strike until end of turn.
+
+Ancient Maskbearer
+rules_text: When Ancient Maskbearer enters, you may sacrifice a Soldier. If you do, put a +1/+1 counter on Ancient Maskbearer, and it gains haste until end of turn. => When Ancient Maskbearer enters, you may sacrifice a Soldier. If you do, put a +1/+1 counter on Ancient Maskbearer and it gains haste until end of turn.
+
+Sir Mari, Bloodcrazed
+cost: {R}{R} => {R}{R}{R}
+rules_text: Haste
+Whenever a creature you control would deal exactly 1 damage to a permanent or player, it deals 3 damage to that permanent or player instead. => Menace
+If a creature you control would deal exactly 1 combat damage to a permanent or player, it deals 3 damage to that permanent or player instead.
+
+Hurler of Armaments
+pt: 2/1 => 1/2
+
+Oqtari Improviser
+rules_text: Whenever Oqtari Improviser becomes tapped, it deals damage equal to its power to target player.
+{T}: Convert another target creature you control. [i](Switch its power and toughness until end of turn.)[/i] => Whenever Oqtari Improviser becomes tapped, it deals damage equal to its power to target player.
+{T}: Convert another target creature you control. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Rylireor, Voiceless
+cost: {4}{R}{R} => {3}{R}{R}
+rules_text: Flying
+Rylireor, Voiceless enters with your choice of a haste or menace counter on it.
+Whenever Rylireor deals combat damage to a player, create X Treasure tokens, where X is the amount of damage dealt. => Flying
+Rylireor, Voiceless enters with your choice of a haste or menace counter on it.
+Whenever Rylireor deals combat damage to a player, create that many Treasure tokens.
+pt: 5/5 => 4/4
+
+Paindrinker Amulet
+rules_text: Whenever one or more other sources you control deal damage to a player, put a charge counter on Paindrinker Amulet.
+{T}, Remove a charge counter from Paindrinker Amulet: Paindrinker Amulet deals 2 damage to any target. => Whenever one or more other sources you control deal damage to a player, put a charge counter on Paindrinker Amulet.
+{T}, Remove a charge counter from Paindrinker Amulet: Paindrinker Amulet deals 1 damage to any target. Activate only as a sorcery.
+
+Rigor Mortis
+rules_text: This spell costs {1} less to cast for each creature you control that dealt combat damage this turn.
+During your turn, equipped creature gets +2/+1 and has first strike.
+Whenever equipped creature attacks, Rigor Mortis deals 2 damage to the defending player.
+Equip {2} => This spell costs {1} less to cast for each creature you controlled that dealt combat damage this turn.
+During your turn, equipped creature gets +2/+1 and has first strike.
+Whenever equipped creature attacks, Rigor Mortis deals 2 damage to defending player.
+Equip {2}
+
+Prowess Harvester
+rules_text: When Prowess Harvester enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards. => When Prowess Harvester enters, exile the top cards of your library. Until the end of your next turn, you may play that card.
+pt: 2/3 => 2/2
+
+Armament Liege
+rules_text: Whenever one or more other Soldiers you control enter, creatures you control get +1/+0 until end of turn. => Whenever one or more Soldiers you control enter, creatures you control get +1/+0 until end of turn.
+
+Bloodlusting Champion
+cost: {R} => {1}{R}{R}
+rules_text: As long as it's your turn, Bloodlusting Champion has first strike.
+Whenever Bloodlusting Champion deals combat damage to a player, exile the top card of your library. You may play that card this turn. => As long as it's your turn, Bloodlusting Champion has first strike.
+Whenever Bloodlusting Champion deals combat damage to a player, exile the top two cards of your library. You may play that card this turn.
+pt: 1/1 => 2/2
+
+Split Focus
+rules_text: Split Focus deals 3 damage to any target.
+Target Soldier you control gains first strike until end of turn. => Split Focus deals 3 damage to any target.
+Up to one target Soldier you control gains first strike until end of turn.
+
+Merchant of the Great Plains
+rules_text: When Merchant of the Great Plains enters, scry 2.
+{1}, {T}: Add {W} or {U}. => When Merchant of the Great Plains enters, add {G}.
+{1}, {T}: Add {W} or {U}.
+
+Mist-Possessed Grizzly
+rules_text: Whenever a permanent you control transforms, Mist-Possessed Grizzly gets +1/+1 and trample until end of turn. => Whenever a permanent you control transforms, Mist-Possessed Grizzly gets +1/+1 and gains trample until end of turn.
+
+Oqtari Enforcer
+rules_text: {1}{G}{G}: Target creature you control gets +1/+1 until end of turn. Convert that creature. [i](Switch its power and toughness until end of turn.)[/i] => {1}{G}{G}: This creature gets +1/+1 until end of turn. Convert it. [i](Switch its power and toughness until end of turn.)[/i]
+
+Rage Pheromone
+type: Instant => Sorcery
+rules_text: Target creature you control fights target creature you don't control. Both those creatures attack during the next combat on their controller's turn if able. => Put a +1/+1 counter on target creature you control if it's a token. It fights target creature you don't control.
+
+Ironbark Invigoration
+rules_text: Target creature you control gets +2/+4 until end of turn. [i](Converting the target of this spell swaps these stats.)[/i] => Target creature you control gets +2/+2 until end of turn.
+
+Prod the Mist
+cost: {2}{G} => {2}{G}{G}
+rules_text: Search your library for a land card, put it onto the battlefield tapped, then shuffle. Then, you may transform that land. => Search your library for a land card, put it onto the battlefield tapped, then shuffle. You may have that land become a 3/3 creature with indestructible and haste. It's still a land.
+
+Yark, Shiftshield Reaver
+rules_text: Ward {2}
+When Yark, Shiftshield Reaver enters, convert any amount of target creatures you control. [i](Switch its power and toughness until end of turn.)[/i]
+All creatures able to block Yark, Shiftshield Reaver must do so. => Ward {2}
+When Yark, Shiftshield Reaver enters, convert any amount of target creatures you control. [i](Switch its power and toughness until end of turn.)[/i]
+All creatures able to block Yark, Shiftshield Reaver do so.
+
+Imologir, Ambitious
+rules_text: Flying
+Imologir, Ambitious enters with your choice of a trample or haste counter on it.
+Whenever Imologir attacks, you may have it fight target creature you don't control. If you do, put a +1/+1 counter on Imologir. => Reach
+Imologir, Ambitious enters with your choice of a trample or +1/+1 counter on it.
+Whenever Imologir attacks, you may have it fight target creature you don't control. If you do, put a +1/+1 counter on Imologir at the beginning of the next end step.
+pt: 5/5 => 4/4
+
+A Culture of Peace
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a land card and put that card into your hand, then shuffle.
+II — Whenever a creature you control enters or transforms this turn, you gain 1 life.
+III — Whenever you tap a land for mana this turn, add an additional {G}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a land card, reveal it and put it into your hand, then shuffle.
+II — Whenever a permanent you control enters or transforms this turn, you gain 1 life.
+III — Whenever you tap a land for mana this turn, add an additional {G}.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a land card and put that card into your hand, then shuffle.
+II — Whenever a creature you control enters or transforms this turn, you gain 1 life.
+III — Whenever you tap a land for mana this turn, add an additional {G}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a land card, reveal it and put it into your hand, then shuffle.
+II — Whenever a permanent you control enters or transforms this turn, you gain 1 life.
+III — Whenever you tap a land for mana this turn, add an additional {G}.
+
+Windbreaker
+rules_text: Equipped creature has +2/+2 and reach.
+Whenever equipped creature attacks, if its power is 5 or greater, you gain 2 life and draw a card.
+Equip {3} => Equipped creature has +2/+2 and has reach.
+Whenever equipped creature attacks, if its power is 5 or greater, you gain 2 life and draw a card.
+Equip {3}
+
+Mist Tamer
+rules_text: Whenever a permanent you control transforms, create a 2/2 green Spectral Wolf creature token. => Whenever a permanent you control transforms, create a 2/2 green Wolf Spirit creature token.
+
+Oqtari Pathlighter
+rules_text: Trample
+When Oqtari Pathlighter deals combat damage to a player, look at the top X cards of your library, where X is this creature's power. Put one of them into your hand and the rest on the bottom of your library in a random order. => Trample
+When Oqtari Pathlighter deals combat damage to a player, look at that many cards from the top of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Survival Adept
+rules_text: Reach, deathtouch, lifelink => Reach, deathtouch
+
+Mentoring Shiftsword
+rules_text: {2}{G}: Target creature you control can't be blocked by creatures with greater power until end of turn. Convert that creature. [i](Switch its power and toughness until end of turn.)[/i] => {2}{G}: Convert target creature you control. That creature can't be blocked by creatures with lesser power this turn. Activate only as a sorcery.
+
+Clash with the Army
+rules_text: Target creature you control deals damage equal to its power to target creature you don't control.
+If the creature you control has power 4 or greater, draw a card. => Target creature you control deals damage equal to its power to target creature you don't control. If the creature you control has power 4 or greater, draw a card.
+
+Eerie Propagation
+cost: {2}{G} => {1}{G}
+rules_text: Flash
+When Eerie Propagation enters, prevent all combat damage that would be dealt this turn, then draw a card.
+Whenever a permanent you control transforms, you may return Eerie Propagation to its owner's hand. => Flash
+When Eerie Propagation enters, prevent all combat damage that would be dealt by target creature this turn. When you do, draw a card, then discard a card.
+Whenever a permanent you control transforms, you may return Eerie Propagation to its owner's hand.
+
+Defensive Phalanx
+rules_text: Prevent all combat damage that would be dealt to you this turn. Create a number of 1/1 red Soldier creature tokens equal to the number of creature cards in your graveyard. => Prevent all combat damage that would be dealt to you this turn. Create a 1/1 red Soldier creature token for each creature card in your graveyard.
+
+Quantz, Gem Inventor
+rules_text: Colored artifact spells you control have affinity for artifacts. [i](Those spells cost {1} less to cast for each artifact you control.)[/i]
+{T}: Untap target artifact you control. Double the amount of charge counters on it. => Artifact spells you cast that are one or more colors have affinity for artifacts. [i](Those spells cost {1} less to cast for each artifact you control.)[/i]
+{T}: Untap target artifact you control. Double the amount of charge counters on it.
+
+Aor'Il, Scourge of Esterlis
+rules_text: Menace
+You have no maximum hand size.
+Whenever you discard a card, return that card to your hand and surveil 1.
+[i]Evaporate[/i] — {2}{U}{U}{B}, Exile this card from your graveyard: Gain control of target creature. => You have no maximum hand size.
+Whenever you discard one or more cards, you may exile a card from a graveyard with a memory counter on it. When you do, surveil 1.
+[i]Evaporate[/i] — {2}{U}{U}{B}, Exile this card from your graveyard: You may cast cards with memory counters from exile this turn.
+
+Desiccant Annihilation
+rules_text: Destroy all creatures.
+Exile up to three target cards from a single graveyard. => Destroy all creatures. Exile up to three cards from a single graveyard.
+
+Emperor Enorim II
+rules_text: Trample, ward—Pay 2 life.
+Emperor Enorim II's power is equal to the amount of Soldiers you control.
+Whenever a nontoken Soldier you control dies, create X 1/1 red Soldier creature tokens, where X is that creature's power. => Trample, ward—Pay 2 life.
+Emperor Enorim II's power is equal to the number of Soldiers you control.
+Whenever a nontoken Soldier you control dies, create X 1/1 red Soldier creature tokens, where X is that creature's power.
+
+Alwyn Aevaris
+rules_text: [+1]: Draw a card, then discard a card unless you control an artifact.
+[+1]: Target player loses life equal to the amount of charge counters on target artifact you control.
+[-7]: Destroy all artifacts you don't control, then draw a card for each artifact destroyed this way. => [+1]: Draw a card, then discard a card unless you control an artifact.
+[+1]: Target player loses life equal to the number of charge counters on target artifact you control.
+[-7]: Destroy all artifacts you don't control. Draw a card for each artifact destroyed this way.
+special_text: [+1]: Draw a card, then discard a card unless you control an artifact.
+[+1]: Target player loses life equal to the amount of charge counters on target artifact you control.
+[-7]: Destroy all artifacts you don't control, then draw a card for each artifact destroyed this way. => [+1]: Draw a card, then discard a card unless you control an artifact.
+[+1]: Target player loses life equal to the number of charge counters on target artifact you control.
+[-7]: Destroy all artifacts you don't control. Draw a card for each artifact destroyed this way.
+
+The Grand Admiral
+rules_text: At the beginning of your upkeep, surveil 2.
+Whenever you activate an ability of a card in your graveyard, return target permanent to its owner's hand. => At the beginning of your upkeep, surveil 2.
+Whenever you activate an ability of a card in your graveyard, return target permanent to its owner's hand. Do this only once each turn.
+
+Archdruid Olion
+rules_text: Ward {2}
+When Archdruid Olion enters, your life total becomes equal to the total amount of lands and Mists you control.
+Mists you control get +2/+2 and can't be blocked. => Ward {2}
+When Archdruid Olion enters, your life total becomes equal to the total number of lands and Mists you control.
+Mists you control get +2/+2 and can't be blocked.
+
+Ghastly Drake
+rules_text: Flying
+Abilities from cards in your graveyard cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Whenever a card leaves your graveyard for the first time each turn, put a +1/+1 counter on Ghastly Drake. => Flying
+Activated abilities of cards in your graveyard cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Whenever a card leaves your graveyard for the first time each turn, put a +1/+1 counter on Ghastly Drake.
+
+Yarkasing Elite
+pt: 4/5 => 4/3
+
+Tactical Phalanx
+rules_text: Tactical Phalanx enters with five +1/+1 counters on it.
+Whenever Tactical Phalanx deals combat damage to a player, you may remove a +1/+1 counter from it. When you do, create a 1/1 red Soldier creature token. => Tactical Phalanx enters with five +1/+1 counters on it.
+Whenever Tactical Phalanx deals combat damage to a player, you may remove a +1/+1 counter from it. If you do, create a 1/1 red Soldier creature token.
+
+Lifesap Auditor
+rules_text: When Lifesap Auditor enters and at the beginning of your upkeep, put the top two cards of your library into your graveyard.
+Whenever one or more creature cards are put into your graveyard, you may pay {B}. If you do, create a 1/1 red Soldier creature token. => When Lifesap Auditor enters and at the beginning of your upkeep, mill two cards.
+Whenever one or more creature cards are put into your graveyard from anywhere, you may pay {B}. If you do, create a 1/1 red Soldier creature token.
+
+Venerated Colonel
+rules_text: Haste
+{T}: Create a number of 1/1 red Soldier creature tokens equal to the amount of creatures that attacked this turn. => Haste
+{T}: Create an amount of 1/1 red Soldier creature tokens equal to the amount of token creatures that attacked this turn. Activate only as a sorcery.
+
+Sphinx of Borrowed Time
+rules_text: Flying
+If a permanent card would be put into exile from your graveyard, exile it with a drowned counter on it instead.
+You may cast spells from among cards you own in exile with drowned counters on them. When you do, they enter with a finality counter, and are 1/1 Spirits in addition to their other types. => Flying
+If a permanent card would be put into exile from your graveyard, exile it with a drowned counter on it instead.
+You may cast permanent spells from among cards you own in exile with drowned counters on them. When you do, they enter with a finality counter, and are 1/1 Spirits in addition to their other types.
+
+Vigrus, Phoenix Prime
+rules_text: Trample, ward— Pay 2 life.
+At the beginning of your end step, choose up to one — 
+• Return target Soldier card from your graveyard to the battlefield with a finality counter on it.
+• Exile target Soldier card from your graveyard. Creatures you control get +1/+1 until the end of your next turn. => Trample, ward— Pay 2 life.
+At the beginning of your upkeep, choose up to one — 
+• Return target Soldier card from your graveyard to the battlefield with a finality counter on it.
+• Exile target Soldier card from your graveyard. Creatures you control get +1/+1 until end of turn.
+
+Drying Basins
+rules_text: Whenever a card leaves your graveyard, draw a card, then discard a card. Put a salt counter on Drying Basins.
+Activated abilities from cards in your graveyard cost {1} less to activate for each salt counter on Drying Basins. => Whenever a card leaves your graveyard, draw a card, then discard a card. Put a salt counter on Drying Basins.
+Activated abilities of cards in your graveyard cost {1} less to activate for each salt counter on Drying Basins.
+
+Module 4L-13-N
+rules_text: Remove a charge counter from Module 4L-13-N: Module 4L-13-N gains hexproof until end of turn.
+At the beginning of your upkeep and at the beginning of your end step, move any number of charge counters between permanents you control. => Remove a charge counter from Module 4L-13-N: Module 4L-13-N gains hexproof until end of turn.
+At the beginning of your upkeep and at the beginning of your end step, move up to three charge counters between permanents you control.
+
+Stirrings in the Mist
+rules_text: Mist creatures you control get +1/+1 and have menace and “{T}: Add one mana of any color.”
+Whenever a land you control transforms, draw a card. => Mists you control get +1/+1 and have menace and “{T}: Add one mana of any color.”
+Whenever a land you control transforms, draw a card.
+
+Stuff the Unworthy
+rules_text: Attacking creatures target player controls get -4/-0 until end of turn. You mill three cards, then draw a card. => Attacking creatures target player controls get -2/-0 until end of turn. You mill three cards, then draw a card.
+
+Jungleborn Scout
+rules_text: Vigilance
+{T}: Put a +1/+1 counter on target creature you control and convert it. [i](Switch its power and toughness until end of turn.)[/i] => Vigilance
+{T}: Put a +1/+1 counter on target creature you control and convert it. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Treasure Sifter
+rules_text: Lifelink, deathtouch
+Whenever Treasure Sifter enters or dies, mill three cards. => Lifelink, deathtouch
+When Treasure Sifter enters or dies, mill three cards.
+
+Gemflinging
+type: Instant => Sorcery
+cost: {U}{R} => {1}{U}{R}
+rules_text: Gemflinging deals 2 damage to any target. Scry 2, then draw a card. => Gemflinging deals 2 damage to any target. Surveil 1, then draw a card.
+
+Jungleborn Mentor
+rules_text: Whenever Jungleborn Mentor deals combat damage to a player, put a +1/+1 counter on up to X other target creatures, where X is its power. => Whenever Jungleborn Mentor deals combat damage to a player, put a +1/+1 counter on each of up to X other target creatures, where X is Jungleborn Mentor's power.
+
+Regiment Pathmaker
+rules_text: Whenever another creature you control with power 2 or less attacks, if this is the first time this ability has resolved this turn, draw a card. Otherwise, Regiment Pathmaker gets +1/+0 until end of turn. => Whenever another creature you control with power 2 or less attacks, if this is the first time this ability has resolved this turn, exile the top card of your library. You may play that card until end of turn. Otherwise, Regiment Pathmaker gets +1/+0 until end of turn.
+
+Spelldrinker Pendant
+type: Artifact Creature — Gem => Artifact — Gem
+pt: 2/2 => 
+
+Resolute Deathmarcher
+rules_text: Deathtouch
+When Resolute Deathmarcher or another Soldier you control dies, target player loses 1 life and you gain 1 life. => Deathtouch
+Whenever Resolute Deathmarcher or another Soldier you control dies, target player loses 1 life and you gain 1 life.
+
+Stalwart Scout
+rules_text: {2}{GW}{GW}: Stalwart Scout and target creature you control gain vigilance until end of turn. Convert that creature. [i](Switch its power and toughness until end of turn.)[/i] => {2}{GW}{GW}: Stalwart Scout and target creature you control gain vigilance until end of turn. Convert that creature. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Soul-Siphon Warlock
+rules_text: Lifelink
+[i]Evaporate[/i] — {4}{WB}{WB}, Exile this card from your graveyard: Target player loses life equal to the mana value of target creature you control, and you gain that much life. => Menace
+[i]Evaporate[/i] — {4}{WB}{WB}, Exile this card from your graveyard: You gain life equal to the mana value of target creature you control.
+
+Regiment Scout
+rules_text: Regiment Scout has double strike as long as it's your turn.
+Whenever one or more creatures you control with power 2 or less attack, exile the top card of your library. You may play that card until end of turn. => Regiment Scout has first strike as long as it's your turn.
+Whenever one or more creatures you control with power 2 or less attack, target creature you control gets +1/+0 until end of turn. Untap that creature.
+
+Glimmermage Adept
+rules_text: Whenever you cast your first spell on each of your turns, add {U} or {R}. Spend this mana only to cast an instant, sorcery or Gem spell. => Flying
+Whenever you cast your first spell on each of your turns, add {U} or {R}. Spend this mana only to cast an instant, sorcery or Gem spell.
+pt: 3/2 => 2/2
+
+Exploiter of Undergrowth
+rules_text: Deathtouch
+When Exploiter of Undergrowth enters, sacrifice a creature. When you do, surveil 2. If the sacrificed creature was a Soldier, draw a card. => Deathtouch
+When Exploiter of Undergrowth enters, sacrifice a creature and surveil 2. If the sacrificed creature was a Soldier, draw a card.
+
+Karan Kurem
+rules_text: Vigilance
+Whenever Karan Kurem enters, gain control of target creature with mana value 4 or less. It's a 4/4 Thrall in addition to its other types for as long as you control that creature. => Vigilance
+Whenever Karan Kurem enters, gain control of target creature with mana value 4 or less. It's a 3/3 Thrall in addition to its other types for as long as you control that creature.
+pt: 4/5 => 4/4
+
+Arxikas
+rules_text: Other Spiders you control get +1/+1.
+When Arxikas enters, it deals 2 damage to each other creature. Whenever a creature dies this turn, create a 1/0 black Spider Illusion creature token. => Other Spiders you control get +1/+1.
+When Arxikas enters, it deals 2 damage to each other creature. Whenever a nontoken creature dies this turn, create a 1/0 black Spider Illusion creature token.
+
+Baldan Wazu
+rules_text: Whenever a land you control enters, create a 1/1 red Soldier creature token. When you do, Baldan Wazu deals 1 damage to any target. => Whenever a land you control enters, create a 1/1 red Soldier creature token, then Baldan Wazu deals 1 damage to any target.
+
+Ovno Zig
+rules_text: Ovno Zig can't be blocked by creatures with greater power.
+Whenever Ovno Zig deals combat damage to a player, scry X, where X is its power, then draw a card.
+{G}: Ovno Zig gets +1/+1 or -1/-1 until end of turn. => Whenever Ovno Zig deals combat damage to a player, return target card from your graveyard to your hand if it's a land or if Ovno Zig's power is 5 or greater.
+{2}{GW}{GW}: If Ovno Zig has no counters on it, put three +1/+1 counters on it.
+pt: 2/2 => 2/3
+
+Crest of Waves
+rules_text: Choose one — 
+• Target player mills six cards.
+• Destroy target noncreature, nonland permanent. => Choose one — 
+• Target player mills six cards.
+• Target player sacrifices a nonland permanent unless that player pays 3 life or discards a card.
+
+Crest of Ironbark
+rules_text: Choose one — 
+• Search your library for a land card, reveal it and put it into your hand. You gain 2 life.
+• Scry X, where X is the number of lands you control, then draw a card. => Choose one — 
+• Search your library for a land card, reveal it and put it into your hand. You gain 2 life.
+• Destroy target artifact with mana value X or less, where X is the amount of lands you control.
+
+Gemcraft Filigree
+type: Artifact Creature — Gem => Artifact Creature — Gem Bird
+
+Unstable Silumgite
+rules_text: {T}: Add {U} or {R}. Put a charge counter on Unstable Silumgite.
+{T}, Remove three charge counters from Unstable Silumgite, Sacrifice Unstable Silumgite: Destroy target nonland permanent. => {T}: Add {U} or {R}. Put a charge counter on Unstable Silumgite.
+{T}, Remove three charge counters from Unstable Silumgite, Sacrifice Unstable Silumgite: Unstable Silumgite deals 6 damage to target creature.
+
+Yarkasing Landmark
+rules_text: When Yarkasing Landmark enters, search your library for a basic Forest, Mountain or Plains card, reveal it, put it into your hand, then shuffle.
+{W}{RG}, {T}, Sacrifice Yarkasing Landmark: Convert target creature you control and put a +1/+1 counter on it. [i](Switch its power and toughness until end of turn.)[/i] => When Yarkasing Landmark enters, search your library for a basic Forest, Mountain or Plains card, reveal it, put it into your hand, then shuffle.
+{W}{RG}, {T}, Sacrifice Yarkasing Landmark: Convert target creature you control and put a +1/+1 counter on it. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Trail of Dragons
+rules_text: Trail of Dragons enters tapped.
+{T}, Pay 1 life: Add one mana of any color.
+Mist {2}{W}{U}{B}{R}{G} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => Trail of Dragons enters tapped.
+{T}, Pay 1 life: Add one mana of any color.
+Mist {2}{W}{U}{B}{R}{G} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+The Kaleidoscope Hollow
+rules_text: The Kaleidoscope Hollow enters tapped.
+When The Kaleidoscope Hollow enters, choose a color.
+{T}: Add {W} or one mana of the chosen color.
+Mist {3}{W} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => The Kaleidoscope Hollow enters tapped.
+When The Kaleidoscope Hollow enters, choose a color.
+{T}: Add {W} or one mana of the chosen color.
+Mist {3}{W} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Savacide Council
+rules_text: Savacide Council enters tapped.
+When Savacide Council enters, you may have it become a copy of any land on the battlefield, except it has mist {2}{U}{U}.
+{T}: Add {U}.
+Mist {2}{U}{U} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => Savacide Council enters tapped.
+When Savacide Council enters, you may have it become a copy of any land on the battlefield, except it has mist {2}{U}{U}.
+{T}: Add {U}.
+Mist {2}{U}{U} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Ailen'Or, Ruined City
+rules_text: Ailen'Or, Ruined City enters tapped.
+{T}, Sacrifice a creature: You lose X life and add X {B}, where X is the sacrificed creature's power.
+Mist {3}{B}{B} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => Ailen'Or, Ruined City enters tapped.
+{T}, Sacrifice a creature: You lose X life and add X {B}, where X is the sacrificed creature's power.
+Mist {3}{B}{B} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Thov Da'Rul
+rules_text: Thov Da'Rul enters tapped.
+{T}: Add {R}.
+{2}{R}{R}, {T}: Target creature you control gets +2/+0 until end of turn.
+Mist {2}{R}{R} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => Thov Da'Rul enters tapped.
+{T}: Add {R}.
+{2}{R}{R}, {T}: Target creature you control gets +2/+0 until end of turn.
+Mist {2}{R}{R} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Woods of Ester
+rules_text: Woods of Ester enters tapped.
+{T}: Add {G}.
+{3}{G}{G}, {T}: Target creature gets +X/+0 until end of turn, where X is its power.
+Mist {2}{G}{G} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => Woods of Ester enters tapped.
+{T}: Add {G}.
+{3}{G}{G}, {T}: Target creature gets +X/+0 until end of turn, where X is its power.
+Mist {2}{G}{G} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Frosted Plain
+rules_text: [i]({T}: Add {W} or {U}.)[/i]
+Frosted Plain enters tapped.
+Mist {4}{WU} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => [i]({T}: Add {W} or {U}.)[/i]
+Frosted Plain enters tapped.
+Mist {4}{WU} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Cerulean Fogbank
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+Cerulean Fogbank enters tapped.
+Mist {4}{UB} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => [i]({T}: Add {U} or {B}.)[/i]
+Cerulean Fogbank enters tapped.
+Mist {4}{UB} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Ashy Badlands
+rules_text: [i]({T}: Add {B} or {R}.)[/i]
+Ashy Badlands enters tapped.
+Mist {4}{BR} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => [i]({T}: Add {B} or {R}.)[/i]
+Ashy Badlands enters tapped.
+Mist {4}{BR} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Foggy Peak
+rules_text: [i]({T}: Add {R} or {G}.)[/i]
+Foggy Peak enters tapped.
+Mist {4}{RG} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => [i]({T}: Add {R} or {G}.)[/i]
+Foggy Peak enters tapped.
+Mist {4}{RG} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Morningdew Vale
+rules_text: [i]({T}: Add {G} or {W}.)[/i]
+Morningdew Vale enters tapped.
+Mist {4}{GW} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => [i]({T}: Add {G} or {W}.)[/i]
+Morningdew Vale enters tapped.
+Mist {4}{GW} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Overcast Marsh
+rules_text: [i]({T}: Add {W} or {B}.)[/i]
+Overcast Marsh enters tapped.
+Mist {4}{WB} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => [i]({T}: Add {W} or {B}.)[/i]
+Overcast Marsh enters tapped.
+Mist {4}{WB} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Sandstorm Steppe
+rules_text: Mist {4}{RW} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i]
+Sandstorm Steppe enters the battlefield tapped.
+{T}: Add {R} or {W}. => Mist {4}{RW} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+Sandstorm Steppe enters the battlefield tapped.
+{T}: Add {R} or {W}.
+
+Limestone Steam Pool
+rules_text: [i]({T}: Add {U} or {R}.)[/i]
+Limestone Steam Pool enters tapped.
+Mist {4}{UR} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => [i]({T}: Add {U} or {R}.)[/i]
+Limestone Steam Pool enters tapped.
+Mist {4}{UR} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Misty Taiga
+rules_text: [i]({T}: Add {U} or {G}.)[/i]
+Misty Taiga enters tapped.
+Mist {4}{GU} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => [i]({T}: Add {U} or {G}.)[/i]
+Misty Taiga enters tapped.
+Mist {4}{GU} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Shaded Woods
+rules_text: [i]({T}: Add {B} or {G}.)[/i]
+Shaded Woods enters tapped.
+Mist {4}{BG} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => [i]({T}: Add {B} or {G}.)[/i]
+Shaded Woods enters tapped.
+Mist {4}{BG} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Remote Barracks
+rules_text: {T}: Add {C}.
+Mist {3} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => {T}: Add {C}.
+Mist {3} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Murky Vista
+rules_text: Murky Vista enters tapped.
+When Murky Vista enters, add one mana of any color.
+{T}: Add {C}.
+Mist {3} [i](You may transform this card any time you could cast an instant for its mist cost.)[/i] => Murky Vista enters tapped.
+When Murky Vista enters, add one mana of any color.
+{T}: Add {C}.
+Mist {3} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Warrior_IRA
+rules_text: Haste => Vigilance
+
+
+VERSION 12 CHANGELOG
 ====================
 
 
