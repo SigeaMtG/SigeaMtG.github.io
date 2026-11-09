@@ -1,4 +1,815 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Yazi Champion added.
+Swiftslash Thug added.
+Fogseer Sphinx added.
+Gemcrafted Lich added.
+Creeping Mists added.
+
+Yarkasing Champion removed.
+Quickdraw Thug removed.
+Fogscry Sphinx removed.
+Clockwork Lich removed.
+Mistcreep removed.
+
+Unfortunate Shipmender
+rules_text: {3}{W}: Unfortunate Shipmender gets +2/+0 until end of turn.
+[i]Evaporate[/i] — {5}{W}{W}, Exile this card from your graveyard: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery. => {3}{W}: Unfortunate Shipmender gets +2/+0 until end of turn.
+[i]Evaporate[/i] — {2}{W}{W}, Exile this card from your graveyard: Creatures you control get +1/+0 until end of turn. Activate only as a sorcery.
+
+Valeyan Battleraptor
+rules_text:  => At the beginning of combat on your turn, if Valeyan Battleraptor's power is 4 or greater, it gets +1/+0 and gains vigilance until end of turn.
+pt: 3/4 => 2/4
+
+Fogbound Elemental
+rules_text: As long as you control five or more lands, Fogbound Elemental has flying. => If you control a Mist, Fogbound Elemental has flying.
+[i]Evaporate[/i] — {W}, Exile Fogbound Elemental from your graveyard: Target creature can't block this turn.
+
+Mistborn Unicorn
+rules_text: Mistborn Unicorn gets +0/+1 for each land you control. => If you control a Mist, Mistborn Unicorn has lifelink.
+[i]Evaporate[/i] — {1}{W}, Exile Mistborn Unicorn from your graveyard: You gain 3 life.
+pt: 3/1 => 3/3
+
+Shatter the Spoils
+rules_text: Choose one — 
+• Destroy target artifact, enchantment or battle.
+• Surveil 1 if you control a creature with power 3 or greater. Draw a card. => Choose one — 
+• Destroy target artifact or enchantment.
+• Put a +1/+1 counter on target creature you control if it has power 3 or greater. Draw a card.
+
+Quickdraw
+rules_text: Target attacking creature you control gains first strike until end of turn. If that creature's power is greater than its toughness, scry 1, then draw a card. => Target attacking creature you control gains first strike until end of turn. If that creature's power is greater than its toughness, draw a card.
+
+Submerged Paragon
+rules_text: Whenever a card leaves your graveyard, you gain 1 life.
+[i]Evaporate[/i] — {2}{W}{W}, Exile this card from your graveyard: Return another target creature card from your graveyard to the battlefield that was put there from the battlefield this turn. Activate only as a sorcery. => Whenever one or more cards leave your graveyard, you gain 1 life.
+[i]Evaporate[/i] — {2}{W}{W}, Exile this card from your graveyard: Return another target creature card from your graveyard to the battlefield that was put there from the battlefield this turn. Activate only as a sorcery.
+
+Dyvnas' Favored
+
+Virtue and Sin
+cost: {W}{B} => {1}{W}{B}
+rules_text: Equipped creature gets +1/+0 and has lifelink and deathtouch.
+Whenever equipped creature deals combat damage to a player, you may return target permanent card with mana value 2 or less from your graveyard to your hand.
+Equip {1}{W}{B} => When Virtue and Sin enters, you may return target creature card with mana value 2 or less from your graveyard to the battlefield. If you do, attach Virtue and Sin to that creature.
+Equipped creature gets +1/+0 and has lifelink and deathtouch.
+Equip {W}{B}
+
+Ethereal Burdener
+pt: 2/2 => 3/1
+
+Valeyan Lieutenant
+
+Valeyan Martial Guard
+
+Allwatch Angel
+
+Scout of the Great Plains
+
+Allwatch Guardian
+rules_text: Flash
+When Allwatch Guardian enters, you may return another target permanent you control to its owner's hand.
+Whenever a permanent you control transforms, create a 2/2 white Elemental creature token. => Flash
+Flying
+When Allwatch Guardian enters, you may return another target permanent you control to its owner's hand.
+Whenever a permanent you control transforms, create a 2/2 white Elemental creature token.
+pt: 2/2 => 2/1
+
+Curious Treasure Diver
+
+Whiteclam Etherealist
+pt: 1/2 => 2/1
+
+Resurfacing the Meek
+
+Destination Unveiled
+
+Struggle to Subdue
+
+Dredge Diver
+
+Gemchannel Golem
+rules_text: Gemchannel Golem gets +0/+1 for each charge counter on it.
+{T}, Remove a charge counter from Gemchannel Golem: Add {C}. Spend this mana only to activate abilities or cast noncreature spells. => [i](Gems enter with a charge counter on them.)[/i]
+{T}, Remove a charge counter from Gemchannel Golem: Add {C}. Spend this mana only to cast noncreature spells.
+pt: 2/2 => 2/1
+
+Merchant of the North
+
+Exhumed Corvid
+
+Opaelian Generator
+pt: 5/3 => 4/4
+
+Wash Ashore
+
+Disenchanting Fog
+
+Charge Burst
+
+Wave Stall
+
+Reflective Prison
+rules_text: Enchant creature
+When Reflective Prison enters, you may create a token that's a copy of target creature you control.
+Enchanted creature has base power and toughness 0/2 and loses all abilities. => Enchant creature
+When Reflective Prison enters, you may create a token that's a copy of target creature you control. Sacrifice that token at the beginning of the next end step.
+Enchanted creature has base power and toughness 0/2 and loses all abilities.
+
+Drowned Memories
+
+Envelop in Mist
+rules_text: Choose one — 
+• Target attacking creature gets -X/-0, where X is the number of lands you control.
+• Return target artifact or enchantment to its owner's hand. => Choose one — 
+• Target attacking creature gets -X/-0 until end of turn, where X is the number of lands you control.
+• Return target artifact or enchantment to its owner's hand.
+
+Frigid Chargemaster
+rules_text: Whenever one or more charge counters are put on one or more artifacts you control, tap up to one target creature and put a stun counter on it. Do this only twice per turn.
+{1}{U}, Remove a charge counter from Frigid Chargemaster: Draw a card. => [i](Gems enter with a charge counter on them.)[/i]
+Whenever one or more charge counters are put on one or more artifacts you control, tap up to one target creature and put a stun counter on it. Do this only twice per turn.
+{1}{U}, Remove a charge counter from Frigid Chargemaster: Draw a card.
+pt: 2/2 => 1/2
+
+Reflective Fogwing
+
+Boneminnow
+rules_text: Vigilance
+Whenever a card leaves your graveyard, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+[i]Evaporate[/i] — {2}{B}{B}, Exile this card from your graveyard: Mill five cards. => Vigilance
+Whenever one or more cards leave your graveyard, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+[i]Evaporate[/i] — {2}{B}{B}, Exile this card from your graveyard: Mill five cards.
+
+Xirruphin, Fleeting
+
+Mirroring Depths
+
+Chalice of the Cult
+rules_text: Chalice of the Cult enters with X charge counters on it.
+{U}: Counter target spell with mana value equal to the number of charge counters on Chalice of the Cult. => [i](Gems enter with a charge counter on them.)[/i]
+Chalice of the Cult enters with X additional charge counters on it.
+{U}: Counter target spell with mana value equal to the number of charge counters on Chalice of the Cult.
+
+Nirvana
+
+Observant Gemslinger
+
+Glimmertide Inventor
+
+Sea-Mad Pirate
+pt: 2/2 => 2/1
+
+Wisp of Glimmers
+
+Undead Tentacle
+
+Dismembered Leviathan
+rules_text: Ward {1}
+Dismembered Leviathan enters with a trample counter on it if it was cast.
+Whenever Dismembered Leviathan attacks, tap target creature an opponent controls and put a stun counter on it. => Ward {2}
+Dismembered Leviathan enters with a trample counter on it if it was cast.
+Whenever Dismembered Leviathan attacks, tap target creature an opponent controls and put a stun counter on it.
+
+Brilliant Mechfly
+rules_text: Flying
+Whenever Brilliant Mechfly deals combat damage to a player, put a charge counter on it.
+Remove a charge counter from Brilliant Mechfly: Surveil 2. => [i](Gems enter with a charge counter on them.)[/i]
+Flying
+Whenever Brilliant Mechfly deals combat damage to a player, put a charge counter on it.
+Remove a charge counter from Brilliant Mechfly: Surveil 2.
+
+Twice Drowned
+
+Unveil the Mists
+
+Shadow Atlas
+rules_text: {T}: Add {U}. Put a charge counter on Shadow Atlas.
+{T}, Remove two charge counters from Shadow Atlas: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => [i](Gems enter with a charge counter on them.)[/i]
+{T}: Add {U}. Put a charge counter on Shadow Atlas.
+{T}, Remove two charge counters from Shadow Atlas: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Spellcharge Gem
+rules_text: Whenever you cast an instant or sorcery spell, put a charge counter on Spellcharge Gem.
+{T}, Remove a charge counter from Spellcharge Gem: Add one mana of any color. Spend this mana only to cast instant or sorcery spells. => [i](Gems enter with a charge counter on them.)[/i]
+Whenever you cast an instant or sorcery spell, put a charge counter on Spellcharge Gem.
+{T}, Remove a charge counter from Spellcharge Gem: Add one mana of any color. Spend this mana only to cast instant or sorcery spells.
+
+Arcane Battery
+rules_text: Whenever an artifact you control leaves the battlefield, if it had charge counters on it, put those counters onto Arcane Battery.
+At the beginning of your upkeep, move up to two charge counters from Arcane Battery to target artifact you control. => [i](Gems enter with a charge counter on them.)[/i]
+Whenever an artifact you control leaves the battlefield, if it had charge counters on it, put those counters onto Arcane Battery.
+At the beginning of your upkeep, move up to two charge counters from Arcane Battery to target artifact you control.
+
+Returned Ranksman
+
+Generator Ritualist
+
+Merchant of the Isles
+
+Vampiric Eagle
+
+Chargesap Martialist
+rules_text: Lifelink
+Whenever one or more charge counters are put on one or more artifacts you control, you may pay {B}. If you do, each opponent loses 1 life and you gain 1 life. => Lifelink
+Whenever one or more charge counters are put on one or more artifacts you control, each opponent loses 1 life and you gain 1 life.
+
+Savacide Unearther
+
+Brier Slopes Brute
+
+Drag to the Depths
+
+Necromantic Charge
+cost: {2}{B} => {2}{B}{B}
+rules_text: As an additional cost to cast this spell, remove X charge counters from artifacts you control.
+X target creatures you control get +1/+0 and gain deathtouch until end of turn. => Destroy target creature. Put an amount of charge counters equal to that creature's power on up to one target artifact you control.
+
+Harvest Intelligence
+
+Dragged Under
+rules_text: Target player discards two cards. You lose 2 life and mill three cards. => Target opponent discards two cards.
+[i]Evaporate[/i] — {B}, Exile Dragged Under from your graveyard: Target player mills three cards.
+
+Gempoint Beam
+
+Rotting Current
+
+Jaws of the Depths
+
+Depths' Lure
+rules_text: Deathtouch
+When Depths' Lure enters or dies, you lose 1 life, mill two cards, then draw a card.
+As long as there are five or more different mana values among cards in your graveyard and cards you own in exile, Depths' Lure gets +4/+4 and has flying. => Deathtouch
+When Depths' Lure enters or dies, you lose 1 life, mill two cards, then draw a card.
+As long as there are five or more different mana values among cards in your graveyard and cards you own in exile, Depths' Lure gets +3/+3 and has flying.
+
+Embittered Captain
+
+Iazoketh, Dire
+
+Nightly Mapping
+
+Soulcage
+rules_text: Whenever one or more creatures you control die, put two charge counters on Soulcage.
+{T}: Move up to two charge counters from Soulcage to target artifact you control.
+{1}{B}, {T}, Pay 1 life, Remove a charge counter from Soulcage: Draw a card. => [i](Gems enter with a charge counter on them.)[/i]
+Whenever one or more creatures you control die, put two charge counters on Soulcage.
+{T}: Move up to two charge counters from Soulcage to target artifact you control.
+{1}{B}, {T}, Pay 1 life, Remove a charge counter from Soulcage: Draw a card.
+
+Alakaslam, the Grey Dawn
+
+Battlefield Soulstealer
+type: Creature — Spirit => Creature — Spirit Soldier
+
+Cleric of the Five
+
+Deepwater Lamia
+
+Ravenous Drowned
+
+Miser of the Drowned
+
+Harvester of Sin
+rules_text: Whenever a Soldier you control dies, Harvester of Sin gets +1/+1 and gains deathtouch until end of turn. => Whenever a creature you control dies, put a +1/+1 counter on this creature and you gain 1 life.
+
+Forbidden Siphoner
+
+Disease in the Ranks
+
+Revolutionary Murder
+
+Emerge from Death
+
+Siphoning Onyx
+rules_text: {T}, Remove a charge counter from Siphoning Onyx: Each opponent loses 2 life and you gain 2 life. => [i](Gems enter with a charge counter on them.)[/i]
+{T}, Remove a charge counter from Siphoning Onyx: Each opponent loses 2 life and you gain 2 life.
+
+Valeyan Shiftshield
+
+Gemfire Golem
+rules_text: Gemfire Golem gets +1/+0 for each charge counter on it.
+{T}, Remove a charge counter from Gemfire Golem: Add {C}. Spend this mana only to cast creature or artifact spells. => [i](Gems enter with a charge counter on them.)[/i]
+{T}, Remove a charge counter from Gemfire Golem: Add {C}. Spend this mana only to cast creature or artifact spells.
+pt: 2/2 => 2/1
+
+Merchant of the Capital
+
+Leader of the Phalanx
+type: Creature — Elf Knight => Creature — Elf Soldier
+
+Deceptive Chargemage
+rules_text: Whenever Deceptive Chargemage attacks, you may remove a charge counter from a Gem you control. If you do, Deceptive Chargemage gains first strike until end of turn. => When this creature deals combat damage to a player, put a charge counter on up to one target artifact you control.
+pt: 5/3 => 4/3
+
+Sharean Banneret
+
+Ancient Maskbearer
+
+Prism Beam
+
+Improvised Armament
+
+Glimpse the Red Horizon
+
+Scorch and Scour
+
+Accelerant Tactics
+
+Shrouded Fireblast
+
+Sir Mari, Bloodcrazed
+
+Hurler of Armaments
+type: Creature — Orc Warrior => Creature — Orc Soldier
+rules_text: During your turn, Hurler of Armaments has first strike.
+Whenever Hurler of Armaments deals combat damage to a player, you may discard a card. If you do, Hurler of Armaments deals 1 damage to that player. => During your turn, Hurler of Armaments has first strike.
+Whenever Hurler of Armaments attacks, you may discard a card. If you do, Hurler of Armaments deals 1 damage to that player.
+
+Oqtari Improviser
+
+Rylireor, Voiceless
+
+Inspired Blazeblade
+
+Paindrinker Amulet
+cost: {R} => {1}{R}
+rules_text: Whenever one or more other sources you control deal damage to a player, put a charge counter on Paindrinker Amulet.
+{T}, Remove a charge counter from Paindrinker Amulet: Paindrinker Amulet deals 1 damage to any target. Activate only as a sorcery. => [i](Gems enter with a charge counter on them.)[/i]
+Whenever one or more other sources you control deal damage to a player, put a charge counter on Paindrinker Amulet.
+{T}, Remove a charge counter from Paindrinker Amulet: Paindrinker Amulet deals 1 damage to any target. Activate only as a sorcery.
+
+Rigor Mortis
+rules_text: This spell costs {1} less to cast for each creature you controlled that dealt combat damage this turn.
+During your turn, equipped creature gets +2/+1 and has first strike.
+Whenever equipped creature attacks, Rigor Mortis deals 2 damage to defending player.
+Equip {2} => This spell costs {1} less to cast for each creature you controlled that dealt combat damage this turn.
+During your turn, equipped creature gets +2/+1 and has first strike.
+Whenever equipped creature attacks, Rigor Mortis deals 2 damage to the defending player.
+Equip {2}
+
+Sanguine Looter
+
+Prowess Harvester
+rules_text: When Prowess Harvester enters, exile the top cards of your library. Until the end of your next turn, you may play that card. => When Prowess Harvester enters, exile the top card of your library. Until the end of your next turn, you may play that card.
+pt: 2/2 => 3/1
+
+Armament Liege
+type: Creature — Human Knight => Creature — Human Soldier
+
+Bloodlusting Champion
+rules_text: As long as it's your turn, Bloodlusting Champion has first strike.
+Whenever Bloodlusting Champion deals combat damage to a player, exile the top two cards of your library. You may play that card this turn. => As long as it's your turn, Bloodlusting Champion has first strike.
+Whenever Bloodlusting Champion deals combat damage to a player, exile the top card of your library. You may play that card this turn.
+pt: 2/2 => 2/1
+
+Blazeblade Adept
+
+Flameharvest Warmage
+
+Dragonpoise Apprentice
+
+Split Focus
+
+Brave the Mountaintops
+
+Dragonfire Ritual
+
+Study the Martial Code
+
+Army-Fueled Firestorm
+
+Oqtari Shiftsword
+
+Misthide Explorer
+
+Merchant of the Great Plains
+
+Mist-Possessed Grizzly
+pt: 2/4 => 2/3
+
+Oqtari Enforcer
+type: Creature — Orc Warrior => Creature — Orc Soldier
+
+Rallying Commander
+type: Creature — Human Knight => Creature — Human Soldier
+
+Tallest of the Ranks
+type: Creature — Giant Warrior => Creature — Giant Soldier
+
+Miststalker Behemoth
+
+Rage Pheromone
+
+Underwater Scavenging
+
+Ironbark Invigoration
+rules_text: Target creature you control gets +2/+2 until end of turn. => Target creature you control gets +2/+2 until end of turn. If you control a Mist, you may return up to one target land card from your graveyard to your hand.
+
+Prod the Mist
+
+Commune with the Mist
+
+Sharean Craterhoof
+
+Yark, Shiftshield Reaver
+
+Mistcowl Druid
+
+Imologir, Ambitious
+
+Mist Awakened
+
+Sharean Consolidator
+
+Windbreaker
+
+Woodland Recruiter
+
+Mist Tamer
+
+Ester Woods Protector
+
+Oqtari Champion
+
+Oqtari Pathlighter
+
+Survival Adept
+
+Mistborn Rejuvenator
+
+Mentoring Shiftsword
+
+Armament Supplier
+type: Creature — Human Advisor => Creature — Human Soldier
+
+Pragmatic Weaponry
+
+Clash with the Army
+
+Eerie Propagation
+
+Defensive Phalanx
+
+Quantz, Gem Inventor
+
+Inspiring Seneschal
+rules_text: Whenever you attack, you may discard a card. When you do, target Soldier you control gains double strike until end of turn.
+Whenever you discard a card, you may pay {R}. When you do, Inspiring Seneschal deals 3 damage to target player. => Whenever you attack, you may discard a card. If you do, target Soldier you control gains double strike until end of turn.
+Whenever you discard a card, you may pay {R}. If you do, Inspiring Seneschal deals 3 damage to target player.
+
+Everett, Emperor No More
+
+Aor'Il, Scourge of Esterlis
+
+Desiccant Annihilation
+
+Dragonspotting
+
+Djinni of Past and Future
+
+The Fireblood Crystal
+rules_text: Whenever an opponent is dealt damage, put a charge counter on The Fireblood Crystal.
+{T}, Remove two charge counters from The Fireblood Crystal: You may cast target instant or sorcery card from your graveyard this turn. If that spell would be put into your graveyard, exile it instead. => [i](Gems enter with a charge counter on them.)[/i]
+Whenever an opponent is dealt damage, put a charge counter on The Fireblood Crystal.
+{T}, Remove two charge counters from The Fireblood Crystal: You may cast target instant or sorcery card from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.
+
+Emperor Enorim II
+
+The Grand Admiral
+rules_text: At the beginning of your upkeep, surveil 2.
+Whenever you activate an ability of a card in your graveyard, return target permanent to its owner's hand. Do this only once each turn. => Flying
+At the beginning of your upkeep, surveil 2.
+Whenever you activate an ability of a card in your graveyard, you may draw a card and mill two cards. Do this only once each turn.
+pt: 3/4 => 3/3
+
+Prime Valeyan Ordun
+
+Archdruid Olion
+type: Legendary Creature — Druid => Legendary Creature — Human Druid
+
+Shiftsword Innovator
+rules_text: Whenever another creature you control enters, if it doesn't have the same power as another creature you control, choose one — 
+• Put a +1/+1 counter on Shiftsword Innovator.
+• You gain 2 life.
+• Add one mana of any color. => Whenever another creature you control enters, if it doesn't have the same power as another creature you control, choose one —
+• Put a +1/+1 counter on Shiftsword Innovator.
+• You gain 2 life.
+• Add one mana of any color.
+
+Captain Xanlos
+
+Mistwarp
+
+Knight of the Mists
+
+Ghastly Drake
+
+Sharean Bloodletter
+
+Yarkasing Elite
+
+Tactical Phalanx
+
+Kingsfall
+
+Lifesap Auditor
+
+Gemcrackle Battery
+rules_text: Instant and sorcery spells you cast cost {1} less to cast for each charge counter on Gemcrackle Battery.
+{U}{R}, {T}: Put a charge counter on Gemcrackle Battery. => [i](Gems enter with a charge counter on them.)[/i]
+Instant and sorcery spells you cast cost {1} less to cast for each charge counter on Gemcrackle Battery.
+{U}{R}, {T}: Put a charge counter on Gemcrackle Battery.
+
+Incendiary Colonne
+
+Gemcharge Capture
+
+Venerated Colonel
+
+Sphinx of Borrowed Time
+
+Vigrus, Phoenix Prime
+rules_text: Trample, ward— Pay 2 life.
+At the beginning of your upkeep, choose up to one — 
+• Return target Soldier card from your graveyard to the battlefield with a finality counter on it.
+• Exile target Soldier card from your graveyard. Creatures you control get +1/+1 until end of turn. => Trample, ward—Pay 2 life.
+At the beginning of your upkeep, choose up to one — 
+• Return target Soldier card from your graveyard to the battlefield with a finality counter on it.
+• Exile target Soldier card from your graveyard. Creatures you control get +1/+1 until end of turn.
+
+Drying Basins
+
+Module 4L-13-N
+rules_text: Remove a charge counter from Module 4L-13-N: Module 4L-13-N gains hexproof until end of turn.
+At the beginning of your upkeep and at the beginning of your end step, move up to three charge counters between permanents you control. => [i](Gems enter with a charge counter on them.)[/i]
+Remove a charge counter from Module 4L-13-N: Module 4L-13-N gains hexproof until end of turn.
+At the beginning of your upkeep and at the beginning of your end step, move up to three charge counters between permanents you control.
+
+Stirrings in the Mist
+
+Stuff the Unworthy
+
+Supercharge Ritualist
+rules_text: If one or more charge counters would be put on a Gem you control, that many plus one charge counters are put on that Gem instead.
+At the beginning of your upkeep, put a charge counter on target Gem you control. => If one or more charge counters would be put on an artifact you control, that many plus one charge counters are put on that artifact instead.
+At the beginning of your upkeep, put a charge counter on target Gem you control.
+
+Avenger Bloodknight
+rules_text: Haste
+{1}{B}{R}, Sacrifice Avenger Bloodknight: Creatures you control gain haste and menace until end of turn. => Menace
+{1}{B}{R}, Sacrifice Avenger Bloodknight: Creatures you control gain haste and menace until end of turn.
+
+Valiant Recruiter
+
+Jungleborn Scout
+
+Treasure Sifter
+
+Oqtari Marauder
+
+Gemflinging
+
+Beacon Over the Oceans
+
+Guide to War's End
+
+Chrome Drake
+
+Orb of Pained Knowledge
+rules_text: {T}, Remove a charge counter from Orb of Pained Knowledge: You draw a card and lose 1 life. => [i](Gems enter with a charge counter on them.)[/i]
+{T}, Remove a charge counter from Orb of Pained Knowledge: You draw a card and lose 1 life.
+
+Jungle Mission Specialist
+
+Wrathful Champion
+type: Creature — Demon Warrior => Creature — Demon Soldier
+rules_text: Trample
+Whenever a Soldier you control attacks, Wrathful Champion gets +1/+0 until end of turn. => Trample
+Whenever another Soldier you control attacks, Wrathful Champion gets +1/+0 until end of turn.
+
+Jungleborn Mentor
+
+Warfallen Angel
+
+Regiment Pathmaker
+
+Spelldrinker Pendant
+rules_text: Whenever you cast your second spell each turn, put a charge counter on Spelldrinker Pendant.
+{T}, Remove a charge counter from Spelldrinker Pendant: Add {U} or {R}. Spelldrinker Pendant deals 2 damage to target player. => [i](Gems enter with a charge counter on them.)[/i]
+Whenever you cast your second spell each turn, put a charge counter on Spelldrinker Pendant.
+{T}, Remove a charge counter from Spelldrinker Pendant: Add {U} or {R}. Spelldrinker Pendant deals 2 damage to target player.
+
+Sylran, Many-Horned
+
+Resolute Deathmarcher
+
+Phantasmal Eagle
+
+Radiance Collector
+
+Pervasive Militocrat
+type: Creature — Elf Wizard => Creature — Elf Noble
+
+Army of Two
+
+Stalwart Scout
+
+Soul-Siphon Warlock
+
+Regiment Scout
+
+Glimmermage Adept
+rules_text: Flying
+Whenever you cast your first spell on each of your turns, add {U} or {R}. Spend this mana only to cast an instant, sorcery or Gem spell. => Flying
+Whenever you cast your first spell on each of your turns, add {U} or {R}. Spend this mana only to cast an instant, sorcery or artifact spell.
+
+Great Plains Guide
+
+Exploiter of Undergrowth
+
+Shirley
+
+Karan Kurem
+
+Arxikas
+
+Baldan Wazu
+pt: 2/2 => 3/2
+
+Ovno Zig
+type: Legendary Creature — Goblin Warrior => Legendary Creature — Goblin Soldier
+
+Crest of Radiance
+
+Crest of Magma
+
+Crest of Waves
+
+Crest of Ruby
+
+Crest of Ironbark
+
+Gemcraft Filigree
+rules_text: Remove a charge counter from Gemcraft Filigree: Gemcraft Filigree gains flying until end of turn. => [i](Gems enter with a charge counter on them.)[/i]
+Remove a charge counter from Gemcraft Filigree: Gemcraft Filigree gains flying until end of turn.
+
+Statue of Golden Victory
+
+Unstable Silumgite
+rules_text: {T}: Add {U} or {R}. Put a charge counter on Unstable Silumgite.
+{T}, Remove three charge counters from Unstable Silumgite, Sacrifice Unstable Silumgite: Unstable Silumgite deals 6 damage to target creature. => [i](Gems enter with a charge counter on them.)[/i]
+{T}: Add {U} or {R}. Put a charge counter on Unstable Silumgite.
+{T}, Remove three charge counters from Unstable Silumgite, Sacrifice Unstable Silumgite: Unstable Silumgite deals 6 damage to target creature.
+
+Brilliant Crest
+rules_text: {1}, {T}: Add one mana of any color.
+{T}, Remove a charge counter from Brilliant Crest: Add two mana of any color. => [i](Gems enter with a charge counter on them.)[/i]
+{1}, {T}: Add one mana of any color.
+{T}, Remove a charge counter from Brilliant Crest: Add two mana of any color.
+
+Explorer's Scope
+
+Yarkasing Landmark
+cost: {3} => {2}
+
+Opaelian Landmark
+cost: {3} => {2}
+
+Savacide Landmark
+cost: {3} => {2}
+
+Sharean Landmark
+cost: {3} => {2}
+
+Avendwell Landmark
+cost: {3} => {2}
+
+Blazing Enlightenment
+
+The Spark of Invention
+
+The Council Corrupted
+
+A Culture of War
+
+A Culture of Peace
+
+Alwyn Aevaris
+
+Trail of Dragons
+type: Legendary Land => Land
+
+The Kaleidoscope Hollow
+
+Savacide Council
+
+Ailen'Or, Ruined City
+
+Thov Da'Rul
+
+Woods of Ester
+
+Frosted Plain
+rules_text: [i]({T}: Add {W} or {U}.)[/i]
+Frosted Plain enters tapped.
+Mist {4}{WU} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i] => [i]({T}: Add {W} or {U}.)[/i]
+Frosted Plain enters tapped.
+Mist {3}{WU} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Cerulean Fogbank
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+Cerulean Fogbank enters tapped.
+Mist {4}{UB} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i] => [i]({T}: Add {U} or {B}.)[/i]
+Cerulean Fogbank enters tapped.
+Mist {3}{UB} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Ashy Badlands
+rules_text: [i]({T}: Add {B} or {R}.)[/i]
+Ashy Badlands enters tapped.
+Mist {4}{BR} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i] => [i]({T}: Add {B} or {R}.)[/i]
+Ashy Badlands enters tapped.
+Mist {3}{BR} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Foggy Peak
+rules_text: [i]({T}: Add {R} or {G}.)[/i]
+Foggy Peak enters tapped.
+Mist {4}{RG} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i] => [i]({T}: Add {R} or {G}.)[/i]
+Foggy Peak enters tapped.
+Mist {3}{RG} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Morningdew Vale
+rules_text: [i]({T}: Add {G} or {W}.)[/i]
+Morningdew Vale enters tapped.
+Mist {4}{GW} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i] => [i]({T}: Add {G} or {W}.)[/i]
+Morningdew Vale enters tapped.
+Mist {3}{GW} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Overcast Marsh
+rules_text: [i]({T}: Add {W} or {B}.)[/i]
+Overcast Marsh enters tapped.
+Mist {4}{WB} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i] => [i]({T}: Add {W} or {B}.)[/i]
+Overcast Marsh enters tapped.
+Mist {3}{WB} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Sandstorm Steppe
+rules_text: Mist {4}{RW} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+Sandstorm Steppe enters the battlefield tapped.
+{T}: Add {R} or {W}. => [i]({T}: Add {W} or {R}.)[/i]
+Sandstorm Steppe enters the battlefield tapped.
+Mist {3}{RW} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Limestone Steam Pool
+rules_text: [i]({T}: Add {U} or {R}.)[/i]
+Limestone Steam Pool enters tapped.
+Mist {4}{UR} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i] => [i]({T}: Add {U} or {R}.)[/i]
+Limestone Steam Pool enters tapped.
+Mist {3}{UR} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Misty Taiga
+rules_text: [i]({T}: Add {U} or {G}.)[/i]
+Misty Taiga enters tapped.
+Mist {4}{GU} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i] => [i]({T}: Add {U} or {G}.)[/i]
+Misty Taiga enters tapped.
+Mist {3}{GU} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Shaded Woods
+rules_text: [i]({T}: Add {B} or {G}.)[/i]
+Shaded Woods enters tapped.
+Mist {4}{BG} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i] => [i]({T}: Add {B} or {G}.)[/i]
+Shaded Woods enters tapped.
+Mist {3}{BG} [i](You may transform this card any time you could cast a sorcery for its mist cost.)[/i]
+
+Remote Barracks
+
+Murky Vista
+
+Copy_IRA
+
+Irandian Mists Allied Draft Archetypes
+
+Irandian Mists Enemy Draft Archetypes
+
+Treasure_IRA
+
+Elemental
+
+Zombie_IRA
+
+Soldier_IRA
+
+Wolf Spirit
+
+Reflective Mist
+
+Warrior_IRA
+
+Spider Illusion
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Wolf Spirit added.

@@ -195,7 +195,9 @@
 				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
 			</div>
 			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
-			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -204,8 +206,22 @@
 			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
 			document.getElementById("header-search").src = rootPath + "/img/search.png";
 			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
-			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
 			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
 		});
 
 		function goToSearch() {
@@ -224,204 +240,244 @@
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
 					<div class="container"><img loading="lazy" alt="sets\IRA-files\img\13.png" id="IRA_13" data-flag="@X" onclick="openSidebar('IRA_13',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\46.png" id="IRA_46" data-flag="@X" onclick="openSidebar('IRA_46',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\79.png" id="IRA_79" data-flag="@X" onclick="openSidebar('IRA_79',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\112.png" id="IRA_112" data-flag="@X" onclick="openSidebar('IRA_112',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\145.png" id="IRA_145" data-flag="@X" onclick="openSidebar('IRA_145',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\14.png" id="IRA_14" data-flag="@X" onclick="openSidebar('IRA_14',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\48.png" id="IRA_48" data-flag="@X" onclick="openSidebar('IRA_48',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\86.png" id="IRA_86" data-flag="@X" onclick="openSidebar('IRA_86',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\116.png" id="IRA_116" data-flag="@X" onclick="openSidebar('IRA_116',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\149.png" id="IRA_149" data-flag="@X" onclick="openSidebar('IRA_149',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\17.png" id="IRA_17" data-flag="@X" onclick="openSidebar('IRA_17',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\52.png" id="IRA_52" data-flag="@X" onclick="openSidebar('IRA_52',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\83.png" id="IRA_83" data-flag="@X" onclick="openSidebar('IRA_83',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\113.png" id="IRA_113" data-flag="@X" onclick="openSidebar('IRA_113',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\148.png" id="IRA_148" data-flag="@X" onclick="openSidebar('IRA_148',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\16.png" id="IRA_16" data-flag="@X" onclick="openSidebar('IRA_16',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\51.png" id="IRA_51" data-flag="@X" onclick="openSidebar('IRA_51',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\80.png" id="IRA_80" data-flag="@X" onclick="openSidebar('IRA_80',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\117.png" id="IRA_117" data-flag="@X" onclick="openSidebar('IRA_117',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\150.png" id="IRA_150" data-flag="@X" onclick="openSidebar('IRA_150',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\19.png" id="IRA_19" data-flag="@X" onclick="openSidebar('IRA_19',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\53.png" id="IRA_53" data-flag="@X" onclick="openSidebar('IRA_53',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\81.png" id="IRA_81" data-flag="@X" onclick="openSidebar('IRA_81',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\114.png" id="IRA_114" data-flag="@X" onclick="openSidebar('IRA_114',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\147.png" id="IRA_147" data-flag="@X" onclick="openSidebar('IRA_147',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\15.png" id="IRA_15" data-flag="@X" onclick="openSidebar('IRA_15',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\47.png" id="IRA_47" data-flag="@X" onclick="openSidebar('IRA_47',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\82.png" id="IRA_82" data-flag="@X" onclick="openSidebar('IRA_82',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\118.png" id="IRA_118" data-flag="@X" onclick="openSidebar('IRA_118',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\151.png" id="IRA_151" data-flag="@X" onclick="openSidebar('IRA_151',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\18.png" id="IRA_18" data-flag="@X" onclick="openSidebar('IRA_18',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\50.png" id="IRA_50" data-flag="@X" onclick="openSidebar('IRA_50',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\84.png" id="IRA_84" data-flag="@X" onclick="openSidebar('IRA_84',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\119.png" id="IRA_119" data-flag="@X" onclick="openSidebar('IRA_119',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\152.png" id="IRA_152" data-flag="@X" onclick="openSidebar('IRA_152',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\25.png" id="IRA_25" data-flag="@X" onclick="openSidebar('IRA_25',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\49.png" id="IRA_49" data-flag="@X" onclick="openSidebar('IRA_49',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\85.png" id="IRA_85" data-flag="@X" onclick="openSidebar('IRA_85',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\115.png" id="IRA_115" data-flag="@X" onclick="openSidebar('IRA_115',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\146.png" id="IRA_146" data-flag="@X" onclick="openSidebar('IRA_146',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\27.png" id="IRA_27" data-flag="@X" onclick="openSidebar('IRA_27',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\65.png" id="IRA_65" data-flag="@X" onclick="openSidebar('IRA_65',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\87.png" id="IRA_87" data-flag="@X" onclick="openSidebar('IRA_87',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\122.png" id="IRA_122" data-flag="@X" onclick="openSidebar('IRA_122',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\161.png" id="IRA_161" data-flag="@X" onclick="openSidebar('IRA_161',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\28.png" id="IRA_28" data-flag="@X" onclick="openSidebar('IRA_28',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\60.png" id="IRA_60" data-flag="@X" onclick="openSidebar('IRA_60',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\88.png" id="IRA_88" data-flag="@X" onclick="openSidebar('IRA_88',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\131.png" id="IRA_131" data-flag="@X" onclick="openSidebar('IRA_131',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\163.png" id="IRA_163" data-flag="@X" onclick="openSidebar('IRA_163',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\31.png" id="IRA_31" data-flag="@X" onclick="openSidebar('IRA_31',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\59.png" id="IRA_59" data-flag="@X" onclick="openSidebar('IRA_59',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\91.png" id="IRA_91" data-flag="@X" onclick="openSidebar('IRA_91',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\124.png" id="IRA_124" data-flag="@X" onclick="openSidebar('IRA_124',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\164.png" id="IRA_164" data-flag="@X" onclick="openSidebar('IRA_164',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\21.png" id="IRA_21" data-flag="@X" onclick="openSidebar('IRA_21',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\55.png" id="IRA_55" data-flag="@X" onclick="openSidebar('IRA_55',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\89.png" id="IRA_89" data-flag="@X" onclick="openSidebar('IRA_89',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\123.png" id="IRA_123" data-flag="@X" onclick="openSidebar('IRA_123',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\155.png" id="IRA_155" data-flag="@X" onclick="openSidebar('IRA_155',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\23.png" id="IRA_23" data-flag="@X" onclick="openSidebar('IRA_23',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\54.png" id="IRA_54" data-flag="@X" onclick="openSidebar('IRA_54',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\95.png" id="IRA_95" data-flag="@X" onclick="openSidebar('IRA_95',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\128.png" id="IRA_128" data-flag="@X" onclick="openSidebar('IRA_128',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\160.png" id="IRA_160" data-flag="@X" onclick="openSidebar('IRA_160',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\30.png" id="IRA_30" data-flag="@X" onclick="openSidebar('IRA_30',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\56.png" id="IRA_56" data-flag="@X" onclick="openSidebar('IRA_56',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\97.png" id="IRA_97" data-flag="@X" onclick="openSidebar('IRA_97',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\129.png" id="IRA_129" data-flag="@X" onclick="openSidebar('IRA_129',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\154.png" id="IRA_154" data-flag="@X" onclick="openSidebar('IRA_154',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\26.png" id="IRA_26" data-flag="@X" onclick="openSidebar('IRA_26',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\63.png" id="IRA_63" data-flag="@X" onclick="openSidebar('IRA_63',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\94.png" id="IRA_94" data-flag="@X" onclick="openSidebar('IRA_94',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\126.png" id="IRA_126" data-flag="@X" onclick="openSidebar('IRA_126',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\159.png" id="IRA_159" data-flag="@X" onclick="openSidebar('IRA_159',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\32.png" id="IRA_32" data-flag="@X" onclick="openSidebar('IRA_32',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\64.png" id="IRA_64" data-flag="@X" onclick="openSidebar('IRA_64',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\93.png" id="IRA_93" data-flag="@X" onclick="openSidebar('IRA_93',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\125.png" id="IRA_125" data-flag="@X" onclick="openSidebar('IRA_125',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\156.png" id="IRA_156" data-flag="@X" onclick="openSidebar('IRA_156',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\22.png" id="IRA_22" data-flag="@X" onclick="openSidebar('IRA_22',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\61.png" id="IRA_61" data-flag="@X" onclick="openSidebar('IRA_61',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\92.png" id="IRA_92" data-flag="@X" onclick="openSidebar('IRA_92',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\121.png" id="IRA_121" data-flag="@X" onclick="openSidebar('IRA_121',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\157.png" id="IRA_157" data-flag="@X" onclick="openSidebar('IRA_157',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\24.png" id="IRA_24" data-flag="@X" onclick="openSidebar('IRA_24',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\58.png" id="IRA_58" data-flag="@X" onclick="openSidebar('IRA_58',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\90.png" id="IRA_90" data-flag="@X" onclick="openSidebar('IRA_90',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\120.png" id="IRA_120" data-flag="@X" onclick="openSidebar('IRA_120',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\162.png" id="IRA_162" data-flag="@X" onclick="openSidebar('IRA_162',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\29.png" id="IRA_29" data-flag="@X" onclick="openSidebar('IRA_29',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\62.png" id="IRA_62" data-flag="@X" onclick="openSidebar('IRA_62',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\96.png" id="IRA_96" data-flag="@X" onclick="openSidebar('IRA_96',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\127.png" id="IRA_127" data-flag="@X" onclick="openSidebar('IRA_127',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\158.png" id="IRA_158" data-flag="@X" onclick="openSidebar('IRA_158',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\11.png" id="IRA_11" data-flag="@X" onclick="openSidebar('IRA_11',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\57.png" id="IRA_57" data-flag="@X" onclick="openSidebar('IRA_57',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\98.png" id="IRA_98" data-flag="@X" onclick="openSidebar('IRA_98',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\130.png" id="IRA_130" data-flag="@X" onclick="openSidebar('IRA_130',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\153.png" id="IRA_153" data-flag="@X" onclick="openSidebar('IRA_153',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\7.png" id="IRA_7" data-flag="@X" onclick="openSidebar('IRA_7',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\41.png" id="IRA_41" data-flag="@X" onclick="openSidebar('IRA_41',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\72.png" id="IRA_72" data-flag="@X" onclick="openSidebar('IRA_72',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\110.png" id="IRA_110" data-flag="@X" onclick="openSidebar('IRA_110',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\144.png" id="IRA_144" data-flag="@X" onclick="openSidebar('IRA_144',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\6.png" id="IRA_6" data-flag="@X" onclick="openSidebar('IRA_6',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\40.png" id="IRA_40" data-flag="@X" onclick="openSidebar('IRA_40',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\70.png" id="IRA_70" data-flag="@X" onclick="openSidebar('IRA_70',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\105.png" id="IRA_105" data-flag="@X" onclick="openSidebar('IRA_105',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\142.png" id="IRA_142" data-flag="@X" onclick="openSidebar('IRA_142',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\4.png" id="IRA_4" data-flag="@X" onclick="openSidebar('IRA_4',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\33.png" id="IRA_33" data-flag="@X" onclick="openSidebar('IRA_33',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\73.png" id="IRA_73" data-flag="@X" onclick="openSidebar('IRA_73',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\103.png" id="IRA_103" data-flag="@X" onclick="openSidebar('IRA_103',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\134.png" id="IRA_134" data-flag="@X" onclick="openSidebar('IRA_134',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\9.png" id="IRA_9" data-flag="@X" onclick="openSidebar('IRA_9',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\44.png" id="IRA_44" data-flag="@X" onclick="openSidebar('IRA_44',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\76.png" id="IRA_76" data-flag="@X" onclick="openSidebar('IRA_76',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\100.png" id="IRA_100" data-flag="@X" onclick="openSidebar('IRA_100',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\135.png" id="IRA_135" data-flag="@X" onclick="openSidebar('IRA_135',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\2.png" id="IRA_2" data-flag="@X" onclick="openSidebar('IRA_2',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\45.png" id="IRA_45" data-flag="@X" onclick="openSidebar('IRA_45',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\77.png" id="IRA_77" data-flag="@X" onclick="openSidebar('IRA_77',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\108.png" id="IRA_108" data-flag="@X" onclick="openSidebar('IRA_108',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\133.png" id="IRA_133" data-flag="@X" onclick="openSidebar('IRA_133',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\5.png" id="IRA_5" data-flag="@X" onclick="openSidebar('IRA_5',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\36.png" id="IRA_36" data-flag="@X" onclick="openSidebar('IRA_36',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\67.png" id="IRA_67" data-flag="@X" onclick="openSidebar('IRA_67',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\107.png" id="IRA_107" data-flag="@X" onclick="openSidebar('IRA_107',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\139.png" id="IRA_139" data-flag="@X" onclick="openSidebar('IRA_139',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\12.png" id="IRA_12" data-flag="@X" onclick="openSidebar('IRA_12',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\38.png" id="IRA_38" data-flag="@X" onclick="openSidebar('IRA_38',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\75.png" id="IRA_75" data-flag="@X" onclick="openSidebar('IRA_75',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\102.png" id="IRA_102" data-flag="@X" onclick="openSidebar('IRA_102',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\136.png" id="IRA_136" data-flag="@X" onclick="openSidebar('IRA_136',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\10.png" id="IRA_10" data-flag="@X" onclick="openSidebar('IRA_10',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\34.png" id="IRA_34" data-flag="@X" onclick="openSidebar('IRA_34',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\68.png" id="IRA_68" data-flag="@X" onclick="openSidebar('IRA_68',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\101.png" id="IRA_101" data-flag="@X" onclick="openSidebar('IRA_101',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\132.png" id="IRA_132" data-flag="@X" onclick="openSidebar('IRA_132',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\0.png" id="IRA_0" data-flag="@X" onclick="openSidebar('IRA_0',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\35.png" id="IRA_35" data-flag="@X" onclick="openSidebar('IRA_35',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\74.png" id="IRA_74" data-flag="@X" onclick="openSidebar('IRA_74',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\106.png" id="IRA_106" data-flag="@X" onclick="openSidebar('IRA_106',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\143.png" id="IRA_143" data-flag="@X" onclick="openSidebar('IRA_143',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\3.png" id="IRA_3" data-flag="@X" onclick="openSidebar('IRA_3',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\37.png" id="IRA_37" data-flag="@X" onclick="openSidebar('IRA_37',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\66.png" id="IRA_66" data-flag="@X" onclick="openSidebar('IRA_66',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\109.png" id="IRA_109" data-flag="@X" onclick="openSidebar('IRA_109',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\140.png" id="IRA_140" data-flag="@X" onclick="openSidebar('IRA_140',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\1.png" id="IRA_1" data-flag="@X" onclick="openSidebar('IRA_1',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\43.png" id="IRA_43" data-flag="@X" onclick="openSidebar('IRA_43',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\78.png" id="IRA_78" data-flag="@X" onclick="openSidebar('IRA_78',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\104.png" id="IRA_104" data-flag="@X" onclick="openSidebar('IRA_104',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\137.png" id="IRA_137" data-flag="@X" onclick="openSidebar('IRA_137',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\8.png" id="IRA_8" data-flag="@X" onclick="openSidebar('IRA_8',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\39.png" id="IRA_39" data-flag="@X" onclick="openSidebar('IRA_39',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\71.png" id="IRA_71" data-flag="@X" onclick="openSidebar('IRA_71',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\111.png" id="IRA_111" data-flag="@X" onclick="openSidebar('IRA_111',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\138.png" id="IRA_138" data-flag="@X" onclick="openSidebar('IRA_138',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\42.png" id="IRA_42" data-flag="@X" onclick="openSidebar('IRA_42',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\69.png" id="IRA_69" data-flag="@X" onclick="openSidebar('IRA_69',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\99.png" id="IRA_99" data-flag="@X" onclick="openSidebar('IRA_99',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\141.png" id="IRA_141" data-flag="@X" onclick="openSidebar('IRA_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\14.png" id="IRA_14" data-flag="@X" onclick="openSidebar('IRA_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\47.png" id="IRA_47" data-flag="@X" onclick="openSidebar('IRA_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\83.png" id="IRA_83" data-flag="@X" onclick="openSidebar('IRA_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\261.png" id="IRA_261" data-flag="@X" onclick="openSidebar('IRA_261',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\262.png" id="IRA_262" data-flag="@X" onclick="openSidebar('IRA_262',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\258.png" id="IRA_258" data-flag="@X" onclick="openSidebar('IRA_258',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\50.png" id="IRA_50" data-flag="@X" onclick="openSidebar('IRA_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\260.png" id="IRA_260" data-flag="@X" onclick="openSidebar('IRA_260',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\110.png" id="IRA_110" data-flag="@X" onclick="openSidebar('IRA_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\144.png" id="IRA_144" data-flag="@X" onclick="openSidebar('IRA_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\16.png" id="IRA_16" data-flag="@X" onclick="openSidebar('IRA_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\49.png" id="IRA_49" data-flag="@X" onclick="openSidebar('IRA_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\78.png" id="IRA_78" data-flag="@X" onclick="openSidebar('IRA_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\113.png" id="IRA_113" data-flag="@X" onclick="openSidebar('IRA_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\145.png" id="IRA_145" data-flag="@X" onclick="openSidebar('IRA_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\18.png" id="IRA_18" data-flag="@X" onclick="openSidebar('IRA_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\51.png" id="IRA_51" data-flag="@X" onclick="openSidebar('IRA_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\79.png" id="IRA_79" data-flag="@X" onclick="openSidebar('IRA_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\111.png" id="IRA_111" data-flag="@X" onclick="openSidebar('IRA_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\143.png" id="IRA_143" data-flag="@X" onclick="openSidebar('IRA_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\15.png" id="IRA_15" data-flag="@X" onclick="openSidebar('IRA_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\46.png" id="IRA_46" data-flag="@X" onclick="openSidebar('IRA_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\80.png" id="IRA_80" data-flag="@X" onclick="openSidebar('IRA_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\114.png" id="IRA_114" data-flag="@X" onclick="openSidebar('IRA_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\146.png" id="IRA_146" data-flag="@X" onclick="openSidebar('IRA_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\17.png" id="IRA_17" data-flag="@X" onclick="openSidebar('IRA_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\259.png" id="IRA_259" data-flag="@X" onclick="openSidebar('IRA_259',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\81.png" id="IRA_81" data-flag="@X" onclick="openSidebar('IRA_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\115.png" id="IRA_115" data-flag="@X" onclick="openSidebar('IRA_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\147.png" id="IRA_147" data-flag="@X" onclick="openSidebar('IRA_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\24.png" id="IRA_24" data-flag="@X" onclick="openSidebar('IRA_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\48.png" id="IRA_48" data-flag="@X" onclick="openSidebar('IRA_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\82.png" id="IRA_82" data-flag="@X" onclick="openSidebar('IRA_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\112.png" id="IRA_112" data-flag="@X" onclick="openSidebar('IRA_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\142.png" id="IRA_142" data-flag="@X" onclick="openSidebar('IRA_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\26.png" id="IRA_26" data-flag="@X" onclick="openSidebar('IRA_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\63.png" id="IRA_63" data-flag="@X" onclick="openSidebar('IRA_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\84.png" id="IRA_84" data-flag="@X" onclick="openSidebar('IRA_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\118.png" id="IRA_118" data-flag="@X" onclick="openSidebar('IRA_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\156.png" id="IRA_156" data-flag="@X" onclick="openSidebar('IRA_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\27.png" id="IRA_27" data-flag="@X" onclick="openSidebar('IRA_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\58.png" id="IRA_58" data-flag="@X" onclick="openSidebar('IRA_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\85.png" id="IRA_85" data-flag="@X" onclick="openSidebar('IRA_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\127.png" id="IRA_127" data-flag="@X" onclick="openSidebar('IRA_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\158.png" id="IRA_158" data-flag="@X" onclick="openSidebar('IRA_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\30.png" id="IRA_30" data-flag="@X" onclick="openSidebar('IRA_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\57.png" id="IRA_57" data-flag="@X" onclick="openSidebar('IRA_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\86.png" id="IRA_86" data-flag="@X" onclick="openSidebar('IRA_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\120.png" id="IRA_120" data-flag="@X" onclick="openSidebar('IRA_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\159.png" id="IRA_159" data-flag="@X" onclick="openSidebar('IRA_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\20.png" id="IRA_20" data-flag="@X" onclick="openSidebar('IRA_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\53.png" id="IRA_53" data-flag="@X" onclick="openSidebar('IRA_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\92.png" id="IRA_92" data-flag="@X" onclick="openSidebar('IRA_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\119.png" id="IRA_119" data-flag="@X" onclick="openSidebar('IRA_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\150.png" id="IRA_150" data-flag="@X" onclick="openSidebar('IRA_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\29.png" id="IRA_29" data-flag="@X" onclick="openSidebar('IRA_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\52.png" id="IRA_52" data-flag="@X" onclick="openSidebar('IRA_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\94.png" id="IRA_94" data-flag="@X" onclick="openSidebar('IRA_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\124.png" id="IRA_124" data-flag="@X" onclick="openSidebar('IRA_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\155.png" id="IRA_155" data-flag="@X" onclick="openSidebar('IRA_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\25.png" id="IRA_25" data-flag="@X" onclick="openSidebar('IRA_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\54.png" id="IRA_54" data-flag="@X" onclick="openSidebar('IRA_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\91.png" id="IRA_91" data-flag="@X" onclick="openSidebar('IRA_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\125.png" id="IRA_125" data-flag="@X" onclick="openSidebar('IRA_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\149.png" id="IRA_149" data-flag="@X" onclick="openSidebar('IRA_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\31.png" id="IRA_31" data-flag="@X" onclick="openSidebar('IRA_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\61.png" id="IRA_61" data-flag="@X" onclick="openSidebar('IRA_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\88.png" id="IRA_88" data-flag="@X" onclick="openSidebar('IRA_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\122.png" id="IRA_122" data-flag="@X" onclick="openSidebar('IRA_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\154.png" id="IRA_154" data-flag="@X" onclick="openSidebar('IRA_154',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\22.png" id="IRA_22" data-flag="@X" onclick="openSidebar('IRA_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\62.png" id="IRA_62" data-flag="@X" onclick="openSidebar('IRA_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\90.png" id="IRA_90" data-flag="@X" onclick="openSidebar('IRA_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\121.png" id="IRA_121" data-flag="@X" onclick="openSidebar('IRA_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\151.png" id="IRA_151" data-flag="@X" onclick="openSidebar('IRA_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\21.png" id="IRA_21" data-flag="@X" onclick="openSidebar('IRA_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\59.png" id="IRA_59" data-flag="@X" onclick="openSidebar('IRA_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\89.png" id="IRA_89" data-flag="@X" onclick="openSidebar('IRA_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\117.png" id="IRA_117" data-flag="@X" onclick="openSidebar('IRA_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\152.png" id="IRA_152" data-flag="@X" onclick="openSidebar('IRA_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\23.png" id="IRA_23" data-flag="@X" onclick="openSidebar('IRA_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\56.png" id="IRA_56" data-flag="@X" onclick="openSidebar('IRA_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\87.png" id="IRA_87" data-flag="@X" onclick="openSidebar('IRA_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\116.png" id="IRA_116" data-flag="@X" onclick="openSidebar('IRA_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\157.png" id="IRA_157" data-flag="@X" onclick="openSidebar('IRA_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\28.png" id="IRA_28" data-flag="@X" onclick="openSidebar('IRA_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\60.png" id="IRA_60" data-flag="@X" onclick="openSidebar('IRA_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\93.png" id="IRA_93" data-flag="@X" onclick="openSidebar('IRA_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\123.png" id="IRA_123" data-flag="@X" onclick="openSidebar('IRA_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\153.png" id="IRA_153" data-flag="@X" onclick="openSidebar('IRA_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\11.png" id="IRA_11" data-flag="@X" onclick="openSidebar('IRA_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\55.png" id="IRA_55" data-flag="@X" onclick="openSidebar('IRA_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\95.png" id="IRA_95" data-flag="@X" onclick="openSidebar('IRA_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\126.png" id="IRA_126" data-flag="@X" onclick="openSidebar('IRA_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\148.png" id="IRA_148" data-flag="@X" onclick="openSidebar('IRA_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\7.png" id="IRA_7" data-flag="@X" onclick="openSidebar('IRA_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\40.png" id="IRA_40" data-flag="@X" onclick="openSidebar('IRA_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\70.png" id="IRA_70" data-flag="@X" onclick="openSidebar('IRA_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\107.png" id="IRA_107" data-flag="@X" onclick="openSidebar('IRA_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\140.png" id="IRA_140" data-flag="@X" onclick="openSidebar('IRA_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\6.png" id="IRA_6" data-flag="@X" onclick="openSidebar('IRA_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\39.png" id="IRA_39" data-flag="@X" onclick="openSidebar('IRA_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\68.png" id="IRA_68" data-flag="@X" onclick="openSidebar('IRA_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\102.png" id="IRA_102" data-flag="@X" onclick="openSidebar('IRA_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\138.png" id="IRA_138" data-flag="@X" onclick="openSidebar('IRA_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\4.png" id="IRA_4" data-flag="@X" onclick="openSidebar('IRA_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\32.png" id="IRA_32" data-flag="@X" onclick="openSidebar('IRA_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\71.png" id="IRA_71" data-flag="@X" onclick="openSidebar('IRA_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\100.png" id="IRA_100" data-flag="@X" onclick="openSidebar('IRA_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\130.png" id="IRA_130" data-flag="@X" onclick="openSidebar('IRA_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\9.png" id="IRA_9" data-flag="@X" onclick="openSidebar('IRA_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\43.png" id="IRA_43" data-flag="@X" onclick="openSidebar('IRA_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\74.png" id="IRA_74" data-flag="@X" onclick="openSidebar('IRA_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\97.png" id="IRA_97" data-flag="@X" onclick="openSidebar('IRA_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\131.png" id="IRA_131" data-flag="@X" onclick="openSidebar('IRA_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\2.png" id="IRA_2" data-flag="@X" onclick="openSidebar('IRA_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\44.png" id="IRA_44" data-flag="@X" onclick="openSidebar('IRA_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\75.png" id="IRA_75" data-flag="@X" onclick="openSidebar('IRA_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\105.png" id="IRA_105" data-flag="@X" onclick="openSidebar('IRA_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\129.png" id="IRA_129" data-flag="@X" onclick="openSidebar('IRA_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\5.png" id="IRA_5" data-flag="@X" onclick="openSidebar('IRA_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\35.png" id="IRA_35" data-flag="@X" onclick="openSidebar('IRA_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\65.png" id="IRA_65" data-flag="@X" onclick="openSidebar('IRA_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\104.png" id="IRA_104" data-flag="@X" onclick="openSidebar('IRA_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\135.png" id="IRA_135" data-flag="@X" onclick="openSidebar('IRA_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\12.png" id="IRA_12" data-flag="@X" onclick="openSidebar('IRA_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\37.png" id="IRA_37" data-flag="@X" onclick="openSidebar('IRA_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\73.png" id="IRA_73" data-flag="@X" onclick="openSidebar('IRA_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\99.png" id="IRA_99" data-flag="@X" onclick="openSidebar('IRA_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\132.png" id="IRA_132" data-flag="@X" onclick="openSidebar('IRA_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\10.png" id="IRA_10" data-flag="@X" onclick="openSidebar('IRA_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\33.png" id="IRA_33" data-flag="@X" onclick="openSidebar('IRA_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\66.png" id="IRA_66" data-flag="@X" onclick="openSidebar('IRA_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\98.png" id="IRA_98" data-flag="@X" onclick="openSidebar('IRA_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\128.png" id="IRA_128" data-flag="@X" onclick="openSidebar('IRA_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\0.png" id="IRA_0" data-flag="@X" onclick="openSidebar('IRA_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\34.png" id="IRA_34" data-flag="@X" onclick="openSidebar('IRA_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\72.png" id="IRA_72" data-flag="@X" onclick="openSidebar('IRA_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\103.png" id="IRA_103" data-flag="@X" onclick="openSidebar('IRA_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\139.png" id="IRA_139" data-flag="@X" onclick="openSidebar('IRA_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\3.png" id="IRA_3" data-flag="@X" onclick="openSidebar('IRA_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\36.png" id="IRA_36" data-flag="@X" onclick="openSidebar('IRA_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\64.png" id="IRA_64" data-flag="@X" onclick="openSidebar('IRA_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\106.png" id="IRA_106" data-flag="@X" onclick="openSidebar('IRA_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\136.png" id="IRA_136" data-flag="@X" onclick="openSidebar('IRA_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\1.png" id="IRA_1" data-flag="@X" onclick="openSidebar('IRA_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\42.png" id="IRA_42" data-flag="@X" onclick="openSidebar('IRA_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\76.png" id="IRA_76" data-flag="@X" onclick="openSidebar('IRA_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\101.png" id="IRA_101" data-flag="@X" onclick="openSidebar('IRA_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\133.png" id="IRA_133" data-flag="@X" onclick="openSidebar('IRA_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\8.png" id="IRA_8" data-flag="@X" onclick="openSidebar('IRA_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\38.png" id="IRA_38" data-flag="@X" onclick="openSidebar('IRA_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\69.png" id="IRA_69" data-flag="@X" onclick="openSidebar('IRA_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\108.png" id="IRA_108" data-flag="@X" onclick="openSidebar('IRA_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\134.png" id="IRA_134" data-flag="@X" onclick="openSidebar('IRA_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\41.png" id="IRA_41" data-flag="@X" onclick="openSidebar('IRA_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\67.png" id="IRA_67" data-flag="@X" onclick="openSidebar('IRA_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\96.png" id="IRA_96" data-flag="@X" onclick="openSidebar('IRA_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\137.png" id="IRA_137" data-flag="@X" onclick="openSidebar('IRA_137',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\171.png" id="IRA_171" data-flag="@X" onclick="openSidebar('IRA_171',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\169.png" id="IRA_169" data-flag="@X" onclick="openSidebar('IRA_169',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\184.png" id="IRA_184" data-flag="@X" onclick="openSidebar('IRA_184',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\186.png" id="IRA_186" data-flag="@X" onclick="openSidebar('IRA_186',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\179.png" id="IRA_179" data-flag="@X" onclick="openSidebar('IRA_179',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\195.png" id="IRA_195" data-flag="@X" onclick="openSidebar('IRA_195',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\191.png" id="IRA_191" data-flag="@X" onclick="openSidebar('IRA_191',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\231.png" id="IRA_231" data-flag="@X" onclick="openSidebar('IRA_231',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\232.png" id="IRA_232" data-flag="@X" onclick="openSidebar('IRA_232',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\233.png" id="IRA_233" data-flag="@X" onclick="openSidebar('IRA_233',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\229.png" id="IRA_229" data-flag="@X" onclick="openSidebar('IRA_229',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\183.png" id="IRA_183" data-flag="@X" onclick="openSidebar('IRA_183',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\201.png" id="IRA_201" data-flag="@X" onclick="openSidebar('IRA_201',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\202.png" id="IRA_202" data-flag="@X" onclick="openSidebar('IRA_202',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\213.png" id="IRA_213" data-flag="@X" onclick="openSidebar('IRA_213',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\209.png" id="IRA_209" data-flag="@X" onclick="openSidebar('IRA_209',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\230.png" id="IRA_230" data-flag="@X" onclick="openSidebar('IRA_230',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\211.png" id="IRA_211" data-flag="@X" onclick="openSidebar('IRA_211',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\212.png" id="IRA_212" data-flag="@X" onclick="openSidebar('IRA_212',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\203.png" id="IRA_203" data-flag="@X" onclick="openSidebar('IRA_203',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\199.png" id="IRA_199" data-flag="@X" onclick="openSidebar('IRA_199',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\210.png" id="IRA_210" data-flag="@X" onclick="openSidebar('IRA_210',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\221.png" id="IRA_221" data-flag="@X" onclick="openSidebar('IRA_221',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\222.png" id="IRA_222" data-flag="@X" onclick="openSidebar('IRA_222',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\166.png" id="IRA_166" data-flag="@X" onclick="openSidebar('IRA_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\164.png" id="IRA_164" data-flag="@X" onclick="openSidebar('IRA_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\178.png" id="IRA_178" data-flag="@X" onclick="openSidebar('IRA_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\180.png" id="IRA_180" data-flag="@X" onclick="openSidebar('IRA_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\173.png" id="IRA_173" data-flag="@X" onclick="openSidebar('IRA_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\189.png" id="IRA_189" data-flag="@X" onclick="openSidebar('IRA_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\185.png" id="IRA_185" data-flag="@X" onclick="openSidebar('IRA_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\225.png" id="IRA_225" data-flag="@X" onclick="openSidebar('IRA_225',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\226.png" id="IRA_226" data-flag="@X" onclick="openSidebar('IRA_226',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\227.png" id="IRA_227" data-flag="@X" onclick="openSidebar('IRA_227',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\223.png" id="IRA_223" data-flag="@X" onclick="openSidebar('IRA_223',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\219.png" id="IRA_219" data-flag="@X" onclick="openSidebar('IRA_219',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\177.png" id="IRA_177" data-flag="@X" onclick="openSidebar('IRA_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\195.png" id="IRA_195" data-flag="@X" onclick="openSidebar('IRA_195',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\196.png" id="IRA_196" data-flag="@X" onclick="openSidebar('IRA_196',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\207.png" id="IRA_207" data-flag="@X" onclick="openSidebar('IRA_207',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\203.png" id="IRA_203" data-flag="@X" onclick="openSidebar('IRA_203',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\224.png" id="IRA_224" data-flag="@X" onclick="openSidebar('IRA_224',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\205.png" id="IRA_205" data-flag="@X" onclick="openSidebar('IRA_205',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\206.png" id="IRA_206" data-flag="@X" onclick="openSidebar('IRA_206',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\197.png" id="IRA_197" data-flag="@X" onclick="openSidebar('IRA_197',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\193.png" id="IRA_193" data-flag="@X" onclick="openSidebar('IRA_193',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\204.png" id="IRA_204" data-flag="@X" onclick="openSidebar('IRA_204',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\215.png" id="IRA_215" data-flag="@X" onclick="openSidebar('IRA_215',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\216.png" id="IRA_216" data-flag="@X" onclick="openSidebar('IRA_216',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\217.png" id="IRA_217" data-flag="@X" onclick="openSidebar('IRA_217',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\213.png" id="IRA_213" data-flag="@X" onclick="openSidebar('IRA_213',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\194.png" id="IRA_194" data-flag="@X" onclick="openSidebar('IRA_194',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\214.png" id="IRA_214" data-flag="@X" onclick="openSidebar('IRA_214',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\165.png" id="IRA_165" data-flag="@X" onclick="openSidebar('IRA_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\168.png" id="IRA_168" data-flag="@X" onclick="openSidebar('IRA_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\160.png" id="IRA_160" data-flag="@X" onclick="openSidebar('IRA_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\162.png" id="IRA_162" data-flag="@X" onclick="openSidebar('IRA_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\192.png" id="IRA_192" data-flag="@X" onclick="openSidebar('IRA_192',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\181.png" id="IRA_181" data-flag="@X" onclick="openSidebar('IRA_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\161.png" id="IRA_161" data-flag="@X" onclick="openSidebar('IRA_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\182.png" id="IRA_182" data-flag="@X" onclick="openSidebar('IRA_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\184.png" id="IRA_184" data-flag="@X" onclick="openSidebar('IRA_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\175.png" id="IRA_175" data-flag="@X" onclick="openSidebar('IRA_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\19.png" id="IRA_19" data-flag="@X" onclick="openSidebar('IRA_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\174.png" id="IRA_174" data-flag="@X" onclick="openSidebar('IRA_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\202.png" id="IRA_202" data-flag="@X" onclick="openSidebar('IRA_202',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\186.png" id="IRA_186" data-flag="@X" onclick="openSidebar('IRA_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\201.png" id="IRA_201" data-flag="@X" onclick="openSidebar('IRA_201',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\198.png" id="IRA_198" data-flag="@X" onclick="openSidebar('IRA_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\183.png" id="IRA_183" data-flag="@X" onclick="openSidebar('IRA_183',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\212.png" id="IRA_212" data-flag="@X" onclick="openSidebar('IRA_212',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\199.png" id="IRA_199" data-flag="@X" onclick="openSidebar('IRA_199',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\211.png" id="IRA_211" data-flag="@X" onclick="openSidebar('IRA_211',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\208.png" id="IRA_208" data-flag="@X" onclick="openSidebar('IRA_208',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\200.png" id="IRA_200" data-flag="@X" onclick="openSidebar('IRA_200',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\222.png" id="IRA_222" data-flag="@X" onclick="openSidebar('IRA_222',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\209.png" id="IRA_209" data-flag="@X" onclick="openSidebar('IRA_209',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\221.png" id="IRA_221" data-flag="@X" onclick="openSidebar('IRA_221',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\218.png" id="IRA_218" data-flag="@X" onclick="openSidebar('IRA_218',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\210.png" id="IRA_210" data-flag="@X" onclick="openSidebar('IRA_210',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\219.png" id="IRA_219" data-flag="@X" onclick="openSidebar('IRA_219',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\220.png" id="IRA_220" data-flag="@X" onclick="openSidebar('IRA_220',false)"></div>
@@ -433,83 +489,43 @@
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\170.png" id="IRA_170" data-flag="@X" onclick="openSidebar('IRA_170',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\173.png" id="IRA_173" data-flag="@X" onclick="openSidebar('IRA_173',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\165.png" id="IRA_165" data-flag="@X" onclick="openSidebar('IRA_165',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\167.png" id="IRA_167" data-flag="@X" onclick="openSidebar('IRA_167',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\198.png" id="IRA_198" data-flag="@X" onclick="openSidebar('IRA_198',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\187.png" id="IRA_187" data-flag="@X" onclick="openSidebar('IRA_187',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\166.png" id="IRA_166" data-flag="@X" onclick="openSidebar('IRA_166',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\188.png" id="IRA_188" data-flag="@X" onclick="openSidebar('IRA_188',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\190.png" id="IRA_190" data-flag="@X" onclick="openSidebar('IRA_190',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\181.png" id="IRA_181" data-flag="@X" onclick="openSidebar('IRA_181',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\20.png" id="IRA_20" data-flag="@X" onclick="openSidebar('IRA_20',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\180.png" id="IRA_180" data-flag="@X" onclick="openSidebar('IRA_180',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\208.png" id="IRA_208" data-flag="@X" onclick="openSidebar('IRA_208',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\192.png" id="IRA_192" data-flag="@X" onclick="openSidebar('IRA_192',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\207.png" id="IRA_207" data-flag="@X" onclick="openSidebar('IRA_207',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\204.png" id="IRA_204" data-flag="@X" onclick="openSidebar('IRA_204',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\189.png" id="IRA_189" data-flag="@X" onclick="openSidebar('IRA_189',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\218.png" id="IRA_218" data-flag="@X" onclick="openSidebar('IRA_218',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\205.png" id="IRA_205" data-flag="@X" onclick="openSidebar('IRA_205',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\217.png" id="IRA_217" data-flag="@X" onclick="openSidebar('IRA_217',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\214.png" id="IRA_214" data-flag="@X" onclick="openSidebar('IRA_214',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\206.png" id="IRA_206" data-flag="@X" onclick="openSidebar('IRA_206',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\228.png" id="IRA_228" data-flag="@X" onclick="openSidebar('IRA_228',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\215.png" id="IRA_215" data-flag="@X" onclick="openSidebar('IRA_215',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\227.png" id="IRA_227" data-flag="@X" onclick="openSidebar('IRA_227',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\224.png" id="IRA_224" data-flag="@X" onclick="openSidebar('IRA_224',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\216.png" id="IRA_216" data-flag="@X" onclick="openSidebar('IRA_216',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\225.png" id="IRA_225" data-flag="@X" onclick="openSidebar('IRA_225',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\226.png" id="IRA_226" data-flag="@X" onclick="openSidebar('IRA_226',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\263.png" id="IRA_263" data-flag="@X" onclick="openSidebar('IRA_263',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\169.png" id="IRA_169" data-flag="@X" onclick="openSidebar('IRA_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\171.png" id="IRA_171" data-flag="@X" onclick="openSidebar('IRA_171',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\172.png" id="IRA_172" data-flag="@X" onclick="openSidebar('IRA_172',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\175.png" id="IRA_175" data-flag="@X" onclick="openSidebar('IRA_175',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\174.png" id="IRA_174" data-flag="@X" onclick="openSidebar('IRA_174',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\177.png" id="IRA_177" data-flag="@X" onclick="openSidebar('IRA_177',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\178.png" id="IRA_178" data-flag="@X" onclick="openSidebar('IRA_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\170.png" id="IRA_170" data-flag="@X" onclick="openSidebar('IRA_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\190.png" id="IRA_190" data-flag="@X" onclick="openSidebar('IRA_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\188.png" id="IRA_188" data-flag="@X" onclick="openSidebar('IRA_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\179.png" id="IRA_179" data-flag="@X" onclick="openSidebar('IRA_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\232.png" id="IRA_232" data-flag="@X" onclick="openSidebar('IRA_232',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\187.png" id="IRA_187" data-flag="@X" onclick="openSidebar('IRA_187',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\228.png" id="IRA_228" data-flag="@X" onclick="openSidebar('IRA_228',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\231.png" id="IRA_231" data-flag="@X" onclick="openSidebar('IRA_231',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\229.png" id="IRA_229" data-flag="@X" onclick="openSidebar('IRA_229',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\230.png" id="IRA_230" data-flag="@X" onclick="openSidebar('IRA_230',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\163.png" id="IRA_163" data-flag="@X" onclick="openSidebar('IRA_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\176.png" id="IRA_176" data-flag="@X" onclick="openSidebar('IRA_176',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\196.png" id="IRA_196" data-flag="@X" onclick="openSidebar('IRA_196',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\194.png" id="IRA_194" data-flag="@X" onclick="openSidebar('IRA_194',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\185.png" id="IRA_185" data-flag="@X" onclick="openSidebar('IRA_185',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\238.png" id="IRA_238" data-flag="@X" onclick="openSidebar('IRA_238',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\193.png" id="IRA_193" data-flag="@X" onclick="openSidebar('IRA_193',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\234.png" id="IRA_234" data-flag="@X" onclick="openSidebar('IRA_234',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\237.png" id="IRA_237" data-flag="@X" onclick="openSidebar('IRA_237',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\235.png" id="IRA_235" data-flag="@X" onclick="openSidebar('IRA_235',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\236.png" id="IRA_236" data-flag="@X" onclick="openSidebar('IRA_236',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\168.png" id="IRA_168" data-flag="@X" onclick="openSidebar('IRA_168',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\182.png" id="IRA_182" data-flag="@X" onclick="openSidebar('IRA_182',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\197.png" id="IRA_197" data-flag="@X" onclick="openSidebar('IRA_197',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\191.png" id="IRA_191" data-flag="@X" onclick="openSidebar('IRA_191',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
@@ -518,54 +534,54 @@
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\248.png" id="IRA_248" data-flag="@X" onclick="openSidebar('IRA_248',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\245.png" id="IRA_245" data-flag="@X" onclick="openSidebar('IRA_245',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\246.png" id="IRA_246" data-flag="@X" onclick="openSidebar('IRA_246',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\247.png" id="IRA_247" data-flag="@X" onclick="openSidebar('IRA_247',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\244.png" id="IRA_244" data-flag="@X" onclick="openSidebar('IRA_244',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\242.png" id="IRA_242" data-flag="@X" onclick="openSidebar('IRA_242',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\243.png" id="IRA_243" data-flag="@X" onclick="openSidebar('IRA_243',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\239.png" id="IRA_239" data-flag="@X" onclick="openSidebar('IRA_239',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\240.png" id="IRA_240" data-flag="@X" onclick="openSidebar('IRA_240',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\241.png" id="IRA_241" data-flag="@X" onclick="openSidebar('IRA_241',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\238.png" id="IRA_238" data-flag="@X" onclick="openSidebar('IRA_238',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\236.png" id="IRA_236" data-flag="@X" onclick="openSidebar('IRA_236',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\237.png" id="IRA_237" data-flag="@X" onclick="openSidebar('IRA_237',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\233.png" id="IRA_233" data-flag="@X" onclick="openSidebar('IRA_233',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\234.png" id="IRA_234" data-flag="@X" onclick="openSidebar('IRA_234',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\235.png" id="IRA_235" data-flag="@X" onclick="openSidebar('IRA_235',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div id="land" class="anchor"></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\250_back.png" alt="sets\IRA-files\img\250_front.png" id="IRA_250" data-flag="@XD" onclick="openSidebar('IRA_250',false)"><button class="flip-btn" onclick="imgFlip('IRA_250')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\251_back.png" alt="sets\IRA-files\img\251_front.png" id="IRA_251" data-flag="@XD" onclick="openSidebar('IRA_251',false)"><button class="flip-btn" onclick="imgFlip('IRA_251')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\252_back.png" alt="sets\IRA-files\img\252_front.png" id="IRA_252" data-flag="@XD" onclick="openSidebar('IRA_252',false)"><button class="flip-btn" onclick="imgFlip('IRA_252')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\253_back.png" alt="sets\IRA-files\img\253_front.png" id="IRA_253" data-flag="@XD" onclick="openSidebar('IRA_253',false)"><button class="flip-btn" onclick="imgFlip('IRA_253')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\254_back.png" alt="sets\IRA-files\img\254_front.png" id="IRA_254" data-flag="@XD" onclick="openSidebar('IRA_254',false)"><button class="flip-btn" onclick="imgFlip('IRA_254')"></button></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\255_back.png" alt="sets\IRA-files\img\255_front.png" id="IRA_255" data-flag="@XD" onclick="openSidebar('IRA_255',false)"><button class="flip-btn" onclick="imgFlip('IRA_255')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\256_back.png" alt="sets\IRA-files\img\256_front.png" id="IRA_256" data-flag="@XD" onclick="openSidebar('IRA_256',false)"><button class="flip-btn" onclick="imgFlip('IRA_256')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\257_back.png" alt="sets\IRA-files\img\257_front.png" id="IRA_257" data-flag="@XD" onclick="openSidebar('IRA_257',false)"><button class="flip-btn" onclick="imgFlip('IRA_257')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\258_back.png" alt="sets\IRA-files\img\258_front.png" id="IRA_258" data-flag="@XD" onclick="openSidebar('IRA_258',false)"><button class="flip-btn" onclick="imgFlip('IRA_258')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\259_back.png" alt="sets\IRA-files\img\259_front.png" id="IRA_259" data-flag="@XD" onclick="openSidebar('IRA_259',false)"><button class="flip-btn" onclick="imgFlip('IRA_259')"></button></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\260_back.png" alt="sets\IRA-files\img\260_front.png" id="IRA_260" data-flag="@XD" onclick="openSidebar('IRA_260',false)"><button class="flip-btn" onclick="imgFlip('IRA_260')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\262_back.png" alt="sets\IRA-files\img\262_front.png" id="IRA_262" data-flag="@XD" onclick="openSidebar('IRA_262',false)"><button class="flip-btn" onclick="imgFlip('IRA_262')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\264_back.png" alt="sets\IRA-files\img\264_front.png" id="IRA_264" data-flag="@XD" onclick="openSidebar('IRA_264',false)"><button class="flip-btn" onclick="imgFlip('IRA_264')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\261_back.png" alt="sets\IRA-files\img\261_front.png" id="IRA_261" data-flag="@XD" onclick="openSidebar('IRA_261',false)"><button class="flip-btn" onclick="imgFlip('IRA_261')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\263_back.png" alt="sets\IRA-files\img\263_front.png" id="IRA_263" data-flag="@XD" onclick="openSidebar('IRA_263',false)"><button class="flip-btn" onclick="imgFlip('IRA_263')"></button></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\249_back.png" alt="sets\IRA-files\img\249_front.png" id="IRA_249" data-flag="@XD" onclick="openSidebar('IRA_249',false)"><button class="flip-btn" onclick="imgFlip('IRA_249')"></button></div>
-				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\265_back.png" alt="sets\IRA-files\img\265_front.png" id="IRA_265" data-flag="@XD" onclick="openSidebar('IRA_265',false)"><button class="flip-btn" onclick="imgFlip('IRA_265')"></button></div>
 				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\266_back.png" alt="sets\IRA-files\img\266_front.png" id="IRA_266" data-flag="@XD" onclick="openSidebar('IRA_266',false)"><button class="flip-btn" onclick="imgFlip('IRA_266')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\268_back.png" alt="sets\IRA-files\img\268_front.png" id="IRA_268" data-flag="@XD" onclick="openSidebar('IRA_268',false)"><button class="flip-btn" onclick="imgFlip('IRA_268')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\270_back.png" alt="sets\IRA-files\img\270_front.png" id="IRA_270" data-flag="@XD" onclick="openSidebar('IRA_270',false)"><button class="flip-btn" onclick="imgFlip('IRA_270')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\272_back.png" alt="sets\IRA-files\img\272_front.png" id="IRA_272" data-flag="@XD" onclick="openSidebar('IRA_272',false)"><button class="flip-btn" onclick="imgFlip('IRA_272')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\274_back.png" alt="sets\IRA-files\img\274_front.png" id="IRA_274" data-flag="@XD" onclick="openSidebar('IRA_274',false)"><button class="flip-btn" onclick="imgFlip('IRA_274')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\276_back.png" alt="sets\IRA-files\img\276_front.png" id="IRA_276" data-flag="@XD" onclick="openSidebar('IRA_276',false)"><button class="flip-btn" onclick="imgFlip('IRA_276')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\278_back.png" alt="sets\IRA-files\img\278_front.png" id="IRA_278" data-flag="@XD" onclick="openSidebar('IRA_278',false)"><button class="flip-btn" onclick="imgFlip('IRA_278')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\280_back.png" alt="sets\IRA-files\img\280_front.png" id="IRA_280" data-flag="@XD" onclick="openSidebar('IRA_280',false)"><button class="flip-btn" onclick="imgFlip('IRA_280')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\282_back.png" alt="sets\IRA-files\img\282_front.png" id="IRA_282" data-flag="@XD" onclick="openSidebar('IRA_282',false)"><button class="flip-btn" onclick="imgFlip('IRA_282')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\284_back.png" alt="sets\IRA-files\img\284_front.png" id="IRA_284" data-flag="@XD" onclick="openSidebar('IRA_284',false)"><button class="flip-btn" onclick="imgFlip('IRA_284')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\286_back.png" alt="sets\IRA-files\img\286_front.png" id="IRA_286" data-flag="@XD" onclick="openSidebar('IRA_286',false)"><button class="flip-btn" onclick="imgFlip('IRA_286')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\290_back.png" alt="sets\IRA-files\img\290_front.png" id="IRA_290" data-flag="@XD" onclick="openSidebar('IRA_290',false)"><button class="flip-btn" onclick="imgFlip('IRA_290')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\294_back.png" alt="sets\IRA-files\img\294_front.png" id="IRA_294" data-flag="@XD" onclick="openSidebar('IRA_294',false)"><button class="flip-btn" onclick="imgFlip('IRA_294')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\288_back.png" alt="sets\IRA-files\img\288_front.png" id="IRA_288" data-flag="@XD" onclick="openSidebar('IRA_288',false)"><button class="flip-btn" onclick="imgFlip('IRA_288')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\292_back.png" alt="sets\IRA-files\img\292_front.png" id="IRA_292" data-flag="@XD" onclick="openSidebar('IRA_292',false)"><button class="flip-btn" onclick="imgFlip('IRA_292')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\264_back.png" alt="sets\IRA-files\img\264_front.png" id="IRA_264" data-flag="@XD" onclick="openSidebar('IRA_264',false)"><button class="flip-btn" onclick="imgFlip('IRA_264')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\296_back.png" alt="sets\IRA-files\img\296_front.png" id="IRA_296" data-flag="@XD" onclick="openSidebar('IRA_296',false)"><button class="flip-btn" onclick="imgFlip('IRA_296')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\IRA-files\img\298_back.png" alt="sets\IRA-files\img\298_front.png" id="IRA_298" data-flag="@XD" onclick="openSidebar('IRA_298',false)"><button class="flip-btn" onclick="imgFlip('IRA_298')"></button></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
@@ -573,37 +589,37 @@
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\267.png" id="IRA_267" data-flag="@X" onclick="openSidebar('IRA_267',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\268.png" id="IRA_268" data-flag="@X" onclick="openSidebar('IRA_268',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\269.png" id="IRA_269" data-flag="@X" onclick="openSidebar('IRA_269',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\270.png" id="IRA_270" data-flag="@X" onclick="openSidebar('IRA_270',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\271.png" id="IRA_271" data-flag="@X" onclick="openSidebar('IRA_271',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\272.png" id="IRA_272" data-flag="@X" onclick="openSidebar('IRA_272',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\273.png" id="IRA_273" data-flag="@X" onclick="openSidebar('IRA_273',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\274.png" id="IRA_274" data-flag="@X" onclick="openSidebar('IRA_274',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\275.png" id="IRA_275" data-flag="@X" onclick="openSidebar('IRA_275',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\276.png" id="IRA_276" data-flag="@X" onclick="openSidebar('IRA_276',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\277.png" id="IRA_277" data-flag="@X" onclick="openSidebar('IRA_277',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\278.png" id="IRA_278" data-flag="@X" onclick="openSidebar('IRA_278',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\279.png" id="IRA_279" data-flag="@X" onclick="openSidebar('IRA_279',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\280.png" id="IRA_280" data-flag="@X" onclick="openSidebar('IRA_280',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\281.png" id="IRA_281" data-flag="@X" onclick="openSidebar('IRA_281',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\243.png" id="IRA_243" data-flag="@X" onclick="openSidebar('IRA_243',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\244.png" id="IRA_244" data-flag="@X" onclick="openSidebar('IRA_244',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\245.png" id="IRA_245" data-flag="@X" onclick="openSidebar('IRA_245',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\246.png" id="IRA_246" data-flag="@X" onclick="openSidebar('IRA_246',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\247.png" id="IRA_247" data-flag="@X" onclick="openSidebar('IRA_247',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\248.png" id="IRA_248" data-flag="@X" onclick="openSidebar('IRA_248',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\249.png" id="IRA_249" data-flag="@X" onclick="openSidebar('IRA_249',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\250.png" id="IRA_250" data-flag="@X" onclick="openSidebar('IRA_250',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\251.png" id="IRA_251" data-flag="@X" onclick="openSidebar('IRA_251',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\252.png" id="IRA_252" data-flag="@X" onclick="openSidebar('IRA_252',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\253.png" id="IRA_253" data-flag="@X" onclick="openSidebar('IRA_253',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\254.png" id="IRA_254" data-flag="@X" onclick="openSidebar('IRA_254',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\255.png" id="IRA_255" data-flag="@X" onclick="openSidebar('IRA_255',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\256.png" id="IRA_256" data-flag="@X" onclick="openSidebar('IRA_256',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\257.png" id="IRA_257" data-flag="@X" onclick="openSidebar('IRA_257',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="IRA_er" data-flag="@E" onclick="openSidebar('IRA_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\282.png" id="IRA_282" data-flag="@X" onclick="openSidebar('IRA_282',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\283.png" id="IRA_283" data-flag="@X" onclick="openSidebar('IRA_283',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\284.png" id="IRA_284" data-flag="@X" onclick="openSidebar('IRA_284',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\285.png" id="IRA_285" data-flag="@X" onclick="openSidebar('IRA_285',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\290.png" id="IRA_290" data-flag="@X" onclick="openSidebar('IRA_290',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\286.png" id="IRA_286" data-flag="@X" onclick="openSidebar('IRA_286',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\291.png" id="IRA_291" data-flag="@X" onclick="openSidebar('IRA_291',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\292.png" id="IRA_292" data-flag="@X" onclick="openSidebar('IRA_292',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\287.png" id="IRA_287" data-flag="@X" onclick="openSidebar('IRA_287',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\288.png" id="IRA_288" data-flag="@X" onclick="openSidebar('IRA_288',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\289.png" id="IRA_289" data-flag="@X" onclick="openSidebar('IRA_289',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\300.png" id="IRA_300" data-flag="@X" onclick="openSidebar('IRA_300',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\301.png" id="IRA_301" data-flag="@X" onclick="openSidebar('IRA_301',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\302.png" id="IRA_302" data-flag="@X" onclick="openSidebar('IRA_302',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\303.png" id="IRA_303" data-flag="@X" onclick="openSidebar('IRA_303',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\308.png" id="IRA_308" data-flag="@X" onclick="openSidebar('IRA_308',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\304.png" id="IRA_304" data-flag="@X" onclick="openSidebar('IRA_304',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\309.png" id="IRA_309" data-flag="@X" onclick="openSidebar('IRA_309',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\310.png" id="IRA_310" data-flag="@X" onclick="openSidebar('IRA_310',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\305.png" id="IRA_305" data-flag="@X" onclick="openSidebar('IRA_305',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\306.png" id="IRA_306" data-flag="@X" onclick="openSidebar('IRA_306',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\IRA-files\img\307.png" id="IRA_307" data-flag="@X" onclick="openSidebar('IRA_307',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\e.png" id="IRA_e" data-flag="@E" onclick="openSidebar('IRA_e',false)"></div>
@@ -649,7 +665,7 @@
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {
-							all_tags.add(match[1]);
+							all_tags.add(match[1].toLowerCase());
 						}
 					}
 				});

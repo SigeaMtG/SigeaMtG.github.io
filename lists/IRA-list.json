@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "46"
+        "position": "45"
     },
     {
         "card_name": "Jaws of the Depths",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "79"
+        "position": "77"
     },
     {
         "card_name": "Sir Mari, Bloodcrazed",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "112"
+        "position": "109"
     },
     {
         "card_name": "Sharean Craterhoof",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "145"
+        "position": "141"
     },
     {
         "card_name": "Beastback Assailant",
@@ -53,7 +53,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "48"
+        "position": "47"
     },
     {
         "card_name": "Alakaslam, the Grey Dawn",
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "86"
+        "position": "83"
     },
     {
         "card_name": "A Culture of War",
@@ -69,7 +69,7 @@
         "shape": "saga",
         "set": "IRA",
         "rotated": false,
-        "position": "116"
+        "position": "261"
     },
     {
         "card_name": "A Culture of Peace",
@@ -77,7 +77,7 @@
         "shape": "saga",
         "set": "IRA",
         "rotated": false,
-        "position": "149"
+        "position": "262"
     },
     {
         "card_name": "Blazing Enlightenment",
@@ -85,7 +85,7 @@
         "shape": "saga",
         "set": "IRA",
         "rotated": false,
-        "position": "17"
+        "position": "258"
     },
     {
         "card_name": "Chalice of the Cult",
@@ -93,15 +93,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "52"
+        "position": "50"
     },
     {
         "card_name": "The Council Corrupted",
-        "number": 72,
+        "number": 71,
         "shape": "saga",
         "set": "IRA",
         "rotated": false,
-        "position": "83"
+        "position": "260"
     },
     {
         "card_name": "Hurler of Armaments",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "113"
+        "position": "110"
     },
     {
         "card_name": "Imologir, Ambitious",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "148"
+        "position": "144"
     },
     {
         "card_name": "Crystophylax, Ethereal",
@@ -133,15 +133,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "51"
+        "position": "49"
     },
     {
         "card_name": "Depths' Lure",
-        "number": 74,
+        "number": 73,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "80"
+        "position": "78"
     },
     {
         "card_name": "Inspired Blazeblade",
@@ -149,7 +149,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "117"
+        "position": "113"
     },
     {
         "card_name": "Mist Awakened",
@@ -157,7 +157,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "150"
+        "position": "145"
     },
     {
         "card_name": "Dyvnas' Favored",
@@ -165,7 +165,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "19"
+        "position": "18"
     },
     {
         "card_name": "Nirvana",
@@ -173,15 +173,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "53"
+        "position": "51"
     },
     {
         "card_name": "Embittered Captain",
-        "number": 78,
+        "number": 77,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "81"
+        "position": "79"
     },
     {
         "card_name": "Oqtari Improviser",
@@ -189,7 +189,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "114"
+        "position": "111"
     },
     {
         "card_name": "Mistcowl Druid",
@@ -197,7 +197,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "147"
+        "position": "143"
     },
     {
         "card_name": "Mistcowl Awakener",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "47"
+        "position": "46"
     },
     {
         "card_name": "Iazoketh, Dire",
@@ -221,7 +221,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "82"
+        "position": "80"
     },
     {
         "card_name": "Paindrinker Amulet",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "118"
+        "position": "114"
     },
     {
         "card_name": "Sharean Consolidator",
@@ -237,15 +237,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "151"
+        "position": "146"
     },
     {
         "card_name": "Submerged Paragon",
-        "number": 24,
+        "number": 23,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "18"
+        "position": "17"
     },
     {
         "card_name": "The Spark of Invention",
@@ -253,7 +253,7 @@
         "shape": "saga",
         "set": "IRA",
         "rotated": false,
-        "position": "50"
+        "position": "259"
     },
     {
         "card_name": "Nightly Mapping",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "84"
+        "position": "81"
     },
     {
         "card_name": "Rigor Mortis",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "119"
+        "position": "115"
     },
     {
         "card_name": "Windbreaker",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "152"
+        "position": "147"
     },
     {
         "card_name": "Allwatch Angel",
@@ -285,7 +285,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "25"
+        "position": "24"
     },
     {
         "card_name": "Xirruphin, Fleeting",
@@ -293,7 +293,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "49"
+        "position": "48"
     },
     {
         "card_name": "Soulcage",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "85"
+        "position": "82"
     },
     {
         "card_name": "Rylireor, Voiceless",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "115"
+        "position": "112"
     },
     {
         "card_name": "Yark, Shiftshield Reaver",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "146"
+        "position": "142"
     },
     {
         "card_name": "Allwatch Guardian",
@@ -325,7 +325,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "27"
+        "position": "26"
     },
     {
         "card_name": "Arcane Battery",
@@ -333,7 +333,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "65"
+        "position": "63"
     },
     {
         "card_name": "Battlefield Soulstealer",
@@ -341,7 +341,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "87"
+        "position": "84"
     },
     {
         "card_name": "Armament Liege",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "122"
+        "position": "118"
     },
     {
         "card_name": "Armament Supplier",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "161"
+        "position": "156"
     },
     {
         "card_name": "Curious Treasure Diver",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "28"
+        "position": "27"
     },
     {
         "card_name": "Brilliant Mechfly",
@@ -373,7 +373,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "60"
+        "position": "58"
     },
     {
         "card_name": "Cleric of the Five",
@@ -381,7 +381,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "88"
+        "position": "85"
     },
     {
         "card_name": "Army-Fueled Firestorm",
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "131"
+        "position": "127"
     },
     {
         "card_name": "Clash with the Army",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "163"
+        "position": "158"
     },
     {
         "card_name": "Destination Unveiled",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "31"
+        "position": "30"
     },
     {
         "card_name": "Dismembered Leviathan",
@@ -413,15 +413,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "59"
+        "position": "57"
     },
     {
-        "card_name": "Clockwork Lich",
-        "number": 71,
+        "card_name": "Deepwater Lamia",
+        "number": 72,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "91"
+        "position": "86"
     },
     {
         "card_name": "Blazeblade Adept",
@@ -429,7 +429,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "124"
+        "position": "120"
     },
     {
         "card_name": "Eerie Propagation",
@@ -437,7 +437,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "164"
+        "position": "159"
     },
     {
         "card_name": "Ethereal Burdener",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "21"
+        "position": "20"
     },
     {
         "card_name": "Glimmertide Inventor",
@@ -453,15 +453,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "55"
+        "position": "53"
     },
     {
-        "card_name": "Deepwater Lamia",
-        "number": 73,
+        "card_name": "Disease in the Ranks",
+        "number": 74,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "89"
+        "position": "92"
     },
     {
         "card_name": "Bloodlusting Champion",
@@ -469,7 +469,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "123"
+        "position": "119"
     },
     {
         "card_name": "Ester Woods Protector",
@@ -477,15 +477,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "155"
+        "position": "150"
     },
     {
-        "card_name": "Quickdraw Thug",
+        "card_name": "Resurfacing the Meek",
         "number": 19,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "23"
+        "position": "29"
     },
     {
         "card_name": "Observant Gemslinger",
@@ -493,15 +493,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "54"
+        "position": "52"
     },
     {
-        "card_name": "Disease in the Ranks",
-        "number": 75,
+        "card_name": "Emerge from Death",
+        "number": 78,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "95"
+        "position": "94"
     },
     {
         "card_name": "Brave the Mountaintops",
@@ -509,7 +509,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "128"
+        "position": "124"
     },
     {
         "card_name": "Mentoring Shiftsword",
@@ -517,15 +517,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "160"
+        "position": "155"
     },
     {
-        "card_name": "Resurfacing the Meek",
+        "card_name": "Scout of the Great Plains",
         "number": 20,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "30"
+        "position": "25"
     },
     {
         "card_name": "Sea-Mad Pirate",
@@ -533,15 +533,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "56"
+        "position": "54"
     },
     {
-        "card_name": "Emerge from Death",
+        "card_name": "Forbidden Siphoner",
         "number": 79,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "97"
+        "position": "91"
     },
     {
         "card_name": "Dragonfire Ritual",
@@ -549,7 +549,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "129"
+        "position": "125"
     },
     {
         "card_name": "Mist Tamer",
@@ -557,15 +557,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "154"
+        "position": "149"
     },
     {
-        "card_name": "Scout of the Great Plains",
-        "number": 21,
+        "card_name": "Struggle to Subdue",
+        "number": 22,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "26"
+        "position": "31"
     },
     {
         "card_name": "Shadow Atlas",
@@ -573,15 +573,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "63"
+        "position": "61"
     },
     {
-        "card_name": "Forbidden Siphoner",
+        "card_name": "Gemcrafted Lich",
         "number": 80,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "94"
+        "position": "88"
     },
     {
         "card_name": "Dragonpoise Apprentice",
@@ -589,7 +589,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "126"
+        "position": "122"
     },
     {
         "card_name": "Mistborn Rejuvenator",
@@ -597,15 +597,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "159"
+        "position": "154"
     },
     {
-        "card_name": "Struggle to Subdue",
-        "number": 23,
+        "card_name": "Swiftslash Thug",
+        "number": 24,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "32"
+        "position": "22"
     },
     {
         "card_name": "Spellcharge Gem",
@@ -613,7 +613,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "64"
+        "position": "62"
     },
     {
         "card_name": "Harvester of Sin",
@@ -621,7 +621,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "93"
+        "position": "90"
     },
     {
         "card_name": "Flameharvest Warmage",
@@ -629,7 +629,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "125"
+        "position": "121"
     },
     {
         "card_name": "Oqtari Champion",
@@ -637,7 +637,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "156"
+        "position": "151"
     },
     {
         "card_name": "Valeyan Lieutenant",
@@ -645,7 +645,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "22"
+        "position": "21"
     },
     {
         "card_name": "Twice Drowned",
@@ -653,7 +653,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "61"
+        "position": "59"
     },
     {
         "card_name": "Miser of the Drowned",
@@ -661,7 +661,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "92"
+        "position": "89"
     },
     {
         "card_name": "Prowess Harvester",
@@ -669,7 +669,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "121"
+        "position": "117"
     },
     {
         "card_name": "Oqtari Pathlighter",
@@ -677,7 +677,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "157"
+        "position": "152"
     },
     {
         "card_name": "Valeyan Martial Guard",
@@ -685,7 +685,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "24"
+        "position": "23"
     },
     {
         "card_name": "Undead Tentacle",
@@ -693,7 +693,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "58"
+        "position": "56"
     },
     {
         "card_name": "Ravenous Drowned",
@@ -701,7 +701,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "90"
+        "position": "87"
     },
     {
         "card_name": "Sanguine Looter",
@@ -709,7 +709,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "120"
+        "position": "116"
     },
     {
         "card_name": "Pragmatic Weaponry",
@@ -717,7 +717,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "162"
+        "position": "157"
     },
     {
         "card_name": "Whiteclam Etherealist",
@@ -725,7 +725,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "29"
+        "position": "28"
     },
     {
         "card_name": "Unveil the Mists",
@@ -733,7 +733,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "62"
+        "position": "60"
     },
     {
         "card_name": "Revolutionary Murder",
@@ -741,7 +741,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "96"
+        "position": "93"
     },
     {
         "card_name": "Split Focus",
@@ -749,7 +749,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "127"
+        "position": "123"
     },
     {
         "card_name": "Survival Adept",
@@ -757,7 +757,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "158"
+        "position": "153"
     },
     {
         "card_name": "Clear Up",
@@ -773,7 +773,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "57"
+        "position": "55"
     },
     {
         "card_name": "Siphoning Onyx",
@@ -781,7 +781,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "98"
+        "position": "95"
     },
     {
         "card_name": "Study the Martial Code",
@@ -789,7 +789,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "130"
+        "position": "126"
     },
     {
         "card_name": "Woodland Recruiter",
@@ -797,7 +797,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "153"
+        "position": "148"
     },
     {
         "card_name": "Desiccated Mothling",
@@ -813,7 +813,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "41"
+        "position": "40"
     },
     {
         "card_name": "Brier Slopes Brute",
@@ -821,7 +821,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "72"
+        "position": "70"
     },
     {
         "card_name": "Accelerant Tactics",
@@ -829,7 +829,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "110"
+        "position": "107"
     },
     {
         "card_name": "Commune with the Mist",
@@ -837,7 +837,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "144"
+        "position": "140"
     },
     {
         "card_name": "Drowned Harpy",
@@ -853,7 +853,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "40"
+        "position": "39"
     },
     {
         "card_name": "Chargesap Martialist",
@@ -861,7 +861,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "70"
+        "position": "68"
     },
     {
         "card_name": "Ancient Maskbearer",
@@ -869,7 +869,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "105"
+        "position": "102"
     },
     {
         "card_name": "Ironbark Invigoration",
@@ -877,7 +877,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "142"
+        "position": "138"
     },
     {
         "card_name": "Fogbound Elemental",
@@ -893,15 +893,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "33"
+        "position": "32"
     },
     {
         "card_name": "Drag to the Depths",
-        "number": 76,
+        "number": 75,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "73"
+        "position": "71"
     },
     {
         "card_name": "Deceptive Chargemage",
@@ -909,7 +909,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "103"
+        "position": "100"
     },
     {
         "card_name": "Merchant of the Great Plains",
@@ -917,7 +917,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "134"
+        "position": "130"
     },
     {
         "card_name": "Lost in the Fog",
@@ -933,15 +933,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "44"
+        "position": "43"
     },
     {
         "card_name": "Dragged Under",
-        "number": 77,
+        "number": 76,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "76"
+        "position": "74"
     },
     {
         "card_name": "Gemfire Golem",
@@ -949,7 +949,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "100"
+        "position": "97"
     },
     {
         "card_name": "Mist-Possessed Grizzly",
@@ -957,7 +957,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "135"
+        "position": "131"
     },
     {
         "card_name": "Merchant of the Underpass",
@@ -973,7 +973,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "45"
+        "position": "44"
     },
     {
         "card_name": "Gempoint Beam",
@@ -981,7 +981,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "77"
+        "position": "75"
     },
     {
         "card_name": "Glimpse the Red Horizon",
@@ -989,7 +989,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "108"
+        "position": "105"
     },
     {
         "card_name": "Misthide Explorer",
@@ -997,7 +997,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "133"
+        "position": "129"
     },
     {
         "card_name": "Mistborn Unicorn",
@@ -1013,7 +1013,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "36"
+        "position": "35"
     },
     {
         "card_name": "Generator Ritualist",
@@ -1021,7 +1021,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "67"
+        "position": "65"
     },
     {
         "card_name": "Improvised Armament",
@@ -1029,7 +1029,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "107"
+        "position": "104"
     },
     {
         "card_name": "Miststalker Behemoth",
@@ -1037,7 +1037,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "139"
+        "position": "135"
     },
     {
         "card_name": "Quickdraw",
@@ -1048,12 +1048,12 @@
         "position": "12"
     },
     {
-        "card_name": "Fogscry Sphinx",
+        "card_name": "Fogseer Sphinx",
         "number": 44,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "38"
+        "position": "37"
     },
     {
         "card_name": "Harvest Intelligence",
@@ -1061,7 +1061,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "75"
+        "position": "73"
     },
     {
         "card_name": "Leader of the Phalanx",
@@ -1069,7 +1069,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "102"
+        "position": "99"
     },
     {
         "card_name": "Oqtari Enforcer",
@@ -1077,11 +1077,11 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "136"
+        "position": "132"
     },
     {
         "card_name": "Shatter the Spoils",
-        "number": 22,
+        "number": 21,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1093,7 +1093,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "34"
+        "position": "33"
     },
     {
         "card_name": "Merchant of the Isles",
@@ -1101,7 +1101,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "68"
+        "position": "66"
     },
     {
         "card_name": "Merchant of the Capital",
@@ -1109,7 +1109,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "101"
+        "position": "98"
     },
     {
         "card_name": "Oqtari Shiftsword",
@@ -1117,7 +1117,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "132"
+        "position": "128"
     },
     {
         "card_name": "Unfortunate Shipmender",
@@ -1133,7 +1133,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "35"
+        "position": "34"
     },
     {
         "card_name": "Necromantic Charge",
@@ -1141,7 +1141,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "74"
+        "position": "72"
     },
     {
         "card_name": "Prism Beam",
@@ -1149,7 +1149,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "106"
+        "position": "103"
     },
     {
         "card_name": "Prod the Mist",
@@ -1157,7 +1157,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "143"
+        "position": "139"
     },
     {
         "card_name": "Valeyan Battleraptor",
@@ -1173,7 +1173,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "37"
+        "position": "36"
     },
     {
         "card_name": "Returned Ranksman",
@@ -1181,7 +1181,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "66"
+        "position": "64"
     },
     {
         "card_name": "Scorch and Scour",
@@ -1189,7 +1189,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "109"
+        "position": "106"
     },
     {
         "card_name": "Rage Pheromone",
@@ -1197,7 +1197,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "140"
+        "position": "136"
     },
     {
         "card_name": "Valeyan Gateguard",
@@ -1213,7 +1213,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "43"
+        "position": "42"
     },
     {
         "card_name": "Rotting Current",
@@ -1221,7 +1221,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "78"
+        "position": "76"
     },
     {
         "card_name": "Sharean Banneret",
@@ -1229,7 +1229,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "104"
+        "position": "101"
     },
     {
         "card_name": "Rallying Commander",
@@ -1237,10 +1237,10 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "137"
+        "position": "133"
     },
     {
-        "card_name": "Yarkasing Champion",
+        "card_name": "Yazi Champion",
         "number": 32,
         "shape": "normal",
         "set": "IRA",
@@ -1253,7 +1253,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "39"
+        "position": "38"
     },
     {
         "card_name": "Savacide Unearther",
@@ -1261,7 +1261,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "71"
+        "position": "69"
     },
     {
         "card_name": "Shrouded Fireblast",
@@ -1269,7 +1269,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "111"
+        "position": "108"
     },
     {
         "card_name": "Tallest of the Ranks",
@@ -1277,7 +1277,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "138"
+        "position": "134"
     },
     {
         "card_name": "e"
@@ -1288,7 +1288,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "42"
+        "position": "41"
     },
     {
         "card_name": "Vampiric Eagle",
@@ -1296,7 +1296,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "69"
+        "position": "67"
     },
     {
         "card_name": "Valeyan Shiftshield",
@@ -1304,7 +1304,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "99"
+        "position": "96"
     },
     {
         "card_name": "Underwater Scavenging",
@@ -1312,7 +1312,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "141"
+        "position": "137"
     },
     {
         "card_name": "er"
@@ -1329,11 +1329,11 @@
     "a->gold",
     {
         "card_name": "Dragonspotting",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "171"
+        "position": "166"
     },
     {
         "card_name": "Aor'Il, Scourge of Esterlis",
@@ -1341,7 +1341,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "169"
+        "position": "164"
     },
     {
         "card_name": "Sharean Bloodletter",
@@ -1349,7 +1349,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "184"
+        "position": "178"
     },
     {
         "card_name": "Tactical Phalanx",
@@ -1357,7 +1357,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "186"
+        "position": "180"
     },
     {
         "card_name": "Shiftsword Innovator",
@@ -1365,23 +1365,23 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "179"
+        "position": "173"
     },
     {
         "card_name": "Drying Basins",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "195"
+        "position": "189"
     },
     {
         "card_name": "Gemcharge Capture",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "191"
+        "position": "185"
     },
     {
         "card_name": "Arxikas",
@@ -1389,7 +1389,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "231"
+        "position": "225"
     },
     {
         "card_name": "Baldan Wazu",
@@ -1397,7 +1397,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "232"
+        "position": "226"
     },
     {
         "card_name": "Ovno Zig",
@@ -1405,7 +1405,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "233"
+        "position": "227"
     },
     {
         "card_name": "Shirley",
@@ -1413,15 +1413,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "229"
+        "position": "223"
     },
     {
         "card_name": "Ghastly Drake",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "183"
+        "position": "177"
     },
     {
         "card_name": "Avenger Bloodknight",
@@ -1429,7 +1429,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "201"
+        "position": "195"
     },
     {
         "card_name": "Valiant Recruiter",
@@ -1437,15 +1437,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "202"
+        "position": "196"
     },
     {
         "card_name": "Jungleborn Mentor",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "213"
+        "position": "207"
     },
     {
         "card_name": "Chrome Drake",
@@ -1453,7 +1453,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "209"
+        "position": "203"
     },
     {
         "card_name": "Karan Kurem",
@@ -1461,15 +1461,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "230"
+        "position": "224"
     },
     {
         "card_name": "Jungle Mission Specialist",
-        "number": 188,
+        "number": 189,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "211"
+        "position": "205"
     },
     {
         "card_name": "Wrathful Champion",
@@ -1477,15 +1477,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "212"
+        "position": "206"
     },
     {
         "card_name": "Jungleborn Scout",
-        "number": 190,
+        "number": 191,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "203"
+        "position": "197"
     },
     {
         "card_name": "Stuff the Unworthy",
@@ -1493,7 +1493,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "199"
+        "position": "193"
     },
     {
         "card_name": "Orb of Pained Knowledge",
@@ -1501,7 +1501,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "210"
+        "position": "204"
     },
     {
         "card_name": "Pervasive Militocrat",
@@ -1509,7 +1509,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "221"
+        "position": "215"
     },
     {
         "card_name": "Army of Two",
@@ -1517,7 +1517,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "222"
+        "position": "216"
     },
     {
         "card_name": "Stalwart Scout",
@@ -1525,7 +1525,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "223"
+        "position": "217"
     },
     {
         "card_name": "Phantasmal Eagle",
@@ -1533,7 +1533,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "219"
+        "position": "213"
     },
     {
         "card_name": "Supercharge Ritualist",
@@ -1541,7 +1541,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "200"
+        "position": "194"
     },
     {
         "card_name": "e"
@@ -1558,6 +1558,271 @@
     {
         "card_name": "Radiance Collector",
         "number": 235,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "214"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Desiccant Annihilation",
+        "number": 174,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "The Fireblood Crystal",
+        "number": 180,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "Defensive Phalanx",
+        "number": 173,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "160"
+    },
+    {
+        "card_name": "Inspiring Seneschal",
+        "number": 188,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "Creeping Mists",
+        "number": 172,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "192"
+    },
+    {
+        "card_name": "Kingsfall",
+        "number": 192,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "Quantz, Gem Inventor",
+        "number": 200,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "Lifesap Auditor",
+        "number": 194,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "Incendiary Colonne",
+        "number": 187,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "Mistwarp",
+        "number": 195,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "Virtue and Sin",
+        "number": 216,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Captain Xanlos",
+        "number": 170,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "Guide to War's End",
+        "number": 186,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "202"
+    },
+    {
+        "card_name": "Venerated Colonel",
+        "number": 214,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "186"
+    },
+    {
+        "card_name": "Beacon Over the Oceans",
+        "number": 169,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "201"
+    },
+    {
+        "card_name": "Treasure Sifter",
+        "number": 212,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "198"
+    },
+    {
+        "card_name": "Gemcrackle Battery",
+        "number": 182,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "183"
+    },
+    {
+        "card_name": "Resolute Deathmarcher",
+        "number": 202,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "212"
+    },
+    {
+        "card_name": "Oqtari Marauder",
+        "number": 197,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "199"
+    },
+    {
+        "card_name": "Sylran, Many-Horned",
+        "number": 210,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "211"
+    },
+    {
+        "card_name": "Warfallen Angel",
+        "number": 217,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "208"
+    },
+    {
+        "card_name": "Gemflinging",
+        "number": 183,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "200"
+    },
+    {
+        "card_name": "Exploiter of Undergrowth",
+        "number": 228,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "222"
+    },
+    {
+        "card_name": "Regiment Pathmaker",
+        "number": 201,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "209"
+    },
+    {
+        "card_name": "Great Plains Guide",
+        "number": 230,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "221"
+    },
+    {
+        "card_name": "Soul-Siphon Warlock",
+        "number": 238,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "218"
+    },
+    {
+        "card_name": "Spelldrinker Pendant",
+        "number": 205,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "210"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Regiment Scout",
+        "number": 236,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Glimmermage Adept",
+        "number": 229,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1588,277 +1853,12 @@
         "card_name": "er"
     },
     {
-        "card_name": "Desiccant Annihilation",
-        "number": 173,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "170"
-    },
-    {
-        "card_name": "The Fireblood Crystal",
-        "number": 179,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "173"
-    },
-    {
-        "card_name": "Defensive Phalanx",
-        "number": 172,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "165"
-    },
-    {
-        "card_name": "Inspiring Seneschal",
-        "number": 187,
+        "card_name": "Djinni of Past and Future",
+        "number": 175,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
         "position": "167"
-    },
-    {
-        "card_name": "Mistcreep",
-        "number": 194,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "198"
-    },
-    {
-        "card_name": "Kingsfall",
-        "number": 191,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "187"
-    },
-    {
-        "card_name": "Quantz, Gem Inventor",
-        "number": 200,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "166"
-    },
-    {
-        "card_name": "Lifesap Auditor",
-        "number": 193,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "188"
-    },
-    {
-        "card_name": "Incendiary Colonne",
-        "number": 186,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "190"
-    },
-    {
-        "card_name": "Mistwarp",
-        "number": 195,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "181"
-    },
-    {
-        "card_name": "Virtue and Sin",
-        "number": 216,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "20"
-    },
-    {
-        "card_name": "Captain Xanlos",
-        "number": 170,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "180"
-    },
-    {
-        "card_name": "Guide to War's End",
-        "number": 185,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "208"
-    },
-    {
-        "card_name": "Venerated Colonel",
-        "number": 214,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "192"
-    },
-    {
-        "card_name": "Beacon Over the Oceans",
-        "number": 169,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "207"
-    },
-    {
-        "card_name": "Treasure Sifter",
-        "number": 212,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "204"
-    },
-    {
-        "card_name": "Gemcrackle Battery",
-        "number": 181,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "189"
-    },
-    {
-        "card_name": "Resolute Deathmarcher",
-        "number": 202,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "218"
-    },
-    {
-        "card_name": "Oqtari Marauder",
-        "number": 197,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "205"
-    },
-    {
-        "card_name": "Sylran, Many-Horned",
-        "number": 210,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "217"
-    },
-    {
-        "card_name": "Warfallen Angel",
-        "number": 217,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "214"
-    },
-    {
-        "card_name": "Gemflinging",
-        "number": 182,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "206"
-    },
-    {
-        "card_name": "Exploiter of Undergrowth",
-        "number": 228,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "228"
-    },
-    {
-        "card_name": "Regiment Pathmaker",
-        "number": 201,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "215"
-    },
-    {
-        "card_name": "Great Plains Guide",
-        "number": 230,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "227"
-    },
-    {
-        "card_name": "Soul-Siphon Warlock",
-        "number": 238,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "224"
-    },
-    {
-        "card_name": "Spelldrinker Pendant",
-        "number": 205,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "216"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Regiment Scout",
-        "number": 236,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "225"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Glimmermage Adept",
-        "number": 229,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "226"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Djinni of Past and Future",
-        "number": 174,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "172"
     },
     {
         "card_name": "Alwyn Aevaris",
@@ -1866,15 +1866,15 @@
         "shape": "planeswalker",
         "set": "IRA",
         "rotated": false,
-        "position": "175"
+        "position": "263"
     },
     {
         "card_name": "Emperor Enorim II",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "174"
+        "position": "169"
     },
     {
         "card_name": "Prime Valeyan Ordun",
@@ -1882,7 +1882,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "177"
+        "position": "171"
     },
     {
         "card_name": "Archdruid Olion",
@@ -1890,15 +1890,15 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "178"
+        "position": "172"
     },
     {
         "card_name": "The Grand Admiral",
-        "number": 184,
+        "number": 185,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "176"
+        "position": "170"
     },
     {
         "card_name": "Module 4L-13-N",
@@ -1906,7 +1906,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "196"
+        "position": "190"
     },
     {
         "card_name": "Vigrus, Phoenix Prime",
@@ -1914,7 +1914,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "194"
+        "position": "188"
     },
     {
         "card_name": "Yarkasing Elite",
@@ -1922,7 +1922,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "185"
+        "position": "179"
     },
     {
         "card_name": "Crest of Ironbark",
@@ -1930,7 +1930,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "238"
+        "position": "232"
     },
     {
         "card_name": "Sphinx of Borrowed Time",
@@ -1938,7 +1938,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "193"
+        "position": "187"
     },
     {
         "card_name": "Crest of Radiance",
@@ -1946,7 +1946,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "234"
+        "position": "228"
     },
     {
         "card_name": "Crest of Ruby",
@@ -1954,7 +1954,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "237"
+        "position": "231"
     },
     {
         "card_name": "Crest of Magma",
@@ -1962,7 +1962,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "235"
+        "position": "229"
     },
     {
         "card_name": "e"
@@ -1973,7 +1973,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "236"
+        "position": "230"
     },
     {
         "card_name": "e"
@@ -2016,11 +2016,11 @@
     },
     {
         "card_name": "Everett, Emperor No More",
-        "number": 178,
+        "number": 179,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "168"
+        "position": "163"
     },
     {
         "card_name": "er"
@@ -2039,11 +2039,11 @@
     },
     {
         "card_name": "Knight of the Mists",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "182"
+        "position": "176"
     },
     {
         "card_name": "Stirrings in the Mist",
@@ -2051,7 +2051,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "197"
+        "position": "191"
     },
     {
         "card_name": "e"
@@ -2081,7 +2081,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "248"
+        "position": "242"
     },
     {
         "card_name": "Opaelian Landmark",
@@ -2089,7 +2089,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "245"
+        "position": "239"
     },
     {
         "card_name": "Savacide Landmark",
@@ -2097,7 +2097,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "246"
+        "position": "240"
     },
     {
         "card_name": "Sharean Landmark",
@@ -2105,7 +2105,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "247"
+        "position": "241"
     },
     {
         "card_name": "Yarkasing Landmark",
@@ -2113,7 +2113,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "244"
+        "position": "238"
     },
     {
         "card_name": "Brilliant Crest",
@@ -2121,7 +2121,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "242"
+        "position": "236"
     },
     {
         "card_name": "Explorer's Scope",
@@ -2129,7 +2129,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "243"
+        "position": "237"
     },
     {
         "card_name": "Gemcraft Filigree",
@@ -2137,7 +2137,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "239"
+        "position": "233"
     },
     {
         "card_name": "Statue of Golden Victory",
@@ -2145,7 +2145,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "240"
+        "position": "234"
     },
     {
         "card_name": "Unstable Silumgite",
@@ -2153,7 +2153,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "241"
+        "position": "235"
     },
     {
         "card_name": "er"
@@ -2174,7 +2174,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "250"
+        "position": "266"
     },
     {
         "card_name": "Savacide Council",
@@ -2182,7 +2182,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "251"
+        "position": "268"
     },
     {
         "card_name": "Ailen'Or, Ruined City",
@@ -2190,7 +2190,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "252"
+        "position": "270"
     },
     {
         "card_name": "Thov Da'Rul",
@@ -2198,7 +2198,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "253"
+        "position": "272"
     },
     {
         "card_name": "Woods of Ester",
@@ -2206,7 +2206,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "254"
+        "position": "274"
     },
     {
         "card_name": "er"
@@ -2229,7 +2229,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "255"
+        "position": "276"
     },
     {
         "card_name": "Cerulean Fogbank",
@@ -2237,7 +2237,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "256"
+        "position": "278"
     },
     {
         "card_name": "Ashy Badlands",
@@ -2245,7 +2245,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "257"
+        "position": "280"
     },
     {
         "card_name": "Foggy Peak",
@@ -2253,7 +2253,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "258"
+        "position": "282"
     },
     {
         "card_name": "Morningdew Vale",
@@ -2261,7 +2261,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "259"
+        "position": "284"
     },
     {
         "card_name": "er"
@@ -2284,7 +2284,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "260"
+        "position": "286"
     },
     {
         "card_name": "Limestone Steam Pool",
@@ -2292,7 +2292,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "262"
+        "position": "290"
     },
     {
         "card_name": "Shaded Woods",
@@ -2300,7 +2300,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "264"
+        "position": "294"
     },
     {
         "card_name": "Sandstorm Steppe",
@@ -2308,7 +2308,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "261"
+        "position": "288"
     },
     {
         "card_name": "Misty Taiga",
@@ -2316,7 +2316,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "263"
+        "position": "292"
     },
     {
         "card_name": "er"
@@ -2339,7 +2339,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "249"
+        "position": "264"
     },
     {
         "card_name": "Remote Barracks",
@@ -2347,7 +2347,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "265"
+        "position": "296"
     },
     {
         "card_name": "Murky Vista",
@@ -2355,7 +2355,7 @@
         "shape": "transform double faced",
         "set": "IRA",
         "rotated": false,
-        "position": "266"
+        "position": "298"
     },
     {
         "card_name": "e"
@@ -2384,7 +2384,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "267"
+        "position": "243"
     },
     {
         "card_name": "Plains_IRA_2",
@@ -2392,7 +2392,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "268"
+        "position": "244"
     },
     {
         "card_name": "Plains_IRA_3",
@@ -2400,7 +2400,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "269"
+        "position": "245"
     },
     {
         "card_name": "Island_IRA_1",
@@ -2408,7 +2408,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "270"
+        "position": "246"
     },
     {
         "card_name": "Island_IRA_2",
@@ -2416,7 +2416,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "271"
+        "position": "247"
     },
     {
         "card_name": "Island_IRA_3",
@@ -2424,7 +2424,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "272"
+        "position": "248"
     },
     {
         "card_name": "Swamp_IRA_1",
@@ -2432,7 +2432,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "273"
+        "position": "249"
     },
     {
         "card_name": "Swamp_IRA_2",
@@ -2440,7 +2440,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "274"
+        "position": "250"
     },
     {
         "card_name": "Swamp_IRA_3",
@@ -2448,7 +2448,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "275"
+        "position": "251"
     },
     {
         "card_name": "Mountain_IRA_1",
@@ -2456,7 +2456,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "276"
+        "position": "252"
     },
     {
         "card_name": "Mountain_IRA_2",
@@ -2464,7 +2464,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "277"
+        "position": "253"
     },
     {
         "card_name": "Mountain_IRA_3",
@@ -2472,7 +2472,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "278"
+        "position": "254"
     },
     {
         "card_name": "Forest_IRA_1",
@@ -2480,7 +2480,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "279"
+        "position": "255"
     },
     {
         "card_name": "Forest_IRA_2",
@@ -2488,7 +2488,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "280"
+        "position": "256"
     },
     {
         "card_name": "Forest_IRA_3",
@@ -2496,7 +2496,7 @@
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "281"
+        "position": "257"
     },
     {
         "card_name": "er"
@@ -2517,7 +2517,7 @@
         "shape": "token",
         "set": "IRA",
         "rotated": false,
-        "position": "282"
+        "position": "300"
     },
     {
         "card_name": "Irandian Mists Allied Draft Archetypes",
@@ -2525,7 +2525,7 @@
         "shape": "token",
         "set": "IRA",
         "rotated": false,
-        "position": "283"
+        "position": "301"
     },
     {
         "card_name": "Irandian Mists Enemy Draft Archetypes",
@@ -2533,7 +2533,7 @@
         "shape": "token",
         "set": "IRA",
         "rotated": false,
-        "position": "284"
+        "position": "302"
     },
     {
         "card_name": "Treasure_IRA",
@@ -2541,7 +2541,7 @@
         "shape": "token",
         "set": "IRA",
         "rotated": false,
-        "position": "285"
+        "position": "303"
     },
     {
         "card_name": "Reflective Mist",
@@ -2549,7 +2549,7 @@
         "shape": "token",
         "set": "IRA",
         "rotated": false,
-        "position": "290"
+        "position": "308"
     },
     {
         "card_name": "Elemental",
@@ -2557,7 +2557,7 @@
         "shape": "token",
         "set": "IRA",
         "rotated": false,
-        "position": "286"
+        "position": "304"
     },
     {
         "card_name": "Warrior_IRA",
@@ -2565,7 +2565,7 @@
         "shape": "token",
         "set": "IRA",
         "rotated": false,
-        "position": "291"
+        "position": "309"
     },
     {
         "card_name": "Spider Illusion",
@@ -2573,7 +2573,7 @@
         "shape": "token",
         "set": "IRA",
         "rotated": false,
-        "position": "292"
+        "position": "310"
     },
     {
         "card_name": "Zombie_IRA",
@@ -2581,7 +2581,7 @@
         "shape": "token",
         "set": "IRA",
         "rotated": false,
-        "position": "287"
+        "position": "305"
     },
     {
         "card_name": "Soldier_IRA",
@@ -2589,7 +2589,7 @@
         "shape": "token",
         "set": "IRA",
         "rotated": false,
-        "position": "288"
+        "position": "306"
     },
     {
         "card_name": "Wolf Spirit",
@@ -2597,7 +2597,7 @@
         "shape": "token",
         "set": "IRA",
         "rotated": false,
-        "position": "289"
+        "position": "307"
     },
     {
         "card_name": "e"
