@@ -5,7 +5,7 @@
 			<name>IRA</name>
 			<longname>Irandian Mists</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-09</releasedate>
+			<releasedate>2026-11-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -48,7 +48,7 @@ Evaporate — {2}{W}{W}, Exile this card from your graveyard: Creatures you cont
 		<card>
 			<name>Merchant of the Underpass</name>
 			<text>When Merchant of the Underpass enters, put a +1/+1 counter up to one target creature.
-{1}, {T}: Add {R} or {G}.</text>
+{1}: Add {R} or {G}. Activate only once each turn.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/2.png" num="15">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -100,7 +100,8 @@ Evaporate — {W}, Exile Fogbound Elemental from your graveyard: Target creature
 		</card>
 		<card>
 			<name>Mistborn Unicorn</name>
-			<text>If you control a Mist, Mistborn Unicorn has lifelink.
+			<text>Flying
+If you control a Mist, Mistborn Unicorn has lifelink.
 Evaporate — {1}{W}, Exile Mistborn Unicorn from your graveyard: You gain 3 life.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/5.png" num="16">IRA</set>
 			<prop>
@@ -153,7 +154,8 @@ Evaporate — {3}{W}{W}, Exile this card from your graveyard: Destroy target cre
 		</card>
 		<card>
 			<name>Yazi Champion</name>
-			<text>Whenever Yazi Champion attacks, convert up to one other target creature you control. (Switch its power and toughness until end of turn.)</text>
+			<text>Whenever Yazi Champion attacks, convert up to one other target creature you control. (Switch its power and toughness until end of turn.)
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/8.png" num="32">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -397,7 +399,7 @@ Equip {W}{B}</text>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>4/2</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -415,14 +417,14 @@ Whenever Swiftslash Thug deals combat damage to a player, target creature gets +
 				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Valeyan Martial Guard</name>
 			<text>Lifelink
-Whenever Valeyan Martial Guard attacks, if it has power 3 or greater, put a +1/+1 counter on another target creature you control.</text>
+Whenever Valeyan Martial Guard attacks, if it has power 4 or greater, put a +1/+1 counter on another target creature you control.</text>
 			<set rarity="uncommon" picurl="https://sigeamtg.github.io/sets/IRA-files/img/23.png" num="29">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -433,7 +435,7 @@ Whenever Valeyan Martial Guard attacks, if it has power 3 or greater, put a +1/+
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -451,7 +453,7 @@ Whenever Allwatch Angel attacks, convert target creature and put a vigilance cou
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -488,7 +490,7 @@ Whenever a permanent you control transforms, create a 2/2 white Elemental creatu
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="1">Elemental</related>
@@ -615,8 +617,8 @@ Whenever one or more cards leave your graveyard, you may draw a card. If you do,
 		</card>
 		<card>
 			<name>Merchant of the North</name>
-			<text>When Merchant of the North enters, put a charge counter on target artifact you control.
-{1}, {T}: Add {B} or {R}.</text>
+			<text>When Merchant of the North enters, surveil 1. You may put a charge counter on target artifact you control.
+{1}: Add {B} or {R}. Activate only once each turn.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/34.png" num="48">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -652,7 +654,7 @@ Evaporate — {1}{U}, Exile this card from your graveyard: Put a flying counter 
 		</card>
 		<card>
 			<name>Opaelian Generator</name>
-			<text>Vigilance
+			<text>When Opaelian Generator enters, draw a card, then discard a card.
 {U}, {T}: Put a charge counter on target artifact you control.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/36.png" num="52">IRA</set>
 			<prop>
@@ -671,7 +673,7 @@ Evaporate — {1}{U}, Exile this card from your graveyard: Put a flying counter 
 		<card>
 			<name>Fogseer Sphinx</name>
 			<text>Flying
-{2}{U}, {T}: Surveil 2. You may reveal the top card of your library. If it&apos;s a land card, put it into your hand.</text>
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/37.png" num="44">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -987,7 +989,7 @@ Evaporate — {2}{U}{U}, Exile this card from your graveyard: Surveil 2, then dr
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1189,8 +1191,8 @@ At the beginning of your upkeep, move up to two charge counters from Arcane Batt
 		</card>
 		<card>
 			<name>Merchant of the Isles</name>
-			<text>When Merchant of the Isles enters, mill three cards.
-{1}, {T}: Add {W} or {U}.</text>
+			<text>When Merchant of the Isles enters, surveil 2.
+{1}: Add {W} or {U}. Activate only once each turn.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/66.png" num="87">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1243,7 +1245,8 @@ Whenever one or more charge counters are put on one or more artifacts you contro
 		</card>
 		<card>
 			<name>Savacide Unearther</name>
-			<text>When Savacide Unearther enters, you may return target creature card from your graveyard to your hand.</text>
+			<text>When Savacide Unearther enters, you may return target creature card from your graveyard to your hand.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/69.png" num="95">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1254,7 +1257,7 @@ Whenever one or more charge counters are put on one or more artifacts you contro
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>4/3</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1272,13 +1275,15 @@ When Brier Slopes Brute enters, Soldiers you control gain menace until end of tu
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>6/6</pt>
+				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Drag to the Depths</name>
-			<text>Exile up to two target creature cards from an opponent&apos;s graveyard.
+			<text>Choose one — 
+• Exile up to two cards from target player&apos;s graveyard. Draw a card.
+• Target player mills five cards.
 Evaporate — {1}{B}, Exile this card from your graveyard: Target creature gains deathtouch until end of turn.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/71.png" num="75">IRA</set>
 			<prop>
@@ -1353,7 +1358,7 @@ Surveil 1. (Look at the top card of your library. You may put it into your grave
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>BB</manacost>
+				<manacost>1B</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1522,7 +1527,7 @@ Whenever a Soldier you control dies, you may pay 1 life. If you do, draw a card.
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1651,7 +1656,7 @@ Whenever a creature you control dies or a card leaves your graveyard, put a char
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/3</pt>
+				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1753,22 +1758,22 @@ Surveil 2. If you sacrificed a permanent this turn, return a creature card from 
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Merchant of the Capital</name>
 			<text>When Merchant of the Capital enters, it deals 1 damage to any target.
-{1}, {T}: Add {B} or {G}.</text>
+{1}: Add {B} or {G}. Activate only once each turn.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/98.png" num="117">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Tiefling Citizen</type>
 				<maintype>Creature</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>BRG</coloridentity>
 				<pt>1/1</pt>
@@ -1830,7 +1835,8 @@ Surveil 2. If you sacrificed a permanent this turn, return a creature card from 
 		</card>
 		<card>
 			<name>Ancient Maskbearer</name>
-			<text>When Ancient Maskbearer enters, you may sacrifice a Soldier. If you do, put a +1/+1 counter on Ancient Maskbearer and it gains haste until end of turn.</text>
+			<text>When Ancient Maskbearer enters, you may sacrifice a Soldier. If you do, put a +1/+1 counter on Ancient Maskbearer and it gains haste until end of turn.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/102.png" num="100">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1841,14 +1847,13 @@ Surveil 2. If you sacrificed a permanent this turn, return a creature card from 
 				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/6</pt>
+				<pt>5/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Prism Beam</name>
-			<text>Prism Beam deals 2 damage to any target. 
-If you control a Gem, scry 1.</text>
+			<text>You may remove two charge counters from an artifact you control. If you do, Prism Beam deals 3 damage to any target. Otherwise, Prism Beam deals 2 damage to that target instead.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/103.png" num="120">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1898,14 +1903,14 @@ Draw a card.</text>
 		<card>
 			<name>Scorch and Scour</name>
 			<text>Choose one — 
-• Scorch and Scour deals 2 damage to target creature. If it would die this turn, exile it instead.
+• Scorch and Scour deals 3 damage to target creature. If it would die this turn, exile it instead.
 • Destroy target artifact.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/106.png" num="125">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
 				<colors>R</colors>
@@ -2144,7 +2149,7 @@ Whenever Bloodlusting Champion deals combat damage to a player, exile the top ca
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/1</pt>
+				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2325,8 +2330,8 @@ Whenever a Soldier you control enters, you may pay {R}. If you do, return Army-F
 		</card>
 		<card>
 			<name>Merchant of the Great Plains</name>
-			<text>When Merchant of the Great Plains enters, add {G}.
-{1}, {T}: Add {W} or {U}.</text>
+			<text>When Merchant of the Great Plains enters, you gain 2 life.
+{1}: Add {W} or {U}. Activate only once each turn.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/130.png" num="141">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2360,7 +2365,7 @@ Whenever a Soldier you control enters, you may pay {R}. If you do, return Army-F
 		</card>
 		<card>
 			<name>Oqtari Enforcer</name>
-			<text>{1}{G}{G}: This creature gets +1/+1 until end of turn. Convert it. (Switch its power and toughness until end of turn.)</text>
+			<text>{1}{G}{G}: This creature gets +1/+1 until end of turn. Convert it. Activate only as a sorcery. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/132.png" num="150">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2388,7 +2393,7 @@ Whenever a Soldier you control enters, you may pay {R}. If you do, return Army-F
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="2">Soldier_IRA</related>
@@ -2413,7 +2418,8 @@ When Tallest of the Ranks attacks, it gets +1/+1 for each Soldier you control un
 		</card>
 		<card>
 			<name>Miststalker Behemoth</name>
-			<text>Whenever a permanent you control transforms, Miststalker Behemoth gets +1/+1 and trample until end of turn.</text>
+			<text>Whenever a permanent you control transforms, Miststalker Behemoth gets +1/+1 and trample until end of turn.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/135.png" num="148">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2480,7 +2486,7 @@ When Tallest of the Ranks attacks, it gets +1/+1 for each Soldier you control un
 		</card>
 		<card>
 			<name>Prod the Mist</name>
-			<text>Search your library for a land card, put it onto the battlefield tapped, then shuffle. You may have that land become a 3/3 creature with indestructible and haste. It&apos;s still a land.</text>
+			<text>Search your library for a land card, put it onto the battlefield, then shuffle. You may have that land become a 3/3 creature with indestructible and haste. It&apos;s still a land.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/139.png" num="154">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2707,7 +2713,7 @@ Whenever Oqtari Champion attacks, you may convert it. (Switch its power and toug
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>6/5</pt>
+				<pt>5/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2731,7 +2737,7 @@ When Oqtari Pathlighter deals combat damage to a player, look at that many cards
 		</card>
 		<card>
 			<name>Survival Adept</name>
-			<text>Reach, deathtouch</text>
+			<text>Haste, reach, deathtouch</text>
 			<set rarity="uncommon" picurl="https://sigeamtg.github.io/sets/IRA-files/img/153.png" num="159">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2748,7 +2754,7 @@ When Oqtari Pathlighter deals combat damage to a player, look at that many cards
 		</card>
 		<card>
 			<name>Mistborn Rejuvenator</name>
-			<text>Whenever a permanent you control transforms, you may pay {G}. If you do, return target permanent card from your graveyard to your hand.</text>
+			<text>Whenever a permanent you control transforms, you may return target permanent card from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://sigeamtg.github.io/sets/IRA-files/img/154.png" num="145">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2759,13 +2765,13 @@ When Oqtari Pathlighter deals combat damage to a player, look at that many cards
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Mentoring Shiftsword</name>
-			<text>{2}{G}: Convert target creature you control. That creature can&apos;t be blocked by creatures with lesser power this turn. Activate only as a sorcery.</text>
+			<text>{2}{G}: Convert target creature you control. That creature can&apos;t be blocked by creatures with lesser power this turn. Activate only as a sorcery. (Switch its power and toughness until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://sigeamtg.github.io/sets/IRA-files/img/155.png" num="140">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3234,20 +3240,22 @@ Whenever Tactical Phalanx deals combat damage to a player, you may remove a +1/+
 			<related count="1">Soldier_IRA</related>
 		</card>
 		<card>
-			<name>Kingsfall</name>
-			<text>Destroy all creatures. When you do, return target creature card with mana value 5 or less from your graveyard to the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://sigeamtg.github.io/sets/IRA-files/img/181.png" num="192">IRA</set>
+			<name>Irakash, Morbid Stitcher</name>
+			<text>Whenever another nontoken creature you control dies, create a 1/1 red Soldier creature token. 
+Sacrifice a creature: Surveil 1. If the sacrificed creature was a Soldier, draw a card. Activate only once per turn and only as a sorcery.</text>
+			<set rarity="rare" picurl="https://sigeamtg.github.io/sets/IRA-files/img/181.png" num="189">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>3WWB</manacost>
-				<cmc>6</cmc>
-				<colors>WB</colors>
-				<coloridentity>WB</coloridentity>
+				<type>Legendary Creature — Zombie Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Lifesap Auditor</name>
@@ -3380,7 +3388,7 @@ At the beginning of your upkeep, choose up to one —
 		</card>
 		<card>
 			<name>Drying Basins</name>
-			<text>Whenever a card leaves your graveyard, draw a card, then discard a card. Put a salt counter on Drying Basins.
+			<text>Whenever one or more cards leave your graveyard, draw a card, then discard a card. Put a salt counter on Drying Basins.
 Activated abilities of cards in your graveyard cost {1} less to activate for each salt counter on Drying Basins.</text>
 			<set rarity="rare" picurl="https://sigeamtg.github.io/sets/IRA-files/img/189.png" num="177">IRA</set>
 			<prop>
@@ -3522,7 +3530,7 @@ At the beginning of your upkeep, put a charge counter on target Gem you control.
 			<name>Jungleborn Scout</name>
 			<text>Vigilance
 {T}: Put a +1/+1 counter on target creature you control and convert it. Activate only as a sorcery. (Switch its power and toughness until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://sigeamtg.github.io/sets/IRA-files/img/197.png" num="191">IRA</set>
+			<set rarity="uncommon" picurl="https://sigeamtg.github.io/sets/IRA-files/img/197.png" num="192">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3661,7 +3669,7 @@ Evaporate — {2}{W}{U}, Exile this card from your graveyard: You gain 2 life an
 		<card>
 			<name>Jungle Mission Specialist</name>
 			<text>Whenever Jungle Mission Specialist attacks, Soldiers you control get +1/+0 and menace until end of turn.</text>
-			<set rarity="uncommon" picurl="https://sigeamtg.github.io/sets/IRA-files/img/205.png" num="189">IRA</set>
+			<set rarity="uncommon" picurl="https://sigeamtg.github.io/sets/IRA-files/img/205.png" num="190">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3696,7 +3704,7 @@ Whenever another Soldier you control attacks, Wrathful Champion gets +1/+0 until
 		<card>
 			<name>Jungleborn Mentor</name>
 			<text>Whenever Jungleborn Mentor deals combat damage to a player, put a +1/+1 counter on each of up to X other target creatures, where X is Jungleborn Mentor&apos;s power.</text>
-			<set rarity="uncommon" picurl="https://sigeamtg.github.io/sets/IRA-files/img/207.png" num="190">IRA</set>
+			<set rarity="uncommon" picurl="https://sigeamtg.github.io/sets/IRA-files/img/207.png" num="191">IRA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3889,7 +3897,7 @@ Evaporate — {WU}, Exile this card from your graveyard: Draw a card.</text>
 		<card>
 			<name>Soul-Siphon Warlock</name>
 			<text>Menace
-Evaporate — {4}{WB}{WB}, Exile this card from your graveyard: You gain life equal to the mana value of target creature you control.</text>
+Evaporate — {4}{WB}{WB}, Exile this card from your graveyard: You gain life equal to the power of target creature you control.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/218.png" num="238">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3912,10 +3920,10 @@ Whenever one or more creatures you control with power 2 or less attack, target c
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Dragonborn Soldier</type>
+				<type>Creature — Human Soldier</type>
 				<maintype>Creature</maintype>
-				<manacost>2R/WR/W</manacost>
-				<cmc>4</cmc>
+				<manacost>1R/WR/W</manacost>
+				<cmc>3</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 				<pt>2/3</pt>
@@ -3941,8 +3949,8 @@ Whenever you cast your first spell on each of your turns, add {U} or {R}. Spend 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Great Plains Guide</name>
-			<text>When Great Plains Guide enters, look at the top four cards of your library. You may reveal a land card from among them. If you do, put that card into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<name>Greatwilds Guide</name>
+			<text>When Greatwilds Guide enters, look at the top four cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/221.png" num="230">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3960,7 +3968,7 @@ Whenever you cast your first spell on each of your turns, add {U} or {R}. Spend 
 		<card>
 			<name>Exploiter of Undergrowth</name>
 			<text>Deathtouch
-When Exploiter of Undergrowth enters, sacrifice a creature and surveil 2. If the sacrificed creature was a Soldier, draw a card.</text>
+When Exploiter of Undergrowth enters, you may sacrifice a creature. If you do, surveil 2. If the sacrificed creature was a Soldier, draw a card.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/222.png" num="228">IRA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4192,7 +4200,7 @@ Remove a charge counter from Gemcraft Filigree: Gemcraft Filigree gains flying u
 			<name>Unstable Silumgite</name>
 			<text>(Gems enter with a charge counter on them.)
 {T}: Add {U} or {R}. Put a charge counter on Unstable Silumgite.
-{T}, Remove three charge counters from Unstable Silumgite, Sacrifice Unstable Silumgite: Unstable Silumgite deals 6 damage to target creature.</text>
+{T}, Remove three charge counters from Unstable Silumgite, Sacrifice Unstable Silumgite: Unstable Silumgite deals 4 damage to target creature.</text>
 			<set rarity="common" picurl="https://sigeamtg.github.io/sets/IRA-files/img/235.png" num="248">IRA</set>
 			<prop>
 				<layout>normal</layout>

@@ -753,7 +753,7 @@
 		{
 			"name": "Gempoint Beam",
 			"rarity": "common",
-			"mana_cost": "{B}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "81",
 			"image_uris": {
@@ -983,7 +983,7 @@
 		{
 			"name": "Merchant of the Capital",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Tiefling Citizen",
 			"collector_number": "117",
 			"image_uris": {
@@ -1064,7 +1064,7 @@
 			"name": "Scorch and Scour",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "125",
 			"image_uris": {
 				"en": "https://sigeamtg.github.io/sets/IRA-files/img/106.png"
@@ -1811,11 +1811,11 @@
 			}
 		},
 		{
-			"name": "Kingsfall",
+			"name": "Irakash, Morbid Stitcher",
 			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}{B}",
-			"type": "Sorcery",
-			"collector_number": "192",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Zombie Warlock",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://sigeamtg.github.io/sets/IRA-files/img/181.png"
 			}
@@ -1975,7 +1975,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Elf Warrior",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://sigeamtg.github.io/sets/IRA-files/img/197.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://sigeamtg.github.io/sets/IRA-files/img/205.png"
 			}
@@ -2075,7 +2075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://sigeamtg.github.io/sets/IRA-files/img/207.png"
 			}
@@ -2193,8 +2193,8 @@
 		{
 			"name": "Regiment Scout",
 			"rarity": "common",
-			"mana_cost": "{2}{R/W}{R/W}",
-			"type": "Creature — Dragonborn Soldier",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Creature — Human Soldier",
 			"collector_number": "236",
 			"image_uris": {
 				"en": "https://sigeamtg.github.io/sets/IRA-files/img/219.png"
@@ -2211,7 +2211,7 @@
 			}
 		},
 		{
-			"name": "Great Plains Guide",
+			"name": "Greatwilds Guide",
 			"rarity": "common",
 			"mana_cost": "{2}{G/U}",
 			"type": "Creature — Human Scout",
@@ -3115,7 +3115,7 @@
 	2 Sharean Bloodletter
 	2 Yarkasing Elite
 	2 Tactical Phalanx
-	2 Kingsfall
+	2 Irakash, Morbid Stitcher
 	2 Lifesap Auditor
 	2 Gemcrackle Battery
 	2 Incendiary Colonne
@@ -3320,7 +3320,7 @@
 	8 Soul-Siphon Warlock
 	8 Regiment Scout
 	8 Glimmermage Adept
-	8 Great Plains Guide
+	8 Greatwilds Guide
 	8 Exploiter of Undergrowth
 	8 Gemcraft Filigree
 	8 Statue of Golden Victory
@@ -3402,7 +3402,7 @@
 	8 Soul-Siphon Warlock
 	8 Regiment Scout
 	8 Glimmermage Adept
-	8 Great Plains Guide
+	8 Greatwilds Guide
 	8 Exploiter of Undergrowth
 	8 Gemcraft Filigree
 	8 Statue of Golden Victory
@@ -3592,7 +3592,7 @@
 	2 Sharean Bloodletter
 	2 Yarkasing Elite
 	2 Tactical Phalanx
-	2 Kingsfall
+	2 Irakash, Morbid Stitcher
 	2 Lifesap Auditor
 	2 Gemcrackle Battery
 	2 Incendiary Colonne
@@ -3632,7 +3632,7 @@
 	12 Soul-Siphon Warlock
 	12 Regiment Scout
 	12 Glimmermage Adept
-	12 Great Plains Guide
+	12 Greatwilds Guide
 	12 Exploiter of Undergrowth
 	2 Shirley
 	2 Karan Kurem
@@ -3860,7 +3860,7 @@
 	7 Sharean Bloodletter
 	7 Yarkasing Elite
 	7 Tactical Phalanx
-	7 Kingsfall
+	7 Irakash, Morbid Stitcher
 	7 Lifesap Auditor
 	7 Gemcrackle Battery
 	7 Incendiary Colonne
@@ -3900,7 +3900,7 @@
 	6 Soul-Siphon Warlock
 	6 Regiment Scout
 	6 Glimmermage Adept
-	6 Great Plains Guide
+	6 Greatwilds Guide
 	6 Exploiter of Undergrowth
 	7 Shirley
 	7 Karan Kurem

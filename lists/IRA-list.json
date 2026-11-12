@@ -1441,7 +1441,7 @@
     },
     {
         "card_name": "Jungleborn Mentor",
-        "number": 190,
+        "number": 191,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1465,7 +1465,7 @@
     },
     {
         "card_name": "Jungle Mission Specialist",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1481,7 +1481,7 @@
     },
     {
         "card_name": "Jungleborn Scout",
-        "number": 191,
+        "number": 192,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
@@ -1628,12 +1628,12 @@
         "position": "192"
     },
     {
-        "card_name": "Kingsfall",
-        "number": 192,
+        "card_name": "Virtue and Sin",
+        "number": 216,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "181"
+        "position": "19"
     },
     {
         "card_name": "Quantz, Gem Inventor",
@@ -1644,12 +1644,12 @@
         "position": "161"
     },
     {
-        "card_name": "Lifesap Auditor",
-        "number": 194,
+        "card_name": "Irakash, Morbid Stitcher",
+        "number": 189,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "182"
+        "position": "181"
     },
     {
         "card_name": "Incendiary Colonne",
@@ -1668,12 +1668,12 @@
         "position": "175"
     },
     {
-        "card_name": "Virtue and Sin",
-        "number": 216,
+        "card_name": "Treasure Sifter",
+        "number": 212,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "19"
+        "position": "198"
     },
     {
         "card_name": "Captain Xanlos",
@@ -1684,12 +1684,12 @@
         "position": "174"
     },
     {
-        "card_name": "Guide to War's End",
-        "number": 186,
+        "card_name": "Lifesap Auditor",
+        "number": 194,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "202"
+        "position": "182"
     },
     {
         "card_name": "Venerated Colonel",
@@ -1708,12 +1708,12 @@
         "position": "201"
     },
     {
-        "card_name": "Treasure Sifter",
-        "number": 212,
+        "card_name": "Warfallen Angel",
+        "number": 217,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "198"
+        "position": "208"
     },
     {
         "card_name": "Gemcrackle Battery",
@@ -1724,12 +1724,12 @@
         "position": "183"
     },
     {
-        "card_name": "Resolute Deathmarcher",
-        "number": 202,
+        "card_name": "Guide to War's End",
+        "number": 186,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "212"
+        "position": "202"
     },
     {
         "card_name": "Oqtari Marauder",
@@ -1748,12 +1748,12 @@
         "position": "211"
     },
     {
-        "card_name": "Warfallen Angel",
-        "number": 217,
+        "card_name": "Soul-Siphon Warlock",
+        "number": 238,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "208"
+        "position": "218"
     },
     {
         "card_name": "Gemflinging",
@@ -1764,12 +1764,12 @@
         "position": "200"
     },
     {
-        "card_name": "Exploiter of Undergrowth",
-        "number": 228,
+        "card_name": "Resolute Deathmarcher",
+        "number": 202,
         "shape": "normal",
         "set": "IRA",
         "rotated": false,
-        "position": "222"
+        "position": "212"
     },
     {
         "card_name": "Regiment Pathmaker",
@@ -1780,7 +1780,7 @@
         "position": "209"
     },
     {
-        "card_name": "Great Plains Guide",
+        "card_name": "Greatwilds Guide",
         "number": 230,
         "shape": "normal",
         "set": "IRA",
@@ -1788,12 +1788,7 @@
         "position": "221"
     },
     {
-        "card_name": "Soul-Siphon Warlock",
-        "number": 238,
-        "shape": "normal",
-        "set": "IRA",
-        "rotated": false,
-        "position": "218"
+        "card_name": "e"
     },
     {
         "card_name": "Spelldrinker Pendant",
@@ -1804,7 +1799,12 @@
         "position": "210"
     },
     {
-        "card_name": "e"
+        "card_name": "Exploiter of Undergrowth",
+        "number": 228,
+        "shape": "normal",
+        "set": "IRA",
+        "rotated": false,
+        "position": "222"
     },
     {
         "card_name": "Regiment Scout",

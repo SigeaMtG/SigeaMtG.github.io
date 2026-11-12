@@ -1,4 +1,194 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Irakash, Morbid Stitcher added.
+Greatwilds Guide added.
+
+Kingsfall removed.
+Great Plains Guide removed.
+
+Merchant of the Underpass
+rules_text: When Merchant of the Underpass enters, put a +1/+1 counter up to one target creature.
+{1}, {T}: Add {R} or {G}. => When Merchant of the Underpass enters, put a +1/+1 counter up to one target creature.
+{1}: Add {R} or {G}. Activate only once each turn.
+
+Mistborn Unicorn
+rules_text: If you control a Mist, Mistborn Unicorn has lifelink.
+[i]Evaporate[/i] — {1}{W}, Exile Mistborn Unicorn from your graveyard: You gain 3 life. => Flying
+If you control a Mist, Mistborn Unicorn has lifelink.
+[i]Evaporate[/i] — {1}{W}, Exile Mistborn Unicorn from your graveyard: You gain 3 life.
+
+Yazi Champion
+rules_text: Whenever Yazi Champion attacks, convert up to one other target creature you control. [i](Switch its power and toughness until end of turn.)[/i] => Whenever Yazi Champion attacks, convert up to one other target creature you control. [i](Switch its power and toughness until end of turn.)[/i]
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+flavor_text: [i]Advanced weaponry can help against some wild creatures, but sometimes you just need some size.[/i] => [i][/i]
+
+Valeyan Lieutenant
+pt: 4/2 => 4/3
+
+Swiftslash Thug
+pt: 1/1 => 2/1
+
+Valeyan Martial Guard
+rules_text: Lifelink
+Whenever Valeyan Martial Guard attacks, if it has power 3 or greater, put a +1/+1 counter on another target creature you control. => Lifelink
+Whenever Valeyan Martial Guard attacks, if it has power 4 or greater, put a +1/+1 counter on another target creature you control.
+pt: 2/4 => 3/4
+
+Allwatch Angel
+pt: 3/3 => 4/3
+
+Allwatch Guardian
+pt: 2/1 => 2/2
+
+Merchant of the North
+rules_text: When Merchant of the North enters, put a charge counter on target artifact you control.
+{1}, {T}: Add {B} or {R}. => When Merchant of the North enters, surveil 1. You may put a charge counter on target artifact you control.
+{1}: Add {B} or {R}. Activate only once each turn.
+
+Opaelian Generator
+rules_text: Vigilance
+{U}, {T}: Put a charge counter on target artifact you control. => When Opaelian Generator enters, draw a card, then discard a card.
+{U}, {T}: Put a charge counter on target artifact you control.
+
+Fogseer Sphinx
+rules_text: Flying
+{2}{U}, {T}: Surveil 2. You may reveal the top card of your library. If it's a land card, put it into your hand. => Flying
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Sea-Mad Pirate
+pt: 2/1 => 2/2
+
+Merchant of the Isles
+rules_text: When Merchant of the Isles enters, mill three cards.
+{1}, {T}: Add {W} or {U}. => When Merchant of the Isles enters, surveil 2.
+{1}: Add {W} or {U}. Activate only once each turn.
+
+Savacide Unearther
+rules_text: When Savacide Unearther enters, you may return target creature card from your graveyard to your hand. => When Savacide Unearther enters, you may return target creature card from your graveyard to your hand.
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+flavor_text: [i]Some living get wilfully corrupted by the Savacide mist to exploit its powers for their own gain.[/i] => [i][/i]
+pt: 4/3 => 5/4
+
+Brier Slopes Brute
+pt: 6/6 => 6/5
+
+Drag to the Depths
+rules_text: Exile up to two target creature cards from an opponent's graveyard.
+[i]Evaporate[/i] — {1}{B}, Exile this card from your graveyard: Target creature gains deathtouch until end of turn. => Choose one — 
+• Exile up to two cards from target player's graveyard. Draw a card.
+• Target player mills five cards.
+[i]Evaporate[/i] — {1}{B}, Exile this card from your graveyard: Target creature gains deathtouch until end of turn.
+
+Gempoint Beam
+cost: {B}{B} => {1}{B}
+
+Battlefield Soulstealer
+pt: 1/1 => 2/2
+
+Forbidden Siphoner
+pt: 1/3 => 1/4
+
+Revolutionary Murder
+
+Gemfire Golem
+pt: 2/1 => 2/2
+
+Merchant of the Capital
+cost: {2}{R} => {1}{R}
+rules_text: When Merchant of the Capital enters, it deals 1 damage to any target.
+{1}, {T}: Add {B} or {G}. => When Merchant of the Capital enters, it deals 1 damage to any target.
+{1}: Add {B} or {G}. Activate only once each turn.
+
+Ancient Maskbearer
+rules_text: When Ancient Maskbearer enters, you may sacrifice a Soldier. If you do, put a +1/+1 counter on Ancient Maskbearer and it gains haste until end of turn. => When Ancient Maskbearer enters, you may sacrifice a Soldier. If you do, put a +1/+1 counter on Ancient Maskbearer and it gains haste until end of turn.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 4/6 => 5/6
+
+Prism Beam
+rules_text: Prism Beam deals 2 damage to any target. 
+If you control a Gem, scry 1. => You may remove two charge counters from an artifact you control. If you do, Prism Beam deals 3 damage to any target. Otherwise, Prism Beam deals 2 damage to that target instead.
+flavor_text: [i]FT
+FT
+FT[/i] => [i][/i]
+
+Scorch and Scour
+type: Instant => Sorcery
+rules_text: Choose one — 
+• Scorch and Scour deals 2 damage to target creature. If it would die this turn, exile it instead.
+• Destroy target artifact. => Choose one — 
+• Scorch and Scour deals 3 damage to target creature. If it would die this turn, exile it instead.
+• Destroy target artifact.
+
+Bloodlusting Champion
+pt: 2/1 => 3/1
+
+Merchant of the Great Plains
+rules_text: When Merchant of the Great Plains enters, add {G}.
+{1}, {T}: Add {W} or {U}. => When Merchant of the Great Plains enters, you gain 2 life.
+{1}: Add {W} or {U}. Activate only once each turn.
+
+Oqtari Enforcer
+rules_text: {1}{G}{G}: This creature gets +1/+1 until end of turn. Convert it. [i](Switch its power and toughness until end of turn.)[/i] => {1}{G}{G}: This creature gets +1/+1 until end of turn. Convert it. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Rallying Commander
+pt: 2/4 => 3/4
+
+Miststalker Behemoth
+rules_text: Whenever a permanent you control transforms, Miststalker Behemoth gets +1/+1 and trample until end of turn. => Whenever a permanent you control transforms, Miststalker Behemoth gets +1/+1 and trample until end of turn.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+flavor_text: [i]FT
+FT[/i] => [i][/i]
+
+Prod the Mist
+rules_text: Search your library for a land card, put it onto the battlefield tapped, then shuffle. You may have that land become a 3/3 creature with indestructible and haste. It's still a land. => Search your library for a land card, put it onto the battlefield, then shuffle. You may have that land become a 3/3 creature with indestructible and haste. It's still a land.
+
+Oqtari Champion
+pt: 6/5 => 5/6
+
+Survival Adept
+rules_text: Reach, deathtouch => Haste, reach, deathtouch
+
+Mistborn Rejuvenator
+rules_text: Whenever a permanent you control transforms, you may pay {G}. If you do, return target permanent card from your graveyard to your hand. => Whenever a permanent you control transforms, you may return target permanent card from your graveyard to your hand.
+pt: 2/1 => 2/2
+
+Mentoring Shiftsword
+rules_text: {2}{G}: Convert target creature you control. That creature can't be blocked by creatures with lesser power this turn. Activate only as a sorcery. => {2}{G}: Convert target creature you control. That creature can't be blocked by creatures with lesser power this turn. Activate only as a sorcery. [i](Switch its power and toughness until end of turn.)[/i]
+
+Quantz, Gem Inventor
+
+Desiccant Annihilation
+artist: Tomasz Ryger => Julian Bauer
+
+Drying Basins
+rules_text: Whenever a card leaves your graveyard, draw a card, then discard a card. Put a salt counter on Drying Basins.
+Activated abilities of cards in your graveyard cost {1} less to activate for each salt counter on Drying Basins. => Whenever one or more cards leave your graveyard, draw a card, then discard a card. Put a salt counter on Drying Basins.
+Activated abilities of cards in your graveyard cost {1} less to activate for each salt counter on Drying Basins.
+
+Soul-Siphon Warlock
+rules_text: Menace
+[i]Evaporate[/i] — {4}{WB}{WB}, Exile this card from your graveyard: You gain life equal to the mana value of target creature you control. => Menace
+[i]Evaporate[/i] — {4}{WB}{WB}, Exile this card from your graveyard: You gain life equal to the power of target creature you control.
+
+Regiment Scout
+type: Creature — Dragonborn Soldier => Creature — Human Soldier
+cost: {2}{RW}{RW} => {1}{RW}{RW}
+
+Exploiter of Undergrowth
+rules_text: Deathtouch
+When Exploiter of Undergrowth enters, sacrifice a creature and surveil 2. If the sacrificed creature was a Soldier, draw a card. => Deathtouch
+When Exploiter of Undergrowth enters, you may sacrifice a creature. If you do, surveil 2. If the sacrificed creature was a Soldier, draw a card.
+
+Unstable Silumgite
+rules_text: [i](Gems enter with a charge counter on them.)[/i]
+{T}: Add {U} or {R}. Put a charge counter on Unstable Silumgite.
+{T}, Remove three charge counters from Unstable Silumgite, Sacrifice Unstable Silumgite: Unstable Silumgite deals 6 damage to target creature. => [i](Gems enter with a charge counter on them.)[/i]
+{T}: Add {U} or {R}. Put a charge counter on Unstable Silumgite.
+{T}, Remove three charge counters from Unstable Silumgite, Sacrifice Unstable Silumgite: Unstable Silumgite deals 4 damage to target creature.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Yazi Champion added.
